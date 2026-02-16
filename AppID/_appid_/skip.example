@@ -1,3 +1,0 @@
-Can be an empty file.
-If the system sees a "skip" file it doesn't update the game-info.json file (achievements the game has) in that game's folder.
-This is only useful if for example the game doesn't have achievements on Steam but in-game it does and you created the game-info.json and the achievemements.json (what achievements you unlocked)
