@@ -373,6 +373,7 @@ def fetch_achievements(appid, existing_info, achievements_from_xml):
 
     # ALWAYS fetch from SteamHunters to get Group Data (if possible)
     # Even if we have an API key, the API key doesn't give us Groups/DLCs
+    sh_data = []
     steamhunters_data = {}
     try:
         print("  → Fetching extra data (groups) from SteamHunters...")
@@ -398,10 +399,24 @@ def fetch_achievements(appid, existing_info, achievements_from_xml):
                 )
             else:
                 # Fallback to SH data if API fails
-                achievements = sh_data if 'sh_data' in locals() else []
+                achievements = sh_data
         else:
             # No API Key -> Use SteamHunters data
-            achievements = sh_data if 'sh_data' in locals() else []
+            achievements = sh_data
+
+        if not achievements and achievements_from_xml:
+            print("  → Falling back to community XML achievements")
+            achievements = [
+                {
+                    "name": api_name,
+                    "displayName": xml_achievement["name"],
+                    "description": xml_achievement.get("description", ""),
+                    "icon": xml_achievement.get("icon", ""),
+                    "icongray": xml_achievement.get("icongray", ""),
+                    "hidden": 0,
+                }
+                for api_name, xml_achievement in achievements_from_xml.items()
+            ]
         
         # Fix icons for ALL achievements (both from API and SteamHunters)
         try:
