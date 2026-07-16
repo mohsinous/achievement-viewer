@@ -1,0 +1,244 @@
+{
+  "ALL_ACHIEVEMENTS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ATTACK_LICTOR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BERSERK_GUNSTRIKES": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 100,
+    "progress": 0
+  },
+  "CHAPLAIN_INSTRUCTIONS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DATASLATES": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 35,
+    "progress": 0
+  },
+  "FINISHERS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 50,
+    "progress": 11
+  },
+  "KILLS_ALERT": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 5,
+    "progress": 0
+  },
+  "KILLS_BY_TRAPS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 100,
+    "progress": 0
+  },
+  "KILLS_IN_FURY": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 100,
+    "progress": 0
+  },
+  "KILL_LESSER_SOURCERER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MARKING_TOOL": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 23,
+    "progress": 0
+  },
+  "PERFECT_PARRY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PVE_ACID_BOMB": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PVE_ANCIENT_WEAPON": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PVE_CHAOS_KILLS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1000,
+    "progress": 0
+  },
+  "PVE_DAEMONHOST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PVE_FIRESTORM": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PVE_FULL_ARMOR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PVE_MAX_FIREARM": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PVE_MAX_LEVEL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PVE_MAX_MELEE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PVE_PICKUPS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 200,
+    "progress": 0
+  },
+  "PVE_RUTHLESS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PVE_TRAIN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PVE_TYRANID_KILLS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1000,
+    "progress": 0
+  },
+  "PVE_TYRANT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PVP_DEATHMATCH": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 10,
+    "progress": 0
+  },
+  "PVP_DOMINATION": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 10,
+    "progress": 0
+  },
+  "PVP_KILLS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PVP_KOH": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 10,
+    "progress": 0
+  },
+  "PVP_WIN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PVP_WIN_CLASSES": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 6,
+    "progress": 0
+  },
+  "RAIDER_GROUNDPOUND": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 500,
+    "progress": 0
+  },
+  "RAVENER_CANCEL_GRAB": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SNIPER_HEADSHOTS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 250,
+    "progress": 0
+  },
+  "SOLDIER_KILLS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 175,
+    "progress": 0
+  },
+  "STORY_ASSASSINATION": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "STORY_BLACKSTONE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "STORY_CANNON": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "STORY_FINALE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "STORY_INTRO": {
+    "earned": true,
+    "earned_time": 1731591103
+  },
+  "STORY_LAST_STAND": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "STORY_ORBITAL_DROP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "STORY_RESCUE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "STORY_SKYLAB": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "STORY_TOWER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SUPPORT_KILLS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 500,
+    "progress": 0
+  },
+  "TANK_KILLS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 300,
+    "progress": 0
+  },
+  "TOTAL_KILLS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 41000,
+    "progress": 423
+  },
+  "TOTAL_KILLS_SILVER": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 20000,
+    "progress": 423
+  }
+}

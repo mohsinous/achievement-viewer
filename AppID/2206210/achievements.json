@@ -1,0 +1,118 @@
+{
+  "ACH_3FLASH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ART_BUILDING": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_AVOID_VIOLENCE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BASKETBALL_COURT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DEFEAT_EXPOSURE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DEFEAT_VIOLENCE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DIARIES": {
+    "earned": true,
+    "earned_time": 1716924294
+  },
+  "ACH_ENTER_SCHOOL": {
+    "earned": true,
+    "earned_time": 1716924255
+  },
+  "ACH_ESCAPE_HELPLESSNESS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_EXPOSURE_UNDETECTED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FINAL_MINE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FREEZE_ALL_ENEMIES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FREEZE_AND_PUSH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_HIT_WITH_CAN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_HOOP_CAN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_INHABITANTS": {
+    "earned": true,
+    "earned_time": 1716924899
+  },
+  "ACH_INTO_THEATER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_KILL_LIGHT": {
+    "earned": true,
+    "earned_time": 1716925698
+  },
+  "ACH_KILL_STEALTH": {
+    "earned": true,
+    "earned_time": 1716926238
+  },
+  "ACH_NO_KILLS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_POP_SHOCK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_REMAIN_DRY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_REMOVE_BATTERY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SAVE_BOTH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SAVE_EMILY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SAVE_SALLY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SEE_WEIRDNESS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_TIME_TO_PLAY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_WAY_AROUND": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

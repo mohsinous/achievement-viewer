@@ -1,0 +1,284 @@
+{
+  "AQClear": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "AQWinAway": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "AQWinGhost": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "AQWinHome": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "AllClear": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ArcadeBattleClear": {
+    "earned": true,
+    "earned_time": 1760902020,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "BattleCombo70": {
+    "earned": true,
+    "earned_time": 1760901234,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "BattleGreat": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "BattlePerfect": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "BattleRageArts": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "BattleTornado": {
+    "earned": true,
+    "earned_time": 1760901298,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "Customize": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "EpisodeClear10": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "EpisodeClear5": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "FightMoney": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "FloorBlast": {
+    "earned": true,
+    "earned_time": 1761062950,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "FloorBreak": {
+    "earned": true,
+    "earned_time": 1760901398,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "GroupMatchWin": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "HeatBurst": {
+    "earned": true,
+    "earned_time": 1760901538,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "HeatDash": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "HeatSmash": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "HeatTechnique": {
+    "earned": true,
+    "earned_time": 1760901683,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "Hit30Chain": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "MagicBall": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "MyReplayTips": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "OnlineBattle10wins": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "PlayerMatchWin": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "PracticeCombo": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "Practicedamage": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "Promote1st": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "Promote2nd": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "Promote3rd": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "RageDamage": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "RankMatchWin": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "StoryModeClearACT1": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "StoryModeClearACT12": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "StoryModeClearACT7": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "StoryModeClearJIN": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "StoryModeClearKazuya": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "TresureHunt": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "WallBlast": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "WallBound": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "WallBreak": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "WinDiscGhost": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "WinDiscGhostBoss": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "WinGhostPlayer": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "recoverygauge": {
+    "earned": true,
+    "earned_time": 1761063726,
+    "max_progress": 1,
+    "progress": 0
+  }
+}
