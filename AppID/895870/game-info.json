@@ -1,0 +1,370 @@
+{
+  "appid": "895870",
+  "name": "Project Wingman",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/895870/header.jpg?t=1773695705",
+  "achievements": {
+    "PW_MIS01": {
+      "name": "Another Day",
+      "description": "Complete Mission 1 of the Campaign.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/4c307fe1cf079717fcb87764abcb4723be66862e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "72.6"
+    },
+    "PW_MIS02": {
+      "name": "No Borders",
+      "description": "Complete Mission 2 of the Campaign.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/b9f7f8160c851743f415c8999c86fcaa9a0a8107.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "61.6"
+    },
+    "PW_MIS03": {
+      "name": "Evictors",
+      "description": "Complete Mission 3 of the Campaign.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/e942add693b4a6cb512b234ce5b05c8a51a9c8ca.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "56.2"
+    },
+    "PW_MIS04": {
+      "name": "Invasive Species",
+      "description": "Complete Mission 4 of the Campaign.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/a90e2f96292c01f954b569b6b0cc744405b00bd7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "52.7"
+    },
+    "PW_MIS05": {
+      "name": "Undignified",
+      "description": "Complete Mission 5 of the Campaign.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/ea9bcc522268629f0fcccb0f2444e46a95f8d74c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "49.8"
+    },
+    "PW_MIS06": {
+      "name": "Hot Extract",
+      "description": "Complete Mission 6 of the Campaign.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/d8e1c2fece4170d1c5328f8c0da9c73632a02007.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "44.2"
+    },
+    "PW_MIS07": {
+      "name": "Showdown at Sea",
+      "description": "Complete Mission 7 of the Campaign.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/4e94b79f4893cd6e22b38e90327c54f0cb004d03.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "41.2"
+    },
+    "PW_MIS08": {
+      "name": "Clear Skies",
+      "description": "Complete Mission 8 of the Campaign.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/796f70576760df2df6dfaab6c2a4e3ea46c15f20.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "39.7"
+    },
+    "PW_MIS09": {
+      "name": "An Ace; On Stage",
+      "description": "Complete Mission 9 of the Campaign.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/b5c1a604c88ac8be64b81271f0713eff5d29f3c4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "38.1"
+    },
+    "PW_MIS10": {
+      "name": "Blackout",
+      "description": "Complete Mission 10 of the Campaign.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/56b54cc9d661e95b306eb402c18d28c5eca49267.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "37.6"
+    },
+    "PW_MIS11": {
+      "name": "Ice Oldman",
+      "description": "Complete Mission 11 of the Campaign.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/1c36f7afb670f7f48e5bef60682569c1fea7c6c5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "37.2"
+    },
+    "PW_MIS13": {
+      "name": "Light Show",
+      "description": "Complete Mission 12 of the Campaign.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/fdb5856672c5d49c15a24e7a52e69021b45a0cbd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "36.0"
+    },
+    "PW_MIS14": {
+      "name": "Mercenary Infamy",
+      "description": "Complete Mission 13 of the Campaign.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/1805c36c6e44294bdeea351f7d77652250642067.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "35.2"
+    },
+    "PW_MIS15": {
+      "name": "Vindication & Retribution",
+      "description": "Complete Mission 14 of the Campaign.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/3ddbbdca5966c2ebb2559b7bd5e39e26b9ca27ef.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.7"
+    },
+    "PW_MIS16": {
+      "name": "Calamity",
+      "description": "Complete Mission 15 of the Campaign.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/8aeeb87e811f02daaa3c0f77ef09c48c24dbc3fc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.4"
+    },
+    "PW_MIS16.2": {
+      "name": "Soul at Hazard",
+      "description": "Complete Mission 16 of the Campaign.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/8a0badcbdf4f594a0d964a905e70ebafec813464.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.3"
+    },
+    "PW_MIS17": {
+      "name": "Alpha Strike",
+      "description": "Complete Mission 17 of the Campaign.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/23bbe868a6dd2389cc3b6a9d198a6d47f5ba0188.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "33.7"
+    },
+    "PW_MIS18": {
+      "name": "Tragedy of the Commons",
+      "description": "Complete Mission 18 of the Campaign.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/b14d30b3afdb5a99f0b2fa878b3a9a83cf2995e2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "33.3"
+    },
+    "PW_MIS19": {
+      "name": "Rough Seas",
+      "description": "Complete Mission 19 of the Campaign.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/1805c36c6e44294bdeea351f7d77652250642067.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "32.8"
+    },
+    "PW_MIS20": {
+      "name": "Kingdom Come",
+      "description": "Complete Mission 20 of the Campaign.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/cf8309ff1946cb0b126a1370e7099b6eee144310.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "32.4"
+    },
+    "PW_MIS22": {
+      "name": "I see no Kings up here",
+      "description": "Complete Mission 21 of the Campaign.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/515172a70c1616f7fbfd838341102e9fa742373e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "32.2"
+    },
+    "PW_CAMPAIGNFINISH": {
+      "name": "Crowned",
+      "description": "Complete the Campaign once.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/94f7d624105fe9e98010da12ed5f2b4d4dfdeaa6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "32.2"
+    },
+    "PW_EASY": {
+      "name": "No Name Mercenary",
+      "description": "Complete all missions in Easy Difficulty mode.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/f3897fb93d46f52602ae93d49012107b4726395c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.6"
+    },
+    "PW_NORMAL": {
+      "name": "Mercenary",
+      "description": "Complete all missions in Normal Difficulty mode.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/0e62eb20ca6a2cca07c3b4339561b695d9caa633.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.1"
+    },
+    "PW_HARD": {
+      "name": "Sicario's Top Dog",
+      "description": "Complete all missions in Hard Difficulty mode.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/4e360ae05732372bb10cbe7c675c7a8e0f9305f6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.7"
+    },
+    "PW_MERC": {
+      "name": "King of the Skies",
+      "description": "Complete all missions in Mercenary Difficulty mode.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/1a4751f4ce71e8c38e0c4761de32208ad31b6937.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "PW_KILLTOTAL": {
+      "name": "Payout Machine",
+      "description": "Destroy a total of 2000 targets.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/0f597ce27998eb10b70ba7a41df9d6f9743484b5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.5"
+    },
+    "PW_KILLAIR": {
+      "name": "Ace",
+      "description": "Destroy a total of 600 air targets.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/494ff406cc79dc44b25e8c139a795161bd95d7c7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.1"
+    },
+    "PW_KILLVESSEL": {
+      "name": "Big Shot",
+      "description": "Destroy a total of 250 vessels.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/08062744e5bc6133e8194f34aafb3802f623f6ad.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.8"
+    },
+    "PW_KILLGROUND": {
+      "name": "Ground Pounder",
+      "description": "Destroy a total of 600 ground targets.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/2510f91626b531b503f4e13b0d3ba0b2bd87307d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.9"
+    },
+    "PW_NAMEDROP": {
+      "name": "He said it!",
+      "description": "He said the title of the game! In game! I can't believe it!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/d008867bd4c40006b120adce383ba82ba117d57b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "36.3"
+    },
+    "PW_SELLAIRCRAFT": {
+      "name": "Acceptable Loss",
+      "description": "Sell an Aircraft in any game mode.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/1d561c4fbe5749019dd09b642fbef3cb1308e82a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.5"
+    },
+    "PW_UNLOCK5": {
+      "name": "Buying Power",
+      "description": "Own a total of 5 aircraft in the campaign.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/4bc24c8ff8d2abc798ac6eb24281207d50666fbe.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.8"
+    },
+    "PW_UNLOCK15": {
+      "name": "Building Inventory",
+      "description": "Own a total of 15 aircraft in the campaign.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/c5df24bb72d6f21f6408f380cb52726e0c14be1a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.8"
+    },
+    "PW_UNLOCKALL": {
+      "name": "Hoarding Problem",
+      "description": "Own every single aircraft in the campaign.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/c6fb988349eff40ed740f360edee22af637256d7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.5"
+    },
+    "PW_CQ_UNLOCKALL": {
+      "name": "Hungry For Power",
+      "description": "Unlock all aircraft in Conquest mode.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/876ce5e3059ccc16e06276a772b8dcae8b793aba.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.0"
+    },
+    "PW_CQ_DECKEDOUT": {
+      "name": "Decked Out!",
+      "description": "Purchase every single unit in Conquest mode.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/e3eb0da536244e34466ecda0033ca3329150d661.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.4"
+    },
+    "PW_CQ_ALERT10": {
+      "name": "High Alert",
+      "description": "Reach alert level 10 in Conquest mode.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/d5172f18cd0975bb2f49a2b69f49b5a0f2edf719.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.0"
+    },
+    "PW_CQ_ALERT20": {
+      "name": "Priority Threat",
+      "description": "Reach alert level 20 in Conquest mode.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/c9bcc1fd196240d15f28fcb82ed9bae06bf92d8b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.0"
+    },
+    "PW_CQ_ALERT30": {
+      "name": "Unstoppable Power",
+      "description": "Reach alert level 30 in Conquest mode.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/6b4db2e284704f920bb5d652df723000a0f75735.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/895870/16684911ce0e45ee5319fd23ff767d46c15310c7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.3"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}
