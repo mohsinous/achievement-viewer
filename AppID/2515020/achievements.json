@@ -1,0 +1,328 @@
+{
+  "1000": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "1001": {
+    "earned": true,
+    "earned_time": 1742976831
+  },
+  "1002": {
+    "earned": true,
+    "earned_time": 1743060908
+  },
+  "1003": {
+    "earned": true,
+    "earned_time": 1743147099
+  },
+  "1004": {
+    "earned": true,
+    "earned_time": 1743335768
+  },
+  "1005": {
+    "earned": true,
+    "earned_time": 1743449618
+  },
+  "1006": {
+    "earned": true,
+    "earned_time": 1743494430
+  },
+  "1007": {
+    "earned": true,
+    "earned_time": 1743521324
+  },
+  "1008": {
+    "earned": true,
+    "earned_time": 1746196521
+  },
+  "1009": {
+    "earned": true,
+    "earned_time": 1746388064
+  },
+  "1010": {
+    "earned": true,
+    "earned_time": 1746547204
+  },
+  "1011": {
+    "earned": true,
+    "earned_time": 1746643604
+  },
+  "1012": {
+    "earned": true,
+    "earned_time": 1746649397
+  },
+  "1013": {
+    "earned": true,
+    "earned_time": 1743098306,
+    "max_progress": 5,
+    "progress": 4
+  },
+  "1014": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "1015": {
+    "earned": true,
+    "earned_time": 1743057766,
+    "max_progress": 10,
+    "progress": 9
+  },
+  "1016": {
+    "earned": true,
+    "earned_time": 1743403044
+  },
+  "1017": {
+    "earned": true,
+    "earned_time": 1743404680,
+    "max_progress": 20,
+    "progress": 19
+  },
+  "1018": {
+    "earned": true,
+    "earned_time": 1746192572
+  },
+  "1019": {
+    "earned": true,
+    "earned_time": 1741959862,
+    "max_progress": 15,
+    "progress": 14
+  },
+  "1020": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "1021": {
+    "earned": true,
+    "earned_time": 1746386536,
+    "max_progress": 5,
+    "progress": 4
+  },
+  "1022": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "1023": {
+    "earned": true,
+    "earned_time": 1743404712,
+    "max_progress": 50,
+    "progress": 49
+  },
+  "1024": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "1025": {
+    "earned": true,
+    "earned_time": 1746564546,
+    "max_progress": 10,
+    "progress": 9
+  },
+  "1026": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "1027": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 100,
+    "progress": 0
+  },
+  "1028": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "1029": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 10,
+    "progress": 0
+  },
+  "1030": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "1031": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 5,
+    "progress": 0
+  },
+  "1032": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "1033": {
+    "earned": true,
+    "earned_time": 1743406248
+  },
+  "1034": {
+    "earned": true,
+    "earned_time": 1746548046
+  },
+  "1035": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 68,
+    "progress": 50
+  },
+  "1036": {
+    "earned": true,
+    "earned_time": 1746209574,
+    "max_progress": 10,
+    "progress": 9
+  },
+  "1037": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 5,
+    "progress": 0
+  },
+  "1038": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 2,
+    "progress": 0
+  },
+  "1039": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 6,
+    "progress": 0
+  },
+  "1040": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 10,
+    "progress": 1
+  },
+  "1041": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 32,
+    "progress": 1
+  },
+  "1042": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "1043": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 22,
+    "progress": 1
+  },
+  "1044": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 16,
+    "progress": 0
+  },
+  "1045": {
+    "earned": true,
+    "earned_time": 1742981943,
+    "max_progress": 5,
+    "progress": 4
+  },
+  "1046": {
+    "earned": true,
+    "earned_time": 1742983470,
+    "max_progress": 5,
+    "progress": 4
+  },
+  "1047": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "1048": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 36000,
+    "progress": 0
+  },
+  "1049": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "2000": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "2001": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "2002": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "2003": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "2004": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 6,
+    "progress": 0
+  },
+  "2005": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "3000": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "3001": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "3002": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "3003": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "3004": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "3005": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "3006": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 300,
+    "progress": 0
+  },
+  "3007": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "3008": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "3009": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "3010": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 10,
+    "progress": 0
+  },
+  "3011": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "3012": {
+    "earned": false,
+    "earned_time": 0
+  }
+}
