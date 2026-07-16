@@ -1,0 +1,126 @@
+{
+  "APPLEINGOAL": {
+    "earned": true,
+    "earned_time": 1772175781
+  },
+  "BEATBUTCHER": {
+    "earned": true,
+    "earned_time": 1772177909
+  },
+  "BEATCROWANDAH": {
+    "earned": true,
+    "earned_time": 1772207453
+  },
+  "BEATKING": {
+    "earned": true,
+    "earned_time": 1772219494
+  },
+  "BEATNAECKEN": {
+    "earned": true,
+    "earned_time": 1772181775
+  },
+  "BEATPESTA": {
+    "earned": true,
+    "earned_time": 1772217099
+  },
+  "BEATREAM3": {
+    "earned": true,
+    "earned_time": 1772217372
+  },
+  "BEATSKOGSRA": {
+    "earned": true,
+    "earned_time": 1772213808
+  },
+  "BOOKREAD": {
+    "earned": true,
+    "earned_time": 1772217516,
+    "max_progress": 6,
+    "progress": 5
+  },
+  "BREWEDPOTION": {
+    "earned": true,
+    "earned_time": 1772206701
+  },
+  "COLLECTOR": {
+    "earned": true,
+    "earned_time": 1772217716,
+    "max_progress": 11,
+    "progress": 10
+  },
+  "COMPLETEGAME": {
+    "earned": true,
+    "earned_time": 1772219746
+  },
+  "FINDCROWANDAHFIG": {
+    "earned": true,
+    "earned_time": 1772206047
+  },
+  "FINDGNOMEFIG": {
+    "earned": true,
+    "earned_time": 1772176558
+  },
+  "FINDGUBBEFIG": {
+    "earned": true,
+    "earned_time": 1772217615
+  },
+  "FINDLEMUSFIG": {
+    "earned": true,
+    "earned_time": 1772180706
+  },
+  "FINDNAECKENFIG": {
+    "earned": true,
+    "earned_time": 1772180442
+  },
+  "FINDNILSFIG": {
+    "earned": true,
+    "earned_time": 1772217716
+  },
+  "FINDPESTAFIG": {
+    "earned": true,
+    "earned_time": 1772216091
+  },
+  "FINDSISTERFIG": {
+    "earned": true,
+    "earned_time": 1772175842
+  },
+  "FINDSKOGSRAFIG": {
+    "earned": true,
+    "earned_time": 1772214192
+  },
+  "FINDTRICKSTERFIG": {
+    "earned": true,
+    "earned_time": 1772179183
+  },
+  "FINDTUVAFIG": {
+    "earned": true,
+    "earned_time": 1772204731
+  },
+  "IRONMAN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "JUMPEDONMUSHROOMS": {
+    "earned": true,
+    "earned_time": 1772176335
+  },
+  "PINECONEOUTOFCAVE": {
+    "earned": true,
+    "earned_time": 1772178948
+  },
+  "PROPERFUNERAL": {
+    "earned": true,
+    "earned_time": 1772208181
+  },
+  "PUSHEDGNOMEINMEAT": {
+    "earned": true,
+    "earned_time": 1772179052
+  },
+  "SAVEDALLGNOMES": {
+    "earned": true,
+    "earned_time": 1772178324
+  },
+  "SKOGSRA100STABS": {
+    "earned": true,
+    "earned_time": 1772213801
+  }
+}

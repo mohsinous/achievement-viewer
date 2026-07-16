@@ -1,0 +1,208 @@
+{
+  "trophy.bizarro_boss_first": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.bizarro_level_all": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.bizarro_level_first": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.bonus_first": {
+    "earned": true,
+    "earned_time": 1781980625
+  },
+  "trophy.buddy_all": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.buddy_first": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.checkpoint_race": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.crate_combo_clash": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.defeat_cortex_final": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.defeat_cortex_first": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.defeat_nbrio": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.defeat_ngin": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.defeat_tropies": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.ending_100": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.ending_200": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.gem_blue": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.gem_clear_100": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.gem_clear_50": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.gem_clear_all_bizarro": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.gem_green": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.gem_red": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.gem_yellow": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.high_jump": {
+    "earned": true,
+    "earned_time": 1781980985
+  },
+  "trophy.mask_dark_matter": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.mask_gravity": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.mask_phase_shift": {
+    "earned": true,
+    "earned_time": 1781981325
+  },
+  "trophy.mask_time_slow": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.pass_and_play": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.play_as_coco": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.quisine": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.relic_flashback_first": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.relic_flashback_platinum_all": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.relic_n_sane_all": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.relic_n_sane_first": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.relic_time_trial_any": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.relic_time_trial_platinum_all": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.skin_first": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.triple_spin_first": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.triple_spin_win": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.undying": {
+    "earned": true,
+    "earned_time": 1781980765
+  },
+  "trophy.vhs_first": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.z_bizaroo_tree": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.z_cat_in_dumpster": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.z_dingo_cannons": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.z_dingo_target_practice": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.z_klank_tunes": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.z_spin_lani_loli": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.z_stfu_nbrio": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.z_stfu_ngin": {
+    "earned": true,
+    "earned_time": 1781981796
+  },
+  "trophy.z_temple_gongs": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "trophy.z_tv_stations": {
+    "earned": true,
+    "earned_time": 1781980376,
+    "max_progress": 4,
+    "progress": 0
+  }
+}

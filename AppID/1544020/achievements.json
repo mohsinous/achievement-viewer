@@ -1,0 +1,186 @@
+{
+  "ALL_WEAPONS_AND_UPGRADES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BACKSTABBLIND": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BUY_ALL_WEAPONS": {
+    "earned": true,
+    "earned_time": 1712429064
+  },
+  "DESTROY_FACTORY_CRATES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DISARM_ENEMY": {
+    "earned": true,
+    "earned_time": 1712430037
+  },
+  "DISMEMBER_100": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FIND_ALL_BIOS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FIND_ALL_DATA_DRIVES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FIND_ESCAPE_POD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FINISH_CONTAGION": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FINISH_CONTAGION_NO_DEATH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FINISH_DLC4": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FINISH_GAME": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FINISH_GAME_HARD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FINISH_GAME_HARDCORE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FINISH_GAME_HARDCORE_PLUS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FINISH_NEW_GAME_PLUS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FINISH_RIOT_MODE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FINISH_WAVE_50": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GRP25ENEMIES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GRP_MELEE_KILL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KILLMANYWITHHAZARD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KILL_2HEAD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KILL_2HEAD_HAZARD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KILL_BIOBOT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KILL_ROBOT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KILL_WITH_GRP_HAZARD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KINETIC_HAMMER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "LOCK_UNDER_7SEC": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "NOSPEND_2ROUNDS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PERFECTDODGEMULTIPLE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PERFECT_DODGE_GRUNT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PRINT_UPGRADE": {
+    "earned": true,
+    "earned_time": 1712428999
+  },
+  "PRINT_WEAPON": {
+    "earned": true,
+    "earned_time": 1712428930
+  },
+  "RIOT_10_POWERUPS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SHARE_PHOTO": {
+    "earned": true,
+    "earned_time": 1712426810
+  },
+  "SPEND_20000": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "STORY_COLDOPEN": {
+    "earned": true,
+    "earned_time": 1712415724
+  },
+  "STORY_ESCAPE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "STORY_HABITAT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "STORY_HANGAR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "STORY_MINETOWN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "STORY_OUTBREAK": {
+    "earned": true,
+    "earned_time": 1712425361
+  },
+  "STORY_SNOWCAT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "STORY_TOWER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "STORY_TUNNELS": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

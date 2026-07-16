@@ -1,0 +1,122 @@
+{
+  "10_35": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AllFloppydisks": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AllTapes": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Chapter1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Chapter2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Chapter3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Chapter4": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Chapter5": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CleanItUp": {
+    "earned": true,
+    "earned_time": 1731350203
+  },
+  "CompleteLake": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EndingA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EndingB": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EndingC": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EndingD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FinishHannah": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FirstRopeMiss": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Full_2_2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "IoInnerSelf": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KillBox": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Kizuato": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KonamiCode": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "LighthouseDeathless": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "NoBullyDeath": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "NoElectricityDeath": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "NoHandDeath": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "NurseryAltern": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "NurseryMirror": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "OneFloppyDisk": {
+    "earned": true,
+    "earned_time": 1731350390
+  },
+  "TvRoomTime": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "WatchFirstTape": {
+    "earned": true,
+    "earned_time": 1731351100
+  }
+}

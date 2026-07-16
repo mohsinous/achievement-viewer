@@ -1,0 +1,226 @@
+{
+  "ADivineGift": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ASpear": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AirbornWarrior": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AlmostThere": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 75,
+    "progress": 7
+  },
+  "AresGift": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ArtEnthusiast": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 5,
+    "progress": 0
+  },
+  "ArtisticConcerns": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BackFromTheDead": {
+    "earned": true,
+    "earned_time": 1745343399
+  },
+  "BlessedArbiter": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 2,
+    "progress": 0
+  },
+  "BlessedGladius": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 4,
+    "progress": 0
+  },
+  "BlessedLanterns": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 4,
+    "progress": 0
+  },
+  "BlessedNocturnalBlast": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 2,
+    "progress": 0
+  },
+  "BlessedShield": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 3,
+    "progress": 0
+  },
+  "BlessedSpear": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 4,
+    "progress": 0
+  },
+  "BrilliantForce": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BrilliantToTheCore": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 3,
+    "progress": 1
+  },
+  "Circe": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Completionist": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 100,
+    "progress": 7
+  },
+  "Deicide": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DoomedSurvivors": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DouseTheFlames": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ElatedSurvivors": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FinalOffering": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 19,
+    "progress": 0
+  },
+  "FirstOffering": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FullyOperational": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 5,
+    "progress": 0
+  },
+  "GougeTheEye": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HephaestusRevenge": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HopeRestored": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 26,
+    "progress": 0
+  },
+  "InPerfectHealth": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 36,
+    "progress": 0
+  },
+  "JudgeAndExecutioner": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "NecklaceReforged": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 12,
+    "progress": 0
+  },
+  "NoStoneLeftUnturned": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PurgeTheFilth": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "RejoicedSurvivors": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "RideTheCurrent": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SelfishSelflessness": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SoftLanding": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SomeKindOfEngineer": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Sororicide": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TheArcher": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TheHuntress": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TheLovers": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TheMaiden": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TheMural": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TheSeafarer": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TheWarrior": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "WellOnYourWay": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 50,
+    "progress": 7
+  },
+  "WorthyOfTheTuneblade": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

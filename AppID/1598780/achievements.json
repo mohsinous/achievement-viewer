@@ -1,0 +1,130 @@
+{
+  "ACHIEVEMENT_BOSS_EP1_DEFEATED": {
+    "earned": true,
+    "earned_time": 1761829434
+  },
+  "ACHIEVEMENT_BOSS_EP2_DEFEATED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_BOSS_EP3_DEFEATED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_BOSS_EP5_DEFEATED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_BOSS_UNCHAINED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_BOTTLE_BREAKER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_BURN_BURN_NEVER_RETURN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_COME_FLY_WITH_ME": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_DANCE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_ENDING_LEAVE_THIS_WORLD_A": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_ENDING_LEAVE_THIS_WORLD_B": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_ENDING_SAVE_THIS_WORLD_A": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_ENDING_SAVE_THIS_WORLD_B": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_FAST_ENDING": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_HARMFUL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_HOLEY_HOOD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_IT_IS_A_CRAZY_BOOK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_I_WILL_SURVIVE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_LOSE_A_LEG": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_MARGO_DEFEATED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_MELANCHOLY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_MUSICBOX": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_NEVER_EVER_RETURN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_NICE_TRY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_OVERHEARD_OLDCITY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_RAT_KEBAB": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_REST_AT_HOME": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_ROCK_FIGHT_BACK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_STOP_MUSIC": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_THEY_ARE_TOGETHER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_TRAPS_DESTROYER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_WHAT_AM_I": {
+    "earned": false,
+    "earned_time": 0
+  }
+}
