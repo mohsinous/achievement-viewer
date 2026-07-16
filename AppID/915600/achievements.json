@@ -1,0 +1,242 @@
+{
+  "ETUA_ADC": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_AloneInTheDark": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_AlonewithThem": {
+    "earned": true,
+    "earned_time": 1743083621,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_ArmedToTheTeeth": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_BackInTime": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_BeforeTheEclipse": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_BoxOfPloutus": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_ChosenOne": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_ClassicPlayer": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_DieAnotherDay": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_DressedtoKill": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_FearWellSpent": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_ForcedtoKill": {
+    "earned": true,
+    "earned_time": 1743083645,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_IsThemAndUs": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_LifeOfTheThousandGods": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_MissionOver": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_ModernPlayer": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_NightmareOver": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_NoTimeForSongs": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_OpenSesame": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_OutRage": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_PTD": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_ParasiteExterminated": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_Researcher": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_RestInPeace": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_SUPER": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_SafeFornow": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_StayDead": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_SurvivalHero": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_The5thElement": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_TheBusStop": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_TheCultists": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_TheCurseIsReal": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_TheForgottenTower": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_ThisCoffin": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_ThisMansionIsClean": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_Thiswillbealongnight": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_Trapped": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_WhatAMansion": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ETUA_WhatHaveIDone": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  }
+}

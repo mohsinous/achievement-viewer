@@ -36,28 +36,28 @@
     "progress": 0
   },
   "CgkIgrPmjcATEAIQDg": {
-    "earned": false,
-    "earned_time": 0,
+    "earned": true,
+    "earned_time": 1784142162,
     "max_progress": 100,
-    "progress": 59
+    "progress": 0
   },
   "CgkIgrPmjcATEAIQDw": {
     "earned": false,
     "earned_time": 0,
     "max_progress": 1000,
-    "progress": 59
+    "progress": 117
   },
   "CgkIgrPmjcATEAIQEA": {
     "earned": false,
     "earned_time": 0,
     "max_progress": 10000,
-    "progress": 59
+    "progress": 117
   },
   "CgkIgrPmjcATEAIQEQ": {
     "earned": false,
     "earned_time": 0,
     "max_progress": 8,
-    "progress": 0
+    "progress": 1
   },
   "CgkIgrPmjcATEAIQEg": {
     "earned": false,
@@ -71,7 +71,7 @@
   },
   "CgkIgrPmjcATEAIQFQ": {
     "earned": true,
-    "earned_time": 1784103256
+    "earned_time": 1784142162
   },
   "CgkIgrPmjcATEAIQFg": {
     "earned": false,
@@ -106,8 +106,8 @@
     "progress": 0
   },
   "CgkIgrPmjcATEAIQHA": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1784142162
   },
   "CgkIgrPmjcATEAIQHQ": {
     "earned": false,
@@ -155,19 +155,19 @@
   },
   "CgkIgrPmjcATEAIQJw": {
     "earned": true,
-    "earned_time": 1784103256
+    "earned_time": 1784142162
   },
   "CgkIgrPmjcATEAIQKA": {
     "earned": true,
-    "earned_time": 1784103256
+    "earned_time": 1784142162
   },
   "CgkIgrPmjcATEAIQKQ": {
     "earned": true,
-    "earned_time": 1784103256
+    "earned_time": 1784142162
   },
   "CgkIgrPmjcATEAIQKg": {
     "earned": true,
-    "earned_time": 1784103821
+    "earned_time": 1784142162
   },
   "CgkIgrPmjcATEAIQKw": {
     "earned": false,
@@ -199,7 +199,7 @@
   },
   "CgkIgrPmjcATEAIQMg": {
     "earned": true,
-    "earned_time": 1784103256,
+    "earned_time": 1784142162,
     "max_progress": 1,
     "progress": 0
   },
@@ -226,14 +226,14 @@
     "progress": 0
   },
   "CgkIgrPmjcATEAIQOA": {
-    "earned": false,
-    "earned_time": 0,
+    "earned": true,
+    "earned_time": 1784142162,
     "max_progress": 50,
     "progress": 0
   },
   "CgkIgrPmjcATEAIQOQ": {
     "earned": true,
-    "earned_time": 1784103256,
+    "earned_time": 1784142162,
     "max_progress": 50,
     "progress": 0
   },
@@ -251,7 +251,7 @@
   },
   "CgkIgrPmjcATEAIQPQ": {
     "earned": true,
-    "earned_time": 1784103256,
+    "earned_time": 1784142162,
     "max_progress": 1,
     "progress": 0
   },
@@ -371,7 +371,7 @@
   },
   "CgkIgrPmjcATEAIQWQ": {
     "earned": true,
-    "earned_time": 1784103256
+    "earned_time": 1784142162
   },
   "CgkIgrPmjcATEAIQWg": {
     "earned": false,
