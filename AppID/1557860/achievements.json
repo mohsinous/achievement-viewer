@@ -1,0 +1,182 @@
+{
+  "ACE_DRIVER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AMATEUR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ARCHITECT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BOILERMAKER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CATEGORY_A": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CATEGORY_B": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CATEGORY_C": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CATEGORY_D": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CHAMPION": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CLUBER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COLLECTOR": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 30,
+    "progress": 0
+  },
+  "CONFIRMED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COWARD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CURIOUS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DESIGNER": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 10,
+    "progress": 0
+  },
+  "DISMANTLER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EXPERT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FASTER_THAN_FAST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "INTERESSED": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 5,
+    "progress": 0
+  },
+  "IT_RUNS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "IT_STICKS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "JUST_RIGHT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KING_OF_ASPHALT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "LEGENDE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "LORD_OF_ASPHALT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MASTER_OF_THE_ROAD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MECHANIC": {
+    "earned": true,
+    "earned_time": 1781458479
+  },
+  "MY_FIRST_MILLION": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PAINTER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PASSIONATE": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 15,
+    "progress": 0
+  },
+  "PILOTE": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 25,
+    "progress": 1
+  },
+  "PREPARER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PRINCE_OF_TARMAC": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PROFESSIONNAL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SHOEING_YOUR_HORSE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "STREET_LEGEND": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "THERE_IS_WIND": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TIRELESS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TO_THE_MARROW": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRACK_LEGEND": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TUNER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "WITHOUT_A_SCRATCH": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 25,
+    "progress": 1
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "ACHIEVEMENT_ACTIVATEALLSAVEPOINTS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 39,
+    "progress": 2
+  },
+  "ACHIEVEMENT_AC_COMPLETEGAME": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_AC_COMPLETEGAME_ALLCHARACTERS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_AC_COMPLETEGAME_ARANK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_AC_COMPLETEGAME_NOBONUSTIME": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_AC_COMPLETEGAME_SPLUSRANK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_ALL_SHRINES": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 13,
+    "progress": 0
+  },
+  "ACHIEVEMENT_BUYOUT_SHOP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_C2_CARALARM": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_C2_CLAWMACHINE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_C3_MUGSHOT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_C7_WATERKILL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_COLLECT_COINS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 12,
+    "progress": 0
+  },
+  "ACHIEVEMENT_COLLECT_COSTUMES": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 19,
+    "progress": 6
+  },
+  "ACHIEVEMENT_COLLECT_WEAPONS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 25,
+    "progress": 3
+  },
+  "ACHIEVEMENT_COMPLETEGAME": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_COMPLETEGAME_ALLENDINGS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 5,
+    "progress": 0
+  },
+  "ACHIEVEMENT_COMPLETEGAME_ARANK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_COMPLETEGAME_FAST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_COMPLETEGAME_ITEMS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_COMPLETEGAME_NODAMAGE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_COMPLETEGAME_NOGUNS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_COMPLETEGAME_NOSAFES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_COMPLETEGAME_NOSAVES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_COMPLETEGAME_NOSHOPS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_COMPLETEGAME_ONLYBOSSES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_COMPLETEGAME_SPLUSRANK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_COMPLETE_ALLROUTES": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 6,
+    "progress": 1
+  },
+  "ACHIEVEMENT_COMPLETE_TRAINING": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_DNA_COLLECTOR_II": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 100000,
+    "progress": 1284
+  },
+  "ACHIEVEMENT_FIRST_DECAPITATION": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_FIRST_EXECUTION": {
+    "earned": true,
+    "earned_time": 1779312719
+  },
+  "ACHIEVEMENT_FIRST_PARRY": {
+    "earned": true,
+    "earned_time": 1779312335
+  },
+  "ACHIEVEMENT_FIRST_PERFECT_GENOME": {
+    "earned": true,
+    "earned_time": 1779312730
+  },
+  "ACHIEVEMENT_FIRST_SHRINE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_GAMCHEON_TELESCOPES": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 10,
+    "progress": 0
+  },
+  "ACHIEVEMENT_GENOMEPOINTS_MILESTONE1": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 10000,
+    "progress": 1284
+  },
+  "ACHIEVEMENT_GENOME_PERFECTIONIST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_KILLBOSSES_SEVENMINUTES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_MAX_CHARACTERUPGRADES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_MAX_INVENTORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_STANDIN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_UNLOCKALLSAFES": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 40,
+    "progress": 2
+  },
+  "ACHIEVEMENT_WELL_READ": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 50,
+    "progress": 6
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "ACH_00_AGAIN": {
+    "earned": true,
+    "earned_time": 1745776743
+  },
+  "ACH_01_TUNNEL_VISION": {
+    "earned": true,
+    "earned_time": 1746045460
+  },
+  "ACH_02_WATCHER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_03_ALL_ABOARD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_04_COMMUTE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_05_ONE_EYE_OPEN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_06_CLEVER": {
+    "earned": true,
+    "earned_time": 1746042795
+  },
+  "ACH_07_SURVIVOR": {
+    "earned": true,
+    "earned_time": 1746043898
+  },
+  "ACH_08_FORGIVE_FORGET": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_09_REMEMBER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_10_DEFENDER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_11_SCUM": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_12_TAIL_END": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_13_ITS_OVER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_14_ITS_DONE": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

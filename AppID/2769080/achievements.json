@@ -1,0 +1,186 @@
+{
+  "AllAchievementsCompletedAchievement": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "B1S1_KongTrain": {
+    "earned": true,
+    "earned_time": 1729775648
+  },
+  "B1S2_KongChase": {
+    "earned": true,
+    "earned_time": 1729777632
+  },
+  "B1S3_KongBuildingFall": {
+    "earned": true,
+    "earned_time": 1729780514
+  },
+  "B2S1_AbbadonSneak": {
+    "earned": true,
+    "earned_time": 1729789042
+  },
+  "B2S1_AbbadonTownSquare": {
+    "earned": true,
+    "earned_time": 1729793514
+  },
+  "B2S1_AbbadonWeb": {
+    "earned": true,
+    "earned_time": 1729788628
+  },
+  "B2S3_AbbadonChase": {
+    "earned": true,
+    "earned_time": 1729790482
+  },
+  "B3S1_TiamatShip": {
+    "earned": true,
+    "earned_time": 1729797590
+  },
+  "B3S2_KongHelp": {
+    "earned": true,
+    "earned_time": 1729848139
+  },
+  "B3S3_TiamatChase": {
+    "earned": true,
+    "earned_time": 1729799556
+  },
+  "B3S3_TiamatKongChase": {
+    "earned": true,
+    "earned_time": 1729850412
+  },
+  "CheckAllHintsAchievement": {
+    "earned": true,
+    "earned_time": 1729849265,
+    "max_progress": 16,
+    "progress": 15
+  },
+  "CollectAllLogsAchievement": {
+    "earned": true,
+    "earned_time": 1729851057
+  },
+  "CollectAllUpgradesAndLogsAchievement": {
+    "earned": true,
+    "earned_time": 1729851717
+  },
+  "CollectHPUpgradesAchievement": {
+    "earned": true,
+    "earned_time": 1729850217
+  },
+  "CollectMagazineUpgradesAchievement": {
+    "earned": true,
+    "earned_time": 1729843644
+  },
+  "DamageEnemiesWithExplosionAchievement": {
+    "earned": true,
+    "earned_time": 1729797700,
+    "max_progress": 5,
+    "progress": 4
+  },
+  "DestroyPadlockWithHeavyAttackAchievement": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DodgeBulletAchievement": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 20,
+    "progress": 1
+  },
+  "EnemiesFallFromLedgeAchievement": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 10,
+    "progress": 1
+  },
+  "EnemyKickedFromLedgeAchievement": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EnemyKilledByEnemyAchievement": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EnemyKnockbackedIntoSthByAnotherEnemyAchievement": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EnemyLostShieldFromKickAchievement": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FadeWallAchievement": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FinishGameAchievement": {
+    "earned": true,
+    "earned_time": 1729851594
+  },
+  "FinishGameOnHardModeAchievement": {
+    "earned": true,
+    "earned_time": 1729851599
+  },
+  "HeadshotKneelingEnemyAchievement": {
+    "earned": true,
+    "earned_time": 1729780854
+  },
+  "HeadshotsAchievement": {
+    "earned": true,
+    "earned_time": 1729778197,
+    "max_progress": 20,
+    "progress": 19
+  },
+  "HeavyAttackKneelingEnemyAchievement": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HipshotEnemyAchievement": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KillEnemyByPushOnWallAchievement": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KillEnemyWithAcidAchievement": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KillEnemyWithElectricityAchievement": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KillEnemyWithFireAchievement": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ParryEnemiesAchievement": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 5,
+    "progress": 0
+  },
+  "RipGripRippableWithHookAchievement": {
+    "earned": true,
+    "earned_time": 1729797838
+  },
+  "RipRippableWithHookAchievement": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ShieldedShootInALegAchievement": {
+    "earned": true,
+    "earned_time": 1729786094
+  },
+  "ShootAboveEnemyAchievement": {
+    "earned": true,
+    "earned_time": 1729844871
+  },
+  "ShootInALegAchievement": {
+    "earned": true,
+    "earned_time": 1729776726
+  },
+  "ShootSplattedEnemyAchievement": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

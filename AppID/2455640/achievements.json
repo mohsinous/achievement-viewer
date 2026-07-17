@@ -1,0 +1,206 @@
+{
+  "TRAbilityInheritance": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRAbilityInheritance3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRAllOverDrive": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRAntsOutbreak": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRBattleFormation": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRBattleFormation2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRBattleFormation3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRCatHelp": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRCityDevelopment3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRClassesFellow": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRClassesFellow2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRClassesFellow3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRClearHard": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRClearRomancing": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRConfusion": {
+    "earned": true,
+    "earned_time": 1744956410
+  },
+  "TRCoppeliaBreak": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRDefeatBokhohn": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRDefeatCyfreet": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRDefeatDantarg": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRDefeatDreadQueen": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRDefeatKzinssie": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRDefeatNoel": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRDefeatRocbouquet": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRDefeatVictor": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRDefeatWagnas": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRDereatSubier": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TREquipmentDevelopment": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRFirstOverDrive": {
+    "earned": true,
+    "earned_time": 1744954267
+  },
+  "TRGerardRevenge": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRGetAbillity": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRGetAbillity2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRGetAbillity3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRHeroicTale": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRInspiration": {
+    "earned": true,
+    "earned_time": 1744954460
+  },
+  "TRInspiration2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRInspiration3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRJuniorMagician": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRLastEmperor": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRManyEquipmentDevelopment": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRManyRegionalManagement": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRManySevenHeroesTruth": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRQuittingApprentice": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRRealQueen": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRRomaSaGa2Expert": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRRudonnFeeding": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRSeniorMagician": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRSyntheticMagic": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRTeacher": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRTeacher2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRTrophyComplete": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRWitchcraftResearcher": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

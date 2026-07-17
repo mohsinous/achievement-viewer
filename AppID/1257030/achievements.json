@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "earned": true,
+    "earned_time": 1754332216
+  },
+  "clock": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "dash": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "deer": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "died": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "end": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "home": {
+    "earned": true,
+    "earned_time": 1754325855
+  },
+  "immortal": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "keeper": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "leaves": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "neighborhood": {
+    "earned": true,
+    "earned_time": 1754332512
+  },
+  "possum": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "run": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "spider": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "stays": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "together": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "wilderness": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

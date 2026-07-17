@@ -1,0 +1,162 @@
+{
+  "Ach_AdrenalineRush": {
+    "earned": true,
+    "earned_time": 1776208226
+  },
+  "Ach_AdrenalineShots": {
+    "earned": true,
+    "earned_time": 1776208226
+  },
+  "Ach_Aggression": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ach_Broke": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ach_CallVehicle": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ach_CarMagazines": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ach_CombatMagazines": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ach_Cunning": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ach_DannyZeta": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ach_DebtCollectors": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ach_DebtFree": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ach_Enemies": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ach_FirstJob": {
+    "earned": true,
+    "earned_time": 1776208226
+  },
+  "Ach_FirstVehicleTakedown": {
+    "earned": true,
+    "earned_time": 1776208226
+  },
+  "Ach_First_POI": {
+    "earned": true,
+    "earned_time": 1776208226
+  },
+  "Ach_FreeMan": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ach_GoodDay": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ach_Instinct": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ach_LoseWanted": {
+    "earned": true,
+    "earned_time": 1776208226
+  },
+  "Ach_ManyAdrenalineRush": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ach_ManyAdrenalineShots": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ach_ManyCallVehicle": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ach_ManyLoseWanted": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ach_ManyPainkillers": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ach_ManyRepairs": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ach_ManyTotalled": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ach_MaxAttributes": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ach_MeleeWeapons": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ach_NicolaGamby": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ach_POIs": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ach_Painkillers": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ach_Repaired": {
+    "earned": true,
+    "earned_time": 1776208226
+  },
+  "Ach_Rich": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ach_SandwichBoards": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ach_Tactics": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ach_TommyRiley": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ach_Totalled": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ach_VehicleTakedowns": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ach_WelcomeHome_Ch1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ach_WhiteWhisper": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

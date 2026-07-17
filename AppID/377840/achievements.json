@@ -1,0 +1,396 @@
+{
+  "CgkIgrPmjcATEAIQCA": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 10,
+    "progress": 0
+  },
+  "CgkIgrPmjcATEAIQCQ": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 30,
+    "progress": 0
+  },
+  "CgkIgrPmjcATEAIQCg": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 100,
+    "progress": 40
+  },
+  "CgkIgrPmjcATEAIQCw": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 200,
+    "progress": 0
+  },
+  "CgkIgrPmjcATEAIQDA": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 100,
+    "progress": 0
+  },
+  "CgkIgrPmjcATEAIQDQ": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 50,
+    "progress": 0
+  },
+  "CgkIgrPmjcATEAIQDg": {
+    "earned": true,
+    "earned_time": 1784307040,
+    "max_progress": 100,
+    "progress": 0
+  },
+  "CgkIgrPmjcATEAIQDw": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1000,
+    "progress": 297
+  },
+  "CgkIgrPmjcATEAIQEA": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 10000,
+    "progress": 297
+  },
+  "CgkIgrPmjcATEAIQEQ": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 8,
+    "progress": 6
+  },
+  "CgkIgrPmjcATEAIQEg": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 63,
+    "progress": 21
+  },
+  "CgkIgrPmjcATEAIQFA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQFQ": {
+    "earned": true,
+    "earned_time": 1784307040
+  },
+  "CgkIgrPmjcATEAIQFg": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 99,
+    "progress": 0
+  },
+  "CgkIgrPmjcATEAIQFw": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 21,
+    "progress": 0
+  },
+  "CgkIgrPmjcATEAIQGA": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 24,
+    "progress": 0
+  },
+  "CgkIgrPmjcATEAIQGQ": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQGg": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQGw": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 99,
+    "progress": 0
+  },
+  "CgkIgrPmjcATEAIQHA": {
+    "earned": true,
+    "earned_time": 1784307040
+  },
+  "CgkIgrPmjcATEAIQHQ": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 10,
+    "progress": 0
+  },
+  "CgkIgrPmjcATEAIQHg": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQHw": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQIA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQIQ": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQIg": {
+    "earned": true,
+    "earned_time": 1784307040
+  },
+  "CgkIgrPmjcATEAIQIw": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 10,
+    "progress": 0
+  },
+  "CgkIgrPmjcATEAIQJA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQJQ": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQJg": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQJw": {
+    "earned": true,
+    "earned_time": 1784307040
+  },
+  "CgkIgrPmjcATEAIQKA": {
+    "earned": true,
+    "earned_time": 1784307040
+  },
+  "CgkIgrPmjcATEAIQKQ": {
+    "earned": true,
+    "earned_time": 1784307040
+  },
+  "CgkIgrPmjcATEAIQKg": {
+    "earned": true,
+    "earned_time": 1784307040
+  },
+  "CgkIgrPmjcATEAIQKw": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQLA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQLQ": {
+    "earned": true,
+    "earned_time": 1784307040
+  },
+  "CgkIgrPmjcATEAIQLg": {
+    "earned": true,
+    "earned_time": 1784307040
+  },
+  "CgkIgrPmjcATEAIQLw": {
+    "earned": true,
+    "earned_time": 1784307040
+  },
+  "CgkIgrPmjcATEAIQMA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQMQ": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQMg": {
+    "earned": true,
+    "earned_time": 1784307040,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "CgkIgrPmjcATEAIQMw": {
+    "earned": true,
+    "earned_time": 1784307040,
+    "max_progress": 10,
+    "progress": 1
+  },
+  "CgkIgrPmjcATEAIQNA": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 100,
+    "progress": 13
+  },
+  "CgkIgrPmjcATEAIQNg": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQNw": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 30,
+    "progress": 5
+  },
+  "CgkIgrPmjcATEAIQOA": {
+    "earned": true,
+    "earned_time": 1784307040,
+    "max_progress": 50,
+    "progress": 0
+  },
+  "CgkIgrPmjcATEAIQOQ": {
+    "earned": true,
+    "earned_time": 1784307040,
+    "max_progress": 50,
+    "progress": 0
+  },
+  "CgkIgrPmjcATEAIQOg": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQOw": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQPA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQPQ": {
+    "earned": true,
+    "earned_time": 1784307040,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "CgkIgrPmjcATEAIQPg": {
+    "earned": true,
+    "earned_time": 1784312459,
+    "max_progress": 50,
+    "progress": 49
+  },
+  "CgkIgrPmjcATEAIQPw": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQQA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQQQ": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQQg": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQQw": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQRA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQRQ": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQRg": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQRw": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQSA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQSQ": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQSg": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQSw": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQTA": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 79,
+    "progress": 72
+  },
+  "CgkIgrPmjcATEAIQTQ": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 4,
+    "progress": 0
+  },
+  "CgkIgrPmjcATEAIQTg": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQTw": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQUA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQUQ": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQUg": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQUw": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQVA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQVQ": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQVg": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQVw": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQWA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQWQ": {
+    "earned": true,
+    "earned_time": 1784307040
+  },
+  "CgkIgrPmjcATEAIQWg": {
+    "earned": true,
+    "earned_time": 1784307040
+  },
+  "CgkIgrPmjcATEAIQWw": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQXA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQXQ": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CgkIgrPmjcATEAIQXg": {
+    "earned": false,
+    "earned_time": 0
+  }
+}
