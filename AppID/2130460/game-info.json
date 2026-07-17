@@ -1,0 +1,379 @@
+{
+  "appid": "2130460",
+  "name": "FATAL FRAME / PROJECT ZERO: Mask of the Lunar Eclipse",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2130460/header.jpg?t=1776994726",
+  "achievements": {
+    "NEW_ACHIEVEMENT_1_0": {
+      "name": "Full Eclipse",
+      "description": "Unlocked all achievements in \"FATAL FRAME/PROJECT ZERO: Mask of the Lunar Eclipse\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/a48e64291b8bbc4d3cb5d068da0896a0b00330d7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.9"
+    },
+    "NEW_ACHIEVEMENT_1_1": {
+      "name": "Moonlit Glass",
+      "description": "Upgrade all Lenses to the highest level.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/8cd47f26c5f5093c2ad6a9f12ca7c53d2a65db6f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.2"
+    },
+    "NEW_ACHIEVEMENT_1_2": {
+      "name": "Fatal Frame",
+      "description": "Clear Final Phase on Nightmare difficulty.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/8cd47f26c5f5093c2ad6a9f12ca7c53d2a65db6f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.5"
+    },
+    "NEW_ACHIEVEMENT_1_3": {
+      "name": "Infinity",
+      "description": "Obtain the highest rank in all missions.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/8cd47f26c5f5093c2ad6a9f12ca7c53d2a65db6f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "NEW_ACHIEVEMENT_1_4": {
+      "name": "Optimal",
+      "description": "Obtain the Optimal upgrade.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/8cd47f26c5f5093c2ad6a9f12ca7c53d2a65db6f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.8"
+    },
+    "NEW_ACHIEVEMENT_1_5": {
+      "name": "Souls Return to the Hallowed Realm",
+      "description": "Clear Final Phase on Hard difficulty.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/6af5ac4489aa03435b4847a9d4a15e1c5477bc36.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.2"
+    },
+    "NEW_ACHIEVEMENT_1_6": {
+      "name": "Voice of the Voiceless",
+      "description": "Collect all notes, diaries, Spirit Radio recordings, and cassette tapes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/6af5ac4489aa03435b4847a9d4a15e1c5477bc36.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.4"
+    },
+    "NEW_ACHIEVEMENT_1_7": {
+      "name": "Search for the Faint and Hidden",
+      "description": "Take a photo of all revenants.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/6af5ac4489aa03435b4847a9d4a15e1c5477bc36.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.3"
+    },
+    "NEW_ACHIEVEMENT_1_8": {
+      "name": "Chasing Shadows",
+      "description": "Take a photo of all specters.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/6af5ac4489aa03435b4847a9d4a15e1c5477bc36.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.7"
+    },
+    "NEW_ACHIEVEMENT_1_9": {
+      "name": "Hozuki Dolls in Memoriam",
+      "description": "Take a photo of all Hozuki dolls.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/6af5ac4489aa03435b4847a9d4a15e1c5477bc36.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.1"
+    },
+    "NEW_ACHIEVEMENT_1_10": {
+      "name": "Master of Photography: Ruka",
+      "description": "Upgrade all of the Camera Obscura's basic abilities to the highest level for Ruka.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/6af5ac4489aa03435b4847a9d4a15e1c5477bc36.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.6"
+    },
+    "NEW_ACHIEVEMENT_1_11": {
+      "name": "Master of Photography: Misaki",
+      "description": "Upgrade all of the Camera Obscura's basic abilities to the highest level for Misaki.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/6af5ac4489aa03435b4847a9d4a15e1c5477bc36.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.5"
+    },
+    "NEW_ACHIEVEMENT_1_12": {
+      "name": "Master of the Flashlight: Choshiro",
+      "description": "Upgrade all of the Spirit Stone Flashlight's basic abilities to the highest level.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/6af5ac4489aa03435b4847a9d4a15e1c5477bc36.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.0"
+    },
+    "NEW_ACHIEVEMENT_1_13": {
+      "name": "Taming the Spirits",
+      "description": "Take a photo of all wraiths.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/6af5ac4489aa03435b4847a9d4a15e1c5477bc36.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.7"
+    },
+    "NEW_ACHIEVEMENT_1_14": {
+      "name": "Exorcist Supreme",
+      "description": "Execute a special kill 100 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/6af5ac4489aa03435b4847a9d4a15e1c5477bc36.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.5"
+    },
+    "NEW_ACHIEVEMENT_1_15": {
+      "name": "Bringing the Soul to the Moon",
+      "description": "Clear Final Phase on Normal difficulty or below.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/77b635c5c7618498b429b128fcbf4d643bd2575c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.2"
+    },
+    "NEW_ACHIEVEMENT_1_16": {
+      "name": "Blossoming",
+      "description": "Clear Prelude.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/77b635c5c7618498b429b128fcbf4d643bd2575c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "83.4"
+    },
+    "NEW_ACHIEVEMENT_1_17": {
+      "name": "The Summoning",
+      "description": "Clear Phase I.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/77b635c5c7618498b429b128fcbf4d643bd2575c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.7"
+    },
+    "NEW_ACHIEVEMENT_1_18": {
+      "name": "Resonance",
+      "description": "Clear Phase II.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/77b635c5c7618498b429b128fcbf4d643bd2575c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "53.7"
+    },
+    "NEW_ACHIEVEMENT_1_19": {
+      "name": "The Lost Day",
+      "description": "Clear Phase III.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/77b635c5c7618498b429b128fcbf4d643bd2575c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "48.1"
+    },
+    "NEW_ACHIEVEMENT_1_20": {
+      "name": "Void",
+      "description": "Clear Phase IV.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/77b635c5c7618498b429b128fcbf4d643bd2575c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.0"
+    },
+    "NEW_ACHIEVEMENT_1_21": {
+      "name": "Twin Faces",
+      "description": "Clear Phase V.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/77b635c5c7618498b429b128fcbf4d643bd2575c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.8"
+    },
+    "NEW_ACHIEVEMENT_1_22": {
+      "name": "Moonsong",
+      "description": "Clear Phase VI.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/77b635c5c7618498b429b128fcbf4d643bd2575c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.8"
+    },
+    "NEW_ACHIEVEMENT_1_23": {
+      "name": "Tranquility",
+      "description": "Clear Phase VII.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/77b635c5c7618498b429b128fcbf4d643bd2575c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.7"
+    },
+    "NEW_ACHIEVEMENT_1_24": {
+      "name": "Sakuya",
+      "description": "Clear Phase VIII.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/77b635c5c7618498b429b128fcbf4d643bd2575c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.1"
+    },
+    "NEW_ACHIEVEMENT_1_25": {
+      "name": "Descent",
+      "description": "Clear Phase IX.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/77b635c5c7618498b429b128fcbf4d643bd2575c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.2"
+    },
+    "NEW_ACHIEVEMENT_1_26": {
+      "name": "Fallen Petals",
+      "description": "Clear Phase X.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/77b635c5c7618498b429b128fcbf4d643bd2575c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.4"
+    },
+    "NEW_ACHIEVEMENT_1_27": {
+      "name": "Eclipse",
+      "description": "Clear Phase XI.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/77b635c5c7618498b429b128fcbf4d643bd2575c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.7"
+    },
+    "NEW_ACHIEVEMENT_1_28": {
+      "name": "Hallowed Realm",
+      "description": "Clear Final Phase.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/77b635c5c7618498b429b128fcbf4d643bd2575c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.9"
+    },
+    "NEW_ACHIEVEMENT_1_29": {
+      "name": "Photography Apprentice: Ruka",
+      "description": "Upgrade the Camera Obscura for the first time with Ruka.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/77b635c5c7618498b429b128fcbf4d643bd2575c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "56.2"
+    },
+    "NEW_ACHIEVEMENT_1_30": {
+      "name": "Photography Apprentice: Misaki",
+      "description": "Upgrade the Camera Obscura for the first time with Misaki.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/77b635c5c7618498b429b128fcbf4d643bd2575c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.3"
+    },
+    "NEW_ACHIEVEMENT_1_31": {
+      "name": "Flashlight Apprentice: Choshiro",
+      "description": "Upgrade the Spirit Stone Flashlight for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/77b635c5c7618498b429b128fcbf4d643bd2575c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.8"
+    },
+    "NEW_ACHIEVEMENT_2_0": {
+      "name": "Lens Enthusiast: Ruka",
+      "description": "Upgrade aCamera Obscura Lens for the first time with Ruka.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/77b635c5c7618498b429b128fcbf4d643bd2575c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "53.9"
+    },
+    "NEW_ACHIEVEMENT_2_1": {
+      "name": "Lens Enthusiast: Misaki",
+      "description": "Upgrade aCamera Obscura Lens for the first time with Misaki.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/77b635c5c7618498b429b128fcbf4d643bd2575c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.8"
+    },
+    "NEW_ACHIEVEMENT_2_2": {
+      "name": "Lens Enthusiast: Choshiro",
+      "description": "Upgrade the Spirit Stone Flashlight's Lens for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/77b635c5c7618498b429b128fcbf4d643bd2575c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.6"
+    },
+    "NEW_ACHIEVEMENT_2_3": {
+      "name": "In Full Bloom",
+      "description": "Take 10 photos of blossomed wraiths.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/77b635c5c7618498b429b128fcbf4d643bd2575c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.9"
+    },
+    "NEW_ACHIEVEMENT_2_4": {
+      "name": "Touch Me Not",
+      "description": "Evade ghost hand 5 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/77b635c5c7618498b429b128fcbf4d643bd2575c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.7"
+    },
+    "NEW_ACHIEVEMENT_2_5": {
+      "name": "Split-Second Shots",
+      "description": "Reach a combo of 3 or higher during Fatal Time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/77b635c5c7618498b429b128fcbf4d643bd2575c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.9"
+    },
+    "NEW_ACHIEVEMENT_2_6": {
+      "name": "Three Ghosts, One Shot",
+      "description": "Attack 3 wraiths at the same time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/77b635c5c7618498b429b128fcbf4d643bd2575c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.0"
+    },
+    "NEW_ACHIEVEMENT_2_7": {
+      "name": "Memories of Rogetsu",
+      "description": "Opened Snap Mode for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/77b635c5c7618498b429b128fcbf4d643bd2575c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.0"
+    },
+    "NEW_ACHIEVEMENT_2_8": {
+      "name": "First Kill",
+      "description": "Defeat a wraith for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/77b635c5c7618498b429b128fcbf4d643bd2575c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2130460/2299ab803925911750f47c1e8fc7f4de50e54024.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "83.9"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

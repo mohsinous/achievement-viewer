@@ -1,0 +1,523 @@
+{
+  "appid": "1295510",
+  "name": "DRAGON QUEST® XI S: Echoes of an Elusive Age™ - Definitive Edition",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295510/header.jpg?t=1774588986",
+  "achievements": {
+    "ACH_TROPHY_00": {
+      "name": "Living Legend",
+      "description": "Awarded for earning all available achievements.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/1df543f7e624cf698b0fd769f9e0da5c3d15b090.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/d65693474bbe9e7ceae41aad75cfc122a10c57bc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.1"
+    },
+    "ACH_TROPHY_01": {
+      "name": "Coming of Age",
+      "description": "Awarded for completing the coming of age ceremony atop Cobblestone Tor.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/d7aef42330c6a30bf01c63cfc36c1bca407fe703.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/d65693474bbe9e7ceae41aad75cfc122a10c57bc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "91.8"
+    },
+    "ACH_TROPHY_02": {
+      "name": "Adventure Awaits!",
+      "description": "Awarded for receiving a warm welcome to Heliodor.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/d7aef42330c6a30bf01c63cfc36c1bca407fe703.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/d65693474bbe9e7ceae41aad75cfc122a10c57bc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "80.9"
+    },
+    "ACH_TROPHY_03": {
+      "name": "A Close Call",
+      "description": "Awarded for coming face-to-face with incredible danger, and living to tell the tale.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/d7aef42330c6a30bf01c63cfc36c1bca407fe703.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/d65693474bbe9e7ceae41aad75cfc122a10c57bc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "79.6"
+    },
+    "ACH_TROPHY_04": {
+      "name": "The Power of the Luminary",
+      "description": "Awarded for witnessing the power of the Luminary first-hand.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/d7aef42330c6a30bf01c63cfc36c1bca407fe703.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/d65693474bbe9e7ceae41aad75cfc122a10c57bc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "74.2"
+    },
+    "ACH_TROPHY_05": {
+      "name": "Terra Incognita",
+      "description": "Awarded for making your way to an unknown land.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/6988737d247f729db6db417ac089100c69de87d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "71.5"
+    },
+    "ACH_TROPHY_06": {
+      "name": "Yggdrasil's Chosen",
+      "description": "Awarded for encountering some steadfast new allies.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/6988737d247f729db6db417ac089100c69de87d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "69.5"
+    },
+    "ACH_TROPHY_07": {
+      "name": "Out-Stand-In",
+      "description": "Awarded for having a good run at a good race.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/6988737d247f729db6db417ac089100c69de87d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "65.6"
+    },
+    "ACH_TROPHY_08": {
+      "name": "New Horizons",
+      "description": "Awarded for setting out in search of new lands.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/6988737d247f729db6db417ac089100c69de87d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "60.5"
+    },
+    "ACH_TROPHY_09": {
+      "name": "Undisputed Champion of Erdrea",
+      "description": "Awarded for becoming a hero of the Octagonian arena.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/6988737d247f729db6db417ac089100c69de87d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "57.2"
+    },
+    "ACH_TROPHY_10": {
+      "name": "Wild Blue Yonder",
+      "description": "Awarded for opening the gates to the wider world.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/6988737d247f729db6db417ac089100c69de87d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "55.3"
+    },
+    "ACH_TROPHY_11": {
+      "name": "Dark Art",
+      "description": "Awarded for saving the village of Phnom Nonh.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/6988737d247f729db6db417ac089100c69de87d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "50.8"
+    },
+    "ACH_TROPHY_12": {
+      "name": "Sea-Crossed Lovers",
+      "description": "Awarded for easing the heart of an ill-omened lover.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/6988737d247f729db6db417ac089100c69de87d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "53.1"
+    },
+    "ACH_TROPHY_13": {
+      "name": "Ice-Breaker",
+      "description": "Awarded for saving the kingdom of Sniflheim from disaster.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/6988737d247f729db6db417ac089100c69de87d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.1"
+    },
+    "ACH_TROPHY_14": {
+      "name": "The World Tree",
+      "description": "Awarded for reaching Yggdrasil at last and learning the truth.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/6988737d247f729db6db417ac089100c69de87d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "48.3"
+    },
+    "ACH_TROPHY_15": {
+      "name": "Light of Hope",
+      "description": "Awarded for filling your companions' hearts with hope.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/6988737d247f729db6db417ac089100c69de87d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.9"
+    },
+    "ACH_TROPHY_16": {
+      "name": "A Spark Still Shines",
+      "description": "Awarded for setting out into a benighted land to take up your quest again.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/6988737d247f729db6db417ac089100c69de87d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.8"
+    },
+    "ACH_TROPHY_17": {
+      "name": "Best of the Bastion",
+      "description": "Awarded for claiming a decisive victory and returning light to the land.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/6988737d247f729db6db417ac089100c69de87d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.2"
+    },
+    "ACH_TROPHY_18": {
+      "name": "A Disciple Worthy of the Name",
+      "description": "Awarded for overcoming a taxing trial and mastering a secret skill.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/6988737d247f729db6db417ac089100c69de87d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.6"
+    },
+    "ACH_TROPHY_19": {
+      "name": "Soldier of Smile",
+      "description": "Awarded for encountering some steadfast allies.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/6988737d247f729db6db417ac089100c69de87d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.3"
+    },
+    "ACH_TROPHY_20": {
+      "name": "Bigger Fish to Fry",
+      "description": "Awarded for returning peace to the seas.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/6988737d247f729db6db417ac089100c69de87d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.0"
+    },
+    "ACH_TROPHY_21": {
+      "name": "Knight of the Living Dread",
+      "description": "Awarded for bringing an end to an endless nightmare.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/6988737d247f729db6db417ac089100c69de87d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.9"
+    },
+    "ACH_TROPHY_22": {
+      "name": "Beating the House",
+      "description": "Awarded for awakening a new and exciting power.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/6988737d247f729db6db417ac089100c69de87d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.5"
+    },
+    "ACH_TROPHY_23": {
+      "name": "Sibling Revivalry",
+      "description": "Awarded for achieving a long-awaited atonement.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/6988737d247f729db6db417ac089100c69de87d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "42.5"
+    },
+    "ACH_TROPHY_24": {
+      "name": "The Loveliest Catch",
+      "description": "Awarded for reviving an ancient legend.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/6988737d247f729db6db417ac089100c69de87d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.8"
+    },
+    "ACH_TROPHY_25": {
+      "name": "Hot Spring Hero",
+      "description": "Awarded for saving Hotto from a fiery fate.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/6988737d247f729db6db417ac089100c69de87d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "40.9"
+    },
+    "ACH_TROPHY_26": {
+      "name": "Ready as We'll Ever Be",
+      "description": "Awarded for obtaining an abiding symbol of hope.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/6988737d247f729db6db417ac089100c69de87d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "40.4"
+    },
+    "ACH_TROPHY_27": {
+      "name": "Saviour of All Erdrea",
+      "description": "Awarded for defeating the Lord of Shadows and restoring the World Tree to its rightful place.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/6988737d247f729db6db417ac089100c69de87d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.3"
+    },
+    "ACH_TROPHY_28": {
+      "name": "A Momentous Decision",
+      "description": "Awarded for making a difficult decision at the end of an already long and arduous quest.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/d7aef42330c6a30bf01c63cfc36c1bca407fe703.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.0"
+    },
+    "ACH_TROPHY_29": {
+      "name": "The Final Fight",
+      "description": "Awarded for fulfilling your destiny at last.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/6988737d247f729db6db417ac089100c69de87d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.4"
+    },
+    "ACH_TROPHY_30": {
+      "name": "Master of the Skies",
+      "description": "Awarded for being fully prepared for the ultimate fight.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/6988737d247f729db6db417ac089100c69de87d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.3"
+    },
+    "ACH_TROPHY_31": {
+      "name": "Echoes of an Elusive Age",
+      "description": "Awarded for solving the myriad mysteries of Erdrea.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/50461a8c6eaa5d6b8e96c5f3ccc767a92c606180.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.8"
+    },
+    "ACH_TROPHY_32": {
+      "name": "Beast Blaster",
+      "description": "Awarded for defeating 1000 monsters.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/b4dfc8f5984b90caa6fbe18d6e6a02dfd25f68f2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "48.4"
+    },
+    "ACH_TROPHY_33": {
+      "name": "Mount Olympian",
+      "description": "Awarded for successfully riding six or more mountable monsters.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/fe9b484f814484615f34a8c64e3b3c25637abfb8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.0"
+    },
+    "ACH_TROPHY_34": {
+      "name": "Peppy-Go-Lucky",
+      "description": "Awarded for performing 25 pep powers.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/7176eeb36b30a8ef575da4cfc87edad466f73dd9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.9"
+    },
+    "ACH_TROPHY_35": {
+      "name": "Expert Itemologist",
+      "description": "Awarded for collecting 500 different types of item.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/8f688016d0445f31975877e596e883a800ed1164.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.7"
+    },
+    "ACH_TROPHY_36": {
+      "name": "Dedicated Follower of Fashion",
+      "description": "Awarded for collecting all appearance-altering equipment.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/5af084b580b6a723f568a7fc6adca7409b67e675.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.8"
+    },
+    "ACH_TROPHY_37": {
+      "name": "Chef de Classe de Médailles",
+      "description": "Awarded for completing the third page of your album de médailles.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/e4857bb78825c6970c121319936b6bb8e9378153.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.4"
+    },
+    "ACH_TROPHY_38": {
+      "name": "Forging Ahead",
+      "description": "Awarded for crafting 10 items on the Fun-Size Forge.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/85dfc002b7cd321d38661c43fb84a6136d91a61c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "60.2"
+    },
+    "ACH_TROPHY_39": {
+      "name": "If At First You Don't Succeed",
+      "description": "Awarded for reworking 10 items on the Fun-Size Forge.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/70a73560a369a12186b0a7f246c4eacfd881be8f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.2"
+    },
+    "ACH_TROPHY_40": {
+      "name": "Big Hitter",
+      "description": "Awarded for crafting a +3 piece of equipment on the Fun-Size Forge.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/2ccc3f96b71c67af16e4017dbe64582eaac15a65.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "70.4"
+    },
+    "ACH_TROPHY_41": {
+      "name": "Swordsmith of Light",
+      "description": "Awarded for crafting the finest of all weapons on the Fun-Size Forge.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/139e430cc9cb98b68e49b543f8cd9d343a58a42d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.2"
+    },
+    "ACH_TROPHY_42": {
+      "name": "Next-Level Luminary",
+      "description": "Awarded for mastering the way of the Luminary.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/db323866f02972af0155a6cf26d132f96b65cd45.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.8"
+    },
+    "ACH_TROPHY_43": {
+      "name": "Master Thief",
+      "description": "Awarded for mastering the way of the thief.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/26f1952eb7796aef1739faacfbe42600ec7ada87.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.8"
+    },
+    "ACH_TROPHY_44": {
+      "name": "Flawless Sorceress",
+      "description": "Awarded for mastering the way of the wizard.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/babcfb174693f584cce5c37ba216ad49d08c1e47.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.0"
+    },
+    "ACH_TROPHY_45": {
+      "name": "Virtuoso Healer",
+      "description": "Awarded for mastering the way of the healer.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/715a7e80b3bd917ace09d1c5e8f85f5cfda0fa0e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.5"
+    },
+    "ACH_TROPHY_46": {
+      "name": "Megastar",
+      "description": "Awarded for mastering the way of the entertainer.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/8658f9106d9f3adee584fcb8e4dc08042787592f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.2"
+    },
+    "ACH_TROPHY_47": {
+      "name": "Venerable Elder",
+      "description": "Awarded for mastering the way of the sage.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/a2eb146b0173e8ef5fe406f537e046bde63b3deb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.9"
+    },
+    "ACH_TROPHY_48": {
+      "name": "Undisputed Champion",
+      "description": "Awarded for mastering the way of the martial artist.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/87f5c11b1849dd3fd88ea20f3df89ee8317d875a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.7"
+    },
+    "ACH_TROPHY_49": {
+      "name": "Knight Exemplar",
+      "description": "Awarded for mastering the way of the knight.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/3a6a80751cf17a76554e9a764b59a00fba881e46.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.3"
+    },
+    "ACH_TROPHY_50": {
+      "name": "Casino Connoisseur",
+      "description": "Awarded for attaining 10 casino-related accolades.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/7c7250b9fb2610bdc4ce55f60a709f5b1075ca2b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.9"
+    },
+    "ACH_TROPHY_51": {
+      "name": "Puff-Puff Buff",
+      "description": "Awarded for experiencing the pleasure of the Puff-Puff in all its many forms.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/77e48a32c498964ea98543346b235f1a01e20cdf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.9"
+    },
+    "ACH_TROPHY_52": {
+      "name": "Quest to Impress",
+      "description": "Awarded for completing 40 quests.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/1ddc4e5c5dea4bc952f848fb7060ec915d4b3876.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.1"
+    },
+    "ACH_TROPHY_53": {
+      "name": "Ultimate Enlightenment",
+      "description": "Awarded for overcoming the challenges of the Wheel of Harma.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/93206cb73527b4051fb56bea9b134cebb6966feb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.6"
+    },
+    "ACH_TROPHY_54": {
+      "name": "Magic Moments",
+      "description": "Awarded for spending some quality time with a special someone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/588628769f022487195002d9933f8dbf425c7e4a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.9"
+    },
+    "ACH_TROPHY_55": {
+      "name": "Saviour of the Tockles' Scriptures",
+      "description": "Awarded for saving all the worlds of the past from certain destruction.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/ae21f2a70f704bcc33f03d1f290dffb591c71c60.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.0"
+    },
+    "ACH_TROPHY_56": {
+      "name": "Worrywart",
+      "description": "Awarded for taking extra-special care to ensure that everyone is 100% fighting fit at all times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/4f66c9c8233735321f8b0b5034e95816226638a7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1295510/25a9996e9bf2bce3a8d8494c98a311b507b7f214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "65.5"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

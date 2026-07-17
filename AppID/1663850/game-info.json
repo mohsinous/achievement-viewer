@@ -1,0 +1,316 @@
+{
+  "appid": "1663850",
+  "name": "REPLACED",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1663850/9079d7a26c8720ed0616f1bd7f912ccc22a535d4/header.jpg?t=1783511532",
+  "achievements": {
+    "ACH_PROLOGUE": {
+      "name": "Job Burnout",
+      "description": "Complete the Prologue.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/2e2aac63882dae48c531bab229d922920b3c1417.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/c27c44f9c4ba67dd82808e10b0749bc53feba520.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "91.2"
+    },
+    "ACH_C1": {
+      "name": "Non-Standard Task",
+      "description": "Complete Chapter 1.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/963780fd170752aa34adf9ad8f45191d4a57945a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/3b898470a5f69288c20dcb191ba48e7d9d8341de.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "74.9"
+    },
+    "ACH_C2": {
+      "name": "Machine Learning",
+      "description": "Complete Chapter 2.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/fb0c8debce847506b7312bffc29c4e8a66f84f46.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/1355bb21200f3c83f5abb2fa0036e0c0514c3e3b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "57.2"
+    },
+    "ACH_C3": {
+      "name": "The Lowest Low",
+      "description": "Complete Chapter 3.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/d178a72c3b2f13b429ff3ba0a3667e8101129edd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/ae018f0561d44f630c135824569a5f20992e68d3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "43.9"
+    },
+    "ACH_C4": {
+      "name": "Brothers in Arms",
+      "description": "Complete Chapter 4.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/55c2479a66461f9ec9c901897f36a335b2c13743.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/71be84c7664f1c957fecdc681079aee0e66b6acb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "38.5"
+    },
+    "ACH_C5": {
+      "name": "Another Brick in The Wall",
+      "description": "Complete Chapter 5.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/0b489f2e28c3acc0a7164cfb40fd0268a94bf7d8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/78a4fc152c215ac56343c2eea7cdb626ad444766.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "31.7"
+    },
+    "ACH_C6": {
+      "name": "Home, Sweet Home",
+      "description": "Complete Chapter 6.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/7786d311b510dcd3b89c4d2cea35387637972eb0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/ed270b5bb91657bf3ab73e73266fa37710e120cd.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "28.3"
+    },
+    "ACH_C7": {
+      "name": "New Horizons",
+      "description": "Complete Chapter 7.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/39ad6c507722dbffbd1a689390fb7345dbf002b0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/8cbce042d309cc9a6442e204fd88b257d5a651cb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "26.4"
+    },
+    "ACH_C8": {
+      "name": "Night and The City",
+      "description": "Complete Chapter 8.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/567b90c950d930b6c26118e7ab9513b9de207bc5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/7010002ef8cc2aad8ba24e65a1ad40c4ed0ac3cb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "24.8"
+    },
+    "ACH_C9": {
+      "name": "Lend a Hand",
+      "description": "Complete Chapter 9.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/2f8f649daaf60d550ac41479b12555989de4a026.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/eb70ccd88f763957379174ba59b9ac32473e7cf7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "22.9"
+    },
+    "ACH_C10": {
+      "name": "Full Circle",
+      "description": "Complete Chapter 10.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/bf741bd6f9ca44834ff674d1ace1df7f1837a420.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/4c75648510c1ccf28690947471969e6022649beb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "23.7"
+    },
+    "ACH_SUNSHINE": {
+      "name": "My Only Sunshine",
+      "description": "Chapter 2: Complete David's quest.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/72e8815c8fe3a60bee4b878d9d1db72c428b54a9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/e0ec03271778a81a33eedcdec54a58d7a1024abf.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "45.8"
+    },
+    "ACH_BLOOD": {
+      "name": "Let There Be Blood",
+      "description": "Chapter 2: Complete Doctor's quest.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/f609aaeeb30ee8177550bdfa527347bb098fda2d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/2c2dbe503ee65a436bf4dea9ea58cf62f28661c4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "46.7"
+    },
+    "ACH_REUNION": {
+      "name": "Family Reunion",
+      "description": "Chapter 4: Complete Old Man's quest.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/c4aee19b0215827351c105726d841c8c25f4b98a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/685555b007991190bf1197c2bd5f617fb17ef53b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "39.9"
+    },
+    "ACH_GOOD_BOY": {
+      "name": "Good Boy!",
+      "description": "Chapter 4: Complete Excalibur's quest.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/9a924bb400a30d0d71b0dd519034bf8345305535.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/71852c4894d06db2b0044acc1c567437fd38e9b2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "32.4"
+    },
+    "ACH_HUNTED": {
+      "name": "Hunted",
+      "description": "Chapter 4: Complete Edward's quest.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/9709647fb572bfe577b50105ce291efae171dd0d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/95a1e24033b4f79df5252ea5b49b5a22c2853676.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "32.0"
+    },
+    "ACH_BIGGEST_FAN": {
+      "name": "The Biggest Fan",
+      "description": "Chapter 7: Find all Tempest-man comics.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/dfb87cd07e8e516d5b9ad5e3769a4eeaef238b0a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/88f089cc24919a3696d945aeffd833825b420bba.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.3"
+    },
+    "ACH_LOOKALIKE": {
+      "name": "Look-Alike",
+      "description": "Chapter 7: Complete Sandra's quest.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/4327553651ddaa888f106e104dd0fb8ad79160b0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/472594e3b333c4cf68e5f833d90f48383f9ff0e5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "22.8"
+    },
+    "ACH_OLDSCHOOL": {
+      "name": "Old School",
+      "description": "Get the high score in all arcade games.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/4f7e74ab65d7c946c1071c95dcda7dd799fa96e2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/9f2f011490cd7ab70c18f1cb3df01c2c545ee61f.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "18.1"
+    },
+    "ACH_SADCATS": {
+      "name": "Sad Cats",
+      "description": "Find all Railway Station cats.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/3a3aec5a69cfeb8316f756fae8b6aeb5f040fb4f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/140f171e1b9ef864b6d315cc0ad950500ec23bbb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "23.0"
+    },
+    "ACH_HERE_FOR_IT": {
+      "name": "We Are All Here For It",
+      "description": "Pet Excalibur.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/61ed29bcd819fd0f507568adf73229c5f5a585e1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/2ce92f9768651bd1b86805101645f8b507277e5c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.1"
+    },
+    "ACH_WORLD_WE_LIVE_IN": {
+      "name": "This Is The World We Live In",
+      "description": "Find all collectibles.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/eaac7ed004da85727a8e5db60af5613aac73ae7b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/ae80d7ab5beae5f5216aef8658fa6f8a5cf7176f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.0"
+    },
+    "ACH_REFLEXES": {
+      "name": "Non-Human Reflexes",
+      "description": "Complete the game on \"Hard\" difficulty.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/23b764320d34591dcd6e38ecc93884a3fbe99a9a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/04fad67aa4a3c561c1adb9db2e18a53e8d1cd8d6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.2"
+    },
+    "ACH_BODY_MACHINE": {
+      "name": "My Body Is a Machine",
+      "description": "Find all Health and Med-Stim upgrades.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/8b69894f626b2143bc95a6e7c5dcc083f64f28cf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/f04e8fec4f56a28426142a66f5e6e48aa51be3c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.0"
+    },
+    "ACH_TOP_GEAR": {
+      "name": "Top Gear",
+      "description": "Find all Gun and Pickaxe upgrades.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/22728fbd1b7266ae60a9598ec44df8a6dcdfe27a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/c5d0ba9090b643055c67f1dcdb79de8593dfa898.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.7"
+    },
+    "ACH_CYBERNINJA": {
+      "name": "Cyberninja",
+      "description": "Deflect 50 enemy blasts.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/dbe86ed7ddfbfc63a95fd3facb3f94f7f5e31a44.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/4fae4e48f6c2004ea9037340e0e3bb5d4965fc14.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.0"
+    },
+    "ACH_REFLASHED": {
+      "name": "Reflashed",
+      "description": "Complete 3 hacking sequences without mistakes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/4c3584a34181398b560fecc2603bcd8928bc883c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/837d5d24385a12a346ff110bbc9fc200ddee1207.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.8"
+    },
+    "ACH_FIRSTLAW": {
+      "name": "Breaking The First Law",
+      "description": "Perform 50 finishers on enemies.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/10d66729390f77344fe02a77e1aec390f219eb9f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/938600f993cc4ef6edd65648e92dcc2e599525fc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.6"
+    },
+    "ACH_ANGER": {
+      "name": "Anger Management",
+      "description": "Use Overdrive 10 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/0e7e63c03b30f1ebb6b90cf9fd8cd38208917477.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/5456cf1bb70bf3c72825746681dec6ee95b4d6f2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.9"
+    },
+    "ACH_NOT_W_GUN": {
+      "name": "Not with a Gun, but with Heart",
+      "description": "Perform 300 Gun blasts.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/fedd8d896ed438900a207869fa0f0a09d74bb730.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/6dcb624ceda29906e3a492fc04db3746591fac80.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.7"
+    },
+    "ACH_CHIP_DAMAGE": {
+      "name": "Chip Damage",
+      "description": "Finish off 10 enemies with a Pickaxe.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/417e8130db11fada2cd7340f2ba0a626890808f6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/ce157b81083716e1c582623711549da1dfc6bbd6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.7"
+    },
+    "ACH_BATCH_PROCESSING": {
+      "name": "Batch Processing",
+      "description": "Hit 30 enemies with Shockwave.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/0658fd11b1613700c9cf46522929269bc8946d6f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/ae1f4833dd6835163736a5ff31676043d77e8337.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.2"
+    },
+    "ACH_WORTH": {
+      "name": "Worth The Wait!",
+      "description": "Get every achievement.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/5eef4a8d43caf1c2f4ceb99c8b7227594dc6740f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/07b5bee83a45e7c12a02030f1c7ebcfb4ed778ce.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.4"
+    },
+    "ACH_MUSIC": {
+      "name": "Music Sounds Better with You",
+      "description": "Discover all music tracks.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/018d864f0cff1ba2467851311a7fa615c063bab6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/782d4d43671f71a8b9fe19ec332a6b6c5fbc1f35.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.5"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

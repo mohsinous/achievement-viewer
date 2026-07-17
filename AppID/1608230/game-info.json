@@ -1,0 +1,235 @@
+{
+  "appid": "1608230",
+  "name": "Planet of Lana",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608230/afc987687f2f80c5c4a93293f2f0f53a62032212/header.jpg?t=1772728759",
+  "achievements": {
+    "shrine01": {
+      "name": "Finding secret shrine 1/10",
+      "description": "Discovered a secret shrine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/c6a5dcab3ad4c25b6d3cb9087fd050f6e1b75973.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/744e4fba1e271ac1fef9c48335bac32b3b80821c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "31.2"
+    },
+    "shrine02": {
+      "name": "Finding secret shrine 2/10",
+      "description": "Discovered a secret shrine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/bcad793430df4d06f9378f5b88cf90a58635ef79.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/0aced15ff0cc750185ee49e8cd0fbc2c78c715fe.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "41.0"
+    },
+    "shrine03": {
+      "name": "Finding secret shrine 3/10",
+      "description": "Discovered a secret shrine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/9c4727ff9a96042dfcb28fc60b3b24f03e2a0d37.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/a5d5fb85ca59bbaae103f62e6a92d2ef8deadb99.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.7"
+    },
+    "shrine04": {
+      "name": "Finding secret shrine 4/10",
+      "description": "Discovered a secret shrine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/fcd702ae6e7f5a8bd6e965613c0b5dca35023769.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/6b6f2279a5211c07f742733efbf73f771a2f957c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.9"
+    },
+    "shrine05": {
+      "name": "Finding secret shrine 5/10",
+      "description": "Discovered a secret shrine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/4ddc023ca65c8149e19476b965051bf1a5adc278.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/adb2ca47823f9c3d46429872fa22cb0ada40d045.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.9"
+    },
+    "shrine06": {
+      "name": "Finding secret shrine 6/10",
+      "description": "Discovered a secret shrine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/cf46f0915819da7fb522994a90eef6eb13461d22.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/b3e3fd1d31780c64768c24fac299c4139478f78d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.5"
+    },
+    "shrine07": {
+      "name": "Finding secret shrine 7/10",
+      "description": "Discovered a secret shrine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/f86dc97f27dc1d97bdd61a520e9fa769b6364491.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/fc21ddffeba3cceeed055d6ebe474c1ab02dc392.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.1"
+    },
+    "shrine08": {
+      "name": "Finding secret shrine 8/10",
+      "description": "Discovered a secret shrine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/4b8c2b97e67b44deb6ed8bd2816d7d21be21c8d5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/f61dba055418d609a10fd768f1d4306ce6a3db15.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.0"
+    },
+    "shrine09": {
+      "name": "Finding secret shrine 9/10",
+      "description": "Discovered a secret shrine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/c9b4c374bf6fa36f8fbb0d733f27f9a8b02f96bc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/3f1959df5dc4956f8befabde9c91dc9b196c288d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.1"
+    },
+    "shrine10": {
+      "name": "Finding secret shrine 10/10",
+      "description": "Discovered a secret shrine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/13deb4fc4a1cd2d77d06f07a95310488c046f3c0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/afabbabc901abba2017331ff60688618fe101703.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.6"
+    },
+    "allshrines": {
+      "name": "A trace of the past",
+      "description": "All secret shrines Discovered",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/6eee526cfed83b32a38aa815c9afea11eb46093e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/7bb92ba0ad20cf67b969870b3dbce86cb433dd55.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.8"
+    },
+    "sisters": {
+      "name": "Sneaky sisters",
+      "description": "Sneaking past the chef",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/998db8142f38661b628e6a7bc05a3bdd9d456b7c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/49ec4b425c8a99fd682b16062b06dd08025fe26c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "92.1"
+    },
+    "journey": {
+      "name": "The journey begins",
+      "description": "Surviving the invasion",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/2d93cb5d121d263c17c56ee0b130b96b3732e575.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/087d740a1e16c4f79808686da7fdc66ba1de310d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "85.4"
+    },
+    "friend": {
+      "name": "A new friend",
+      "description": "Rescuing Mui",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/f42c9f7ecfc8d2700d00f28553dfc5af51eec3b7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/f1314709202689943ac855bf0f8f7d4e32a5f9ca.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "72.5"
+    },
+    "noreturn": {
+      "name": "Point of no return",
+      "description": "Finding a way in",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/85cbcd7469e8d6c22518e73ad97422c4f6c3c8ff.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/2377b2cb12795c5d91a8ed59cb25a391cf3050f3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "37.4"
+    },
+    "amulet": {
+      "name": "A key from the past",
+      "description": "Finding the amulet",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/d0dbd35762a1f9d4e778c2fa8d99ce9979cd6860.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/5cc8e2846ff1f84c173e686338d8efef9f3ddcc4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "54.3"
+    },
+    "shipwreck": {
+      "name": "A trace from the past",
+      "description": "A mystical discovery",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/773057afea01e5573ad6ed094a95dca8f273bebf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/138f37a73770ece230c84cdbab83ab486ea52a7f.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "48.0"
+    },
+    "bracelet": {
+      "name": "In control",
+      "description": "Finding the bracelet",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/e351b35aea783954c8e467e23d4d9b3ec7b34e44.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/b65640b4da78b2b13f96bdceb1f8fed39dbd3f2e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "46.5"
+    },
+    "motherbase": {
+      "name": "We’ve made it this far",
+      "description": "Together to the end",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/195816cc17b677be4439d867dc5ef0e10481a37b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/e52b2671750eb4919248ad207af644be2f391574.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "41.1"
+    },
+    "closecall": {
+      "name": "Close call",
+      "description": "Making it past the robot army",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/ff316ce9165f906041b98efe8327818a73224e7a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/a461c6d1a010b1279fe93fdf1f76712e0679f3e5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "37.7"
+    },
+    "freemui": {
+      "name": "Back together!",
+      "description": "Freeing Mui",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/68491baed8f1bdefba2596fbf11d062f2cdf52a1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/d9d72d3494e844d79c962076119b0ca6a924e2b2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "37.2"
+    },
+    "petmui": {
+      "name": "It purrs!",
+      "description": "Pet Mui for the first time",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/351e9cf01aa981bc63df0510e8bceed04944f526.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/3e55e36eec29d15465698b537e54aba2c89066eb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "72.1"
+    },
+    "creditroll": {
+      "name": "Home at last",
+      "description": "Completing the game",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/d47392f87431ff2deeec964a926c9b4e93a3854a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/af20397dc317c61a2f36431e9149bbca9371b2d9.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "36.8"
+    },
+    "flawless": {
+      "name": "Flawless",
+      "description": "Game completed without dying",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/f39b9d871ad5f4fe8366d2110d8d6f5d429cd06c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/eab3ccc37083d4edb2c55baec6e17abecc7dacb0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "platinum": {
+      "name": "100% complete",
+      "description": "All achievements completed",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/f48cfc9c932eae7114286972aeaaa57c6a9d848c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/d46c7e5b45a44cad4dceae203c1d01f2de5985c8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.3"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

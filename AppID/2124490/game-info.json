@@ -1,0 +1,397 @@
+{
+  "appid": "2124490",
+  "name": "SILENT HILL 2",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124490/header.jpg?t=1744248682",
+  "achievements": {
+    "TryToLeaveObservationDeck": {
+      "name": "No Turning Back Now",
+      "description": "Try to leave Silent Hill in the Observation Deck area.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/67dd901271e56a7dc1230e9c0411cf598cdd32a2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/b745b6c86e4a4d495c1c97024f4b95117e1c4bc3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.0"
+    },
+    "ReachSilentHill": {
+      "name": "Enjoy Your Stay",
+      "description": "Reach Silent Hill.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/1d80986dc1fc6402d7487d99fcc6c5e2e2f31b2a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/eadebca4e62f8dd8469105be97ee7891a188d1bc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "92.1"
+    },
+    "ReachWoodsideApartments": {
+      "name": "Nice and Cozy",
+      "description": "Reach Wood Side Apartments.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/66710f155e4a608523df23a1cf6b736bbe16e347.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/b0f03a891ac9baffedf4798f5f098c6517824433.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "75.0"
+    },
+    "ShootBalloonsWoodsideApart": {
+      "name": "Let's NOT Party!",
+      "description": "Shoot all the balloons in Wood Side Apartments.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/b3647aa5f581231e7768b415e42a25b4afd01dc3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/f57b9677ca95791a13f45438836a2c2397e2ff55.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.0"
+    },
+    "ReachBlueCreekApartments": {
+      "name": "Otherworldly",
+      "description": "Enter the Otherworld for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/dcb3d9ff192d0bd91c63e7186158b6e3ec12e743.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/026fdae2617884ad7ec7f62a53febe8713924c69.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "62.5"
+    },
+    "DefeatPyramidHead": {
+      "name": "Passed",
+      "description": "Make your way out of Blue Creek Apartments.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/cb4d76d82488f4078c6e630d7f3582ed29d6daff.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/477b9fc649892a0e84623f3512b096471ea57202.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "58.0"
+    },
+    "MeetMaria": {
+      "name": "Uncanny",
+      "description": "Meet Maria.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/8e29452f0398869f97d927f95b6ab556d41fafc4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/c640942571b40a5805442129281f613bc5bdec70.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "57.5"
+    },
+    "SH3Reference": {
+      "name": "All Seems in Order",
+      "description": "Discover the secret of Room 106.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/a369bca92c41d9d72394f0031ff6f52e857b198b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/56573c768ad8de1bd1ef417657c5f021b60fcab0.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.6"
+    },
+    "PizzaInBowling": {
+      "name": "Leftovers",
+      "description": "Find the pizza in Pete's Bowl-O-Rama.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/95f3686793ae11dd9442c516e733e68ad7cb2ac5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/36602db44c4d2d7bdbfd456b20a5ce886e3370e0.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "25.6"
+    },
+    "ReachBrookhavenHospital": {
+      "name": "Admitted",
+      "description": "Reach Brookhaven Hospital.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/d321ddaad92a2ff05966e770821daef8b0a0eaf7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/53f6c68898176f9f56b74b78c80ef97560cf3481.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "55.9"
+    },
+    "DefeatFleshLip": {
+      "name": "Nightmare Fuel",
+      "description": "Defeat the Flesh Lip.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/b0e8939712bffbd18a72a8b80b197c38d78fdbb2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/8fa7a5704fefa57a73fe27f0156a5f22fadb7c93.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "51.9"
+    },
+    "SurvivePyramidHeadChase": {
+      "name": "Alone Again",
+      "description": "Survive the chase in Brookhaven Hospital.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/f54458d9dc72f9256fd77717e81708c285334e00.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/f81ec7637aa7c9607ca867e5116f4cea820b74f7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "49.9"
+    },
+    "ReachLongStaircaseEnd": {
+      "name": "Into the Abyss",
+      "description": "Reach the end of the long staircase.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/aea36b69650dccd830264f01d3083bfb319fdfde.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/dc253d4e287ad3fe913dc2468e51a44554c1891d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "48.4"
+    },
+    "DefeatAbstractDaddy": {
+      "name": "Unforgivable",
+      "description": "Defeat the Abstract Daddy.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/9f800747cc43d3818a6ff88345dcc43723de2dbd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/7e87c5a4ef078f100484c538a79cf6072d7bffe4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "45.4"
+    },
+    "FindPyramindHeadRoom": {
+      "name": "Inner Sanctum",
+      "description": "Find His room.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/ba01acee9bd043298cd7a529f94d9f3dc10bd061.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/e5cdc78471196c3c75cd3ca53e5356908ac496b1.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "44.1"
+    },
+    "DefeatEddy": {
+      "name": "A Human Being",
+      "description": "Kill Eddie.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/b5f17202bdc02ebf6663bee559525804123be77c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/919dfdcbb22a6165d6560e6e37928708e67e714a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "43.6"
+    },
+    "LongSwimInTolucaLake": {
+      "name": "Scourge of Toluca Lake",
+      "description": "Spend 10 minutes out on Toluca Lake.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/0be07b0e3b27ffab2ac69edfcf2a68343e1eda94.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/4ab76a50a79e6df339759f0b5d428f39723a450d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.5"
+    },
+    "ReachLakeViewHotel": {
+      "name": "Glimmer of Hope",
+      "description": "Reach the Lakeview Hotel.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/c04dbcc8c300d716b3dce42365971e4f7f0e266e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/11dbefbcf6c359fb31e01a2d848f55f74270b70e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "43.5"
+    },
+    "ReachRoom312": {
+      "name": "Truly Special",
+      "description": "Reach Room 312.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/d09255d4dc6b355acc7245f52c0db1716994ef21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/f90ab08613541662c3a67c996d87a4c1135d5be6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "42.6"
+    },
+    "InteractWithBread": {
+      "name": "It's Bread",
+      "description": "Interact with bread.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/9ea4de0b49bb8351357929517d9ddca191d935ed.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/0c742ff44e0e34f43aa117a93f44d05a18efa0a7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "32.6"
+    },
+    "DefeatPyramidHeadTwins": {
+      "name": "Obsolete",
+      "description": "Destroy what you don't need.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/28a08e18fe462c43ed960a36df8d5f3a795401c5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/6b33b7d0dfa0f8f7a7ad904e88acffe11b469d38.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "42.4"
+    },
+    "DefeatBossMary": {
+      "name": "That Part of Me",
+      "description": "Defeat Her.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/d41d61edf5123b17ad04cc9f87adfcddfd6290fe.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/6ff86e171c787231d5f3461b133bc54a1764fa11.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "42.4"
+    },
+    "FindChainsaw": {
+      "name": "Lumberjack",
+      "description": "Find the chainsaw.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/4f8458334e11e86de81fc3e6d0ea2bfaafcc4c5b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/4f154e0d56e28d2e8ea80048892192dae7072812.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.1"
+    },
+    "FinishEnemiesWithStomp": {
+      "name": "Merciless",
+      "description": "Finish off 50 enemies with a stomp attack.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/966ba1e2ad30c449873dac3951f73c9678fd478d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/25c5a183b9b266a07001dbfe086841abb37f2e96.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.0"
+    },
+    "KillEnemiesRanged": {
+      "name": "No Big Deal",
+      "description": "Kill 75 enemies with ranged weapons.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/ef7e3c84e4ee0b65699157d3a50b1e8fc625a5e6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/474425970f2aa46cb1da3fb1edd1fb79e89dfc7d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "42.7"
+    },
+    "KillEnemiesMelee": {
+      "name": "Blunt Force Trauma",
+      "description": "Kill 75 enemies with melee weapons.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/79603ba615953bbf18f52bc91bf6f722eb089bd4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/06b1a4e4049db78bc6ded330df15f4c23265f6ac.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "57.1"
+    },
+    "TryToOpenClosedDoors": {
+      "name": "You Never Know...",
+      "description": "Try to open locked doors 50 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/592daa6c8a5c541d59a1d80c9fa7ca2147209ac4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/a1749888ac0c269abbe2335ce3eac175be737920.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "72.7"
+    },
+    "SelfLoathing": {
+      "name": "Shattered",
+      "description": "Destroy 50 windows.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/f41dde3c831e5b86a0c4d89da9fb9956bcb6632b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/832d432ddd398abd433ce3953d9735c9512533f2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "59.0"
+    },
+    "EndingLeave": {
+      "name": "Making Peace",
+      "description": "Reach the \"Leave\" ending.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/03fff506fb4e8b6d30a8499537b016946db3f8b9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/29b50168ad67890d06a983254c80a00f63c42e6c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "25.7"
+    },
+    "EndingMaria": {
+      "name": "Vicious Circle",
+      "description": "Reach the \"Maria\" ending.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/e3e8e59f66136c3fbd366b06340c280494d90519.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/8e86f763e93df9e9ee478fa13e6e6dcf463c68b3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.3"
+    },
+    "EndingInWater": {
+      "name": "Only Way Out",
+      "description": "Reach the \"In Water\" ending.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/fed28e3b00286e5981d146b06ebfdfc0dbbbb1a9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/a689e03039f9a3f837eb17341301e3a91ab55e66.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.1"
+    },
+    "EndingRebirth": {
+      "name": "Defy Even Death",
+      "description": "Reach the \"Rebirth\" ending.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/b6fa4d1302e1b09f607fc6ec8d1ecfb6a9d51f39.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/b097f16df9945a819a8afec444dd1589ab5c0775.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.5"
+    },
+    "EndingDog": {
+      "name": "The Goodest Boi",
+      "description": "Reach the \"Dog\" ending.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/7c27e00da1c40a70c27e424d4c335d39d80a4e18.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/4f6fa62eccd078626f5e5b16e5c8981980c34235.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.8"
+    },
+    "EndingUFO": {
+      "name": "Tinfoil Hat",
+      "description": "Reach the \"UFO\" ending.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/95c3df64f58de5152fca4a87783caed3b6ecfb4e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/ec1e9a583b219c19d492bd2a3d91cd98c37b0b1c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.3"
+    },
+    "CompleteNewGamePlus": {
+      "name": "I Saw That Town",
+      "description": "Complete New Game Plus on any difficulty.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/4e81170a993f4a33ca9cfb4b4e3004033705dd3f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/da619fae7b8fc0d5667e490fb39bc1ea7c554832.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.5"
+    },
+    "RadioSilence": {
+      "name": "Radio Silence",
+      "description": "Complete the game without using the radio.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/0d4982941dfa59acb6c489b0ec884343965026c0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/6133ffc937a330a0bff1840cd19751d2296bfa2f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "UseAllWeapons": {
+      "name": "James of All Trades",
+      "description": "Kill at least one enemy with Wooden Plank, Steel Pipe, Handgun, Shotgun and Rifle in a single playthrough.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/1c9f1599330699cd2c66a0fdf813797bdc7e2da6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/3ad391bd1f83058d466c31ae7f242d2633f9c2dc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "42.1"
+    },
+    "FindPhotos": {
+      "name": "Pieces Unarranged",
+      "description": "Collect all the Strange Photos in a single playthrough.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/f7306f84ea2d5f9e8936d910d543fa6db879955f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/9a736612635fbbde3fb4d80b52203fdb4d97d407.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.0"
+    },
+    "FastAsFog": {
+      "name": "Faster Than Fog",
+      "description": "Finish the game in under 10 hours.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/d1f2f806a858766df2e8b22bf377f3d9af07661e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/a034eda57fbf17a3882958d5eb04a07c8a784f5e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.2"
+    },
+    "Archivist": {
+      "name": "Archivist",
+      "description": "Collect all memos in a single playthrough.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/7ec550901baa66d07c925e8b6e1b6f54a582df1c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/60ab7935130ab3d73a7b039e6d490ea88ef6b062.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.9"
+    },
+    "FinishGameNoRangeWeapon": {
+      "name": "As Close as You Like",
+      "description": "Finish the game without killing enemies using ranged weapons.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/afef4be76e803d7284ebcad958eb37ec527e5a34.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/30b020f45f67008a1b4959ca8eb9d410d18ba302.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "SeeAllCanonEndings": {
+      "name": "Party Like It's 2001",
+      "description": "See all classic endings (Leave, Maria, In Water, Rebirth, Dog).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/502612d0a86b70390ee9d0c840e53ddb15040901.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/0d3ba777a07cf7831476ca59f4c38186f106c9d2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.6"
+    },
+    "FindAllPastLocations": {
+      "name": "Echoes",
+      "description": "Witness all glimpses of the past in a single playthrough.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/5cc3fb6cf87432305b4efc94f67889bb5c657654.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2124490/cabae33dd6769414ae28e1ab342de29ea404b8e5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.9"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

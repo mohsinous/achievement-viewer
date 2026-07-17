@@ -1,0 +1,289 @@
+{
+  "appid": "3565040",
+  "name": "Rumbral",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3565040/d93635af7aa9345df064986b4b0ada39af3e4aa3/header.jpg?t=1776895217",
+  "achievements": {
+    "Achiv_DangerSign": {
+      "name": "Warning! High radiation levels",
+      "description": "You found a warning sign covered in graffiti.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/710b3877ea808da33385daf752dfbab8bcb8dcae.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/01b1f7e65d527feea7d83ae1d0db1c879b0dd8c9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "51.7"
+    },
+    "Achiv_DeerHorn": {
+      "name": "Splintered bone",
+      "description": "You found a decrepit bone that looks like a horn.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/fee6b35ee741605bf2f2f7c61459024de0bdc8b9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/a253433d96c2959acb9a60494f0df745b2580ca0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "87.5"
+    },
+    "Achiv_GetAll": {
+      "name": "You will remember everything… in time…",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/b665071205106074b58091ab675996344a43d755.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/bf1dc2fb5e68b23a95ae7c6b2a1981f1f30e74fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.6"
+    },
+    "Achiv_Helmet": {
+      "name": "Remnants of civilization",
+      "description": "You found a helmet with a strange light.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/1d5463889a94dd1981ab3306bb154a03a38e6315.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/e8fb37e62cb6324e2adfc6b7263c69ec561be806.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "56.3"
+    },
+    "Achiv_Mineral": {
+      "name": "Strange mineral",
+      "description": "You found a stone with an unusual color.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/ae0605f1cb53055fedadaa0e028d141a7b930c61.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/9b4e8cd4419ccdffb2c657c0d3e8267f7d99b9c9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.8"
+    },
+    "Achiv_MusicBox": {
+      "name": "Antique music box",
+      "description": "You found a small machine that emits a faint melody.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/cb38171db3df5b5d37c93ab0e6000f8ac0d3e360.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/7e9a9bc14a84703cb58cd4fa90532e56d35198d4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.0"
+    },
+    "Achiv_Schematics": {
+      "name": "Project R2",
+      "description": "You found some sketches of someone who looks far too much like you.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/f1ea4a69e29f581dbc7d786077d90e3b2ff00ac2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/a1d42bc59cc029bb5ef31de4312b331aebcf275a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "53.1"
+    },
+    "Achiv_WelcomeSign": {
+      "name": "Welcome to Rumbral",
+      "description": "You found a sign that reads… Rumbral?",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/837003845a7b8b1b022336b58c63bfdf32b56cf8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/35ff325ae79077e733b1f22858465f097fa84e24.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.4"
+    },
+    "Achiv_CompleteLvl1": {
+      "name": "Loneliness",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/51ae15b53d76b98fb30268dec3805df628bb0063.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/1f7114708a4b610d217124f69d275a4cb10dd556.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "83.7"
+    },
+    "Achiv_CompleteLvl2": {
+      "name": "Abandonment",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/0a4a6e3e4142b3c57db8aae83f58501102118132.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/5dfef6f026835641db27deb4e428bae066401572.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "69.7"
+    },
+    "Achiv_CompleteLvl3": {
+      "name": "Unease",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/f6ac22863702c32fa7384680043f4463726b75fc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/6266d5096cbb107e009579076806dcdb98d32b0f.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "63.7"
+    },
+    "Achiv_CompleteLvl4": {
+      "name": "Exhaustion",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/e0e99af01e1fff1afc97bed03b84a71719ea04d8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/3bc298fabaddac20aa7c207223e4d1d556772360.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "56.7"
+    },
+    "Achiv_CompleteLvl5": {
+      "name": "Danger",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/3a621784813f33ad1b3fe1e82d5dffedcab3be1c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/0e691396992584ece924e844ca7bdbc53adaaf5b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "52.1"
+    },
+    "Achiv_CompleteLvl6": {
+      "name": "Confusion",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/432e7e5ea9b80e190d070022add26a72f0522775.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/66c93040bb8d0b801fde360d58ae8914261c5724.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "51.1"
+    },
+    "Achiv_CompleteGame": {
+      "name": "Complete the game",
+      "description": "You finished the game.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/922f8da25608fa403290352de810321795e8554d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/7d55f932ed16743a4c359ecffbf1fde1f9c10243.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "51.1"
+    },
+    "Achiv_TripleScored": {
+      "name": "Nice triple!",
+      "description": "You threw a stone and scored a perfect shot.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/8eccb4e491f1ae626935239891415351553e85b3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/d4deac7f3dd59a41838b88170cdd6e53e24e0d14.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.6"
+    },
+    "Achiv_CarPushed": {
+      "name": "It just needed a little push",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/68bae2dcbffbed4e5ffb364ad7d58debc4809534.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/4e98a4e5fd862af2e9cfca6da86112a661731d92.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "90.5"
+    },
+    "Achiv_WallDiscovered": {
+      "name": "The mural",
+      "description": "Someone has been here before.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/2327afd3ac972c7c06093762d002a612309360c0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/f0824827c37b1f106ab3fa25db9b8413b1ed6497.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.0"
+    },
+    "Achiv_CompleteTutorial": {
+      "name": "On your own now, good luck!",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/efa9a2f358c005d2be4566827a2fb7374ef6989d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/20a1a8b7d64959e14eda78b45d591a35c2f04943.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "56.5"
+    },
+    "Achiv_BrokenPlatform": {
+      "name": "You’ve broken it now!",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/4bd57611d226ef184e55ad781d8f2b1c72039520.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/184395edc06ff46846b93de2b7d213a4165b2909.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "50.7"
+    },
+    "Achiv_AllTypesOfDeaths": {
+      "name": "A thousand ways to die!",
+      "description": "Die in every possible way.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/299dc3736946ca20c5f60fc459e27a9840b0552a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/ada901ad696f153287cb11007025bb69a8ab73b1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.2"
+    },
+    "Achiv_DistancePushed": {
+      "name": "Push day",
+      "description": "You pushed boxes for 100 meters.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/6cdf7bee5a235c1393abb14406482b003b6966e7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/3a7dc66b34e2ed91dea509d81f6947a0273935cc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.9"
+    },
+    "Achiv_DeerBridgeReached": {
+      "name": "Did you survive?",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/4f14866b470de5418a923f57ea9356e419fa75af.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/ba05b220967d0a0263b81dcc01db9cfad0ff070e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "54.1"
+    },
+    "Achiv_PersistentWithTargets": {
+      "name": "The persistent one",
+      "description": "Hey, don’t you ever get tired? You activated the same target three times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/e1fd562dcd5df34ff894d6ba7a4ef02d3b51ed08.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/785ae9f2f764f490d6cd03e2a1c5e29fc1cd73ea.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.0"
+    },
+    "Achiv_WorldChangedWithItem": {
+      "name": "I’m taking this!",
+      "description": "You carried an object to the other side.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/30a8f7231a601dfdbbc53df7ece827cfcfbf282f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/c2661c5bc0dbe2d82390456056e1295a812bc50f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.6"
+    },
+    "Achiv_LightsTurnedOff": {
+      "name": "Blackout",
+      "description": "Let there be darkness!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/19997bf9627392f5643c2afe9faaa102b405aa28.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/e90226b38544611774bc572dca92ad0d8380d425.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.6"
+    },
+    "Achiv_CompleteGameInTime": {
+      "name": "Such a rush!",
+      "description": "Finish the game in under 45 minutes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/c3e8b0206046be5173d143ac7d312626154d3b98.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/6feb643a462724bbde4c42801d780d4de568c982.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.6"
+    },
+    "Achiv_Zapping": {
+      "name": "Channel surfing?",
+      "description": "You weren’t alone…",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/7578469ca61bba1d3b39d4823a868f04239fe230.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/5c69f6db2504909f261ac944d38556e793bd8e2f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.8"
+    },
+    "Achiv_Crusher": {
+      "name": "Crusher",
+      "description": "You activated something… and it looks like you broke it.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/b4a1cb4ab1aaa58ea82765913463bf8e20c73653.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/030e8bcc5ad20c7845e202072d9373f292ac5c90.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.2"
+    },
+    "Achiv_TestTubes": {
+      "name": "Test tubes",
+      "description": "You found a strange liquid inside some laboratory tubes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/c97c03309f54b89830ab2bf7e3379ca6fa9803b9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/a54af5ad4ea2b3a9abf6b90dc415bbc938fffab5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "62.7"
+    },
+    "Achiv_MetalParts": {
+      "name": "Metal parts",
+      "description": "You found some metallic remains that feel strangely familiar.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/798f7c2d6b3481f11a8d81ab75aa0f635f3b2b03.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/222ea4ae2b4bd3a746f39fdb29a48a618c67a12c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.4"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

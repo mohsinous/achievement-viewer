@@ -1,0 +1,397 @@
+{
+  "appid": "2769080",
+  "name": "Kong: Survivor Instinct",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2769080/header.jpg?t=1760966155",
+  "achievements": {
+    "B1S1_KongTrain": {
+      "name": "It was stupid but it worked",
+      "description": "Lure a Titan for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/7d65289fa4e1ca2be8d463cd155ca5921afe5486.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "81.9"
+    },
+    "B1S2_KongChase": {
+      "name": "Giant Angry Ape",
+      "description": "Escape Kong.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/79841df63716fbdb14abaa25ee1f085a5acaa30b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "69.5"
+    },
+    "B1S3_KongBuildingFall": {
+      "name": "Not how I planned it",
+      "description": "Lure a Titan two times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/d7f32fb1fd7bb2a99fd976437ecf9e3a338ee254.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "61.0"
+    },
+    "B2S1_AbbadonWeb": {
+      "name": "Surprise!",
+      "description": "Lure a Titan three times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/6703671844e473330e5e58275b874e403805102e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "42.8"
+    },
+    "B2S1_AbbadonSneak": {
+      "name": "Eight all-knowing eyes",
+      "description": "Escape Abaddon.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/d18ff1807f4be8f4c2be0056811e358e3df4a18a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "42.4"
+    },
+    "B2S3_AbbadonChase": {
+      "name": "You cannot hide",
+      "description": "Escape Abaddon again.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/56e3c038bf62e561a63c328bef9912e38aa04f6c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "39.8"
+    },
+    "B2S1_AbbadonTownSquare": {
+      "name": "The Square",
+      "description": "Lure a Titan four times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/109627ed053df50cb3495853e31338057cbcf707.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "39.3"
+    },
+    "B3S1_TiamatShip": {
+      "name": "No step on snek",
+      "description": "Lure a Titan five times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/96b79c303291a027eec30dcb83ef60a87fc3b303.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "36.6"
+    },
+    "B3S3_TiamatChase": {
+      "name": "Danger rope",
+      "description": "Escape Tiamat.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fc3d0c0406732bd8a17dee6da750efb235254212.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.7"
+    },
+    "B3S2_KongHelp": {
+      "name": "Unexpected help",
+      "description": "Lure a Titan six times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/0690621a8189617d6394da05a8f62f34421d6bf7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "32.8"
+    },
+    "B3S3_TiamatKongChase": {
+      "name": "When gods fight",
+      "description": "Escape Kong and Tiamat.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/5724f4ac21cef3fc746493f5a8ec1b0d8c1e13df.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "29.9"
+    },
+    "FinishGameAchievement": {
+      "name": "Monster game",
+      "description": "Finish the game on any difficulty level.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/962e669ff7891ca3c552357373aab459ce19103c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.8"
+    },
+    "CheckAllHintsAchievement": {
+      "name": "Need a hand?",
+      "description": "Check all hints in the pause menu.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/74e893d2707dfebad8499c266e5a3f0e43d66131.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.5"
+    },
+    "EnemiesFallFromLedgeAchievement": {
+      "name": "Takanoyama",
+      "description": "Make 10 enemies fall from a ledge.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/99a6f3c0eebdd58182b9b1caeab386d7e170e079.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.7"
+    },
+    "HeadshotsAchievement": {
+      "name": "Sniper",
+      "description": "Kill 20 enemies with a headshot.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/8b02ec41ceef1305ad293611654c1e4d14e6b2d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "42.1"
+    },
+    "DodgeBulletAchievement": {
+      "name": "Contortionist",
+      "description": "Dodge a bullet 20 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/f364289b1d460eb7d5c78b4057c7fb5c9cd533ed.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.3"
+    },
+    "HeavyAttackKneelingEnemyAchievement": {
+      "name": "Merciless",
+      "description": "Strike a kneeling enemy with a heavy attack.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/9610e8cfe366bda75b501b8a6da7faf72cb1423d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "KillEnemyWithFireAchievement": {
+      "name": "Toasted",
+      "description": "Make an enemy die of fire.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/3945e1d12ec2c652028e22e917665ffdb32a1ca9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.2"
+    },
+    "KillEnemyWithElectricityAchievement": {
+      "name": "That's shocking",
+      "description": "Make an enemy die of electricity.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/7510fede7ec54d7a3ccefa51b676b46cf397ffc4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.9"
+    },
+    "KillEnemyWithAcidAchievement": {
+      "name": "Toxic Player",
+      "description": "Make an enemy die of acid.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/590bbd7751c2083a862197f69730e4c66478de43.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.4"
+    },
+    "ParryEnemiesAchievement": {
+      "name": "Fencer",
+      "description": "Parry five enemy counters.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/80c0e817427ba251be220a0eb5654bf29e008cb0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.7"
+    },
+    "DamageEnemiesWithExplosionAchievement": {
+      "name": "Pyrotechnic",
+      "description": "Damage 5 enemies with an explosion.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/48d70a0b8567f99b6e2f4eea3f63218a4bbb6e34.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.7"
+    },
+    "KillEnemyByPushOnWallAchievement": {
+      "name": "Breathtaking",
+      "description": "Kill an enemy by shoving them onto wall.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/335cafb6f7327c129de4b0e4371c1b618680684c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "47.6"
+    },
+    "EnemyKickedFromLedgeAchievement": {
+      "name": "Bye!",
+      "description": "Kick an enemy off a ledge.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/9738d7ac5e24e4f393a26dd80fc6f1acb8417ed6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "31.1"
+    },
+    "ShootInALegAchievement": {
+      "name": "I was an adventurer once",
+      "description": "Shoot an enemy in the knee.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/6d6da6fcba7abbb20102051b2fefcb494b483275.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "42.0"
+    },
+    "ShieldedShootInALegAchievement": {
+      "name": "This won’t help you",
+      "description": "Shoot an enemy with a shield in the knee.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/bdd4080009de0dd56ac619306ef1f36a8c70cb33.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.0"
+    },
+    "ShootSplattedEnemyAchievement": {
+      "name": "Tactician",
+      "description": "Shoot an enemy when he is staggered after bumping into a wall or another enemy.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/539d9c1b26ec396dfe75a5eab1fff4bdc3544a69.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "25.8"
+    },
+    "EnemyKilledByEnemyAchievement": {
+      "name": "Friendly fire",
+      "description": "Make one enemy kill another enemy.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/de5fd97d00f5e12c0465bdc7e568eaad01fb9c1e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "56.4"
+    },
+    "EnemyLostShieldFromKickAchievement": {
+      "name": "Leg day",
+      "description": "Disarm a shield with a kick.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/44068fa71af8445bba3cedeb1e520e7c030dce09.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "31.1"
+    },
+    "ShootAboveEnemyAchievement": {
+      "name": "Small window",
+      "description": "Shoot an enemy above their kneeling ally.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/aa30fbff23786b9fa5070b582ed9b53c96cb128a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "46.6"
+    },
+    "HipshotEnemyAchievement": {
+      "name": "Point blank",
+      "description": "Shoot an enemy while catching them.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/190685c1159a7eded3d20556d676dbfabb773b9b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.7"
+    },
+    "HeadshotKneelingEnemyAchievement": {
+      "name": "Eagle-Eyed",
+      "description": "Kill an enemy with a headshot after shooting him in the knee.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/42e159564f7eba9e0d33319ec0c46e41399291ef.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.9"
+    },
+    "EnemyKnockbackedIntoSthByAnotherEnemyAchievement": {
+      "name": "Domino",
+      "description": "Make one enemy push another into a wall, trap or ledge.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/548125d64392a2cfa269c35ec01665159628eef4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "47.8"
+    },
+    "DestroyPadlockWithHeavyAttackAchievement": {
+      "name": "Hammer time!",
+      "description": "Destroy a lock with a hammer.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/50c9ff0d128ba857d27a99c822698d47f4c98c9b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.8"
+    },
+    "RipRippableWithHookAchievement": {
+      "name": "Work smart not hard",
+      "description": "Rip out bars with a grapple hook.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/235eb246ff8002963bb441caa1d5eed645a04955.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.3"
+    },
+    "RipGripRippableWithHookAchievement": {
+      "name": "Long arm",
+      "description": "Open a hatch with a grapple hook.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/77e27d4f85b18ef906f6cb04b524446b93606c76.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.6"
+    },
+    "FadeWallAchievement": {
+      "name": "Explorer",
+      "description": "Uncover all rooms.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/5ccad3ea8ddfd85def3af88849d06e93953c6372.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.5"
+    },
+    "CollectHPUpgradesAchievement": {
+      "name": "Hungry",
+      "description": "Collect all health upgrades.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/2beea703847cc1774c29720b4f392fa4c109ded6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.9"
+    },
+    "CollectMagazineUpgradesAchievement": {
+      "name": "Armed to the Teeth",
+      "description": "Collect all magazine upgrades.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/ff58b661787b13eccf99a8354437bf5cf220d749.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.0"
+    },
+    "CollectAllLogsAchievement": {
+      "name": "Thirsty for context",
+      "description": "Collect all logs.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/c60d284635bf9aee39463c1a6ee340a3cbe8a668.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.2"
+    },
+    "CollectAllUpgradesAndLogsAchievement": {
+      "name": "Syllogomania",
+      "description": "Collect every log and upgrade.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/067c5733950e7c1dcbaa14e9be2582109da17645.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.6"
+    },
+    "FinishGameOnHardModeAchievement": {
+      "name": "Hard game",
+      "description": "Finish the game on the hard difficulty level.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/d48b8459e35eda9e0ceacb45d8e790bfc50f6560.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.3"
+    },
+    "AllAchievementsCompletedAchievement": {
+      "name": "Dedication",
+      "description": "Complete all achievements.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/977ecfb547e894c97cd6f64089504cd61a59fd82.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.7"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

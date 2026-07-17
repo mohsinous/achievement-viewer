@@ -1,0 +1,460 @@
+{
+  "appid": "2183900",
+  "name": "Warhammer 40,000: Space Marine 2",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg?t=1780329761",
+  "achievements": {
+    "STORY_INTRO": {
+      "name": "The Die Is Cast",
+      "description": "Rise as a Primaris",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/7fc41975514e72ce3782d8941d39c09b52b4f05b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/46314e26e32c61f3aceb9a939759679c9f8db4c4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "93.9"
+    },
+    "STORY_CANNON": {
+      "name": "Unleash the Cannon",
+      "description": "Destroy the hive ship with the power of anti-aircraft batteries",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/a99da8de2e0e6ff0a6014e74bccc2f08f44c711e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/ace9a149ba08c29d1271a9af6426110930e09ebe.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "81.8"
+    },
+    "PVE_ACID_BOMB": {
+      "name": "Crude but Effective",
+      "description": "Deploy a bomb in the promethium well to destroy the Tyranid swarm",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/0d6242bc33449b450fa9c7671684c423e7df872f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/eecd8bfd24ba4a8feb78c81ecc1b13e8125dd131.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "55.1"
+    },
+    "STORY_ASSASSINATION": {
+      "name": "Chaos All Along",
+      "description": "Discover the Chaos presence on Kadaku",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/f86445407818f012cfac3302a4b6d2bba04fbd00.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/28e7b8ca1eaaadb624ba6dcb21a809937d6a127a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "71.0"
+    },
+    "STORY_SKYLAB": {
+      "name": "Target Acquired",
+      "description": "Ascertain the location of Morias Leuze",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/0d9c25e128f98833661009fb2d06ff27d735a9fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/6a5e1545dbb43f58ed160ba66c1a8f571128661e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "64.6"
+    },
+    "STORY_RESCUE": {
+      "name": "Vital Asset",
+      "description": "Rescue Morias Leuze from the Chaos assault",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/1a8f223b57ff73c10c0dfa3e01c1481c722fbe53.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/2d853a89cb31ec1f38e93ab7d520d6dfae64dd8f.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "60.6"
+    },
+    "PVE_TYRANT": {
+      "name": "Sic Semper Tyrannis",
+      "description": "Kill the Hive Tyrant",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/5f9ae2bf63d2967eacbe2eff86a589428bc2baf5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/e95382cfa95d7a039ca8d6e443f072380b605209.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "45.7"
+    },
+    "PVE_DAEMONHOST": {
+      "name": "Voice in the Dark",
+      "description": "Eliminate the Daemonhost and restore vox communication",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/513e527196b4c3dcdb0d77deef18fb1224ff3c43.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/f5d9b630753886bda7b52dbf5960755175b8a6c4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "41.2"
+    },
+    "STORY_TOWER": {
+      "name": "Enemy Revealed",
+      "description": "Defeat the Chaos sorcerer",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/5f2703d1db0cac7fdaf41bf58da678b05e135b21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/42e15ee629ae5f1f5e6badb5efe74a34ffb92e53.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "57.3"
+    },
+    "PVE_FIRESTORM": {
+      "name": "Douse the Flames",
+      "description": "Destroy the Chaos warp beacon",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/b433bae9c2d269372bc599a61e9ace4591b52099.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/f19b56ce81938db5cbd0113504963060a6b0dbfd.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "36.8"
+    },
+    "PVE_ANCIENT_WEAPON": {
+      "name": "Resurrection",
+      "description": "Reanimate The Sword of Atreus",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/07a5a4ca944de0b8cbb24a6f43cd1946e7944c30.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/d9c32785a96e5df3d4e41f222e6797eb2ed731cc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "35.3"
+    },
+    "STORY_ORBITAL_DROP": {
+      "name": "My Face Is My Shield",
+      "description": "Hit 10 objects during the sub-orbital drop",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/f9f144a5b7a75415d8fc9522f275db040a8a194e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/b57f0dc3579cd0f7d0ff7f6e7cc4790a9324fc68.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.9"
+    },
+    "STORY_BLACKSTONE": {
+      "name": "Break of Dawn",
+      "description": "Discover the true nature of the Aurora device",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/aaf11852d5dcbcbefdc7beed3d50cff4f10488eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/cc8e7c2d1fb41f39dfd14fc24dae3824d46dc906.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "52.9"
+    },
+    "STORY_LAST_STAND": {
+      "name": "Into the Abyss",
+      "description": "Withstand and overcome the Chaos invasion",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/7ab0c55d199d1b8fc30ed77548f47035449beea7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/d686d122d80c489aae3e288c4fa3727e65d20278.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "52.3"
+    },
+    "STORY_FINALE": {
+      "name": "I'll Be Watching You",
+      "description": "Defeat the Lord of Change and face a figure from the past",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/c9a5af319d6a82f39e6e280371d2d39a669688fb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/ddbcdffdeac4c3191a8a9da72453e052e42e1a84.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "51.6"
+    },
+    "MARKING_TOOL": {
+      "name": "Purge Them All",
+      "description": "Mark every enemy type",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/b7e81bd97fa21fb6cbb5f12080ccdd535defecc9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/a786747c1a1e78d14ecf305c1f34fe8682786361.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "FINISHERS": {
+      "name": "The Art of Dismemberment",
+      "description": "Perform 50 unique Finishers",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/a9f0c251bcc7b17c442857adfe9e1feb77bfec1a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/c67bf0d0474d58c50b6eee5ba686e28315056b22.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.0"
+    },
+    "DATASLATES": {
+      "name": "Data Mining",
+      "description": "Collect all Dataslates",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/2e4e61c1ffa88cdfca5ad2ed7577097dc7bb0641.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/fad2711be2a98c15265f3057c827407d4e57bb2e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "KILLS_IN_FURY": {
+      "name": "Furious Retribution",
+      "description": "Kill 100 enemies using Righteous Fury",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/dde244fbaff38a4848a5bebfc32e4d6f9ef2a472.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/7f3303ea6fe3d811a1cbd7f931b3652b282cc880.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.2"
+    },
+    "PVE_TRAIN": {
+      "name": "Outbound Payload",
+      "description": "Deliver a nova cannon warhead to the Tyranid position",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/5269c415d710222eed518f91e6f6e0a486d5905d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/df3327f0e4ec3436e9b4e8eabdcbff988326c1a3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.0"
+    },
+    "PVE_RUTHLESS": {
+      "name": "Valour Crest",
+      "description": "Complete any Mission in Operations mode on Ruthless Threat Level",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/ebfce77fe82282b0912e67ee1cde440abb412846.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/5ecf35ab270acdc257e15f714d237ce4d2e87c06.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.9"
+    },
+    "PVE_MAX_LEVEL": {
+      "name": "Strategic Specialty",
+      "description": "Reach the maximum Level for one Class",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/e07faae991239b99b9211d04133ed4e8e09f83e2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/c074b26930afcc1403d67b0f091515224ed13ec2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.5"
+    },
+    "PVE_MAX_MELEE": {
+      "name": "Sharpest Edge",
+      "description": "Reach the maximum Level for one Melee Weapon",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/36b6ca32db52a4341a9b61d02127dea10f42df08.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/19f4612013c48a8b63dbc4c9faa409cdf698c421.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.8"
+    },
+    "PVE_MAX_FIREARM": {
+      "name": "Strongest Shot",
+      "description": "Reach the maximum Level for one Ranged Weapon",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/d56bd744650ed4ece7f735a0093440f6a6ed55a5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/5f83aced1f90c060c1269c9a4662d9bb14484bad.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.6"
+    },
+    "PVE_FULL_ARMOR": {
+      "name": "Bespoke",
+      "description": "Customise a full Armour set for one Class",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/484fc66324ebca6de3ece60b8dc6086cfb097772.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/bdff013d85e8ec321475417a24b10b09e21f1529.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.1"
+    },
+    "PVE_PICKUPS": {
+      "name": "Principia Imperialis",
+      "description": "Find 200 pickups in Operations mode",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/7f67709fa8ede5b1196875fbed792ca4dfa854ed.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/515e33a65c96f94a548eba17ed36020deddec418.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.1"
+    },
+    "TOTAL_KILLS_SILVER": {
+      "name": "A Blight to Be Purged",
+      "description": "Kill 20,000 enemies (all game modes combined)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/ecd70284b9dd982878cfbecd7bf74b3f427011b1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/d56db416d9daa4c1bb4b67339f728d25b236edf3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.8"
+    },
+    "CHAPLAIN_INSTRUCTIONS": {
+      "name": "Why Is It Always You Three?",
+      "description": "Hear all of the Chaplain's dialogues",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/1d927e40898ea761d1188d2a63e6b3e431b56e90.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/3c343837985d44b438be4fe58b582769c8bcca93.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "55.6"
+    },
+    "SOLDIER_KILLS": {
+      "name": "Master of Arsenal",
+      "description": "As a Tactical, kill 25 enemies with every available Primary Weapon",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/c2b5bee04e756a2523f415630b9040cef844f0e3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/952fa1a89441b5c1be88be8bed2b125256378d04.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "SNIPER_HEADSHOTS": {
+      "name": "Dead Center",
+      "description": "As a Sniper, make 250 Headshots",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/ef73fbb8257cd21d4b4bd1e924b336e51810ac90.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/33b39ee5b448ab5a97ae310a0fbb69ed9b6f6e71.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.2"
+    },
+    "SUPPORT_KILLS": {
+      "name": "Immovable Object",
+      "description": "As a Heavy, kill 500 enemies while in Heavy Stance",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/4a9260db7c1d7afce7d7e7b692a56c49e59f5377.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/a9c56b38459fb1d098c68c328595a2e60e625e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.6"
+    },
+    "RAIDER_GROUNDPOUND": {
+      "name": "Thunderous Impact",
+      "description": "As an Assault, hit 500 total enemies with Ground Pound",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/d61c9a49483a25bf348ff52b1b3e814d9e541a8c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/ced24795f14a16b1e76e9b88b06e844d992d6abf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.6"
+    },
+    "TANK_KILLS": {
+      "name": "Guardian's Might",
+      "description": "As a Bulwark, kill 100 enemies with every available Melee Weapon",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/abe8275f441094af0933c35ed707889b1111acb4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/00f6585ec35bc5d2ba4b746ec72d3110d75388fe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.2"
+    },
+    "BERSERK_GUNSTRIKES": {
+      "name": "Lightning Strike",
+      "description": "As a Vanguard, perform 100 Gun Strikes",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/932762a4a7805faa81611ff16ccf5eebc78f41c7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/a55f557a15b3247df1f22bb38f4a8ec6fe0160f5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.0"
+    },
+    "RAVENER_CANCEL_GRAB": {
+      "name": "Unhand My Brother!",
+      "description": "Force a Ravener to release a grabbed Squad Member",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/5053da446373885d42ff666e483014992ae642e4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/6614d83d403bb06ac5ec1eae12ebd15ec6b92f44.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.7"
+    },
+    "ATTACK_LICTOR": {
+      "name": "One Ugly Xenos",
+      "description": "Bring down a Lictor before it attacks from an ambush",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/4b387d9abd51d00f5d8fe05c457d1c043096637f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/971d3000fbcd619edf38e7ffbb48213302fcd050.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.2"
+    },
+    "KILL_LESSER_SOURCERER": {
+      "name": "An End to Heresy",
+      "description": "Kill a Lesser Sorcerer while he's reviving a Rubric Marine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/9a5b2d94642518ff45ce9de400eaf5b32d44bbb4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/131aaef161d4b3a27bec916b6951fe9fa315bb31.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.2"
+    },
+    "PERFECT_PARRY": {
+      "name": "Know No Fear",
+      "description": "Break a Scarab Occult Terminator's Melee Combo Attack with 2 Perfect Parries in a row",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/c318e349638fb27a94585209c343de3fd2df97af.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/0d30a4d523ffb8ddacf648dfd6eea0c88e4a03e0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.7"
+    },
+    "KILLS_BY_TRAPS": {
+      "name": "Field of Battle",
+      "description": "Kill 100 enemies using environmental hazards",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/b132ebdc3111477d4e483d4acdf26e59a5fdebca.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/b38eb360b7954825552e1a22d34007e1bf2c266b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.2"
+    },
+    "KILLS_ALERT": {
+      "name": "Silence",
+      "description": "Kill 5 enemies while they are conducting a Call for Reinforcements",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/8f46ab0c4b7098b96817221a6c645e3af0752008.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/9bb74e43cec4ece144be2fcdf56be9c1cc3cf9bd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.0"
+    },
+    "PVE_TYRANID_KILLS": {
+      "name": "Xenos Exterminator",
+      "description": "Kill 1000 Tyranids in Operations mode",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/8639c6264431a45781fe47526cf36e2ab338ce0d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/dfd9555220709bb50d88a451d74f1e76c968ba01.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.0"
+    },
+    "PVE_CHAOS_KILLS": {
+      "name": "The Thousand Dead Sons",
+      "description": "Kill 1000 Chaos servants in Operations mode",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/0343fe733f7835036e6002fc4b65e79f07775637.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/0f36cc408c3df1b5a155dc829c9a8a6803f5787b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.0"
+    },
+    "TOTAL_KILLS": {
+      "name": "Still a True Son of the Emperor",
+      "description": "Kill 41,000 Enemies (all game modes combined)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/18bbf2062298bf8f13e5ffc30d32430bb77785ce.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/8be6ef392195cdb4461a1a4762e1df7850001657.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.3"
+    },
+    "PVP_WIN": {
+      "name": "Glorious Victory",
+      "description": "Win any match in Eternal War mode",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/7427f8c9e795cf84d79e53bc501f65e473bcf698.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/7d611b6773380c8bf671bab14fe3b99ad0f1b301.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.1"
+    },
+    "PVP_WIN_CLASSES": {
+      "name": "Tactical Genius",
+      "description": "Win a match in Eternal War mode with every Class",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/7904a194b815c5b91308e6056b893dc1d47468c5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/e8411b15035471663410e4a78d25114e2a5588af.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "PVP_DEATHMATCH": {
+      "name": "War Machine",
+      "description": "Play 10 Annihilation matches in Eternal War mode",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/2db2e89caf26aa67d6b5e046b8d12708eb1968e1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/8ca9121b380deabe0223abde2de18100f4386403.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.0"
+    },
+    "PVP_KOH": {
+      "name": "Unwavering Faith",
+      "description": "Play 10 Capture and Control matches in Eternal War mode",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/bc2c4e1fe872c1ad06bc8c7e5a2d169918eaf849.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/99d8d3aef2585e48422c740b5d914ef88edd99b8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "PVP_DOMINATION": {
+      "name": "Dominator",
+      "description": "Play 10 Seize Ground matches in Eternal War mode",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/44df64ee78869766856c99219d74b3c16086bd61.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/8e9f17aec73bda893fa392ffca95d9c2ba538544.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.3"
+    },
+    "PVP_KILLS": {
+      "name": "Merciless",
+      "description": "Achieve a streak of 5 kills without dying in Eternal War mode",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/3e8bd8aa5cfcc038e91fe195e28583c4952dfa05.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/1059895a6af5f38ffd16144c2e748977c49d12b8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.5"
+    },
+    "ALL_ACHIEVEMENTS": {
+      "name": "Defender of Humanity",
+      "description": "Overcome every challenge and achieve ultimate victory",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/85e1a2d069023b4ac44fb937f704430bfa75cfbd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/89d7552a623da95513aa3358fd6b974e825d55ce.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

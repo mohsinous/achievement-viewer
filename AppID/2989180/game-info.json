@@ -1,0 +1,190 @@
+{
+  "appid": "2989180",
+  "name": "Darwin's Paradox!",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989180/header.jpg?t=1775773471",
+  "achievements": {
+    "SOLVE_THE_PARADOX": {
+      "name": "Paradox Fixer",
+      "description": "Unlock all Achievements.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/88cbf19f1dc856e62593ba75ccfe8930f9e10872.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.7"
+    },
+    "NINJA_SOLDIER_1": {
+      "name": "No Time To Lose",
+      "description": "Achieve top score in the Obstacle Course Challenge.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/12747fd05769eab92f0f1bc2e2032fec79a4bd89.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "25.8"
+    },
+    "SNEAK_THE_OFFICE": {
+      "name": "Employee Of The Month",
+      "description": "Avoid being spotted throughout the entire Offices.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/cbe14a015ba7f1dfe82b7663172ac810ca3dc85f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.4"
+    },
+    "SNEAK_THE_COURTYARD": {
+      "name": "Sneaky Star",
+      "description": "Avoid being spotted throughout the entire Courtyard.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/77d9e4f7bf8943da73a6c30d51c5bc4d7620890b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.4"
+    },
+    "SHOOT_STEVEN": {
+      "name": "Inking Steven Seagull",
+      "description": "Shoot Ink to “Steven The Seagull”.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/0a58c160a3dedb4f0e5dfae8599fc33a8f50f1ce.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.7"
+    },
+    "RETURN_TO_THE_SEA": {
+      "name": "Fly Me To The Moon",
+      "description": "Back to the sea.. or not.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/f52b119e7f40b6954dea29e9c7726c4e9c2c3eb5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "35.0"
+    },
+    "DESTROY_THE_BASE": {
+      "name": "OOPS I Did It Again",
+      "description": "Destroy the base.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/f37828eadcfb47b3bf0b4607232ccaa004b5469d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "36.1"
+    },
+    "FREE_YOU_FRIEND": {
+      "name": "Free At Last",
+      "description": "Free your friend.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/7060f92fea3c2b55153d5d45771c03cc2320959d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "37.1"
+    },
+    "ALL_COLLECTIBLES": {
+      "name": "Nothing Gets By You",
+      "description": "Find all Discoveries",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/cfda12fdfa2b30a03193cfded1584f8e5ca697c5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.2"
+    },
+    "MELOMANE": {
+      "name": "That Hurt",
+      "description": "Find the piano.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/2b41d11493d84c5ac940f36b9fb3dcd5c6e32746.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.4"
+    },
+    "15_COLLECTIBLES": {
+      "name": "Keen Eyes And Tentacles",
+      "description": "Find 15 Discoveries.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/18d0bf654c6a3f8b9b9a4c2c9d4682083dcbf9ff.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.8"
+    },
+    "10_COLLECTIBLES": {
+      "name": "You’re Pretty Sharp",
+      "description": "Find 10 Discoveries.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/ae1f738b3401ec005fa46c3366aa043dcf3fc50c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.8"
+    },
+    "5_COLLECTIBLES": {
+      "name": "Progress Is Good",
+      "description": "Find 5 Discoveries.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/9f94f1a0a09809b4a6606b04384ae3a561cea347.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.5"
+    },
+    "SURVIVE_THE_LANTERN_FISH": {
+      "name": "Didn't Follow The Light",
+      "description": "Survive the lantern fish.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/c63c6d8e34eb292813e6139e5712bbb09fa8192d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "40.4"
+    },
+    "SURVIVE_THE_GULL_AGAIN": {
+      "name": "DARWIN 2 / GULL 0",
+      "description": "Survive Steven The Seagull again.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/872edeb5f39cfb9be892d273fae61c40a4b9b8b7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "45.6"
+    },
+    "SURVIVE_THE_FURIOUS_GULL": {
+      "name": "Can’t Catch Me!",
+      "description": "Survive Steven The Seagull.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/25c23699a0f88ebd80b5ecce9d64b8a052a769b9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "57.6"
+    },
+    "THE_CHAMBOULE_TOUT": {
+      "name": "Can Do!",
+      "description": "Shoot all cans from the shelves.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/90962d6fc65a9a0d50d5b633914b1834c141786f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.9"
+    },
+    "SNEAKY": {
+      "name": "Slow But Safe",
+      "description": "Maintain camouflage for over 10 seconds.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/0cb1891d1c326542198709a4991ae566ce3b28c6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "59.9"
+    },
+    "END_THE_PROLOGUE": {
+      "name": "Inked Away!",
+      "description": "Escape the morays.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/be5a4ffb22d924449d8f3220755a37e9d76ebdde.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "91.4"
+    },
+    "1_COLLECTIBLE": {
+      "name": "Participation Award",
+      "description": "Find your first Discovery.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/ff133213bea38061631fc9dd24d420e9f28aa64f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "90.0"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

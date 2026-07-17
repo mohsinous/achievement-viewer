@@ -1,0 +1,631 @@
+{
+  "appid": "2515020",
+  "name": "FINAL FANTASY XVI",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515020/header.jpg?t=1773294537",
+  "achievements": {
+    "1000": {
+      "name": "The Chronicler",
+      "description": "And thus did our journey end...",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/9e5242ab2e56bee1d55480554503f563a7661e3e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/8ea43c1454955399e52574ea5576d8d1afe79d53.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.1"
+    },
+    "1001": {
+      "name": "Awoken",
+      "description": "Rise from your reverie.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/8289deab066f28263e8f73ba929fd68958b040a2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/ddd944bafb49b5f7f13dd8333a4e5add32828825.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "86.6"
+    },
+    "1002": {
+      "name": "With Great Power",
+      "description": "Inherit a power unknown.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/8289deab066f28263e8f73ba929fd68958b040a2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/ddd944bafb49b5f7f13dd8333a4e5add32828825.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "74.1"
+    },
+    "1003": {
+      "name": "Acceptance",
+      "description": "Accept your fate.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/8289deab066f28263e8f73ba929fd68958b040a2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/ddd944bafb49b5f7f13dd8333a4e5add32828825.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "64.1"
+    },
+    "1004": {
+      "name": "Lawless",
+      "description": "Defy your fate.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/8289deab066f28263e8f73ba929fd68958b040a2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/ddd944bafb49b5f7f13dd8333a4e5add32828825.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "57.9"
+    },
+    "1005": {
+      "name": "Legacy",
+      "description": "Turn the corner.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/8289deab066f28263e8f73ba929fd68958b040a2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/ddd944bafb49b5f7f13dd8333a4e5add32828825.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "50.8"
+    },
+    "1006": {
+      "name": "Twilight Rose",
+      "description": "Revisit the past.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/8289deab066f28263e8f73ba929fd68958b040a2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/ddd944bafb49b5f7f13dd8333a4e5add32828825.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "49.0"
+    },
+    "1007": {
+      "name": "From Stone to Sand",
+      "description": "Exact revenge.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/8289deab066f28263e8f73ba929fd68958b040a2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/ddd944bafb49b5f7f13dd8333a4e5add32828825.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "45.4"
+    },
+    "1008": {
+      "name": "Twin Flames",
+      "description": "Unite the flames.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/8289deab066f28263e8f73ba929fd68958b040a2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/ddd944bafb49b5f7f13dd8333a4e5add32828825.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "41.2"
+    },
+    "1009": {
+      "name": "The Promise",
+      "description": "Become one.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/8289deab066f28263e8f73ba929fd68958b040a2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/ddd944bafb49b5f7f13dd8333a4e5add32828825.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "37.0"
+    },
+    "1010": {
+      "name": "A Vessel Complete",
+      "description": "Collect the final piece.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/8289deab066f28263e8f73ba929fd68958b040a2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/ddd944bafb49b5f7f13dd8333a4e5add32828825.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "35.1"
+    },
+    "1011": {
+      "name": "Ashes to Ashes",
+      "description": "Escape the Darkness.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/8289deab066f28263e8f73ba929fd68958b040a2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/ddd944bafb49b5f7f13dd8333a4e5add32828825.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "33.9"
+    },
+    "1012": {
+      "name": "Falling Star",
+      "description": "Fulfill a legacy.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/ff76a844428b5f131cea2a73d758a44b64d070f0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/ddd944bafb49b5f7f13dd8333a4e5add32828825.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "30.8"
+    },
+    "1015": {
+      "name": "Punisher",
+      "description": "Punish 10 enemies (excluding battles in the Hall of Virtue).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/a76b868f5477a4b9ad02d8c72ef9788d31910156.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/49290fb439b9cec624f808daf8e3c028d808b4b7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "78.3"
+    },
+    "1016": {
+      "name": "You're Not the Boss of Me",
+      "description": "Defeat a boss without taking damage.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/a76b868f5477a4b9ad02d8c72ef9788d31910156.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/49290fb439b9cec624f808daf8e3c028d808b4b7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "18.4"
+    },
+    "1017": {
+      "name": "Made to Be Broken",
+      "description": "Defeat 20 enemies while semi-primed (excluding battles in the Hall of Virtue).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/a76b868f5477a4b9ad02d8c72ef9788d31910156.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/49290fb439b9cec624f808daf8e3c028d808b4b7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "35.2"
+    },
+    "1018": {
+      "name": "It's Over 50,000",
+      "description": "Deal an enemy 50,000 damage while it is staggered (excluding battles in the Hall of Virtue and while fully primed as Ifrit).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/18187a5f7ef0898d97481424486d452c5459d5cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/49290fb439b9cec624f808daf8e3c028d808b4b7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.7"
+    },
+    "1019": {
+      "name": "Sheeeeeeeeeeeeeeeift",
+      "description": "Land 15 Shift Strikes or Shift Shots combined (excluding battles in the Hall of Virtue).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/20d3fd0cc0bda5ea00268941601f5983c9e3be75.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/a0f784aff731e07e712a8aa61c0f8a6145f87841.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "87.1"
+    },
+    "1020": {
+      "name": "Packing Heat",
+      "description": "Execute and land 2 Heatwave Counters in a single battle (excluding those in the Hall of Virtue).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/20d3fd0cc0bda5ea00268941601f5983c9e3be75.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/a0f784aff731e07e712a8aa61c0f8a6145f87841.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.8"
+    },
+    "1021": {
+      "name": "Fatal Attraction",
+      "description": "Defeat 5 enemies in the air after using Deadly Embrace (excluding battles in the Hall of Virtue).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/95e72cd976cfd2c843d2d311b795f98358da4a49.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/00d49b0482b7d88e4a823bbfc8d0e9c0c19c2949.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.2"
+    },
+    "1022": {
+      "name": "Never Coming Down",
+      "description": "Land Gouge, Wicked Wheel, and Rook's Gambit in midair before landing (excluding battles in the Hall of Virtue).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/95e72cd976cfd2c843d2d311b795f98358da4a49.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/00d49b0482b7d88e4a823bbfc8d0e9c0c19c2949.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "1023": {
+      "name": "I Am the Thunder",
+      "description": "Discharge 50 Blind Justice lightning balls (excluding battles in the Hall of Virtue).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/88de4b4b7ca527e78adb007284ccfaeb3a2636e6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/d6be0dba1be29adbee96e23e5fe56bbb7c463e74.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "50.5"
+    },
+    "1024": {
+      "name": "Rod to Redemption",
+      "description": "Lure an enemy into striking a Lightning Rod 3 times before it dissipates (excluding battles in the Hall of Virtue).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/88de4b4b7ca527e78adb007284ccfaeb3a2636e6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/d6be0dba1be29adbee96e23e5fe56bbb7c463e74.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.7"
+    },
+    "1025": {
+      "name": "Untouchable",
+      "description": "Use Titanic Block to fend off 10 enemy attacks (excluding battles in the Hall of Virtue).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/14812e539d7e53e2a79ec2130a42d49170cae062.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/5c7b250cfbb2f2649c15ab2c476330d58b8770d3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.3"
+    },
+    "1026": {
+      "name": "Beat Rocking Blocks",
+      "description": "Land the third punch of a Titanic Counter twice in a single battle (excluding those in the Hall of Virtue).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/14812e539d7e53e2a79ec2130a42d49170cae062.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/5c7b250cfbb2f2649c15ab2c476330d58b8770d3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.2"
+    },
+    "1027": {
+      "name": "100 Mfps",
+      "description": "Land 100 total hits with Lv. 2 or higher Megaflare (excluding battles in the Hall of Virtue).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/7f8cdc9da795c9d12ca26950b6da436cf329d089.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/6c46e4ba212cc11722d0878296c5bf057c3a0557.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "28.3"
+    },
+    "1028": {
+      "name": "Such Dodge, So Mega",
+      "description": "Execute a Precision Dodge 3 times while charging a single Megaflare (excluding battles in the Hall of Virtue).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/7f8cdc9da795c9d12ca26950b6da436cf329d089.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/6c46e4ba212cc11722d0878296c5bf057c3a0557.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.2"
+    },
+    "1029": {
+      "name": "Oh, Snap!",
+      "description": "Inflict Permafrost on 10 enemies by perfectly dodging attacks with Cold Snap (excluding battles in the Hall of Virtue).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/bf70abee43e6ee8835c7ad14cf233d7ad6248bde.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/29dbff666cbb791739d5757de41b9def3b54550e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.3"
+    },
+    "1030": {
+      "name": "Cold-blooded",
+      "description": "Simultaneously defeat three or more enemies frozen using Frostbite, Permafrost, or Diamond Dust (excluding battles in the Hall of Virtue).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/bf70abee43e6ee8835c7ad14cf233d7ad6248bde.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/29dbff666cbb791739d5757de41b9def3b54550e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "15.9"
+    },
+    "1031": {
+      "name": "Every Damn Sinew",
+      "description": "Land a Lv. 2 or higher Zantetsuken five times (excluding battles in the Hall of Virtue).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/41dec742928725248a4593121f4686810bdeb4cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/b41e632cca920c6abf92b7f4bf9cca264035bf3b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "29.7"
+    },
+    "1032": {
+      "name": "Fistful of Steel",
+      "description": "Execute 3 Steel Counters in a single battle (excluding those in the Hall of Virtue).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/41dec742928725248a4593121f4686810bdeb4cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/b41e632cca920c6abf92b7f4bf9cca264035bf3b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.3"
+    },
+    "1033": {
+      "name": "Yes, Eikon",
+      "description": "Master all of a single Eikon's abilities and feats.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/032e8258ee7b4687558a86784e77313e23d2b8e7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/2e2ac361975f2fa69b8f6418489ff0205614bc80.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.9"
+    },
+    "1034": {
+      "name": "Masterclass",
+      "description": "Upgrade all feats and abilities to their maximum.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/de6391613ad04fa44e85735a6560b66263874e02.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/2e2ac361975f2fa69b8f6418489ff0205614bc80.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.4"
+    },
+    "1038": {
+      "name": "With Two Ds",
+      "description": "Upgrade consumable potency and inventory slots to their maximum.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/3002113d8d0395a4dc9ef82b3c5b39fa36086d88.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/38613b49c16bf2c8d61284f901ba9fbd62176745.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.1"
+    },
+    "1039": {
+      "name": "And They Opened Up My Mind",
+      "description": "Collect six signboards.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/4b4b5fa7013a8e8cdd4a26e61dbc001126fd4e41.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/59e1fa4dd30ced3e481fe1cfc03909a5cf74b733.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "23.3"
+    },
+    "1040": {
+      "name": "Think, Mark!",
+      "description": "Defeat 10 notorious marks.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/924284a6aad430a5d107cc1c699e3bddbe7f271c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/97842eab26b9d655a97f052d821e21c85a099a21.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "32.6"
+    },
+    "1041": {
+      "name": "Hunter, Hunted",
+      "description": "Clear the Hunt Board.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/f8b31ad3bf17df10f936e36ee62d9b6982527469.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/97842eab26b9d655a97f052d821e21c85a099a21.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "18.8"
+    },
+    "1042": {
+      "name": "Trial Run",
+      "description": "Complete a chronolith trial.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/da45d7b39f51ae9a5b28ea1ca2a03fc4fb3a702b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/6aac99f994a86e8f3c4523cb250cd593dea1c37e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.8"
+    },
+    "1043": {
+      "name": "For the Hoard",
+      "description": "Obtain all curiosities.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/3461ca64c945f06416095938c7a097d92e28ea4f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/f9a383db8dc5579a75a96485466fe69ff21878ce.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.5"
+    },
+    "1013": {
+      "name": "Dressed to the Fives",
+      "description": "Craft or upgrade 5 pieces of gear.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/bc61b9e62ebb09cbc34fd311b7f5d5ca7918869b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/b0449b2e0b3bb2d9b99c8359b5514886d7474819.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "67.6"
+    },
+    "1014": {
+      "name": "Half Past Twilight",
+      "description": "Craft the legendary sword Gotterdammerung.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/ea0a45db44d8ee9d566a19838d93a14af9920999.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/b0449b2e0b3bb2d9b99c8359b5514886d7474819.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "21.8"
+    },
+    "1036": {
+      "name": "The Pen Is Mightier",
+      "description": "Open 10 letters at the reading table.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/0663044c08aa88e0ce483b68337343e438bc7944.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/cf118c9601e07800322c826b8f7a1307e128b617.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "36.0"
+    },
+    "1037": {
+      "name": "The More You Know",
+      "description": "Help Harpocrates attain a knowledge level of 5.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/5cf90aa23ccf8ed5fcc534b23e1544a43b109c57.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/14dc86b4b750fc0b62d888c2b158117a0771cfb0.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "27.0"
+    },
+    "1044": {
+      "name": "Careful Whisper",
+      "description": "Obtain all available items from your patrons.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/2c68d9399deceedbfccd8037431f83a481a412eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/3c5a4fa60c5d2331eeca497d96110dd57cf24a5a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.0"
+    },
+    "1045": {
+      "name": "You Can Pet the Dog",
+      "description": "Pet Torgal 5 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/908aabe981a03da3fbd71dce1abaab3b2d954877.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/f3e42a53db2c3007c1dd3301fc5f306ecba4605b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.8"
+    },
+    "1046": {
+      "name": "A Fine Hound",
+      "description": "Execute and land 5 Precision Sics (excluding battles in the Hall of Virtue).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/908aabe981a03da3fbd71dce1abaab3b2d954877.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/f3e42a53db2c3007c1dd3301fc5f306ecba4605b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "65.5"
+    },
+    "1047": {
+      "name": "When You Ride Alone",
+      "description": "Ride Ambrosia for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/3973c1845891e306d202b7628fc00d1892d2b70e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/e3e87dfdac876ebfbfe6d5ad982fc86d312b8926.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "48.3"
+    },
+    "1035": {
+      "name": "Here Be Rosfields",
+      "description": "Visit all areas on the world and local maps.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/5cef81833047f40019f63e9c570aee9239f852c1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/4d2f1f706cdb729dd6d072bcb0a26a69be507a8c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.7"
+    },
+    "1048": {
+      "name": "Eureka",
+      "description": "Spend 36,000 gil at the Tub & Crown.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/e1058d51bbf6ad27f91482802f05cc4b67336a74.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/562de2dc44da5961c5cabd8c64e862bf9badc4cd.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.0"
+    },
+    "1049": {
+      "name": "Fantasy, Finally",
+      "description": "Complete the game on \"Final Fantasy\" mode.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/866367e495efc7f68df178655c13c4e046c538d6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/3b52dad42b633b3249e5218354debb8f6d63a667.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.8"
+    },
+    "2002": {
+      "name": "Repercussion",
+      "description": "Silence the echoes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/eaf8375bf78017a1034bbc2fadf23cc750d238ba.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/6a47671dc125252f283a666ceadec41aa6060aec.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.8"
+    },
+    "2000": {
+      "name": "A Crystal Darkly",
+      "description": "Brave the dusk.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/eaf8375bf78017a1034bbc2fadf23cc750d238ba.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/6a47671dc125252f283a666ceadec41aa6060aec.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.3"
+    },
+    "2001": {
+      "name": "The Only Way Is Up",
+      "description": "Enter the spire.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/eaf8375bf78017a1034bbc2fadf23cc750d238ba.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/6a47671dc125252f283a666ceadec41aa6060aec.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "18.2"
+    },
+    "2003": {
+      "name": "OMG",
+      "description": "Defeat Omega on \"Final Fantasy\" mode.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/eaf8375bf78017a1034bbc2fadf23cc750d238ba.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/18f80f6dd049d5d80d56284235fe5b5100b80668.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.8"
+    },
+    "2004": {
+      "name": "Bit Fit",
+      "description": "Obtain all Fallen bits.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/e39c94638b0dd23aa9967e2330b3c0a240e9b8ce.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/e0046bd2cc294ada30f15a14580b7eb4b0c24a67.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "15.5"
+    },
+    "2005": {
+      "name": "My Reward Is with Me",
+      "description": "Obtain the Omega Weapon.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/a16302811206713b8921de8503b4dd4fd9eabc93.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/c14f3797181534af839ff81f302e0215af2901c4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.5"
+    },
+    "3000": {
+      "name": "The Calm",
+      "description": "Find again what was lost.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/ea04648e1cdc5fa48a74ea6a9ef62b13eb94cc01.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/6b0367390d7d12df0cf43fa42503453a299028db.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.1"
+    },
+    "3001": {
+      "name": "Homecoming",
+      "description": "Enter Mysidia.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/ea04648e1cdc5fa48a74ea6a9ef62b13eb94cc01.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/6b0367390d7d12df0cf43fa42503453a299028db.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "18.6"
+    },
+    "3002": {
+      "name": "Flow",
+      "description": "Awaken the storm.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/ea04648e1cdc5fa48a74ea6a9ef62b13eb94cc01.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/6b0367390d7d12df0cf43fa42503453a299028db.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "18.3"
+    },
+    "3003": {
+      "name": "Flood",
+      "description": "Restore the flow of time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/ea04648e1cdc5fa48a74ea6a9ef62b13eb94cc01.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/6b0367390d7d12df0cf43fa42503453a299028db.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.6"
+    },
+    "3004": {
+      "name": "Explain That",
+      "description": "Tamed the tides.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/ea04648e1cdc5fa48a74ea6a9ef62b13eb94cc01.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/6b0367390d7d12df0cf43fa42503453a299028db.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.1"
+    },
+    "3005": {
+      "name": "Thou Brakest the Head",
+      "description": "Defeat Leviathan in \"Final Fantasy\" mode.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/ea04648e1cdc5fa48a74ea6a9ef62b13eb94cc01.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/6b0367390d7d12df0cf43fa42503453a299028db.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.7"
+    },
+    "3006": {
+      "name": "Tideslinger",
+      "description": "Land 300 Tidal attacks combined (excluding battles in the Hall of Virtue).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/85656c0b78f837ef8b2d3996f5b9601dfc3a3170.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/8054122850436190b68c7a6a81bc3ba167273479.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.6"
+    },
+    "3007": {
+      "name": "Supersoaker",
+      "description": "Strike three or more enemies with Tidal attacks while using unlimited ammunition following a Quick Refill.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/85656c0b78f837ef8b2d3996f5b9601dfc3a3170.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/8054122850436190b68c7a6a81bc3ba167273479.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.8"
+    },
+    "3008": {
+      "name": "Deus Ex",
+      "description": "Channel the heavens.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/5ac97005e89f6e5d7b6e253071edea76cd00ae38.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/1fc9ac3e97dd49ddc996bf49dc68983ec109aca4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.5"
+    },
+    "3009": {
+      "name": "A Most Worthy Vessel",
+      "description": "Acquire and master all Leviathan and Ultima abilities.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/032e8258ee7b4687558a86784e77313e23d2b8e7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/2e2ac361975f2fa69b8f6418489ff0205614bc80.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.8"
+    },
+    "3010": {
+      "name": "The End Can Wait",
+      "description": "Complete 10 Mysidian quests.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/211f9366023954fb8abcd13a02345bd50cf114e2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/19cce53ac8f1a80f2c4037850ef206ef124273b1.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.1"
+    },
+    "3011": {
+      "name": "Still Breathing",
+      "description": "Complete the Trial by Water.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/da45d7b39f51ae9a5b28ea1ca2a03fc4fb3a702b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/6aac99f994a86e8f3c4523cb250cd593dea1c37e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.8"
+    },
+    "3012": {
+      "name": "Occasio Calva",
+      "description": "Complete Kairos Gate.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/b820feaa6df59eb0faf35e741ddebe78b299bcda.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/d356a504c8eb9c22c579385ced4dc90624bce88c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.5"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

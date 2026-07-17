@@ -1,0 +1,433 @@
+{
+  "appid": "1778820",
+  "name": "TEKKEN 8",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/8518523e6bea615ba8127c6fc215fd1eac966501/header.jpg?t=1782460158",
+  "achievements": {
+    "RankMatchWin": {
+      "name": "Just relax. You can do it.",
+      "description": "Won a Ranked Match.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/13496fa07c18cf082098cf6c7270b593ac2ab3da.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/469b79a29c81d05a5db83cbbfe7e32a35e5af63a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.0"
+    },
+    "PlayerMatchWin": {
+      "name": "I'll give you a rematch anytime, guv.",
+      "description": "Won a Player Match.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/b4db2a3baf22bbce5ec793f1a695ab6960fb7428.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/e26bcdedac88a31f113412a8245955595973ab86.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.6"
+    },
+    "GroupMatchWin": {
+      "name": "Please don't tell my father.",
+      "description": "Won a Group Match.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/6de909809ba9c53b1885b721de068eb591b1de22.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/b69a5fb3ddfb3a6416f26370322edf60b8b13ebd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.0"
+    },
+    "OnlineBattle10wins": {
+      "name": "Excellent!",
+      "description": "Play a total of 10 online battles of any kind.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/c0c52914a8c69638743d0f5540ddddadd272c922.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/78d61596ac6181803dd40017d7d970011e22580e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "68.2"
+    },
+    "BattlePerfect": {
+      "name": "That was too easy!",
+      "description": "Achieved a perfect victory. (Excluding offline player battles)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/4f1a10a50999290e271075065a7bbf5a3497b011.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/73b07759a629e7d3ac756d657a5de13d7367cb5c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "79.5"
+    },
+    "BattleGreat": {
+      "name": "Outstanding!",
+      "description": "Achieved a great victory. (Excluding offline player battles)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/a306e2c585123a4cb3b00aabbaf779207e22fb99.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/67b53f8a13147ea97259bd4ce03c9c85046044f3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "77.2"
+    },
+    "BattleCombo70": {
+      "name": "Behold, the fruits of my labors.",
+      "description": "Dealt 70+ damage in an air combo. (Excluding offline player battles)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/c0755ac72396ac578bab022709e0e6fa7ccff2a9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/00724e9374dd6a5f4363fb9366a56ec9500b1c1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "74.3"
+    },
+    "BattleTornado": {
+      "name": "Let the blistering sands consume you.",
+      "description": "Triggered 10 Tornados. (Excluding offline player battles)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/f9d0fdeef40bc4aea05e044e14272ca9f3098b3f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/7ec7c67a0933fe19f96866d7f8a2562c34768261.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "86.7"
+    },
+    "BattleRageArts": {
+      "name": "(That's how a true champion fights!)",
+      "description": "Dealt 20 Rage Arts. (Excluding offline player battles)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/6397eac90440bb471dc184fdf3c861df0a9d601b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/0f72003f0c4729d770815aab2ce6bfc07ba540e9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "62.8"
+    },
+    "HeatBurst": {
+      "name": "What a rush!",
+      "description": "Performed 5 Heat Bursts. (Excluding offline player battles)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/30be5ee1ce0ff98c76ed9f71fd00f582effa0689.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/4bbc29e9ab29075a6f843c0f3d3502b086665201.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "88.0"
+    },
+    "HeatTechnique": {
+      "name": "Your fate is already decided.",
+      "description": "Activated Heat 5 times with a Heat Engager. (Excluding offline player battles)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/a7c2b02ae827f819ac97e5695171e8d301d6b623.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/6a509141201cb0148b5d3db5f8543651b1e2b9ce.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "84.4"
+    },
+    "HeatSmash": {
+      "name": "Fear my wrath.",
+      "description": "Dealt 20 Heat Smashes. (Excluding offline player battles)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/d5a13a325d3b2fb67e21f2acccd51a06f129c5c1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/0aaf72f21b2fcdf0137e78c2f8709a40229e06b5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "72.4"
+    },
+    "HeatDash": {
+      "name": "You think you can stop me?",
+      "description": "Performed 10 Heat Dashes. (Excluding offline player battles)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/e120bebd029dc9181f3cbcd6ef5b0a9065a01e87.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/0b3e3519eafa309e6240ef573e03069b964bb4d9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.1"
+    },
+    "recoverygauge": {
+      "name": "Under the divine protection of Sirius.",
+      "description": "Healed an overall total of 500 damage in recoverable health. (Excluding offline player battles)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/a097872fdf432792c47ac065cb79d02446f9fced.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/7f31562645e15508cbc32b7923384dbdd5f08ce3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "82.4"
+    },
+    "RageDamage": {
+      "name": "Now it's time to destroy you.",
+      "description": "Dealt an overall total of 1000 damage while in rage mode. (Excluding offline player battles)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/fdcc25966c2f8a23ed4fa0318ebfcda28b889e59.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/f070deb2d94ce93a563b82e172c022a590b44cf4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "76.8"
+    },
+    "WallBound": {
+      "name": "Sorry for getting rough back there.",
+      "description": "Performed a Wall Bound. (Excluding offline player battles)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/695a9a31c1303aecfeb9cfdd2c0ba4216cebe35b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/daeb42bdfe1fb6472951cd10d8aa89eb89e21763.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.4"
+    },
+    "WallBlast": {
+      "name": "Resuming mission.",
+      "description": "Performed a Wall Blast. (Excluding offline player battles)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/11a577d862188490032229977c912f2e215f2ae9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/eef0bdca57bb220adbefefdda7200933488384f5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "53.6"
+    },
+    "WallBreak": {
+      "name": "Come on, just try and kill me.",
+      "description": "Performed a Hard Wall Break. (Excluding offline player battles)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/bb847d9380bc3183d02b5a58035502a34f5a7b44.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/a8434cf6a44193958ad4d9058c9c08dc4c807340.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "56.9"
+    },
+    "FloorBreak": {
+      "name": "...",
+      "description": "Performed a Hard Floor Break. (Excluding offline player battles)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/7462bb089913773f59f3f38eba4a725475132506.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/9242252153a6ac942eb36ccb1b098e6392e98a46.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.6"
+    },
+    "FloorBlast": {
+      "name": "(You never learn.)",
+      "description": "Performed a Floor Blast. (Excluding offline player battles)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/03bd3237b317dc300e9e3336be20813323961df4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/a4d942a68e2a2aa88d2c4254b9ea67fcaa199f20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.7"
+    },
+    "TresureHunt": {
+      "name": "How do you take your coffee?",
+      "description": "Reached the lowest area of the Ortiz Farm stage. (Excluding offline player battles)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/d2328bb8b26b7eeb65f6d6d1c8ce1c5c1b460342.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/bd170fa4d156201b380173d0c592e0bb1f550924.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.9"
+    },
+    "MagicBall": {
+      "name": "My moves are way faster than yours.",
+      "description": "Performed 20 Devilish hits in Tekken Ball. (Excluding offline player battles)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/246da0d609f7c101de5d7da5bb72e1398e62863b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/92b41300618ac23af39876995737437965ede6b2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.1"
+    },
+    "Promote1st": {
+      "name": "I aspire to greater heights!",
+      "description": "Got promoted to Brawler.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/9fece08c2183ef645ad24e533ec810513c682703.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/26df242d1f86d428706b947c2e86be28ac4848e3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "56.3"
+    },
+    "Promote2nd": {
+      "name": "I'm actually pretty strong.",
+      "description": "Got promoted to Warrior.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/7e130c1ed418bdc91cb9d54f2a39c072c64d40e6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/428158d78b9c066a0b2f3ec0a9a5147c29cfdcdd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.8"
+    },
+    "Promote3rd": {
+      "name": "There's no way you can stop me.",
+      "description": "Got promoted to Vanquisher.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/f0f5c2db964eae807c1bbb12236985b7a8da6248.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/b5f598ee6653e1586db8daacd3bab72c52e46979.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.1"
+    },
+    "StoryModeClearACT1": {
+      "name": "Come, humanity! Unleash the dogs of war! ",
+      "description": "Finished Chapter 1 of The Dark Awakens.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/7535f6efbb84d91593890ca5ad48857e46a0d341.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/17167a6ef22923f1e35e994ea085bee839d4eb32.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.3"
+    },
+    "StoryModeClearACT7": {
+      "name": "You aren't alone anymore.",
+      "description": "Finished Chapter 7 of The Dark Awakens.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/4973eab6984dd658f6b0c8b1e928042bd98b5680.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/3fef21df86cc07676da339f382f1e86c30000267.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.0"
+    },
+    "StoryModeClearACT12": {
+      "name": "I'll live on, together with my sins.",
+      "description": "Finished Chapter 12 of The Dark Awakens.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/900a163dc3375262aab673053e763faae2ebc34d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/310e26a3852fd329dceeb2680e68501b55bb3437.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "29.6"
+    },
+    "StoryModeClearJIN": {
+      "name": "Hope",
+      "description": "Finished Chapter 15 of The Dark Awakens with Jin Kazama victorious.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/5088eb682247d44fe69785ecab93daf1d0849988.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/92d7717dbb5f63c9a3058f25b36500f188f9ca7e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "28.6"
+    },
+    "StoryModeClearKazuya": {
+      "name": "Despair",
+      "description": "Finished Chapter 15 of The Dark Awakens with Kazuya Mishima victorious.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/606822da8fc128a020bd975ce2e2d827137d7187.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/47fedbe562a104e2b2edbb8f5bcd27e3c4adc570.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.5"
+    },
+    "Hit30Chain": {
+      "name": "I would do well to follow your example.",
+      "description": "Achieved a 30-hit chain during Operation Rebellion in The Dark Awakens.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/2adc43c452ec5f70acc91c4acebd6d9c1f9d73db.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/78c4cf59eb0bc01bed92ed8a373b5fbca0e18a67.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "30.6"
+    },
+    "EpisodeClear5": {
+      "name": "This should be fun.",
+      "description": "Finished 5 Character Episode stories.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/4891b1a99aa0ac5d8f4cba224c9132f439d27ad4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/50d43ff92a19b175d44075ea677328abe07eb099.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.2"
+    },
+    "EpisodeClear10": {
+      "name": "Power isn't everything.",
+      "description": "Finished 10 Character Episode stories.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/c096742d9ae6951e8e67e28f15a4d001faef56a7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/5cd6143b03c8e76e8e72d6174c2c6f8634f36134.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.4"
+    },
+    "ArcadeBattleClear": {
+      "name": "I'll put an end to this.",
+      "description": "Finished Arcade Battle.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/b669285fa5b88ef598dee7c1eced4fb35f0e3ebb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/b18d36ca8d144b0599bc830e788125ebbfb74597.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.4"
+    },
+    "AQWinHome": {
+      "name": "Congrats on the victory!",
+      "description": "Won the Arcade Quest Gong Tournament.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/148208cb0bcea49535a9cb3664e4f8fc285d5ecd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/4c92de877e980bb69a1ed2590c609cbb5e3b4d28.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "41.1"
+    },
+    "AQWinAway": {
+      "name": "A new star rising in the world of TEKKEN!",
+      "description": "Won the Arcade Quest Kobushi Dojo Tournament.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/30af1c29d7316e72d3a154ee58e178725942a6d2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/8049bef5b0e0e88f2e5549d058e7eeea79a8a14b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.9"
+    },
+    "AQClear": {
+      "name": "Get ready for the next battle!",
+      "description": "Finished Arcade Quest.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/d888257332acb615c015d64db74a944bccdde91b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/56c8a31a1cbca88f48fc91e0f131b33586d1b58c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.7"
+    },
+    "AQWinGhost": {
+      "name": "The fists reveal the fighter.",
+      "description": "Fought against your own Ghost.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/6384de585e95ede9ae37df07b230142a24dc1f54.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/85230f12142d9aa142469c3329fff79262af5a3c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.1"
+    },
+    "WinGhostPlayer": {
+      "name": "All is vanity.",
+      "description": "Defeated a player's Ghost.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/d1343d76b30bdeb0c009c77055028a271f1c97fa.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/603ee9b306d3b4d00e38b74f3ba7ce0a022a8bd3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.4"
+    },
+    "WinDiscGhost": {
+      "name": "(Initiating Analysis)",
+      "description": "Defeated 10 CPU Ghosts in Super Ghost Battle.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/ff5479be3cf042c7784da466bf714d19c8db69fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/1310fcead95aab953460d7da43f988fa8a7e5359.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.4"
+    },
+    "WinDiscGhostBoss": {
+      "name": "Godfather",
+      "description": "Defeated Harada_TEKKEN in Super Ghost Battle.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/17a6a7661d8c37adb06bd9ea14989ac6e8299da9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/4b86643ffe00d9f036ade567d3f5a40ccb8fb845.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.0"
+    },
+    "Practicedamage": {
+      "name": "No pain, no gain!",
+      "description": "Dealt 2000 damage in Practice mode.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/ab305afff98e530b548c852385405217b11933f0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/b8d64231d9671f273f569a5efaf1a9ba3ae02aa8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "82.5"
+    },
+    "PracticeCombo": {
+      "name": "Do you want to learn Marshall Arts?",
+      "description": "Completed 5 Combo Challenges.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/c2763945f8705de1b9e2be38e9207359d150d39b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/cdf47558c9fb4ca707331cdad69628d974f55875.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "42.4"
+    },
+    "MyReplayTips": {
+      "name": "(This one's in the bag!)",
+      "description": "Practiced with the tips on in Replays & Tips.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/f2b0a74545d703efee9994efaae5c1cd210e026b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/fa904f588516ff7baf30a01615d11b9393898cbb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.2"
+    },
+    "Customize": {
+      "name": "You're in for it now!",
+      "description": "Saved a custom character in Character Customization.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/aeb98bf5e3499eeb0ebdaffacbcd2e28af6e84f2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/5e8a8b827216f64b45a51102f1c1c12956a5ec75.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "70.1"
+    },
+    "FightMoney": {
+      "name": "Your money is my money! ",
+      "description": "Obtained an overall total of 10,000,000G.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/4d8b1f8c55d19292b1b3996c1ebf8a3b959999d6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/c89440d4418906fc944e5c7d71cbd7673fb8024d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "60.3"
+    },
+    "AllClear": {
+      "name": "A fight is about survival.",
+      "description": "Unlocked all achievements.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/d2b739701829d5bd6e09c652de82b37ab532b40c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1778820/c2eb24ff373d87e5ea2e6c8e4a4ca4a4635c2fe5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.6"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

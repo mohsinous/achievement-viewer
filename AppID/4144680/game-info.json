@@ -1,0 +1,343 @@
+{
+  "appid": "4144680",
+  "name": "DEAD OR ALIVE 6 Last Round",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144680/e94fe79e24de4c1488f1967f13144c6df66b5b51/header.jpg?t=1784163853",
+  "achievements": {
+    "RAISE_ACHIEVEMENT_01": {
+      "name": "DEAD OR ALIVE 6 Last Round Master",
+      "description": "Unlocked all achievements.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/a9a73c925db40698490c55f0a0129b0dd083692d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "RAISE_ACHIEVEMENT_02": {
+      "name": "Fighting Entertainment",
+      "description": "Fought debut match (excluding training and offline player vs. player matches).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/c0dbf35780e3d04c2af517693f397841bf401e62.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "69.8"
+    },
+    "RAISE_ACHIEVEMENT_03": {
+      "name": "Change!",
+      "description": "Changed your main fighter.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/1bd2bb79a3af6034fb8ad36ab1b3d6c7a554e4df.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.9"
+    },
+    "RAISE_ACHIEVEMENT_04": {
+      "name": "Fledgling Fighter",
+      "description": "Fought against computer in the VERSUS mode.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/5f3b5ee9cf296e872432746104d95c4b7f45af02.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.8"
+    },
+    "RAISE_ACHIEVEMENT_05": {
+      "name": "Cleared ARCADE course",
+      "description": "Cleared a course in the ARCADE mode.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/0421e8ed4d3f20221de98b5028d43ee147c4d7f1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.4"
+    },
+    "RAISE_ACHIEVEMENT_06": {
+      "name": "Cleared TIME ATTACK course",
+      "description": "Cleared a course in the TIME ATTACK mode.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/4106260bc6caa8df2c83bfb0713be98daec82993.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.9"
+    },
+    "RAISE_ACHIEVEMENT_07": {
+      "name": "Cleared SURVIVAL course",
+      "description": "Cleared a course in the SURVIVAL mode.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/bbf702fc0829b945c6d55dd4f100188d8ecfb005.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.9"
+    },
+    "RAISE_ACHIEVEMENT_08": {
+      "name": "Training Hard",
+      "description": "Used Free Training mode for 1 hour.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/f2c5737bb3888f89032c31c681aefd1534bad710.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.7"
+    },
+    "RAISE_ACHIEVEMENT_09": {
+      "name": "Exercise Newbie",
+      "description": "Completed Command Training for a single character.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/e7e1d7550f5a9c491a1339c9fad235a8736ed180.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.2"
+    },
+    "RAISE_ACHIEVEMENT_10": {
+      "name": "DOA Rookie",
+      "description": "Attempted Tutorial.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ed2cd7ff3cfe6dd0c104dabf596b49eb659fdb54.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.1"
+    },
+    "RAISE_ACHIEVEMENT_11": {
+      "name": "A Fighter is Born",
+      "description": "Completed all lessons in Tutorial.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/a839691bc8cff2f46b7c73171e8d70bf294511f8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.9"
+    },
+    "RAISE_ACHIEVEMENT_12": {
+      "name": "A New Challenger Appears!",
+      "description": "Attempted Combo Challenges.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/24d9a4749ea5ce1309be5ca975202d93facae258.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.2"
+    },
+    "RAISE_ACHIEVEMENT_13": {
+      "name": "Unchallenged Champion",
+      "description": "Completed all Combo Challenge lessons for a single character.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/5b55fd6b6a95f9881eeb64e7210e1e0614e319f0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.0"
+    },
+    "RAISE_ACHIEVEMENT_14": {
+      "name": "Adept Shopper",
+      "description": "Bought a costume in the Wardrobe.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/6729a8df1bc7283b810da3b5f18379671f636b7f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.1"
+    },
+    "RAISE_ACHIEVEMENT_15": {
+      "name": "Wise Manners",
+      "description": "Bought a title in the Wardrobe.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/a6c97ab1ddd6bc1e3fe4e98e53d3a55800d43fbd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.2"
+    },
+    "RAISE_ACHIEVEMENT_16": {
+      "name": "Records Keeper",
+      "description": "Checked the Fight Records.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/cd5737ecf675abe563c269f26e72e109e4271449.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.3"
+    },
+    "RAISE_ACHIEVEMENT_17": {
+      "name": "The Observer",
+      "description": "Watched a COM vs. COM battle in the Theater.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/287bb2e414879e3653bc7f4f2e9585ae1de27ef3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.8"
+    },
+    "RAISE_ACHIEVEMENT_18": {
+      "name": "Learning From the Past ",
+      "description": "Watched a replay in the Theater.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/2d0eb8b73f5696894335c4dbfc0414e1a3a93fbf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.7"
+    },
+    "RAISE_ACHIEVEMENT_19": {
+      "name": "Melomaniac",
+      "description": "Purchased additional BGM.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/938066c27320b3fff7301f4af8371686a14712b7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.0"
+    },
+    "RAISE_ACHIEVEMENT_20": {
+      "name": "DOApedia",
+      "description": "Purchased DOA Encyclopedia in the Library.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/0a4e8df051713eb39fee18b81333301500c4a619.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.5"
+    },
+    "RAISE_ACHIEVEMENT_21": {
+      "name": "Star Catcher",
+      "description": "Completed 1 Quest.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/fbe6e6a0426047196a5b072986d80c566f1946c4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.2"
+    },
+    "RAISE_ACHIEVEMENT_22": {
+      "name": "Star Dust",
+      "description": "Completed 3 Quests.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/cf0151ef494468b6e88d5b95d131b6c5a5a539dc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.5"
+    },
+    "RAISE_ACHIEVEMENT_23": {
+      "name": "Milky Way",
+      "description": "Completed 30 Quests.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee38d1dd9b544e59aff0c11015d50983b0a43719.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.1"
+    },
+    "RAISE_ACHIEVEMENT_24": {
+      "name": "Rival Rumble",
+      "description": "Fought in your first ranked match.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/634a196c412ecabd17d53042e6aa14ef9209aec1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.6"
+    },
+    "RAISE_ACHIEVEMENT_25": {
+      "name": "Rival Rampage",
+      "description": "Fought in 10 ranked matches.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/a30eb00d5ffdb11b97405d63c66820fb3873e8e1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.7"
+    },
+    "RAISE_ACHIEVEMENT_26": {
+      "name": "Rival Deathmatch",
+      "description": "Fought in 100 ranked matches.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/256d5ab03c0d6fd2aa2b3ef1bf5d08e4a40ec894.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.8"
+    },
+    "RAISE_ACHIEVEMENT_27": {
+      "name": "Fighting For Real",
+      "description": "Won 1 Ranked Match.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/abfb44da86a528085479054a1859216f5a4c41a0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.0"
+    },
+    "RAISE_ACHIEVEMENT_28": {
+      "name": "The Hungry One",
+      "description": "Won 20 Ranked Matches.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/d6ce477866c8e61d4110b3f734ad6e3588dc5971.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.1"
+    },
+    "RAISE_ACHIEVEMENT_29": {
+      "name": "The Capable One",
+      "description": "Won 50 Ranked Matches.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/23e6b3cb694a75ad35c64016ebd609eece372573.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.9"
+    },
+    "RAISE_ACHIEVEMENT_30": {
+      "name": "The Show-off",
+      "description": "Won 5 consecutive Ranked Matches.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/50b3012590217a84d7b3e488cccabf16ef24aa77.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.8"
+    },
+    "RAISE_ACHIEVEMENT_31": {
+      "name": "A Fight to Remember",
+      "description": "Saved a replay.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/1826d743342b15209ba918ea309e69c87a78e7d4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.6"
+    },
+    "RAISE_ACHIEVEMENT_32": {
+      "name": "Rushing It",
+      "description": "Won a match by executing a Fatal Rush attack (excluding offline PvP matches).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/b233421247753f0626906bc22733177c436a4f8e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.6"
+    },
+    "RAISE_ACHIEVEMENT_33": {
+      "name": "Smashing It",
+      "description": "Won a match by executing a Break Blow attack (excluding offline PvP matches).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/3eb67e9d8611fddf1e49090edae7be747a3f65a9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "57.3"
+    },
+    "RAISE_ACHIEVEMENT_34": {
+      "name": "Grabbing It",
+      "description": "Won a match by executing a Break Hold attack (excluding offline PvP matches).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/374ed5ecd60159a0f95be1bdbfb3403ea161eb4b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.8"
+    },
+    "RAISE_ACHIEVEMENT_35": {
+      "name": "No Escape!",
+      "description": "Won a match by executing 3-hit combo after cancelling a Break Blow (excluding offline PvP matches).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/f6c6bfed13bb548010361ad0227885c300306bb8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.5"
+    },
+    "RAISE_ACHIEVEMENT_36": {
+      "name": "I See Through It All",
+      "description": "Won a match receiving 0 damage (offline player vs. player matches excluded).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/8d12cdf73a600ee1250bf53b362ec5813a285b55.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.7"
+    },
+    "RAISE_ACHIEVEMENT_37": {
+      "name": "Picture Perfect",
+      "description": "Played Photo Mode.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/031f8f29dda866ce5ddbdb53ff5abcfba2ed7e1d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.5"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

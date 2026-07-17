@@ -1,0 +1,406 @@
+{
+  "appid": "1802880",
+  "name": "The Devil Within: Satgat",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1802880/4992dc7065f9826e18fabcd758806546f9187de0/header.jpg?t=1758076536",
+  "achievements": {
+    "EA1_ACHIEVEMENT_1_0": {
+      "name": "To the Ebon Sting",
+      "description": "Begin your journey at the Ebon Sting.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/7b347fd92ff70dd12071bd544fc83595baab4109.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/4bdcc44b609a41f50dbf6cd70aab45fe44c00061.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "71.2"
+    },
+    "EA1_ACHIEVEMENT_1_1": {
+      "name": "Mr. Satgat",
+      "description": "Head covered now head forth!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/915560e5da25e0320f2fbe0f9ddb4c0ae50c6f81.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/ee759e2c2d8093e2d55f65fac6cade1816fa6e2e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "68.0"
+    },
+    "EA1_ACHIEVEMENT_1_6": {
+      "name": "Mother Weta",
+      "description": "Take down the leader of the Wetas in the Ruined City.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/cafc507368e9eb428c312cdea8d089e463ad126f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/f3435fe3d02fa779f1e7f350fbe4afeee9fbeebe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.2"
+    },
+    "EA1_ACHIEVEMENT_1_7": {
+      "name": "What the Dead Left Behind",
+      "description": "Obtain the gun, 'Wanderer.'",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/a4b8c0e782d2b3173e694bb7c3644e7a20478cea.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/cd0f5a43ed408eb3645969393b600d8cb6422389.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "48.3"
+    },
+    "EA1_ACHIEVEMENT_1_8": {
+      "name": "For Whom the Bell Tolls",
+      "description": "Obtain the 'Ritual Bell' artifact in the Ruined City.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/94f853aae781f330f826e6fd03dfc482351b4fd9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/00d087e3bb6200249a324abffe18c4a2682aa545.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "42.5"
+    },
+    "EA1_ACHIEVEMENT_1_9": {
+      "name": "It Tolls for Thee",
+      "description": "Use 'Soul Destruction' through the power of the 'Ritual Bell' artifact in the Ruined City. ",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/d875b65aa5d207dcddf2a42f8fc9a9c4d8bb13c8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/f0f6b3f85098d3271b9940b9e54197f53de4eb6f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "42.7"
+    },
+    "EA1_ACHIEVEMENT_1_12": {
+      "name": "Desperate Escape",
+      "description": "Avoid the giant worms and get to safety in the Ruined City.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/be876a038aebb76083d9d1f38211b4948c7f1197.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/c23f53e794fdaef13043e0e0680eb904515e7e5e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.7"
+    },
+    "EA1_ACHIEVEMENT_1_15": {
+      "name": "A Powerful Change",
+      "description": "Unleash the power of the devil upon Lee Choong in the Ruined City.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/71a405554d0f55dd4d6fb422d900178652e78465.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/2a0c6dc5203d5faed9048f26c1429d5e310fbcbd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.6"
+    },
+    "EA1_ACHIEVEMENT_1_17": {
+      "name": "Safe Haven",
+      "description": "Arrive at Mirabeol and learn more about the situation",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/efaa47cd30ec241600db1f3f68259f4cc14ef02a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/4ca711c09d8aa3bfa3ed90ec11874c7ce6db0c72.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.7"
+    },
+    "EA1_ACHIEVEMENT_1_18": {
+      "name": "Roots of Darkness",
+      "description": "Enter the Corrupted Forest.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/0c886b6f098b435167e7fb0277f2953b708ed14c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/647a77c50e27c83809edd57c7e83d51c2c272ddc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.2"
+    },
+    "EA1_ACHIEVEMENT_1_19": {
+      "name": "Mysterious Investigator",
+      "description": "Reunite with the woman investigating the Black Crows in the Corrupted Forest.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/292159b21dbe12c42a52286f531bb53e288f27a8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/ba16ff4dabde61737385706e5fbb19961f06aa0e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.1"
+    },
+    "EA1_ACHIEVEMENT_1_20": {
+      "name": "Black Crow Elite I",
+      "description": "Defeat the Black Crow Scout in the Corrupted Forest.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/de6b113b5460e8d19364a0ec3aab46132444daab.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/9d7a60fb26d50dfa8a647fc73fff79033e600efc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.9"
+    },
+    "EA1_ACHIEVEMENT_1_21": {
+      "name": "Black Crow Elite II",
+      "description": "Defeat the Black Crow Combatant in the Corrupted Forest.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/c48760d31cd95e1da1787de6bd10a2a8b489655b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/870cb75e55814eb681844d056ff0514aa7af40c1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.4"
+    },
+    "EA1_ACHIEVEMENT_1_22": {
+      "name": "Black Crow Elite III",
+      "description": "Defeat the Black Crow Enforcer in the Corrupted Forest.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/06a0c18fa15d67f7eafb9dc59151d218dc7dc826.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/ec87f08a3d531b1d1c74d70e22077cd4552ef6d8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.9"
+    },
+    "EA1_ACHIEVEMENT_1_23": {
+      "name": "Ill-Fated No More",
+      "description": "Defeat the Devilized Lee Choong in the Corrupted Forest.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/ac012fe6573244fe89169f8bfab3066bcdf3051c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/d74d898e8c35f03fbc8eadf8aff57a8506559823.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.5"
+    },
+    "EA1_ACHIEVEMENT_1_24": {
+      "name": "Desolate Valley",
+      "description": "Enter Restricted Zone 21.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/ae9e5ea61781776566fa7320068e2f3a1692c8be.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/560345dfb5eedc9080b2033f573beeed5190c1c1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.8"
+    },
+    "EA1_ACHIEVEMENT_1_25": {
+      "name": "Den of Exiles",
+      "description": "Open the door of the dam and enter Restricted Zone 21.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/c59c7a1b257cffe4f53fc72112ca5f3ebf0065fc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/95bc28e87299cc60f94b8e0c5f77f03ffa0f5fb6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.0"
+    },
+    "EA1_ACHIEVEMENT_1_26": {
+      "name": "Dusty Roads",
+      "description": "Use the excavator to get across in Restricted Zone 21.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/fccb4b1a6e2986ab45720d6564e71d46a1cc4b67.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/87180154d09a66e34aa5a7219f877a0f729b5ff6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.7"
+    },
+    "EA1_ACHIEVEMENT_1_27": {
+      "name": "Tech Support",
+      "description": "Destroy all of the tanks in Restricted Zone 21.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/43ae4bc871b69b6599cdbd6058c8d2ae79216d53.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/dcdd72e79bb7779c6b2138470ec2fbfbf510d4da.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.0"
+    },
+    "EA1_ACHIEVEMENT_1_28": {
+      "name": "To Suffocate or To Not Suffocate",
+      "description": "Escape the chamber and activate the ventilation in Restricted Zone 21.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/c722c660b2c86acc0fc63a9d4597725279896af4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/a72407d7643454dc8eb07a3b4721efa183b58a95.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.8"
+    },
+    "EA1_ACHIEVEMENT_1_29": {
+      "name": "Mortar Danger",
+      "description": "Avoid the bombardment and get to safety in Restricted Zone 21.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/edd3226b2662b821b315bdb93ae88b1ef49c5714.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/a2f1a66cce2e394c0287e132f242951804d57450.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.8"
+    },
+    "EA1_ACHIEVEMENT_1_30": {
+      "name": "Who Turned Off the Lights?",
+      "description": "Defeat the Administrator and foil its plans in Restricted Zone 21.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/ef22c6f826bcbd2664f04295485b85affa74da5b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/7791cfe3fda182f656d5b42292c6ee3d3b89e28c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.2"
+    },
+    "EA1_ACHIEVEMENT_1_35": {
+      "name": "Power... More Power!",
+      "description": "Obtain the gun, 'Red Panther.'",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/8225c077f09772d82d0aac80082d59c0d14801fc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/f702298bd5b297f4d7966ac442a4fdff250e0da7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.7"
+    },
+    "EA1_ACHIEVEMENT_1_36": {
+      "name": "If Only I Had Been a Little Faster",
+      "description": "Enter the Capital.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/5208612418e0a3d52282d8b32a87a538eb0d8870.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/53431efa637121513f25b6a2473bef6e605e04b5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.8"
+    },
+    "EA1_ACHIEVEMENT_1_37": {
+      "name": "Gateway to Hell",
+      "description": "Enter Purgatory in the Capital.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/89fcae00a9d5028ea9780ccbf7b478a289e61a50.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/1c6e9c7c8d196ba318a1668cd2a21b7aa422d0b3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.7"
+    },
+    "EA1_ACHIEVEMENT_1_38": {
+      "name": "That Body Can Float?!",
+      "description": "Defeat Shinman in the Capital and obtain the Chime Bells.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/cc9d931971a6d15dc7b62b359779e346934d3166.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/7abc2328b524d3f7ea57cd99a7fb26ed57147ab9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.9"
+    },
+    "EA1_ACHIEVEMENT_1_39": {
+      "name": "This... is... HAETAE!",
+      "description": "Use the Chime Bells to harness the power of the Haetae Stones. ",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/5e03ee6291d5be138cde4f42611099369d26c61b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/44d2458b61214fd347e54ff59df5009d4246b388.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.4"
+    },
+    "EA1_ACHIEVEMENT_1_40": {
+      "name": "Devil-Incarnate",
+      "description": "Accept the power of the devil within. ",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/d9e4f324ccb934ea5bb5e45bcca1efbbe5921015.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/cb1fe0f91363be25c6add482f4577057afd77a2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.0"
+    },
+    "EA1_ACHIEVEMENT_1_41": {
+      "name": "Aspiring Dragon Imoogi... Or a Catfish?",
+      "description": "Defeat the devilized Shinman in the Capital and stop the rebellion.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/260aed5d2aea32cfcfbdaf1d637aded908f8b432.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/44af4dfc7d8cc08e2ce971cf1edd01814da5c215.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.9"
+    },
+    "EA1_ACHIEVEMENT_1_42": {
+      "name": "That Guy Again?!",
+      "description": "Destroy the Seed of the Demon God in the Ruined City. ",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/9046dc331efda45e4f898143638fbf2cfe5020e5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/475d7cedff58832fbc64f62ca92f568adb231b7e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.1"
+    },
+    "EA1_ACHIEVEMENT_1_43": {
+      "name": "H-Hot!",
+      "description": "Destroy the Seed of the Demon God in the Corrupted Forest. ",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/a21d31294c4334d243718002799b94cc708eb8ed.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/65c90f0344c8742514aa8a329ad7fb09976ed08d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.9"
+    },
+    "EA1_ACHIEVEMENT_1_44": {
+      "name": "Haunting Voice",
+      "description": "Destroy the Seed of the Demon God in Restricted Zone 21. ",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/2463564e6105d5969ed6b58a63b8dc8efc9ae435.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/36c1ac1de746fbfd4d2b01ab7aeccbc2f8dbfce4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.1"
+    },
+    "EA1_ACHIEVEMENT_1_45": {
+      "name": "Rest in Peace",
+      "description": "Solve the mystery of the tomb in the Capital. ",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/7d0af839421d37f678e2a311836fd433319e9acb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/061f288509ad2dff29512b523f735f7c205c90e2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.8"
+    },
+    "EA1_ACHIEVEMENT_1_46": {
+      "name": "Complete Power",
+      "description": "Obtain all of the Devil's Armors. ",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/4bb4118bdfcc0eba4185e0f3145c9a411e076321.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/99fd0697225582caddd975b43efdedccc0059b67.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.2"
+    },
+    "EA1_ACHIEVEMENT_1_31": {
+      "name": "Better Than Before!",
+      "description": "Enhance any Sword or Gun to at least +5.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/d816b0e77a8f7750c4a6dd1e81734ceb734d945c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/cad7a93a5d2bf67300d69549a632efd2b7a692f2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.7"
+    },
+    "EA1_ACHIEVEMENT_1_48": {
+      "name": "Even a Master Wants Better Tools",
+      "description": "Enhance any Sword or Gun to at least +10.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/4d604f4bd6ad1655bda358911a91b7edc59ddb22.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/eca5121d06cf7d37645709fa4169f43256bdf5d8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.2"
+    },
+    "EA1_ACHIEVEMENT_1_49": {
+      "name": "Soulmate",
+      "description": "Enhance any Sword or Gun to at least +15.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/7e3e39942e81f3ca93edcb8c0d10a4c0850b0a92.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/fc973df0b5abc6821a6729a772eb2c2df96ebd59.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.6"
+    },
+    "EA1_ACHIEVEMENT_1_32": {
+      "name": "City-Wandering Spirits",
+      "description": "Find all of the Haetae in the Ruined City.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/b961d5087682e66f8aaf41a771fe4ce57597867a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/48c93f02bcab43e746f001a876aba3c0c05f9c70.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.4"
+    },
+    "EA1_ACHIEVEMENT_1_33": {
+      "name": "Forest-Wandering Spirits",
+      "description": "Find all of the Haetae in the Corrupted Forest.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/92651cff4459ae8e2e7f33af001a2ea486c5ae9f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/2aff84492588e5cee13aabbdb8a3c65d925cada7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.8"
+    },
+    "EA1_ACHIEVEMENT_1_34": {
+      "name": "Wasteland-Wandering Spirits",
+      "description": "Find all of the Haetae in Restricted Zone 21.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/1dc6293e7fa1852030003f4adada4891695b6390.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/82b83432b0f7253835c89f2921624623fdfdfa36.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.4"
+    },
+    "EA1_ACHIEVEMENT_1_47": {
+      "name": "Hell-Wandering Spirits",
+      "description": "Find all of the Haetae in the Capital. ",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/a8a4d49357e69073184b77764f0e5f8f1d5674af.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/49c4ba7d11bfeaf45c0def51f6ba982ff1d08f75.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.2"
+    },
+    "EA1_ACHIEVEMENT_1_50": {
+      "name": "Master of Finding Haetae",
+      "description": "Find every Haetae on all maps. ",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/fb966880de531b072e88444253e0e8f81c9d6aa7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/193a97ab74567dee228edee8ad8dda3f05895277.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.1"
+    },
+    "EA1_ACHIEVEMENT_1_51": {
+      "name": "The Beginning and the End",
+      "description": "Remove the power of the Demon Gods concentrated at the top of the Ebon Sting. ",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/653bcd714c3cfdbccdc45f76607bfe656b26f06f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/e3f0193f87a95e19a2daa7011bfc61d0e691fe99.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.2"
+    },
+    "EA1_ACHIEVEMENT_1_52": {
+      "name": "Wandering Kim Satgat",
+      "description": "Back on the road...",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/af76b2fd59157f70da86c74aa35c8ebeec020f2d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1802880/05c679fe24ab3bfdcddc6e356f9d38748bd375fb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.8"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

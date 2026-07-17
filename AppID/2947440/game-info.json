@@ -1,0 +1,514 @@
+{
+  "appid": "2947440",
+  "name": "SILENT HILL f",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2947440/7e5d923ac622bd1775ebc9b5d4b5b0a24bf5ed40/header.jpg?t=1770169624",
+  "achievements": {
+    "0001": {
+      "name": "Surrounded by Fog",
+      "description": "The baby bird takes her first steps.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/0d17bb6ecfe5fdf3a36eca6e464c3b4884facd98.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/834599a8b0bab8877aa5bc0a3c2a4ffce724cfe7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "84.8"
+    },
+    "0002": {
+      "name": "The Fox's Guidance",
+      "description": "The fox watches over the chicken coop.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/91d545f29b1787b191169b435f8be3951b025aea.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/9dd61e039db84c31fc4776a7ba747231c633973b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "75.4"
+    },
+    "0003": {
+      "name": "Scarecrows' Whispers",
+      "description": "As you bask in the sun, I sink into the shadows.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/597da826e24c84d9ec1200c6f95b97c305606137.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/1c677c175f1d605c18788d3071457bbcdc48e49e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "66.1"
+    },
+    "0004": {
+      "name": "Cleansed",
+      "description": "Wash thoroughly before eating.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/f1e995b6d6af3b29492c517311a27841bc0f819a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/c003ba5084e197613bf765d4131591431ac09737.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "61.3"
+    },
+    "0005": {
+      "name": "On the Way to School...",
+      "description": "The little sparrow escapes with its friends, wings flapping nervously...",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/f351f9786d7946c16337437ab748de54b4a0b9e4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/d388a852ee3a70926a5236c967c0c60b0c9834f1.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "58.0"
+    },
+    "0006": {
+      "name": "Shell of the Past",
+      "description": "What exactly have we learned?",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/dae332543fc2645d891895f365b712eca6571cb5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/435953f1cb10cf374c94e5fb9330240ea6b82643.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "55.2"
+    },
+    "0007": {
+      "name": "The Farewell Party",
+      "description": "You have no place in my future.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/838358595fce66509a3aed3aaa8a83f8ef544c64.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/a205ce74f96e913ddec28911ac519fcab5edacd9.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "51.2"
+    },
+    "0008": {
+      "name": "A Dangerous Path",
+      "description": "For whom do I tread such a treacherous path?",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/88966133fe6e99cd392f9e99f1487a29f70d0328.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/a8c3a01b68b8056480d88cf8462a65b4a790f612.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "49.9"
+    },
+    "0009": {
+      "name": "Plucked Wings",
+      "description": "Anything for you.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/37514b2391131932a72ed821d07eeac83aef1e75.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/6b7f97272ab72b184aafb02db7581f93593230db.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "48.4"
+    },
+    "0010": {
+      "name": "Parting on Good Terms",
+      "description": "Good terms? No. I'm here to burn bridges.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/eebf1bde6bad6b9da42e1573dc266e3eb1f8a1ed.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/649e25382c8c67b22b6d37b9b79f86e8cd914aad.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "46.0"
+    },
+    "0011": {
+      "name": "Solar & Lunar Eclipse",
+      "description": "Two portals open; doors to a secret world.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/c911b83081b7a60c7c94527f808af1cd91a32734.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/f4cc2aaf089d944ba98db0d51a4884df25e931a0.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "44.9"
+    },
+    "0012": {
+      "name": "The Path of Self-Preservation",
+      "description": "I refuse.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/2cf117f074f43849158b613711fbba7602d66700.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/4a884ed23698f71049db5a1602dfd75c96770de8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "44.6"
+    },
+    "0013": {
+      "name": "The Path of Exultation",
+      "description": "I accept.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/221ca90db1d7949ab95c5b88e6e3bede541f2857.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/f0d999251dcd29d0a0592191049bf5f012da3b1a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "44.5"
+    },
+    "0014": {
+      "name": "Coming Home to Roost",
+      "description": "Drown in a bottomless pit of self-doubt.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/88816c2e6ed3725635714ffa8ebf0de764827152.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/d503d85b33cf7da495a52134980c3ed24d15611a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "44.2"
+    },
+    "0015": {
+      "name": "Fox's Wedding",
+      "description": "Dolls are happiest when they are loved.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/e13f0b968ea942d376acd116ef686f27cc40cca0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/8f862c37d9fd61a07344342001094cf8e28d02c4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.3"
+    },
+    "0016": {
+      "name": "The Fox Wets Its Tail",
+      "description": "A hell of your own choosing. Nothing else matters, now.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/8ed0a771300bb33c03eac523e068c301b70193ea.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/b5179a27ca7f79f10df2b7a951c9175ec28b26fd.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.9"
+    },
+    "0017": {
+      "name": "Ebisugaoka in Silence",
+      "description": "We need to talk about our future.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/96a3327e97442d6298bc9b7f6f597c00abea0df2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/3f96b57be6fd3245a11f743181d6f6ed1fd6ab50.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.0"
+    },
+    "0018": {
+      "name": "The Great Space Invasion!",
+      "description": "Rise up! The Space Army is coming!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/d5ab35a95760d8db3f09c83a3de184863cc12172.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/1639fdc08e9abec176282a414ebccb7e175873ae.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.8"
+    },
+    "0019": {
+      "name": "Thankful to Be Here",
+      "description": "Complete the game with action difficulty set to \"Story\" or higher.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/2500ee4caf3ccd3339ff5717f09bed15a35d35a3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/bb7ef9e0ff0078f4dd02b13858d10816b7d9c554.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "42.1"
+    },
+    "0020": {
+      "name": "Grateful for a Worthy Foe",
+      "description": "Complete the game with action difficulty set to \"Hard\" or higher.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/3bfac801a39a27930a4b565dc5cf2e2e67798ebe.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/d1aea117ad20d8a3cd50c4855263aec261cb9543.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.1"
+    },
+    "0021": {
+      "name": "Clear Skies",
+      "description": "Complete the game with action difficulty set to \"Lost in the Fog\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/ac6fd3a8f2b6e97a3a91be2c1efcd107ec8c1f88.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/528da998318e31e5fa780ee17ef0997e2728d4a4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.5"
+    },
+    "0022": {
+      "name": "Intellectual Pursuits",
+      "description": "Complete the game with puzzle difficulty set to \"Story\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/efa80d139b21496d429b87aecea81f6cfdc49208.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/e1154a5a0930979190ee050de180db7f5b9d42bb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.3"
+    },
+    "0023": {
+      "name": "Wise Researcher",
+      "description": "Complete the game with puzzle difficulty set to \"Hard\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/cb54cb215e3f84e9ce33f990037596e28e93e450.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/57e4893faf6b221914a45f170ad2516a9a7c5f1d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.1"
+    },
+    "0024": {
+      "name": "Puzzle Master",
+      "description": "Complete the game with puzzle difficulty set to \"Lost in the Fog\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/361fb68c1c848a9fb30e33286ea57ad80a2cbf01.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/d87fca1985b72e57594d706c6102bbf61ba608a2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.3"
+    },
+    "0025": {
+      "name": "Like a Fleeing Hare",
+      "description": "Escaped from the Fog Monster at Ebisugawa without getting hit.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/0953f5b21646aca8987470cde2685170e5fc8b8d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/7f6c30bf5b75bd0b319e9ee77ab82fcd2e2e4fc2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "37.9"
+    },
+    "0026": {
+      "name": "Untouchable",
+      "description": "Opened the Shrine Vault at the Shrine Path without getting hit.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/52ee571e479483400bb6ae013ee1cf0e658da451.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/1f106b204c41bf20f37c2615f87d058cf1f224af.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.6"
+    },
+    "0027": {
+      "name": "Acupuncture Specialist",
+      "description": "Arrived at the Nishida residence without making a single mistake on the scarecrow puzzle.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/a8a3ea446e54c4e651ffe541a1dc2f8b4ee2963e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/2894d0839440d3209ad8180b13332290081456d4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.1"
+    },
+    "0028": {
+      "name": "A Federal Offense",
+      "description": "Opened the Igarashi residence's mailbox.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/8247c469d9e58ee1b64aece7d4f2161b0ec92b7c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/479283c2d22ed6689fe6fb96cc244bd250a09f85.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "30.2"
+    },
+    "0029": {
+      "name": "The Sound of Silence",
+      "description": "Defeated Sakuko without getting hit by the suzu bell attack.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/4482cf37be3dfa890174b0b3e3e67811482a2f60.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/bbcece44023499353f5eb1e4060cb240bcc3b050.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "26.9"
+    },
+    "0030": {
+      "name": "Go Away! You'll Ruin the Shop's Reputation!",
+      "description": "Defeated the Giant Monster in front of Chizuruya General Store.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/aee903e28fd88e304899eb05e182490ca0254e44.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/cd893af91978bef6d91549e44aa33bbca2221496.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.6"
+    },
+    "0031": {
+      "name": "No One Left Behind",
+      "description": "Stopped a certain number of enemies behind the white rabbit crest door from reanimating.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/8a67463c9800d0ee46a87a4f8ea780ecb7bfa701.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/2e44585ea2acba738a0892af9848cc1fc8cc59c5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "28.8"
+    },
+    "0032": {
+      "name": "Agile Escape",
+      "description": "Escaped from the Fog Monster at Sugisato without getting hit.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/aac78d4ee54650ed36cce173ca3af6a2765607aa.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/17833fa418b6263ca81843edee192966fe9e31df.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.9"
+    },
+    "0033": {
+      "name": "Echoes of Jealousy",
+      "description": "Defeated Rinko without being hit by her puppets.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/e94a3c9242b0d05594949d226d7a1638a3eb9a94.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/efd3603ff1245a4342adc526cc5f15c8da49e019.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.3"
+    },
+    "0034": {
+      "name": "O Divine Tree",
+      "description": "Discovered the Thousand Year Cedar.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/a5462abd9209229cf7cef9e516f50b5b85d145dd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/3d059e041d6d0b29a4f221e280da858d52923547.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "45.0"
+    },
+    "0035": {
+      "name": "Just Shut Up for Once, Dad!",
+      "description": "Defeated Hinako's father before her mother at the Shimizu residence.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/1e15aa2f7aba2180cb3e727e021b267d65ff6692.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/7df9529bda75472ede6bcebd5235c75644b61e72.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.2"
+    },
+    "0036": {
+      "name": "Sly Like the Fox",
+      "description": "Obtained all the crests without making a single mistake on the Inari statue puzzle.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/6df26bbb4619fd6a97fef4a1ba9a9f78bcfc165e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/5f0d9b503fb30b3e608a77088b7e53a5143deee2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.2"
+    },
+    "0037": {
+      "name": "Where Are You Going?",
+      "description": "Caught up with the Fog Monster 3 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/16d5994e75c6dbbfd99513a11bbef6612596957a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/14f67d1d8324093df23c41f0f5f9277e9ff0c651.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "22.5"
+    },
+    "0038": {
+      "name": "The Bird that Flies Highest",
+      "description": "Defeated the Shiromuku without dying once.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/7259dcf21db1314d97e7c8e040f05ef0a58efdbd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/503f9da05be7785c9f3cc9bbf1154c160d8394c7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.6"
+    },
+    "0039": {
+      "name": "Fox Tamer",
+      "description": "Defeated all the summoned monsters before putting an end to the Shichibi.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/967c22ec64a04d80a13ebd336981b027a6f7458b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/9b730ab8df2aaf795683aaf969e7b02c8738e3bb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.4"
+    },
+    "0040": {
+      "name": "Puppetmaster",
+      "description": "Defeated the Tsukumogami without getting hit by a single arrow.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/25deb1a360e440cd017bc0e85cf311c47106bf26.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/1244cb36ed3c94c183c0b965b6158623ab719e92.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "0041": {
+      "name": "God Slayer",
+      "description": "Defeated both the Tsukumogami and the Kyubi within 10 minutes of the fight starting.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/81cc64f5ff3f93c6c3f1d5f2d1b3ccc9bb7d1b6d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/9d907ff02e6bdcfea841496f2fb73cb67467b830.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.1"
+    },
+    "0042": {
+      "name": "Winners Don't Do Drugs",
+      "description": "Reached the Iwai residence without taking a single capsule and left the capsules on Shu's desk in his workshop.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/baa8d62ef207a11b7bf61b9cf764a7bbfe8ab3c9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/8f4a13cf82a4865d87c65d04fbad03f7fe695e56.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "15.5"
+    },
+    "0043": {
+      "name": "The Malevolent Blade Never Rusts",
+      "description": "Obtained the Sacred Sword after uncovering its legend.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/061a7441af344197f7d669b27c50e2a1a174ad58.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/9d91eff9139e546f76ed52b93b3f4cc16b0d6b4c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.7"
+    },
+    "0044": {
+      "name": "Treasured Belonging",
+      "description": "Obtained the small vial containing the Agura no Hotei-sama.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/d8d8d2ba1463287a4d9b62687446b21db9062cb3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/3361bec4d5a751dd2a9a345ca9509635b0ff66d8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.4"
+    },
+    "0045": {
+      "name": "Be Free of Your Hatred",
+      "description": "Purified the Sacred Sword.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/ec1a99828f207e8f06fcba95c4d5ae0356f9e5d0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/8fec423d5d8dacad0f42a4c31cd0e6bc3b0b7ff2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.1"
+    },
+    "0046": {
+      "name": "A Gift I Cannot Accept",
+      "description": "Offered the Brooch to the ancient Jizo statue.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/78774274722175d7d5aba8bb81b75c32d40b6f08.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/f7fa07d3db8cff8de9e88eb59bc8ce6dd205dd23.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.3"
+    },
+    "0047": {
+      "name": "Close to the Sun",
+      "description": "Fully upgraded Health, Sanity, and Stamina.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/d3e6f645b18fb5497f092f1730ba71cefcb78648.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/74ce0729b776090264bd4ed459350b87f0727fcf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.3"
+    },
+    "0048": {
+      "name": "Fervent Collector",
+      "description": "Obtained all the items that increase inventory size.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/fe6731d0b3cb6d662fb7ebd1dafb406ea483ca29.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/0b2eb792cb84c3c6afbca2c0377bbea340b4212f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.4"
+    },
+    "0049": {
+      "name": "Omamori Collector",
+      "description": "Obtained all the omamori available from hokora.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/75d8e382f6a7f92edc1d07c3ec56f39617f7d731.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/4e4b7362c4e891b32324e49e713c8da337738334.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.7"
+    },
+    "0050": {
+      "name": "Omamori Sage",
+      "description": "Obtained all the hidden omamori.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/d7e270ca5e7ecb0051b9142eefb2aab8021a69ed.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/4bc6322ecca7a747e2d6c63852f73026cb20b316.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.8"
+    },
+    "0051": {
+      "name": "Inari-sama's Secrets",
+      "description": "Opened all rooms and boxes marked with Inari-sama's seal.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/aeea905f58b2efa2eb3a5828dda68894281db37a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/b8e992194c3ca50606147a4b568a6c30085706b7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.1"
+    },
+    "0052": {
+      "name": "The Truth about the Tsuneki Family",
+      "description": "Obtained the following documents:  \"Housemaid's Note\"  \"Family Physician's Log\"  \"Strict Mother's Letter\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/88873e297767ef7ddc2a8f523e49a3184eee5dc8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/2dbe78b46e74fb957257e55a9a9d14bf09fc201c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.2"
+    },
+    "0053": {
+      "name": "Fate of the Apostate",
+      "description": "Obtained all the following documents:  \"Diary of Revenge\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/6cb37e61ed8a91c7c4b9d9fc75d4c2dc784b5125.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/2f9a5d35a6c92c9563395fd31408d5b22dff27f3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.4"
+    },
+    "0054": {
+      "name": "A Miko Possessed",
+      "description": "Obtained all the following documents: \"Sakuko's Diary\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/7c6d9d81bc09815a20e886f0a49eac7304bff4c3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/c4d5c65d1b72b8085ebc9dc247c2f6ab558a87df.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.7"
+    },
+    "0055": {
+      "name": "Fires of Jealousy",
+      "description": "Obtained all the following documents: \"Rinko's Diary\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/58cead37c281f47bcf398632cd7197c0eae6f7fe.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/64de062990bdbd70a769ae433366014c52bd05f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.4"
+    },
+    "0056": {
+      "name": "Good Intentions...",
+      "description": "Obtained all the following documents: \"Clinical Trial\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/f358a1ea8e6b900db8d987515b9040e30d147e7f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/82dd1cc23ca6e41f2ea60e38c069286d3ac61840.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.0"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

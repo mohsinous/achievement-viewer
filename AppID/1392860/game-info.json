@@ -1,0 +1,406 @@
+{
+  "appid": "1392860",
+  "name": "Little Nightmares III",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1392860/7aba96b32736990ec8a131bfdf395d2dc35b282b/header.jpg?t=1783431943",
+  "achievements": {
+    "0000": {
+      "name": "Mastery of The Spiral",
+      "description": "Keep on turning",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/b1fe365bb2faaf699d422e3634cf068c88415b43.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.7"
+    },
+    "0001": {
+      "name": "Child's Play",
+      "description": "You're not rattled that easily",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/bb3f03f08d7fd4fad704e39ec2053094b479e021.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "49.3"
+    },
+    "0002": {
+      "name": "Unsupervised",
+      "description": "Survived the most pressing of situations",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/8d6ce4e0143b623f574c656f781498fa87f341ef.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "43.2"
+    },
+    "0003": {
+      "name": "Showstoppers",
+      "description": "The show cannot go on",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/4da0e4c7ee5c79c502bc1e9cb7b9e9fbcbc20e35.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "35.6"
+    },
+    "0004": {
+      "name": "Spiral Out",
+      "description": "A twisted mind unraveled",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/3333a521253ce752d451d164f7ca1fd48076382e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "32.0"
+    },
+    "0005": {
+      "name": "Low-Spirited",
+      "description": "The real memories are the friend you made along the way",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/cc0b48728a0ef6158c2576dd943dadd886aedca0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "15.8"
+    },
+    "0006": {
+      "name": "From Nowhere, With Love",
+      "description": "...But to be is to have been",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/0ba0ed4ee7cfd91ac4e6244e86a401bfcfcb4080.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.0"
+    },
+    "0007": {
+      "name": "Special Connection",
+      "description": "There is no bond as strong as this",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/3b5f6b6bf7c4d2a5de114283e28c2928728b445c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "25.1"
+    },
+    "0008": {
+      "name": "Toybox",
+      "description": "Playtime's over now",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/8a1d6092e1502f586251ea6529c5487c949d1379.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.9"
+    },
+    "0009": {
+      "name": "Candy Shop",
+      "description": "Sweets for my sweet",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/be86dc4c098edb9af16cf7d30ee36ac5ee3977e6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.7"
+    },
+    "0010": {
+      "name": "Token Gestures",
+      "description": "You hit the jackpot",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/de720290bead1e5971d5b33622b0a7ec664b3c43.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "0011": {
+      "name": "Filed Away",
+      "description": "Nothing left in the medicine cabinet",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/fd1abce5b1400abf151f619fbe666f7213837b10.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.0"
+    },
+    "0012": {
+      "name": "Loose Threads",
+      "description": "Little shapes of big things to come",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/dcb09db18a879760914f2edf691e1cb324bca70e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "0013": {
+      "name": "Hello?",
+      "description": "You can always call on me",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/dadd75601fe1c8bd4a058327ff1916dcc028d051.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.6"
+    },
+    "0014": {
+      "name": "Guiding Hands",
+      "description": "We're connected, you and I",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/de27868c8339105b646de28f676df02bc979684c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.5"
+    },
+    "0015": {
+      "name": "Spanner in the Works",
+      "description": "I can be quite handy when I want to be",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/6e3f3a026904d241d541d2946d32a9a4e35107b1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.8"
+    },
+    "0016": {
+      "name": "Bullseye",
+      "description": "You gotta aim high",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/be9b4d06ab31846f8eb263edaebdbf2b396a4ee6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.6"
+    },
+    "0017": {
+      "name": "Peekaboo",
+      "description": "There's a twinkle in that eye",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/5aefa35e1e24ad8afdd7948fcd8f6c670b43d6b2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.4"
+    },
+    "0018": {
+      "name": "The Windy City",
+      "description": "Just don't open it indoors",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/f93d81a25975b19777bd0665e9bf8baaced50fb7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.4"
+    },
+    "0019": {
+      "name": "Birdbrained",
+      "description": "Always ruffling feathers",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/dc8d7ebfd358503e20d7562d07f3b7346ed3c005.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.9"
+    },
+    "0020": {
+      "name": "Capital Punishment",
+      "description": "You're heading for a shock",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/31c87254e2495e0590479ed1379dec300da3666c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/ae78eeb309fc7e24e4b60237df45feadcedfcc45.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.2"
+    },
+    "0021": {
+      "name": "Home Sweet Nome",
+      "description": "Ready or not, here I come",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/12fb28b92151a82c20073dc60dfc9431944a0ab5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.5"
+    },
+    "0022": {
+      "name": "Stay Tuned",
+      "description": "Are you taking notes?",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a6d5dafb5cb90f9ceeac7c0799c6dbf83af53c0a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/ae78eeb309fc7e24e4b60237df45feadcedfcc45.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.2"
+    },
+    "0023": {
+      "name": "Light or Flight",
+      "description": "Look on the bright side",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/56e4f04dc7a0f27af794f78cea16bf53ceae3050.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.7"
+    },
+    "0024": {
+      "name": "Another One in the Bag",
+      "description": "Nothing but net (profits)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/70f9864fad4f8a3b5c3625d2d5ff2070c0151fdd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "0025": {
+      "name": "Unsavory Delicacies",
+      "description": "Rotting from the inside, delicious on the outside",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/0bcc73039347b90d496503387f04b4ef8f4731f0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "0026": {
+      "name": "Omnipresence",
+      "description": "Far or near, she can make us fear",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/796f0aeeb89b9588c9e4239a896bb47a68ec7d16.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "0027": {
+      "name": "Delivery Feed",
+      "description": "From store to (cage) door",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/72d43886c79b6b21486f378a7490d027e79ff0b6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.2"
+    },
+    "0028": {
+      "name": "Aim Low (and Alone)",
+      "description": "Win a prize every time",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/2672a4c397ad06a9b15e3b80fe023ddc0856e29b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.0"
+    },
+    "0029": {
+      "name": "Illuminating Experiences",
+      "description": "The gift of second sight",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/acf9ccdbc8e9253fd16870d6987b650f3031a1cc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.1"
+    },
+    "0030": {
+      "name": "Institutionalized",
+      "description": "The Kids Aren't Alright",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/ae0d3e7f7f99d9a8d51089f35d5f35e7501e9dce.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.5"
+    },
+    "0031": {
+      "name": "Hand-Eye Coordination",
+      "description": "You've stayed at arm's length",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/234617dbd57ee5d273c531d9deb4d6b1c18a7163.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.0"
+    },
+    "0032": {
+      "name": "Exit Stage Fright",
+      "description": "Survive until the curtain call",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/896ff06946ee4e2523b0c75291ebc9b266e9ab6f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/f652a424468980a500391a533fd467824d81ff93.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "0033": {
+      "name": "Picture Perfect",
+      "description": "A revealing experience",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/d8fdff969efe890401d1830d3c950e38044edda5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/f652a424468980a500391a533fd467824d81ff93.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.3"
+    },
+    "0034": {
+      "name": "Just the Ticket",
+      "description": "Keep your eye on the prize",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/fd44b74dcdca6915ad679ab99b543bd2b6e40e3b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/f652a424468980a500391a533fd467824d81ff93.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "0035": {
+      "name": "Puppet Master",
+      "description": "You didn't break a leg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/f9dbde21d581190a5eb7d0d0e39e55bfb823a3ac.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/f652a424468980a500391a533fd467824d81ff93.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.3"
+    },
+    "0036": {
+      "name": "Clean Up Your Act",
+      "description": "You may need a raincoat",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/1f60f1a4dacc71437ed9108cf8333170e34ef6bb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/f652a424468980a500391a533fd467824d81ff93.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "0037": {
+      "name": "Shadow Puppets",
+      "description": "Flash the mob",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/895aa767095144a1ad807ada1575bf18a148051d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/f652a424468980a500391a533fd467824d81ff93.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.3"
+    },
+    "0038": {
+      "name": "DLC0201",
+      "description": "DLC0201",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/71e6382a907096c74ed73b0a44c71927ec54fa46.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/71e6382a907096c74ed73b0a44c71927ec54fa46.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "0039": {
+      "name": "DLC0202",
+      "description": "DLC0202",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/71e6382a907096c74ed73b0a44c71927ec54fa46.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/71e6382a907096c74ed73b0a44c71927ec54fa46.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "0040": {
+      "name": "DLC0203",
+      "description": "DLC0203",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/71e6382a907096c74ed73b0a44c71927ec54fa46.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/71e6382a907096c74ed73b0a44c71927ec54fa46.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "0041": {
+      "name": "DLC0204",
+      "description": "DLC0204",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/71e6382a907096c74ed73b0a44c71927ec54fa46.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/71e6382a907096c74ed73b0a44c71927ec54fa46.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "0042": {
+      "name": "DLC0205",
+      "description": "DLC0205",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/71e6382a907096c74ed73b0a44c71927ec54fa46.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/71e6382a907096c74ed73b0a44c71927ec54fa46.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "0043": {
+      "name": "DLC0206",
+      "description": "DLC0206",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/71e6382a907096c74ed73b0a44c71927ec54fa46.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/71e6382a907096c74ed73b0a44c71927ec54fa46.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "0.0"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

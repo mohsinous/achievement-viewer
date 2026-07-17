@@ -1,0 +1,352 @@
+{
+  "appid": "1310410",
+  "name": "Alone in the Dark",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1310410/header.jpg?t=1754066311",
+  "achievements": {
+    "ACH_ID_01": {
+      "name": "The Thin Veneer of Civilization",
+      "description": "Break through a barrier",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/8360d486af8d0cb2ec563a59ee77a82742d92d7f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/7789257594efa89399ea4b6a9f029460f6d037a0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.6"
+    },
+    "ACH_ID_02": {
+      "name": "Whatever It Takes",
+      "description": "Kill a monster with an opportunity",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/3d40e1e834faa86c2be1e7c2421b4734c597e2e5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/0c625c2d0e664bebff773b72bc8bb25f5243c979.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.5"
+    },
+    "ACH_ID_03": {
+      "name": "Come At Me!",
+      "description": "Kill a monster with a melee weapon",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/e5ec9ea1db9fb886e3bdc40fa2f93f951c9f6afc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/27046ec497346d28e12fecc0ab1f768f8e51fea4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "78.9"
+    },
+    "ACH_ID_04": {
+      "name": "Now You're On the Trolley!",
+      "description": "Kill a monster with a ranged weapon",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/81c3930a65fd0660e3cd4ad6a86dd30a165f3fcb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/57d3f6a80ca131292b559f1a3d7c5a8ed556147d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "84.9"
+    },
+    "ACH_ID_05": {
+      "name": "On the Mend",
+      "description": "Put a talisman socket back together",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/578e05caafa5edde1abf18db689a25983a5fc322.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/5134c5cbb14fdd95816c6c781172e20e6e3bd0a0.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "67.3"
+    },
+    "ACH_ID_06": {
+      "name": "I Don’t Got All Night",
+      "description": "Finish the game in 3 hours or less",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/44954bcb0eddf039e68b4a5f2eb0d0ac87567656.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/d2307ddadae962ed822e9f316302739ba8ca3605.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.0"
+    },
+    "ACH_ID_07": {
+      "name": "An Honest Day’s Work",
+      "description": "Play for more than 8 hours",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/392a409f2e3a9308f69edcbad3c4b0af2a7a1139.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/d2e9cbfcc77888d8a3a1945902e32ba9d604dbe3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "40.7"
+    },
+    "ACH_ID_08": {
+      "name": "Welcome to Derceto",
+      "description": "Break into Derceto",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/03f6ce5aad7148369685940a3c2dbe1e8bddeccc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/adac259f2ec01f658c8c4eb6f15b0e25bc5a48a4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "92.7"
+    },
+    "ACH_ID_09": {
+      "name": "In Between There Are Doors",
+      "description": "Find your own talisman",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/4e0ad1ff191ef40ad2d8a20ce81aca51e5f50c54.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/6fa9534c3f4d4df07c36be69dfda79713af8e985.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "79.5"
+    },
+    "ACH_ID_10": {
+      "name": "Left Holding the Bag",
+      "description": "Find Jeremy’s bag",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/c343c1353dff2e10388fb81afc8d88d6b71804f3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/f7f05f3b1e449661fdf44f216606961e596c6e65.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "62.5"
+    },
+    "ACH_ID_11": {
+      "name": "Found & Lost",
+      "description": "Talk to Jeremy in the chapel",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/13241776113a4dd613c342dec00b2b87b0e09a0f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/bff410548f59e75b2ba81c9da969e7e55c49ed6a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "56.1"
+    },
+    "ACH_ID_12": {
+      "name": "Somewhere Else Entirely",
+      "description": "Find the Convent of Taroella",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/cb1e41d99f2a70acdd2633f2bc137387e09e556d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/d025e62828b4f2f8fe908908278d1181b96f9241.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "54.9"
+    },
+    "ACH_ID_13": {
+      "name": "Drop Me Off In New Orleans",
+      "description": "Escape the Dark Man",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/e62773035c2bb7a1c3406e86000fe2f4933d46cb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/d4ebdf0048d8359f151849874e09c15e1b7c305b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "53.0"
+    },
+    "ACH_ID_14": {
+      "name": "Losing My Mind",
+      "description": "Walk into the desert",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/0b165f0b7215303c837d0d0c1e805c36ca91536a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/67feb2c238a48e839a8c56da230c3a69b3ea5e62.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "51.0"
+    },
+    "ACH_ID_15": {
+      "name": "Where I Belong",
+      "description": "Return to Derceto",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/dee796eb83062fe3b1bfcd5981aaf1f329b023eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/4137b81baa59178ac884852e7e1751aec683f8c4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "49.9"
+    },
+    "ACH_ID_16": {
+      "name": "I Abandoned Him",
+      "description": "Own up to your awful past",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/ab8507809f48ac3aa18d5a1692d831649a857cc8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/ed2713ed0d215099ee171196c889c8bec0108715.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.1"
+    },
+    "ACH_ID_17": {
+      "name": "I Stole the Child and Let Him Drown",
+      "description": "Own up to your awful past",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/c799cd6283bf419d62d0c59e4cac96fe1e2e1b16.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/7615d2beff526f6bbc6cbf7770fdbb4a29fd3b51.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "35.4"
+    },
+    "ACH_ID_18": {
+      "name": "When Therapy Makes It Worse",
+      "description": "Break through the barriers of self-deceit",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/77da0996dfc97e25406586ce34f18f19f5ea2c0d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/fe76ef85aa8d21c24affa18dbe7f82c637a6bd55.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "46.7"
+    },
+    "ACH_ID_19": {
+      "name": "The Past as a Present",
+      "description": "Get what you want",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/37f31b25575028fbf246630a8458a0713362b621.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/5c283ecf98d07bd6291d3b51223f0c632c0541aa.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "45.6"
+    },
+    "ACH_ID_20": {
+      "name": "Frenzy",
+      "description": "Enter hell",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/7607b670818bea244f266833dc6f7975e548233c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/94e31461ab77b6781ee7b5f5a35fa6bcfeb5c70d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "45.2"
+    },
+    "ACH_ID_21": {
+      "name": "Back to Normal",
+      "description": "Break the Pact with the Dark Man",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/7d0b00154a34beb30eb694d4aabdcfc47e75b1e0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/cd2c49398150b7ad4acc9688efd39b266f35aa03.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "44.8"
+    },
+    "ACH_ID_22": {
+      "name": "Case Closed",
+      "description": "Save New Orleans from the Black Goat",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/3f0b06a1a495778d968ff71190172241573edcfe.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/1ec5ab1388d90a4a490733f07a3d8b3796a30d52.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "31.5"
+    },
+    "ACH_ID_23": {
+      "name": "Safe and Sound",
+      "description": "Save New Orleans from the Black Goat",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/5b69307f0f7a4e490b330f657844efc4b6907da6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/445c42d9c46089e72925cf49a72ff55eae7835ec.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.8"
+    },
+    "ACH_ID_24": {
+      "name": "Don’t Mind If I Do",
+      "description": "Finish a Lagniappe set",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/272fc493a09e5ee02a76871ac3802e9e616011ac.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/5424f1fd68fd26e928526e5340cc19b5b17530b1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.8"
+    },
+    "ACH_ID_25": {
+      "name": "Watch Out Where You’re Waving That Thing",
+      "description": "Aim your gun at a human being",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/474490f46fc9a608bb6266f66796bfc88670eb25.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/6418fec541903388e1cd8a2512ebc1c063e4df6f.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "25.5"
+    },
+    "ACH_ID_26": {
+      "name": "What Just Happened?",
+      "description": "Give Grace a present",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/924f99f712e0370b4a3e5e3a6a644c9b1a26cf37.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/697e881fadc6d4e8c847443fb04e67691ace424e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.9"
+    },
+    "ACH_ID_27": {
+      "name": "Nobody Knows What Happened",
+      "description": "Consider ending it all",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/53149d3ba3eebc0fe9305a59f389a4c43231552b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/8dff91fb301290d5a7bf84669f1c8f0a3b7d44af.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.4"
+    },
+    "ACH_ID_28": {
+      "name": "Radical Acceptance",
+      "description": "Submit to the Dark Man",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/214f5c5250eda8c74e73af350265dbf52dccd1e2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/477c21d292d38a250dad910726db51bca7da9328.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.0"
+    },
+    "ACH_ID_29": {
+      "name": "One of the Thousand Young",
+      "description": "Join a cult",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/2f6c1353f42703f8b9ac95303350947c008d3bb3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/377f008bbbbd62af685fe8e7399e85813eb27b0e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.8"
+    },
+    "ACH_ID_30": {
+      "name": "Bonfire Night",
+      "description": "Kill an enemy with fire",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/0d931fffd9eae7cbaac8371217c95384824cd77f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/45bf8899e9c9674bdfcd5307779916edccdf1fe8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "51.9"
+    },
+    "ACH_ID_31": {
+      "name": "Hard Boiled",
+      "description": "Kill an enemy with shotgun",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/06abd18f93d9db08f1f9f92f0d3db5bc15a51cb8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/655bf1409d7f558657cc86bc8980e24357d77c2d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "57.0"
+    },
+    "ACH_ID_32": {
+      "name": "Gangster",
+      "description": "Kill an enemy with Tommy gun",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/858021d2123026e9bd083b22923183f109fae047.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/335a7a5f5e0b9ea033a5f451b16284061b658a1b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "50.7"
+    },
+    "ACH_ID_33": {
+      "name": "You Can’t Keep Me Out!",
+      "description": "Open all of the safes and locks in the game.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/72ece83995c090ff5b19c273ada6b4f21ecfea3c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/8f5ebe33446a1242dbc758f73867b9fe2fa83778.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.6"
+    },
+    "ACH_ID_34": {
+      "name": "Chatterbox",
+      "description": "Talk to everybody about everything",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/2ad45b18fbc564a40dab99f49f34c41e9ede93f8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/d4d81e3aeafb05332fc72827e431a5300ba77f3c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.1"
+    },
+    "ACH_ID_35": {
+      "name": "Look At All the Free Stuff I Got!",
+      "description": "Find all the lagniappes",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/e6a05c5f0502774c84a6aee9071192a944cccca1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/7040aecee705b8eec228af63acb094f08b6e3d8c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.2"
+    },
+    "ACH_ID_36": {
+      "name": "Teetotaller",
+      "description": "Finish the game without drinking from your flask",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/fa35deb3ec74b95c0233d6725fcc8f50d987b8cb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/972cc2d4c9d28b0400beeb1ace2a846d56eb463a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.1"
+    },
+    "ACH_ID_37": {
+      "name": "Librarian",
+      "description": "Read all the clues",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/a4c3df57edd7f49bdfd0e3291df67e5f8290c06d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/ae26d68027d970daceda546ff560a6bfa1acf363.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.7"
+    },
+    "Ach_ID_39": {
+      "name": "Alone in the Dark",
+      "description": "All Achievements",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/58e73595c1ecf1f12d44ce8aacd77d8c8ac25dea.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/f64195982f56847e629a438886c000003f88c58d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.4"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

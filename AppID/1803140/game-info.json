@@ -1,0 +1,262 @@
+{
+  "appid": "1803140",
+  "name": "Deer & Boy",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1803140/ba7605686800e14c55b62051c4fb05caa75f8355/header.jpg?t=1784193192",
+  "achievements": {
+    "HUG": {
+      "name": "Free hug",
+      "description": "Cuddle the deer for the first time",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/953370a3d2dec387ff9064819b336093456e7c38.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "80.8"
+    },
+    "MEET_DEER": {
+      "name": "Unexpected encounter",
+      "description": "Meet the deer for the first time",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/9e56b472d4ef2ac7ac05ecb16977df4c885b41f4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "91.0"
+    },
+    "START_GAME": {
+      "name": "Sneak out",
+      "description": "Go on an adventure",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/06723c191ca524909a4e3eb3fed2da009a882a8b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "95.8"
+    },
+    "FUGITIVE": {
+      "name": "Gone missing",
+      "description": "See the runaway child alert on TV",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/307fd2c47e68d564e8da036e41c2b2e4897e4310.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "88.9"
+    },
+    "MOTHERDEER_DEATH": {
+      "name": "Farewell",
+      "description": "Witness a tragic separation",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/e857efb12ce4cdca0b88a62c1e5f73cbf75cfa8c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "83.6"
+    },
+    "FACTORY_NOHIT": {
+      "name": "Do not disturb",
+      "description": "Cross the factory without getting caught once",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/6aa23427f677d675977957b52eb9af7de052032d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "41.2"
+    },
+    "DEERBAG_FIRST": {
+      "name": "Cosy ride",
+      "description": "Carry the deer in the backpack for the first time",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/c6d7d48f28b1268b17ab241091dfd50529971174.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "82.8"
+    },
+    "DARKMATTER_WALK_FIRST": {
+      "name": "Watch your steps!",
+      "description": "Walk in the dark matter for the first time",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/a8a76a5b2c6e0b0290cdda1435c2dfc9797a2ed0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "76.5"
+    },
+    "DARKMATTER_DEATH_FIRST": {
+      "name": "Nice try!",
+      "description": "Become completely infected by dark matter.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/fed07c785a5ce655dfbe1c7737de773e167c5dcc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "69.1"
+    },
+    "BOAR_NOHIT": {
+      "name": "Keep a low profile",
+      "description": "Finish the boar sequence without being caught once",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/c126c8a615360102d04742bb70b0ee4b9558607b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.2"
+    },
+    "SHOWDEER_FIRST": {
+      "name": "Show, don't tell!",
+      "description": "Guide the deer for the first time",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/16bfde431d207c085294dfd40e9a3df04936f9a1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "68.2"
+    },
+    "FIREFLY_TO_TRAIN": {
+      "name": "Runaway train",
+      "description": "Take the train",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/d99de8fd7f3282466a94a5359636bce829d3902b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "67.7"
+    },
+    "DEERPURSUIT_NOHIT": {
+      "name": "Forbidden fruit",
+      "description": "Rescue the deer on your first try",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/7a6183c5225083879e1444250481531e370c37f9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.0"
+    },
+    "UNDERGROUND_ENTRY": {
+      "name": "Metal Deer Solid",
+      "description": "Finish the tunnel sequence",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/40a816510f9212f43d910843e7442bd3fedfb7b3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "62.0"
+    },
+    "DEERPOWER_FIRST": {
+      "name": "With small power comes small responsibility",
+      "description": "Use the deer's power for the first time",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/2861126abbf2b4e5c38ae0ebf2aae34a02de5782.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.8"
+    },
+    "FROGGERPURSUIT_NOHIT": {
+      "name": "Running man",
+      "description": "Escape the strange creatures on your first try",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/c20a7864f674d2bcb72067da448555483d9be28c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.3"
+    },
+    "DEERGROWTH": {
+      "name": "Time flies",
+      "description": "Watch the deer grow up",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/430ba3d27b70aadc7f02e4da867cb4b0a0246ce5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "54.5"
+    },
+    "WOLFTRAP": {
+      "name": "The boy who cried wolf",
+      "description": "Escape from the wolves",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/9ddcf1c5a05594c184e30a39795f7c07bb4bb19d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "51.9"
+    },
+    "WOLFPURSUIT_NOHIT": {
+      "name": "Close call!",
+      "description": "Outrun the wolves without getting caught once",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/de6ee1fc585bb4573407739a9ad9b583c11ba30f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.7"
+    },
+    "DARKBOY_ENCOUNTER": {
+      "name": "A sinister encounter?",
+      "description": "Meet a new friend",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/43d66d04fe645df63b7e4d6bf525f7bdc298eb23.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "48.8"
+    },
+    "DARKBOY_CUDDLE_FIRST": {
+      "name": "Give me five!",
+      "description": "Do a high five",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/557afd76b106a7d76f1959e3661c94fb16e4eb52.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "22.3"
+    },
+    "REUNION": {
+      "name": "Together again ",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/23348b28bdaacaed718d81481fac772ceb692a3e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "47.2"
+    },
+    "SECRETROOM": {
+      "name": "Hidden room",
+      "description": "Find the hidden room",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/9c7dc9214bd66e31b2cdd04210d9b53cfe049728.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.5"
+    },
+    "DEERADULT_NOHIT": {
+      "name": "Flawless derby",
+      "description": "Never get hit while riding the deer",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/12739d66c5d4af61758b64df72696bb733884f21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.3"
+    },
+    "END": {
+      "name": "Thank you for playing!",
+      "description": "Finish the game",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/42cf293793028613672df344a1cca36c5f91320d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.0"
+    },
+    "END_CREDITS": {
+      "name": "Thank you for watching the credits until the end! ",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/5e35ef160750626ec5c82c0badfa39c358058ece.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "23.5"
+    },
+    "CUDDLE_ALL": {
+      "name": "Best friend forever",
+      "description": "Cuddling deer at every stage of growth",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/a44f78d2f6ff27eb785d17a313f6622b5c85b17e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "35.3"
+    },
+    "TRAITOR": {
+      "name": "You got what you asked for...",
+      "description": "Get some help from your new friend and get an unexpected result",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/041c9000a340b5cd67090bac62b54a09cb890cfc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "48.4"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

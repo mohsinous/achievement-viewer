@@ -1,0 +1,424 @@
+{
+  "appid": "3634520",
+  "name": "Samson",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634520/139e0f223c1c0cb4f2e763c41ae7fe6e4e3e59a2/header.jpg?t=1782224555",
+  "achievements": {
+    "Ach_First_POI": {
+      "name": "POI",
+      "description": "Find your first Point of Interest in Tyndalston, detailing some of its weird and violent past.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/4bdb410177bb41cb8e013916e374f9bfe3d85eb0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/e8c6659eb5b318f8a3d554b4d44120fac9f55bd5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "60.5"
+    },
+    "Ach_FirstJob": {
+      "name": "Back in Town",
+      "description": "Complete your first Job.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/afba1915ccf6b82f78b5281db0e75d756c717b4c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/1c306ea8b2aa5cedecdef9afacb3b41333205471.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "88.4"
+    },
+    "Ach_Broke": {
+      "name": "Better Luck Tomorrow",
+      "description": "Earn $0 in a Day.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/d744e8cb7ae5304b4e8cdcd6250873b5783cf45e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/99240693e59fce72b0261b57c8ef05632a5444d6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.4"
+    },
+    "Ach_CarMagazines": {
+      "name": "Car Afficionado",
+      "description": "Collect 19 Car Magazines.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/2a6572e6f4acb92a04fdb8db30b1409ab8417719.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/2d755acd0d60ab6d9f475f03dcb93d26ec775114.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.7"
+    },
+    "Ach_CombatMagazines": {
+      "name": "Street Fighter",
+      "description": "Collect 12 Combat Magazines.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/387145ebfc3c829fb420fb81adf2eeafb4a4c2b7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/39fae551f2467f402cdee8a514c50142cf096285.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.4"
+    },
+    "Ach_DannyZeta": {
+      "name": "Kill Danny Zeta",
+      "description": "Get revenge on the orchestrator of the Double Tap shooting.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/378e9ba5c80863a52be1eb5fcdc46838e9b109a3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/6a9f90bfb8d055f8fde6f6fc7c88d79e86062fed.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.2"
+    },
+    "Ach_DebtFree": {
+      "name": "So Long, St. Louis",
+      "description": "Clear your debt.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/0c00004c08c9a4457d2728d876fe4b46beb55153.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/9e419e29d9cb6efaebd80747891c471ac5cbf36d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.6"
+    },
+    "Ach_Enemies": {
+      "name": "Fists Like Bricks",
+      "description": "Defeat 500 enemies.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/f2504a2e84f0b98b97cea5d45947a2d2adba901d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/8c42a0e589fe28bccee84c128f04c27dd99564ba.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.6"
+    },
+    "Ach_FreeMan": {
+      "name": "Free Man",
+      "description": "Clear your debt and complete all Chapters.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/4e0d71de42a0be7740000411f7b1e0c9fc3a5b61.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/c72219b16057149e5d7427eccd98fee2345c24fa.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "Ach_GoodDay": {
+      "name": "A Good Day's Work",
+      "description": "Successfully complete 3 Jobs in one Day.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/edde950afc20239200e9e251655b31b786e1e52a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/9ab2e4a7719f7e99fdcf382383bf84d212fcb0c2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "72.3"
+    },
+    "Ach_MeleeWeapons": {
+      "name": "Melee Weapon Collector",
+      "description": "Complete this set of melee weapons: Tetsubo, Ararebo, Mace, Baseball Bat, Pipe, Bowling Pin, Stuffed Bird, Truncheon, and the 5 sex toys.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/1e4df1f6ebdcee94c5e7da22e3387791de130e5d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/b629c398cae2d472a59c247d0c3c4693016cb4ec.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.5"
+    },
+    "Ach_NicolaGamby": {
+      "name": "Kill Nicola Gamby",
+      "description": "Stop the organ harvesting that is plaguing South End.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/3bffbd6e4e562f8e8b0b5b738f26d0cb279fcb56.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/13af8f2ec12fdb98b8b9fd4a3b0c75bc0764d32e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.4"
+    },
+    "Ach_POIs": {
+      "name": "Born and Raised",
+      "description": "Find 88 POIs.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/84f19468f1f5afc25f5edf49df068981842a8131.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/2453880a4bae4166a51bf96543119a2e002b0b6e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "Ach_Rich": {
+      "name": "Life after Debt",
+      "description": "Have at least $100,000 in your pockets.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/0a0a1b29cb8f1f8b670698b870b2d7e8e4e17b91.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/433b3f63a243a0fbdca687c9de6b5c727a655496.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.7"
+    },
+    "Ach_SandwichBoards": {
+      "name": "Smashing",
+      "description": "Smash 163 sandwich boards featuring DeVries.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/2d7fd33e1fec121a2e67e940ec273f044a587f74.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/aca17263e317e324c7a7c43a9dfdc63a665cb77e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "Ach_TommyRiley": {
+      "name": "Kill Tommy Riley",
+      "description": "Say goodbye to Tommy. Forever.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/3b4032e9520f6638534aeb1ea43b2097a119d360.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/52955e2ed13aa584a370436bb5e1337bcf367bb0.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.0"
+    },
+    "Ach_WelcomeHome_Ch1": {
+      "name": "Welcome Home",
+      "description": "Reunite with the gang and complete the Blood on Tap Chapter.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/c123402f99606b502fce9625cd8f2505ac9ae384.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/9b5c57f18ef1d1dd1741d3f2f1ced316f3a79d39.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "53.3"
+    },
+    "Ach_WhiteWhisper": {
+      "name": "Burn It All",
+      "description": "Find and destroy a White Whisper stash.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/f6bab801e396e1a46e4806bd8ef96816b00b12e4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/ffa8024441badb23f4d0c939d467e7fef5e78340.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.2"
+    },
+    "Ach_Instinct": {
+      "name": "Sixth Sense",
+      "description": "Reach max Instinct.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/3b973e970777928c09d41f7d6f81d9eab1d494ce.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/747b21db3746eb07074c3c1d03ab27f3a9078473.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.8"
+    },
+    "Ach_Aggression": {
+      "name": "Berserker",
+      "description": "Reach max Aggression.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/bd1a63df8a0662f8bd35955d358631446b83fdd8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/dcb0a976184af906018c6af9ef83b8250f4b7d50.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.9"
+    },
+    "Ach_Tactics": {
+      "name": "Opportunist",
+      "description": "Reach max Tactics.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/69bc0ff659e574f3b47a72c95739c68ff00e4ee3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/a0a7c852adddd4d2be1a0a272cbb89a76a13929c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.2"
+    },
+    "Ach_Cunning": {
+      "name": "Trickster",
+      "description": "Reach max Cunning.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/28a73485f7f5be69b808ad4ed57c64203654bcaf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/890b4e69fb8e93078f74c44f3eb6fd3f30c489af.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.2"
+    },
+    "Ach_MaxAttributes": {
+      "name": "Ultimate Enforcer",
+      "description": "Max out all of your Attributes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/663063ce4ec15c81b58f90fb38d359803aa39c87.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/80cb2db1f6b21e61b917ccf748dbb3fad185839f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "Ach_DebtCollectors": {
+      "name": "Payback",
+      "description": "Defeat 50 Debt Collectors.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/0b4e072dad53de7583fdb2bbffa465dbd965e7b4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/94285a50d22b50839ec687f99fca3c2a9ca80c98.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.5"
+    },
+    "Ach_LoseWanted": {
+      "name": "Getaway Driver",
+      "description": "Lose your Wanted state.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/2a6572e6f4acb92a04fdb8db30b1409ab8417719.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/2d755acd0d60ab6d9f475f03dcb93d26ec775114.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "69.0"
+    },
+    "Ach_CallVehicle": {
+      "name": "Need a Ride",
+      "description": "Call your vehicle.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/e341c448ddae75767309171e057f956ad975fb33.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/d6c24b6f5b241ec99a05c3d390cdf0be7d902cd7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "60.1"
+    },
+    "Ach_Totalled": {
+      "name": "Reckless",
+      "description": "Total your car.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/6de020c4cf99c21c3bd189d1d6aee743d1b72ec2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/3950592c4c7f497a8ac712f4784546cf34edaf4e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.5"
+    },
+    "Ach_Repaired": {
+      "name": "Wreckless",
+      "description": "Repair your car at a garage.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/1393390c1e0d085d24d999121dea849b543b033a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/a365db85baaaf549443f305947165901450e5c61.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "51.0"
+    },
+    "Ach_ManyLoseWanted": {
+      "name": "Escape Artist",
+      "description": "Lose your Wanted state 50 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/9958b06086828812a4688e4ed2d73f2f1406d3a0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/e815cd3312753333afdb42a7121fa798557d571e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "Ach_ManyCallVehicle": {
+      "name": "I Ain't Walkin'",
+      "description": "Call your vehicle 100 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/706ea0cd080facdc83e62b9f466b338d516a8d33.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/655be5b6e7e72e877b4f2328251b8e8423596a8d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.5"
+    },
+    "Ach_ManyTotalled": {
+      "name": "Crash Test Dummy",
+      "description": "Total your vehicle 50 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/7ec8bc21dd932c026b6620383a1c991888db241f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/da233138413e2913a8e0412d11f0992a4e77678a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.4"
+    },
+    "Ach_ManyRepairs": {
+      "name": "Car Care",
+      "description": "Repair your car 100 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/57ef37396aebef1401229a62c5b508c309f2026d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/53ce987ae15cbb3ace26ea5fdbf9b994b0f84c45.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.4"
+    },
+    "Ach_VehicleTakedowns": {
+      "name": "My Streets",
+      "description": "Perform 100 vehicle takedowns.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/d5c471a5d6909114dfa5ea4d48997e04696c9cc3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/54b3cd00307004bef68b3f94aa8f0da86e2d6db7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.4"
+    },
+    "Ach_FirstVehicleTakedown": {
+      "name": "Take That",
+      "description": "Perform your first vehicle takedown.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/0b1c51beb702713b01bbed14112b9c2727b48576.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/ec60ad6011d542d1e89c20e0bebfb4b014b40ec3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "57.3"
+    },
+    "Ach_AdrenalineShots": {
+      "name": "Take a Shot",
+      "description": "Take a shot of Adrenaline.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/aa4899da30af131c3a67e42125da384a59596ba0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/980888e2c6bdb33fa6695de3ae285733f34b9dfe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.8"
+    },
+    "Ach_ManyAdrenalineShots": {
+      "name": "Adrenaline Junkie",
+      "description": "Take 100 shots of Adrenaline.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/1a7ba91be62b2e261d7bdbd72a00d5e0283b9dbc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/dfde429e12675aa2995eb1a57bb488495d2263c4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.5"
+    },
+    "Ach_Painkillers": {
+      "name": "Ease the Pain",
+      "description": "Take some Painkillers.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/f3ad29dd4defcdb162274f36eae61ece2ca1d49a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/5219276deb8d9f4e7453f730ed05f1a6c2f1e84b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "80.9"
+    },
+    "Ach_ManyPainkillers": {
+      "name": "Hooked on Tyndenol",
+      "description": "Take 100 Painkillers.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/619fcf94577b4fe81ed8d15d2211c71db7fe9000.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/463a5df91f4c5a3516620c1962bd2f5338a53a06.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "Ach_AdrenalineRush": {
+      "name": "Adrenaline Rush",
+      "description": "Trigger Adrenaline Rush.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/455fb2819746c5ffa0e84e226d74ec5e40afd31e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/be17a5228382f3f53a5d4574cb93a4bb6192b8fc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "81.7"
+    },
+    "Ach_ManyAdrenalineRush": {
+      "name": "Feral",
+      "description": "Trigger Adrenaline Rush 100 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/11c71d5cdeb8f9810cef69041d83c7082c7e91dc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/ed65e4566f753a69e2ee18df4c893f8565bc72c1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.5"
+    },
+    "Ach_HardMode": {
+      "name": "Hard Life",
+      "description": "Clear your debt and complete all Chapters on Enforcer difficulty.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/8415c040c0af04a7915feeaffbf573ff6a9157e9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/afb8cc62329e128232a8551644b750a264564ddc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.2"
+    },
+    "Ach_Cab": {
+      "name": "Gig Economy",
+      "description": "Complete your first cab fare in a Taxi Gig.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/a6004e43692c70ea144f5a8eff1be095b87246e1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/9bc9066a9cce3feea6a11e01fb08d60031c814aa.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.8"
+    },
+    "Ach_ManyCab": {
+      "name": "Samson McCab",
+      "description": "Complete 10 cab fares in one Day.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/c603f67569ef9b70a5ff6e48fc35d1eaccd5265a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/3710601496da296baedc396cc2a8c70e11c74460.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.6"
+    },
+    "Ach_Endurance": {
+      "name": "Endurance Street Trial",
+      "description": "Complete the Endurance Street Trial at Lowline Circuit.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/1c6af520437c439543b4747cff8158a0837ea127.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/78790c6673bf4db840bbf239cfd60d278e96e0dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.4"
+    },
+    "Ach_Mod": {
+      "name": "Chop Shop",
+      "description": "Install your first car mod in Floyd's garage.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/ab0f739fa1b29829279a0067afe65ffda2f57d14.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/1302ca13a59c84792a04c6b6973887b836510dba.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.7"
+    },
+    "Ach_Gate": {
+      "name": "Open Sesame",
+      "description": "Smash through the gate to Lowline Circuit.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/4bb6f29434592678eb955f2543d758596c3e9402.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3634520/adcf300291fe7e14723f629cdfe6fb5c8d555c72.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.5"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

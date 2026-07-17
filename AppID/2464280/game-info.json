@@ -1,0 +1,307 @@
+{
+  "appid": "2464280",
+  "name": "Tormented Souls 2",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2464280/401e7ffcb495e5cc721c67be4d5a7511b9113dac/header.jpg?t=1777646724",
+  "achievements": {
+    "Vindication": {
+      "name": "Vindication",
+      "description": "Complete the game with the good ending.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/05385cd2d17fab27589477d182e3b642b5d1bf16.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/58e5ae49bc5e8819df924794d2008d7f25e131ca.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.8"
+    },
+    "Soldier": {
+      "name": "Soldier",
+      "description": "Collect all of Miguel's diary entries.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/274a6dc6e6e18deb8b27011417e01bd1b42e48c5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/abf6cdba8ce99fa068241cfad9c1568e26ffd844.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "38.9"
+    },
+    "Mother": {
+      "name": "Mother",
+      "description": "Collect all of Isabella's diary entries.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/1e26f1dda8e2670aac7cf9feb54b32c671ea0129.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/2649a7423071f0f85e82fc105ff53aa3f7d023d3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "40.4"
+    },
+    "Fanatic": {
+      "name": "Fanatic",
+      "description": "Collect all of Mother Lucia's diary entries.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/e2f10d1bb143eb623dbe379951b248692e3dfbdc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/c92b7f125deb5a43930d86ed71536d2c38a7db3d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "35.8"
+    },
+    "Warlock": {
+      "name": "Warlock",
+      "description": "Collect all of Joseph's diary entries.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/605b637eab112b6841d0d9b07a18dfa0177ddc6f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/5d311ddc0209735a9e41f714f6883cba08ba670c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.4"
+    },
+    "Scientist": {
+      "name": "Scientist",
+      "description": "Collect all of Sister Angelica's diary entries.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/2e51ceeeba2fd01864ee2322617dddcde6fe1d68.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/2f216063b271f86830b9cf5a0f7067a1d8c004e0.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "28.5"
+    },
+    "Journalist": {
+      "name": "Journalist",
+      "description": "Collect all diary entries.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/62251c7f7441b95429be0a09d95cf15c41f934b2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/3394c074d0d7250ce6c4bce813cf7aa9799bdbe1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.1"
+    },
+    "Untouchable": {
+      "name": "Untouchable",
+      "description": "Complete the game only using one health item.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/84180a22c26aecbb9cd299fbccb2de242afc62d3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/3e65461e207460f6d27f43bea3471917ee41f177.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.1"
+    },
+    "Death": {
+      "name": "Death",
+      "description": "Let the shadows consume you.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/6da5d910674d1f8212b48a2c03780cb7ce83eb70.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/81b7c32729394b00f5c0a56b77cef29bebb5c7b1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "69.0"
+    },
+    "Journey": {
+      "name": "Journey",
+      "description": "Travel to the past.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/af56a3e113c52f8bfea25e6025116126581956e2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/e709837325cbfaeb2cded50736247785c42682c2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "52.8"
+    },
+    "MasterKey": {
+      "name": "Master Key",
+      "description": "Solve all the combination key puzzles.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/d4a3fac9d1f83dd50efcbaddcdd66c93484b03bb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/9c26d404e5f9427b4532d2f97701870ac14328af.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.4"
+    },
+    "Escape": {
+      "name": "Escape",
+      "description": "Escape from the infirmary.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/6555563cb47238eea9acf0c09b6b6d6f0e7851c7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/50f7fe22d868fc591481ef3af607e8dbf6e16c4d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "88.8"
+    },
+    "Reflection": {
+      "name": "Reflection",
+      "description": "Enter the Other Side using a mirror.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/a4010d74cab0b50148601a2d882e15f54e8ed697.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/547b29883315a4f604475f2b09af660f7ba4842c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "61.6"
+    },
+    "Anxiety": {
+      "name": "Anxiety",
+      "description": "Complete the game in under five hours.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/0a1839a9386f906f80de6d7fa1d907d77fa13871.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/c0368fce458ed798233bbd8b887348df5fc6defc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.1"
+    },
+    "Crucifixion": {
+      "name": "Crucifixion",
+      "description": "Kill an enemy using a trap.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/04d059361faf995f69de6c87eabea9021d3ad9f0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/f2db30c19688852ce3a29b3ed8a550ea425a3182.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "53.5"
+    },
+    "Amnesia": {
+      "name": "Amnesia",
+      "description": "Complete the game without saving. (Unavailable on Assisted difficulty.)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/ab342916843178f616a2e74cd8bc0c1bc109a24c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/a9d72272972be089600556c6f73d6f0bcb85b7e5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "Registry": {
+      "name": "Registry",
+      "description": "Save the game.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/77c5e052bb0c2f09993f0466678ee4e95c073bbd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/46c3a5cf00f74eef509afebb822594abb237ef9d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "81.0"
+    },
+    "FemmeFatale": {
+      "name": "Femme Fatale",
+      "description": "Create the nailer.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/2c6638404053e875392b0b3e9693fb323aaaf2de.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/494db6a8947510e2b90de1b35d546ff08cb1fe01.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "80.0"
+    },
+    "Futile": {
+      "name": "Futile",
+      "description": "Complete the game with the bad ending.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/177e1d28a83a973b3db1fadc67a9a9653decf39b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/46e53faa521abcadb29e717c3b153f2db28e8347.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.8"
+    },
+    "Walker": {
+      "name": "Walker",
+      "description": "Complete the game on Assisted difficulty.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/106e00ceaf8a483b942e5ead60f089a88f8e0076.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/25d84a9117d762157368d43eaa2f56d11e6bb000.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.9"
+    },
+    "Survivor": {
+      "name": "Survivor",
+      "description": "Complete the game on Standard difficulty.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/7398eacec854869d846386b2bb1c971c977f5bd1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/a79897904c29e276e61c988143c0184ca7ec70eb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.2"
+    },
+    "Mad": {
+      "name": "Mad",
+      "description": "Complete the game on Tormented difficulty.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/2193a2c0dce89c7aad9552547678cf1e496efdd3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/03d7f17e28fb3fcdda5a3123c90ba3a8991f91f2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.8"
+    },
+    "Ranger": {
+      "name": "Ranger",
+      "description": "Complete the game without using the map.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/47729bd4573dedebd28390daa320b3b76877048b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/6f4f30bbfb4931ddcc6599d9bd7d59519c758e1f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.6"
+    },
+    "Blasphemous": {
+      "name": "Blasphemous",
+      "description": "Defeat the Iron Maiden.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/eca27b1477d316f314d49cb1327a4ed3e3eca8bb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/2ae7d1808ff6c6308731d587be36eb7636c21127.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "57.0"
+    },
+    "Avenger": {
+      "name": "Avenger",
+      "description": "Defeat the Harvester.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/62bd7da454cea46cffa326aee559f3b9faa99995.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/2fea3a267c91d66c27881d507058805c1991c9ef.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "49.3"
+    },
+    "Butcher": {
+      "name": "Butcher",
+      "description": "Defeat Pighead.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/b3fe674b605d5e88375c88cfdcdac89b80a6d408.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/939af8f5854629d133809a329ae714bc76726efe.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "41.7"
+    },
+    "Gunsmith": {
+      "name": "Gunsmith",
+      "description": "Upgrade all weapons.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/a30c4e775b0e95bb2b315b6e99fcf86e2093e015.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/488a986e4297470d7d3c7d3b055a019607e15e6c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.7"
+    },
+    "Hoplophile": {
+      "name": "Hoplophile",
+      "description": "Collect all weapons.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/c777a13bc23f337ef98359c121dbf3845c511937.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/df7ca78fafbd186bb3547418f88853b7e7a4699b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.2"
+    },
+    "Fashion": {
+      "name": "Fashion",
+      "description": "Change outfit.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/835c4c17b260c2a336831047d31c9c15f0b6a9fe.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/967a7afbc4ae6e2d96b481373f9638633ba81e17.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "60.3"
+    },
+    "SerialKiller": {
+      "name": "Serial Killer",
+      "description": "Kill 120 enemies.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/7dbc513d350c73f7c9f79631897d89fead902b0b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/9319314b6d3509e8bd53dd8c3a8a0b4f63001e69.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.0"
+    },
+    "Killer": {
+      "name": "Killer",
+      "description": "Kill 80 enemies.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/fa99050c4ef340ec747aa60f970ea49a10028b72.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/5fac9576da577ea759a454ee948feb916f8b16cf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.4"
+    },
+    "Ruthless": {
+      "name": "Ruthless",
+      "description": "Kill 40 enemies.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/4dd6154a5623a6c147c4a691fbca16f41659dd70.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/4fe12255e702641e0e9e154f593f3367c74af1da.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "53.2"
+    },
+    "Undertaker": {
+      "name": "Undertaker",
+      "description": "Defeat Dr Hertz.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/6e23c0f841e377be5a1cb1b8451ab7bd4bc3aaaf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2464280/4ccb8761a9389e4bf2cef8a5f08ee54c95e9c6ca.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "45.4"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

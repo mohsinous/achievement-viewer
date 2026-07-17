@@ -1,0 +1,406 @@
+{
+  "appid": "2340130",
+  "name": "Ground Zero",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2340130/26f2468a93a6ca6f6e65d80b6d4d9debdb0ef60e/header.jpg?t=1776352535",
+  "achievements": {
+    "ACHIEVEMENT_STANDIN": {
+      "name": "Stand in the Stand-In",
+      "description": "Stand in the stand-in and utterly waste your time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/e3bca9ee5b86f88cc09132a2e7950b520fa9f5e4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/c7dfd113f4c68a079f5946b061cdea02dd045efe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.4"
+    },
+    "ACHIEVEMENT_GENOMEPOINTS_MILESTONE1": {
+      "name": "DNA Collector I",
+      "description": "Earn 10,000 Genome Points.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/6ad6d24ff63c617b0def56fe49b0a47ba5132023.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/c7dfd113f4c68a079f5946b061cdea02dd045efe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.2"
+    },
+    "ACHIEVEMENT_COLLECT_COINS": {
+      "name": "Zodiac Collector",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/0a19611fbabf5ce7ff83e48e47ad16420a0bc515.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/f1eb100958c58a25588b0005589e4b1fb780850e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "ACHIEVEMENT_FIRST_DECAPITATION": {
+      "name": "Grey Matter",
+      "description": "Kill an enemy with a critical shot.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/969a29beb4f563f0dfae4e9de08f6956fede92b7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/c7dfd113f4c68a079f5946b061cdea02dd045efe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "77.8"
+    },
+    "ACHIEVEMENT_FIRST_EXECUTION": {
+      "name": "Lights Out",
+      "description": "Perform an execution on an injured enemy.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/87cf847641a90f12b2f7bf493f7a623cc8b97432.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/c7dfd113f4c68a079f5946b061cdea02dd045efe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "58.4"
+    },
+    "ACHIEVEMENT_FIRST_PERFECT_GENOME": {
+      "name": "Prime Sample",
+      "description": "Obtain a Perfect quality genome sample.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/ad0c8ead18b7283441c8560e5e8309a024578980.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/c7dfd113f4c68a079f5946b061cdea02dd045efe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "80.5"
+    },
+    "ACHIEVEMENT_GENOME_PERFECTIONIST": {
+      "name": "Genome Perfectionist",
+      "description": "Get a Perfect quality genome sample of every enemy type.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/2ad0642b0e6cc7e0fbaf77f2734f0d0986d0efec.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/f1eb100958c58a25588b0005589e4b1fb780850e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "ACHIEVEMENT_FIRST_PARRY": {
+      "name": "Remembering the Basics",
+      "description": "Successfully parry an enemy's attack.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/aa67dee24333a3d873512a7918686c24dc3bd258.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/c7dfd113f4c68a079f5946b061cdea02dd045efe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "62.0"
+    },
+    "ACHIEVEMENT_DNA_COLLECTOR_II": {
+      "name": "DNA Collector II",
+      "description": "Earn 100,000 Genome Points.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/c5868e70a90a2d7cd237fec1bd86313eb5cb7c49.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/f1eb100958c58a25588b0005589e4b1fb780850e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.0"
+    },
+    "ACHIEVEMENT_WELL_READ": {
+      "name": "Well Read",
+      "description": "Read 50 files.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/2b7c8e0b2d990dab35dd6640c49867557ae06445.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/f1eb100958c58a25588b0005589e4b1fb780850e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.8"
+    },
+    "ACHIEVEMENT_COMPLETEGAME": {
+      "name": "Mission Success",
+      "description": "Complete the main story on any difficulty.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/f4ebec4970b4e6396eecd9d311867e269940369e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/c7dfd113f4c68a079f5946b061cdea02dd045efe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.5"
+    },
+    "ACHIEVEMENT_COMPLETEGAME_ALLENDINGS": {
+      "name": "Master of My Own Fate",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/5b0f2e7c521c179df846751536c7c3dcc4e5570e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/f1eb100958c58a25588b0005589e4b1fb780850e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.0"
+    },
+    "ACHIEVEMENT_COMPLETE_ALLROUTES": {
+      "name": "Loremaster",
+      "description": "Complete all possible branching routes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/44fc0f31c0d7a62e0930ed6d28f459a628aea647.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/c7dfd113f4c68a079f5946b061cdea02dd045efe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.5"
+    },
+    "ACHIEVEMENT_COMPLETEGAME_ARANK": {
+      "name": "Flying Colours",
+      "description": "Complete the main story with an A Rank or higher.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/8b9e1f1a889961224e7ed2ea3fa9fbd4cf41ed54.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/f1eb100958c58a25588b0005589e4b1fb780850e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "ACHIEVEMENT_COMPLETEGAME_SPLUSRANK": {
+      "name": "Supersoldier",
+      "description": "Complete the main story with an S+ Rank.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/8d5f71eca4dc41c0cb5070e40f2d14b0c56036ec.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/0a46c2b5305b2b1557e51254a323f38444cc3c71.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "ACHIEVEMENT_COMPLETEGAME_FAST": {
+      "name": "Marathon Runner",
+      "description": "Complete the main story in less than 8 hours.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/97daa2a62ef3c6663e35def6fa80871559b8766d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/f1eb100958c58a25588b0005589e4b1fb780850e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.5"
+    },
+    "ACHIEVEMENT_COLLECT_WEAPONS": {
+      "name": "One Woman Army",
+      "description": "Obtain 25 weapons.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/6e6f99730351cede42568be6570fc2c786ddab5f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/c7dfd113f4c68a079f5946b061cdea02dd045efe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.4"
+    },
+    "ACHIEVEMENT_KILLBOSSES_SEVENMINUTES": {
+      "name": "7 Minutes Is All I Have",
+      "description": "Kill all bosses in under 7 minutes",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/62f927ca027d885a90d06d130f942d33230dc4ac.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/f1eb100958c58a25588b0005589e4b1fb780850e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.4"
+    },
+    "ACHIEVEMENT_COMPLETEGAME_ONLYBOSSES": {
+      "name": "Pacifist",
+      "description": "On a new game, complete the main story while only killing bosses, except the first encounter.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/cc4c1d7285b56c29d057ffa5996f49c1184a0e14.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/f1eb100958c58a25588b0005589e4b1fb780850e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "ACHIEVEMENT_MAX_CHARACTERUPGRADES": {
+      "name": "Juiced Up",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/9d327ea7261746bd1189eb2665a7e18f5b78cea0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/f1eb100958c58a25588b0005589e4b1fb780850e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.5"
+    },
+    "ACHIEVEMENT_MAX_INVENTORY": {
+      "name": "Pack Mule",
+      "description": "Expand your inventory to its maximum capacity.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/73b82c0abb3adaacee4ef9850bfe3e0e0795f3ff.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/f1eb100958c58a25588b0005589e4b1fb780850e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.7"
+    },
+    "ACHIEVEMENT_COMPLETEGAME_ITEMS": {
+      "name": "Hoarder",
+      "description": "Complete the main story while collecting more than 150 items.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/c03ac0c9b1ae8f01b5b6f169a6cadb755b0aba39.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/c7dfd113f4c68a079f5946b061cdea02dd045efe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.3"
+    },
+    "ACHIEVEMENT_COMPLETEGAME_NOSHOPS": {
+      "name": "Embargo",
+      "description": "Complete the main story without visiting the Genome Shop.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/186044ab534e89b16a35d5bd61c8e968c82b0328.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/c7dfd113f4c68a079f5946b061cdea02dd045efe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "ACHIEVEMENT_COMPLETEGAME_NOSAFES": {
+      "name": "My Pockets Are Deep",
+      "description": "Complete the game without putting anything inside a storage safe.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/c40ef0dc998a1c84b2e85feb4050ee789e474322.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/c7dfd113f4c68a079f5946b061cdea02dd045efe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "ACHIEVEMENT_COMPLETEGAME_NOSAVES": {
+      "name": "Daredevil",
+      "description": "Complete the main story without saving.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/b6a170ac0127fb92850ea7d9c91cbde9a1f4faed.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/f1eb100958c58a25588b0005589e4b1fb780850e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "ACHIEVEMENT_COMPLETEGAME_NOGUNS": {
+      "name": "Who Needs a Gun?",
+      "description": "Complete the main story while only using melee weapons, grenades, and counter-attacks.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/d8819688c7fa1f435413ca7366640b7d82507d9a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/0a46c2b5305b2b1557e51254a323f38444cc3c71.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "ACHIEVEMENT_BUYOUT_SHOP": {
+      "name": "Everything Must Go",
+      "description": "Purchase every item from a Genome Shop.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/19fb08ae3905c69d3d405363d3f472c10eed97db.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/c7dfd113f4c68a079f5946b061cdea02dd045efe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.0"
+    },
+    "ACHIEVEMENT_C2_CLAWMACHINE": {
+      "name": "Distracted From the Mission",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/30fb4dd834918d9f6ae4c04643c9e5ec97337f0b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/c7dfd113f4c68a079f5946b061cdea02dd045efe.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "37.9"
+    },
+    "ACHIEVEMENT_C3_MUGSHOT": {
+      "name": "Booked",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/fd31a742cb226793eb89c957f8c3e3eaf57b680b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/c7dfd113f4c68a079f5946b061cdea02dd045efe.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.4"
+    },
+    "ACHIEVEMENT_FIRST_SHRINE": {
+      "name": "Planewalker",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/7cc322fdc38aa1f8b40703a6fd4cab45d4bdfcb0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/c7dfd113f4c68a079f5946b061cdea02dd045efe.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.7"
+    },
+    "ACHIEVEMENT_ALL_SHRINES": {
+      "name": "Cosmic Explorer",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/7516ce495ff25d0a5cc809ca97c7fb9f277f68f2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/f1eb100958c58a25588b0005589e4b1fb780850e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.3"
+    },
+    "ACHIEVEMENT_COMPLETE_TRAINING": {
+      "name": "Ready for Duty",
+      "description": "Complete the Basic Training course.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/277eaabad8e1a4367d831293807750466bf9ebc9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/c7dfd113f4c68a079f5946b061cdea02dd045efe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.6"
+    },
+    "ACHIEVEMENT_COLLECT_COSTUMES": {
+      "name": "Dressed To Kill",
+      "description": "Obtain all costumes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/79b9d9f793b94973d554cd5ea3a7267d8fdeb305.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/f1eb100958c58a25588b0005589e4b1fb780850e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "ACHIEVEMENT_C2_CARALARM": {
+      "name": "Disturbing the Peace",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/64931658211d86ea4957f2c1dee229b1e7ed95ed.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/c7dfd113f4c68a079f5946b061cdea02dd045efe.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.1"
+    },
+    "ACHIEVEMENT_C7_WATERKILL": {
+      "name": "Washed Away",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/9fc4618aabc8979bc858d93d81c049341507f10e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/c7dfd113f4c68a079f5946b061cdea02dd045efe.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "ACHIEVEMENT_GAMCHEON_TELESCOPES": {
+      "name": "Sightseer",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/24ee7d4d4a517596e840358e3d113f780f6ad318.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/c7dfd113f4c68a079f5946b061cdea02dd045efe.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "ACHIEVEMENT_AC_COMPLETEGAME": {
+      "name": "Last Escape",
+      "description": "Successfully escape for the first time in Apocalypse Crisis.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/2af7a33bb4088326ea2379c9a51c470b3c3706d0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/c7dfd113f4c68a079f5946b061cdea02dd045efe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.7"
+    },
+    "ACHIEVEMENT_AC_COMPLETEGAME_ARANK": {
+      "name": "Seasoned Escape Artist",
+      "description": "Complete any route with an A Rank (or higher) in Apocalypse Crisis.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/e56fa9b6f73c66a0f812ec10b73f87577baec617.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/c7dfd113f4c68a079f5946b061cdea02dd045efe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "ACHIEVEMENT_AC_COMPLETEGAME_SPLUSRANK": {
+      "name": "Legendary Escape Artist",
+      "description": "Complete any route with an S+ Rank in Apocalypse Crisis.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/9a461e0a8873cc7585ae2a8b0a846dddf31c6bc8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/f1eb100958c58a25588b0005589e4b1fb780850e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "ACHIEVEMENT_AC_COMPLETEGAME_NOBONUSTIME": {
+      "name": "Straight Rush",
+      "description": "Escape without acquiring any Bonus Time vials in Apocalypse Crisis.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/7969649256e3090fe22bb593f8f5c388c0a49b57.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/c7dfd113f4c68a079f5946b061cdea02dd045efe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "ACHIEVEMENT_AC_COMPLETEGAME_ALLCHARACTERS": {
+      "name": "Apocalypse All-Star",
+      "description": "Escape at least once with every character in Apocalypse Crisis.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/1903298a96971589c59d8738b2c8898c865ee398.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/c7dfd113f4c68a079f5946b061cdea02dd045efe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "ACHIEVEMENT_COMPLETEGAME_NODAMAGE": {
+      "name": "Mint Condition",
+      "description": "Complete the game without taking damage from any source.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/e7c521a05376a6a677c7b8f78ad79f25380cfab4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/f1eb100958c58a25588b0005589e4b1fb780850e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "ACHIEVEMENT_ACTIVATEALLSAVEPOINTS": {
+      "name": "Beam It Up, Seo-Yeon",
+      "description": "Activate all Data Uplinks.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/d8146a0f9b888ec48f002c0833ce51e0619f274b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/c7dfd113f4c68a079f5946b061cdea02dd045efe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "ACHIEVEMENT_UNLOCKALLSAFES": {
+      "name": "Codebreaker",
+      "description": "Unlock all Storage Safes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/bc596ecf73643989f2e52ba6d2c0b06e6e70b685.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2340130/c7dfd113f4c68a079f5946b061cdea02dd045efe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.7"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

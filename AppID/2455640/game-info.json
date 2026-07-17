@@ -1,0 +1,469 @@
+{
+  "appid": "2455640",
+  "name": "Romancing SaGa 2: Revenge of the Seven",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455640/header.jpg?t=1777013886",
+  "achievements": {
+    "TRTrophyComplete": {
+      "name": "Imperial Dynasty",
+      "description": "Earn all of the achievements in the game.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/84c0d86d1db5f30cc911078db0b9c5faf415c6ff.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/795a009da6ea6bf3588ea6ce9f09c163bad7f690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.4"
+    },
+    "TRGerardRevenge": {
+      "name": "Where There's a Will, There's a Way",
+      "description": "Inherit the will of Emperor Leon and defeat Kzinssie.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/adf0f8348e9f8c60f42534cc5793c90e8f0f9c5c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/e52f7d0a99eb6e0e1c71636ad28be99f134ad0b9.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "83.5"
+    },
+    "TRCatHelp": {
+      "name": "Fortress of Gratitude",
+      "description": "Defeat Vicar.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/226fcf08562c45cc86277cc8dc81b6ba14725da3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/a55ad406b6215e1da82f11fc09a38516cec493fb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "75.9"
+    },
+    "TRDefeatCyfreet": {
+      "name": "Queller of Chaos",
+      "description": "Defeat Cyfreet.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/5db9399dbeccc80cb5d1168803d7ccb1253debc5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/927f10531965799f0d4e955b43969b3928c6ea6e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "66.9"
+    },
+    "TRAntsOutbreak": {
+      "name": "The Queen's Gambit",
+      "description": "Defeat the Queen.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/03b329fd5207bd0242d90ce1dd2112945ef8c3e6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/e0144eaf4ef9f2dde9b45482b084b10d1a66aabe.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "59.1"
+    },
+    "TRLastEmperor": {
+      "name": "The End of an Era",
+      "description": "Reach the age of the Final Emperor.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/4ef187eda12bb1bf0740a946fb66fd840bf9ac6d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/c867434e81c1ba41c8d78bd8de27e323db1d259e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "50.2"
+    },
+    "TRRealQueen": {
+      "name": "Queenslayer",
+      "description": "Defeat the Real Queen.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/c2b50dc149d3184fe47fdbc1b0b580799a56d6ee.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/e6c5cd6f91e5cbe90274c624abc1f53ebfb751ba.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "48.1"
+    },
+    "TRDefeatKzinssie": {
+      "name": "Revenge Is Best Served Bold!",
+      "description": "Defeat Kzinssie.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/23aaae93efe9f95a25bb123481f10cc5bb137ea4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/24cb8a380277f0eef95a6f4f06fe3a4b488f5962.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "47.5"
+    },
+    "TRDefeatBokhohn": {
+      "name": "Abandon Landship!",
+      "description": "Defeat Bokhohn.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/06a681985d3ad421c620958b08206553992adf86.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/c7b396447a57db17561c18b0611d287ab5cb0507.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "56.6"
+    },
+    "TRDefeatDantarg": {
+      "name": "Power Outage!",
+      "description": "Defeat Dantarg.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/2aac1148eb31a6f02c7e33034539053a6c807407.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/336365f1261b26b685c50495332fb8b51f024ebe.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "61.6"
+    },
+    "TRDefeatNoel": {
+      "name": "Apology Not Accepted!",
+      "description": "Defeat Noel.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/e1efa4938684d5242e7ca6329dfc0c96805ee402.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/b2f4c064f98c08b99b69b641d15d60808b7f63f5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "48.3"
+    },
+    "TRDefeatRocbouquet": {
+      "name": "First Time's a Charm!",
+      "description": "Defeat Rocbouquet.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/b945b13d4069a2b68ff9c5a6172530d7d191e678.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/de8e8fb936f3f1c0d758a5175c582f8fc500ed12.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "51.6"
+    },
+    "TRDefeatWagnas": {
+      "name": "Felling Castles in the Sky!",
+      "description": "Defeat Wagnas.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/aa168a7b6f4504f6dfec2b460f9c3acc49a1038c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/0b7306f735ad7b35c3f77f724d1b86e40d4459c3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "49.4"
+    },
+    "TRDereatSubier": {
+      "name": "Hold My Subier!",
+      "description": "Defeat Subier.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/f4faea644a7281d3ba1977e60ce0903991f3bf81.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/ba2003780f12cca57e8bd7b9cb1447be31ea1b65.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "49.8"
+    },
+    "TRHeroicTale": {
+      "name": "One Last Wish",
+      "description": "Defeat all of the Seven Heroes and restore peace to the world.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/c66f61cd560bf4e2b4dd60097c0b331cb22e9b6e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/e41eac6629f129988bb397c20f8fdf5ccea97274.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "44.2"
+    },
+    "TRClearHard": {
+      "name": "Imperial Stout",
+      "description": "Complete the game on Classic difficulty or higher.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/4f75fabf8df9d9424e9208a47d81131a62fdb724.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/046dd687e35acaf5d1dd250d861a0860711bc470.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.9"
+    },
+    "TRClearRomancing": {
+      "name": "Something Fierce",
+      "description": "Complete the game on Expert difficulty or above.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/d7bb03531bc3d4ca4c15ed28556d058b67f2f580.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/fb759091e4e5470a72f7e4f14a3a0bf8fbd583cf.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.8"
+    },
+    "TRDefeatVictor": {
+      "name": "A Final Farewell",
+      "description": "Defeat Victor's Ghost.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/25ed31cc865e847132b4d80975f616ac5258bd07.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/ee140eb24e00d7c3f355cb077daf648008756c7a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "46.4"
+    },
+    "TRDefeatDreadQueen": {
+      "name": "Okay, for Real This Time",
+      "description": "Defeat the Dread Queen.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/a992277ec34a45faf0b5abe6433976c481238e61.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/34a03558c56e2020d5901c397bbebabd0f3863a3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "36.5"
+    },
+    "TRFirstOverDrive": {
+      "name": "Kick It into Overdrive",
+      "description": "Perform a United Attack with an ally for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/012669c270582c9dfa6cda1dcd5d3e66b564f6d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/894e6d5928feb9c06d32099bcc2849c1256f79a0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "95.5"
+    },
+    "TRAllOverDrive": {
+      "name": "Teamwork Makes the Dream Work",
+      "description": "Perform a 5-hit United Attack for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/be9c80a14b05a145ef7eacede3418d855c2212f5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/717c8918628243f57134f988b7cc454d32acfe63.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.1"
+    },
+    "TREquipmentDevelopment": {
+      "name": "Forge Ahead",
+      "description": "Receive an item developed by the blacksmith for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/003003603980f850c60a14541e7bc74145862125.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/66375f5a43296ab759af3893767c9fe274e15ee6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "77.8"
+    },
+    "TRManyEquipmentDevelopment": {
+      "name": "Agent Smith",
+      "description": "Receive 50 items developed by the blacksmith.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/0a750913fe51938f24d735d49f49b05d2f6b0fb6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/d91f2777919c03e6fd814a65a95ab9fe6f7a92a3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.8"
+    },
+    "TRJuniorMagician": {
+      "name": "Work Your Magic",
+      "description": "Glimmer a spell for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/92eed2d3e0ebd243e9d44d281459369c446f1667.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/09ff35a795a4d807613a5defd37e0c009168ba8c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "85.2"
+    },
+    "TRSeniorMagician": {
+      "name": "Coming of Mage",
+      "description": "Glimmer 10 spells.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/74fe2c1e7df1b845c684b19431cd38d4a53f9fe1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/0dec93e4ceb0bc53b49d9a4ef44b491c5b8e51cb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "67.7"
+    },
+    "TRSyntheticMagic": {
+      "name": "Best of Both Worlds",
+      "description": "Learn a synthesized spell for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/6f740ee22d45d757df49ced37ecd90d75ce93527.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/7dc877655d4455b4d0329e1c6294359d0fe2be4f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.4"
+    },
+    "TRWitchcraftResearcher": {
+      "name": "Magical Mixology",
+      "description": "Learn 10 synthesized spells.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/35898670f81ae9b6c3757968f045f9b249d25500.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/9850d7375e7c47637fcf71398c43184dde14e5a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "50.1"
+    },
+    "TRClassesFellow": {
+      "name": "Job Hunting",
+      "description": "Ally with a new class for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/c4e2ffa798c10b1f2eff5fe7e27b3ec3dc37f6cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/6acee1918f5eb0e0e56d2446b0478f7a6d988c79.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "86.6"
+    },
+    "TRClassesFellow2": {
+      "name": "Talk of the Town",
+      "description": "Ally with 15 classes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/3f1b1db2fd878eb6ed2454472d0866ba92ce5948.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/e64f8dd52371bed4aa07cef243b56873173773be.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "55.1"
+    },
+    "TRClassesFellow3": {
+      "name": "A Leader of the People",
+      "description": "Ally with all of the classes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/48fc18d3f73ac413651639c51edd513ae59e3346.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/a9369ba09f1dde5e4857518ece9fa81e4f0bf7c6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.1"
+    },
+    "TRBattleFormation": {
+      "name": "Drill Sergeant",
+      "description": "Learn a new formation for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/e959869f902a2f5492b01df9735a486aa85a81b3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/c288dbe4e76eef2e042d8019db1f376037ceebf2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "76.1"
+    },
+    "TRBattleFormation2": {
+      "name": "Capable Tactician",
+      "description": "Learn 15 formations.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/8de09617f5b3b53bef02852f6c0d671297a7555f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/e73f8360250b85f272c65032b389584a0512b168.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.2"
+    },
+    "TRBattleFormation3": {
+      "name": "Master Strategist",
+      "description": "Learn all of the formations.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/e7181593b90abbf7912b4b3c52464b6928691b6a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/975145e611be0db0be10ca86502447417c05740b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.7"
+    },
+    "TRGetAbillity": {
+      "name": "Taking Responsibility",
+      "description": "Learn an ability for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/c234c3a330bbf41d64d2b937dda9f2d0d0c32b2d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/5e10c5043ee04a10cdead930a06d95d87300eb51.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "78.8"
+    },
+    "TRGetAbillity2": {
+      "name": "General Capability",
+      "description": "Learn 30 abilities.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/2cb1578c746399d4c0ea7920b9f1d3a606ab4adf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/16d7fde494cb9df649feb443202fbe39c28cabb7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.2"
+    },
+    "TRGetAbillity3": {
+      "name": "The Best Ability Is Versatility",
+      "description": "Learn 50 abilities.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/774d5f64e7d39dc81bcdca631eade753f02f3453.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/4c1cda208197d7649bec565df6dbeae43946db5e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.2"
+    },
+    "TRAbilityInheritance": {
+      "name": "The Path toward Excellence",
+      "description": "Master an ability for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/31f793cd61d3da516426dfce364c12e1b8cc3a05.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/a207478db5fc781bbcd8786b5c0dcd8f03c3d8e4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "57.4"
+    },
+    "TRAbilityInheritance3": {
+      "name": "Greatness Personified",
+      "description": "Master all of the abilities.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/23881ef90b10f775c15b74a74cf633e2762b4d5e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/c27a583c5df9da3281225f237160fe38293e0eed.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.3"
+    },
+    "TRInspiration": {
+      "name": "Ding, Ding, Ding!",
+      "description": "Glimmer a tech for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/27fd26f37df4f8592aaffe171c2b89b49c7e8c5f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/dd75534a250a56cdff5214d00c03694175171065.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "95.2"
+    },
+    "TRInspiration2": {
+      "name": "Ahead of the Curve",
+      "description": "Glimmer 50 techs.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/f5df21f65deca45182c476ddb77ecc76a5b754db.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/465b1731f85a35d9166dea1bc3bf23c052777856.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.8"
+    },
+    "TRInspiration3": {
+      "name": "Inspiration Meets Perspiration",
+      "description": "Glimmer 100 techs.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/3e1af595d8f9413efd6bce90d4f64502687d287d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/8df477c934df2854378f9866c17c0108ae8fe2d2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.3"
+    },
+    "TRQuittingApprentice": {
+      "name": "Too Slow!",
+      "description": "Evade a tech/spell for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/74d28b12bd98c789d5d2ea21aab25c9d217634ab.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/49b7f1b51703fc8cbbe04cd7ccd6a05c7f2a11f9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "83.9"
+    },
+    "TRCityDevelopment3": {
+      "name": "The Glory of Avalon",
+      "description": "Upgrade all city facilities to their maximum level.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/fa4c392c0e4e31e703fc95739531913ec4274173.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/1ed658459cbfcf6f517a1fcb49a4343069a2e492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.9"
+    },
+    "TRTeacher": {
+      "name": "S Marks the Spot",
+      "description": "Find Mr. S for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/cb6f13c518d8f04a7aec36af5895dca124fb21c2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/d52dc2e98898aa8e6fc64cda8cb48da6fae9c369.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "82.8"
+    },
+    "TRTeacher2": {
+      "name": "Hanging with Mr. S",
+      "description": "Find all of Mr. S's hiding spots.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/e8a371e25a789ff870f08c6645bdf3bbcc2f1512.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/5fb1fcee468722fdb809b24afb493627e351454a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.6"
+    },
+    "TRManySevenHeroesTruth": {
+      "name": "The Truth Is Out There",
+      "description": "Acquire all of the Memories of the Seven Heroes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/d7a45d1417fda3d23ccea740f455e945cc3fa5fa.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/31312a121898b06fb07e744988794c012d823ce1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "42.8"
+    },
+    "TRManyRegionalManagement": {
+      "name": "A Land United",
+      "description": "Reveal all of the world map.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/62b6ec0abd79469d487cfdbdd0941b60932c7408.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/2e8672b8c2b7e818474d7b9aba2768c5b5a3f088.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.0"
+    },
+    "TRRomaSaGa2Expert": {
+      "name": "SaGaciousness",
+      "description": "Pass all of the Imperial University exams.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/84492e9fc698da5901f5f61b4635c99ac849214a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/678f336efd1125a3a2b39a6c432dda51609f4be5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.5"
+    },
+    "TRCoppeliaBreak": {
+      "name": "Wipe Away Your Tears",
+      "description": "Find the previous Emperor that slumbers in the storeroom.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/f2756365936ad2e8740f19c41e918115daf009f3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/448325759a756de9b8247a24ba07d76e7d4a5b3b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "30.6"
+    },
+    "TRRudonnFeeding": {
+      "name": "Going Back to Ludon",
+      "description": "Get lost in the Ludon Highlands.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/5a8f391bb4163fbe4897bc2f334390f0d4840d78.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/f6f3d2dfaf33669a0b5650bb550e912f4073fdde.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "21.5"
+    },
+    "TRConfusion": {
+      "name": "Say What Now?",
+      "description": "Confuse an enemy.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/c5913cc652f2d992ea8e2cca69aca58a22da1bd8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2455640/ff495ddb07390ec6317b7437d0ffd6945c7e5a2c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "82.4"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

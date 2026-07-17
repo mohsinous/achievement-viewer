@@ -1,0 +1,415 @@
+{
+  "appid": "2377280",
+  "name": "Eriksholm: The Stolen Dream",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2377280/header.jpg?t=1774007855",
+  "achievements": {
+    "Level1_Complete": {
+      "name": "Get Out Of Here",
+      "description": "Get out of Cutter’s Hill before the police finds you.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/89d20016cde0f7dd4baacd10dc84ddba7b951dfd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/82f86ab0d20b3098392cad753b36901d436b3f2a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "76.9"
+    },
+    "Level2_Complete": {
+      "name": "Rock And A Hard Place",
+      "description": "Reach the entrance to the mines.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/4a6e62313818fe604afa634c32b7b2a5594a7631.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/598355dd71455ca16ea5cad91b166cd1799523ec.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "66.0"
+    },
+    "Level3_Complete": {
+      "name": "She Knew The Marks",
+      "description": "Find a way through the Old Tunnels.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/b13c484f9a35164128b56d0367498a7ee07f54fb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/f6e389ae153008bb7fe4e1da941b3491ed130b15.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "59.5"
+    },
+    "Level4_Complete": {
+      "name": "Bringing friends",
+      "description": "Help Hanna find a way out.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/31f5411d332a69058f7e29ab00fc55e009422aa9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/4fdd727a2a509b9e84b11bdc25d1ed7d490dfc29.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "54.3"
+    },
+    "Level5_Complete": {
+      "name": "Fetch The Lad",
+      "description": "Infiltrate the Baron’s Island.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/d71776e0f3f8069e5fb8f3e7743265fad8b482e0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/b287bfaf8152f3a710b88a47243f2f52c86eabe0.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "51.4"
+    },
+    "Level6_Complete": {
+      "name": "Hideout",
+      "description": "Find Hanna’s and Herman’s hideout in Willowbrook Hill.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/702aef1ed39cbb4abf29a61272e4db211b6688de.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/8229203e5462684f85f05dcc92c8e519100c99ff.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "49.0"
+    },
+    "Level7_Complete": {
+      "name": "Killing Time",
+      "description": "Attend the funeral.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/199e01ef9b01a8b4e0b9e6b2bf84538967aa5515.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/ce35bb5b07df0c530cd3a7b2a2b3d14687e47726.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "46.3"
+    },
+    "Level8_Complete": {
+      "name": "By Our Shores",
+      "description": "Find and deal with the Mayor.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/25a3d4b398d20c8ff0eb0dac3419749bcc89f83a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/959c7b1769af1ef73b57cfb59396148fb9564b96.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "44.6"
+    },
+    "Notes75_Complete": {
+      "name": "Student Of The Rosmark Lore",
+      "description": "Find 75 % of all notes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/c818b133a7cc3eb2cd41514877403d40bbb4e729.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/415d5a0dafad81f07aff021e39685348159d6452.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.8"
+    },
+    "Notes100_Complete": {
+      "name": "Master Of The Rosmark Lore",
+      "description": "Find all the notes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/93a3d5b4c59ae9333952488da72dcd3ec4f5766b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/daad5ed8e1be9f7dfee6a134ed6e93ad44f5a7b2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.4"
+    },
+    "Collectibles75_Complete": {
+      "name": "Adept Collector",
+      "description": "Find 75 % of all collectibles.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/8a4f5179edcdfc5a89ec04a9cca5493d9c7c4f9d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/b1d5a8e5af9a051e8bbc8b2b3bf4fb6ae64ac229.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.5"
+    },
+    "Collectibles100_Complete": {
+      "name": "Obsessive Collector",
+      "description": "Find all collectibles. And we really do mean all.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/ac66cdce6789608a208ad75fac3fe2aa63ead385.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/ffaede2e89786113579d0721d3fe9f60a57c3023.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.2"
+    },
+    "EscapeArtist": {
+      "name": "Escape Artist",
+      "description": "Escape the Cutter’s Hill interiors.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/04710b2b09efb9368ad0e1918bd2ea2d49d08773.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/3f1fa72f352deafe84e90c4ecea091208238afcd.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "90.1"
+    },
+    "FowlPlay": {
+      "name": "Fowl Play",
+      "description": "Evade a guard with the help of birds.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/da35308bc207b276779a3649b13f85a14f14558b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/586823415b06293be23ed449a044228354efdb39.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "86.8"
+    },
+    "HeavyLifter": {
+      "name": "Heavy Lifter",
+      "description": "Complete a crane puzzle.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/a2ec14cac388147d20929e2eac8887ccb7712694.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/1cb0bd234115ccdfe013d0d2948ad9395c255dd9.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "82.1"
+    },
+    "SweetDreams": {
+      "name": "Sweet Dreams",
+      "description": "Sedate an enemy.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/99a24c3f7fd0d4d286f5713e12cc660151bb866b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/347d8bb6ee0b35bd16bdedcab5792f27ea573e8d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "70.9"
+    },
+    "CoverStory": {
+      "name": "Cover Story",
+      "description": "Use the Green Rock crane to create a cover and get across.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/2dd5be177234821582440fcb536dc270f5f249c7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/ec1f0c125a126490e2f92ef2479f2060b16f1335.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "65.9"
+    },
+    "Nightcrawler": {
+      "name": "Nightcrawler",
+      "description": "Use the flashlight to navigate through the dark.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/f79faf7f87525fd85486328ae642801e6c9c9a06.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/3c27f7a354d3c8990a49040b28b7ded3bb287a3c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "63.6"
+    },
+    "ShadowStrike": {
+      "name": "Shadow Strike",
+      "description": "Sedate someone from the shadows.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/449bafc4c463fa4f2fcdd49e8c4b986cbbce78e9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/1e08ef14a027cf6ca545c2e91683c0c5b80df803.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "63.0"
+    },
+    "GoodOldMartha": {
+      "name": "Good Old Martha",
+      "description": "Complete the Martha puzzle.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/bf6ab9a87de140c424125cf311fffd748f5a2e2b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/675d6555361fedf4906cb8b9f3aec659bfc45171.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "60.5"
+    },
+    "TheWeightOfHerActions": {
+      "name": "The Weight Of Her Actions",
+      "description": "Use a body as elevator weight.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/95d2a5ebe4dbe0313268c1bb0a777c25b82e209c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/670ca0bb4fad21bc32216761b230b273d278aa01.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "59.3"
+    },
+    "DarkCover": {
+      "name": "Dark Cover",
+      "description": "Destroy your first light.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/90c8294f38b1d256f65bde62821e1db699dc6c67.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/e327b4da6c86a34d18bb0b9139636fb14231600d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "58.4"
+    },
+    "Talespinner": {
+      "name": "Talespinner",
+      "description": "Use the myth of the Lady to intimidate the guards.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/104375b44a0ab20d5d769e909bed5383b86f33b1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/bbf9ec021a37c1ce880ca175150e250cd895b017.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "57.7"
+    },
+    "Metal": {
+      "name": "Metal",
+      "description": "Shoot a pebble on metal floor.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/caa56f456f94930c281c9606e9b70225613d922d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/bc4fa4539cc1f07c86f027a50e373ed1fc736989.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "58.0"
+    },
+    "ItReallyDoesTakeTwo": {
+      "name": "It Really Does Take Two",
+      "description": "Have Hanna and Alva work together to open a gate.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/e8f54540e875bc80bde6eb90bf4e6ce18f5c3c32.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/4df01a8ec9d31a430a895b4c90043a0fd47a7fa5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "57.0"
+    },
+    "CaptainsRuin": {
+      "name": "Captain’s Ruin",
+      "description": "Take down Captain Lander.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/9e15d3c39461f28de25a56dbfe6f4e2ecd49c2c4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/2ccd4028599bf7f660212ef9ef764fc3be366df5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "54.2"
+    },
+    "PebblesAndFeathers": {
+      "name": "Pebbles And Feathers",
+      "description": "Use Alva’s slingshot to startle birds.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/30914f148cfe5ed1e75189cc4f10899eaf8d3d59.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/8e865eb4667341c0f478cc13843bdea6484be938.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "53.1"
+    },
+    "BeamBallet": {
+      "name": "Beam Ballet",
+      "description": "Cross the stone bridge unnoticed with Hanna.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/81b11ec1e52f7a25f8caf1b62df20e14a052eeec.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/aabed036e805ac7e05ea71387ff42740a7b1f740.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "52.7"
+    },
+    "ChiefInstigator": {
+      "name": "Chief Instigator",
+      "description": "Lower the drawbridge with Dovan to cause a fight.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/a1edb202908a0f0ca6662fd7cfdfb9403940ce53.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/7d9a66a8f6cc894e14cd794b6dd506e5d2cc5a4d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "52.0"
+    },
+    "Keymaster": {
+      "name": "Keymaster",
+      "description": "Return to the shed with the key.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/47e3efe55a15c582219170c91d6900ef5dcefa17.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/82962323909c65bba7587a84d141079b8274d94d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "51.8"
+    },
+    "Herman": {
+      "name": "Herman",
+      "description": "Find Herman.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/5114d6bb7e664871dbefeb68858717414d8142af.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/0579786024ab96b8438847bd21ec2887e473f481.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "51.3"
+    },
+    "QuietNow": {
+      "name": "Quiet Now",
+      "description": "Choke a guard.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/2abd1d9bccc4858bf7cc36c1606d3c12507bb083.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/f2afba8bdd0aaa0aad24f9b82476660ded5887be.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "50.7"
+    },
+    "SilentSynchronisation": {
+      "name": "Silent Synchronisation",
+      "description": "Take down the first sentry.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/eaad6d65940ab6936e0771e77ff3bda7cca13a01.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/6e16379db673c1f7763d92110292c4776a1762bc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "49.5"
+    },
+    "DoubleTrouble": {
+      "name": "Double Trouble",
+      "description": "Take down one sentry quickly followed by another.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/9c3f267f7c01d0c1155ef2166139047bc8b8ac44.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/68a2642a9ecab5b5c394f9aa7661d30eb4ee1cee.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "48.5"
+    },
+    "WhatHermanTook": {
+      "name": "What Herman Took",
+      "description": "Find Herman’s bag.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/97cb5d470fd7d53148e2c134b3c31696bdf8c9b9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/8a4a6b5fc3d3d6b58d055d7fdb513770650b5fb8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "48.9"
+    },
+    "TheGrapeEscape": {
+      "name": "The Grape Escape",
+      "description": "Use the cable transport to reach the Mansion.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/6072c03812d6635fd0db26c6cb99946bbb8158ce.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/7346e02859d1fe282be38b81eba01cfe4c6ce6bf.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "46.9"
+    },
+    "TheLionsDen": {
+      "name": "The Lion’s Den",
+      "description": "Reach Quist’s chambers.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/26e0aa23d5f0babe97b2f7461dd06fb70aadb30c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/0be64a1ce14223cd2ed33029e0b1b5b1a03fa90a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "46.4"
+    },
+    "TheLastProcession": {
+      "name": "The Last Procession",
+      "description": "Find the mayor.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/380f8633beb3febb0830e65009af9ec76c3c5619.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/8b7b03f8ce3cda5968bc42d23e44a2e5f1c003f6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "46.3"
+    },
+    "Liberator": {
+      "name": "Liberator",
+      "description": "Free Sebastian.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/869fc62eb803423ab39d47e3f7a1723327930d47.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/bd036997e3922b18483ad2b992648ac6b34a6fa2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "45.9"
+    },
+    "AllForOne": {
+      "name": "All For One",
+      "description": "Free Alva.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/7b5e7709a1113c8ec5bba015b7e10adc0112f856.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/c4e850b9244352306f9288ec93769d6a6b9ae1f3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "45.5"
+    },
+    "Charge": {
+      "name": "Charge",
+      "description": "Win the first battle.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/b418ef0b975dc422aec988c48bcbdc5f2ea965bd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/518c2ecbf01d4c71dc5d425c39f000184c216d0d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "45.3"
+    },
+    "Tanksalot": {
+      "name": "Arm’s length",
+      "description": "Take out an armored car.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/e55b660c8691895deb2565940142a5afd7bc5f0d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/63e4dc83c1a732e3c46b2e0545a51f17ffbf750e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "45.1"
+    },
+    "LockAndLook": {
+      "name": "Lock And Look",
+      "description": "Trap the soldiers inside the armory.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/803fc366af7e426bfca753c3a2b073e866e42fce.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/1313fe702a697ea4205ffe5807cc4cb85f21084f.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "44.9"
+    },
+    "WereHere": {
+      "name": "We’re here",
+      "description": "Hanna enters the fort.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/b590514d59e004be09d0324055b9527ebaa0b9fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/8da4efea15e4f4c76c534a7878cf0181e791f9c3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "44.6"
+    },
+    "StickItToTheMan": {
+      "name": "Stick It To The Man",
+      "description": "Hit the Mayor’s poster with a dart.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/4bcf64fcf1f63a8cb82820b17463a4182285ee72.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2377280/8ee9a1ce271344d670b89696160394ac8d6ff36d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.8"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

@@ -1,0 +1,424 @@
+{
+  "appid": "2050650",
+  "name": "Resident Evil 4",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
+  "achievements": {
+    "1": {
+      "name": "Knife Basics",
+      "description": "Parry an enemy with a knife.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/57ed9194d804ddd7c5dd753c046870a9a0f58fb1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/67a069adeb240cc284cd2151a8bab067afa2f3ce.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "86.5"
+    },
+    "2": {
+      "name": "My Preferred Piece",
+      "description": "Upgrade a weapon.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/a0247551f9d53b3a9aa66f5ee41661177c6ccef9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/4df28bc86b11dcde5da964ac22837013ae32f577.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "81.8"
+    },
+    "3": {
+      "name": "A Masterpiece",
+      "description": "Get the exclusive upgrade for a weapon.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/84539c24d82f190d8a7145fb7af223d1201571d7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/5c5402af5b4b9508027a23cc183443b64ea95b87.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "48.8"
+    },
+    "4": {
+      "name": "Nice One, Stranger!",
+      "description": "Complete a request for the Merchant.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/1c8fc9f7efd2f055909f8df463c3e5356978419d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/00cb4c82d5f8434d0897c9547987890600e07ee2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "79.3"
+    },
+    "5": {
+      "name": "Talk About Near-Death Experience!",
+      "description": "Rescue Ashley as she's being carried away by the enemy.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/33ce364d576c87e43f816848e577b794159efff5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/97d0cdafa9a1eaf686ae2b0ce3572b22d4038e2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "72.8"
+    },
+    "6": {
+      "name": "Revolt Against the Revolting",
+      "description": "Destroy a Clockwork Castellan.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/dc0343d892ab6efddd0bfa37a5f9eb55e9b8e015.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/33e542b6f5f7d8d339f6c01f9d1451fcb401e85b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "68.4"
+    },
+    "7": {
+      "name": "Harpoon Hurler",
+      "description": "Defeat Del Lago.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/af8cd4754665d93581c214709288dee50383adee.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/ed11710da2164e8cc36fef07cc9ee1f5d76485c6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "77.2"
+    },
+    "8": {
+      "name": "Grilled Big Cheese",
+      "description": "Defeat Bitores Méndez.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/af1379dad0e6400366e3fb477e734c22622eeff4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/621ce042b455448574962e36ccc00fbe01d564b1.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "71.8"
+    },
+    "9": {
+      "name": "Wave Goodbye, Right Hand",
+      "description": "Defeat the Verdugo.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/07cf575e8a3a7af518c13c1e5d5f4549335356bf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/1a195eb790393fd6a54bd9f2d1d01e8c31dc6b64.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "38.4"
+    },
+    "10": {
+      "name": "No Thanks, Bro!",
+      "description": "Defeat Ramón Salazar.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/09a2da5eafd99bd5ccaf8f607c3c4a1ca8b51879.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/4f0337b70addaa497932893dfece919d44973399.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "64.1"
+    },
+    "11": {
+      "name": "You Used to Be a Good Guy",
+      "description": "Defeat Jack Krauser.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/6ee35145f69b77da3573351f23eeed5dd0dfaf99.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/34361b84692bd9579ea603e6c1315a1975f3535e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "61.6"
+    },
+    "12": {
+      "name": "You're Small Time!",
+      "description": "Defeat Osmund Saddler.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/100bcde134514ce3a46a1c8f813f0cd665e930c3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/76f67106f522273ff371462cb5da97747b003137.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "60.8"
+    },
+    "13": {
+      "name": "Shield Your Eyes",
+      "description": "Defeat 3 enemies at once with a flash grenade.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/9f0afa8057595b34574919f47356059f3991a030.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/b79ae7178e4dfd0c9405c574f8f3994f074cdd7d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.5"
+    },
+    "14": {
+      "name": "Never Heard It Coming",
+      "description": "Defeat a Garrador using only knives.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/faea518f74484490058ac91793503e1b62ae349c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/09679d549bac097acf3e72c88928920606448b66.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.4"
+    },
+    "15": {
+      "name": "Two Bugs, One Stone",
+      "description": "Kill 2 parasites inside a Regenerador with a single bullet.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/f47551e71ccd2e81246f24928df25536688e0799.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/151ad0786db8f25e1c684801dcf0e6935c620303.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.5"
+    },
+    "16": {
+      "name": "You Talk Too Much!",
+      "description": "Throw a grenade into Ramón Salazar's mouth.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/b0a72be2c265bd33aca5655ac586c206ccd680ba.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/4f7fa87c538c5295236a33b911928af0aa541b60.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.7"
+    },
+    "17": {
+      "name": "Overkill",
+      "description": "Use a cannon to defeat a zealot.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/3f2e31ef9e8aa870f6a9422901224934065a7ca2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/8e0ccd739b03fdd5fdc6ffe718b1ffb8d37a7b83.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "62.5"
+    },
+    "18": {
+      "name": "Hope You Like Thrill Rides!",
+      "description": "Make it through both minecart sections in the underground tunnel without taking any damage.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/661dc0439201e9640fae61303d2effb99ac0a1d5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/c0d39ac30d83daef8ba3ece79ab022a53706c007.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.5"
+    },
+    "19": {
+      "name": "Capacity Compliance",
+      "description": "Reach the top of the clock tower without the lift stopping once.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/534f2013b2842cd5a34580beb3195fd5484334d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/63eb92a8a04a42a2a738590d9ae6b649d3d6efc8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.8"
+    },
+    "20": {
+      "name": "Smooth Escape",
+      "description": "Escape on the water scooter without taking any damage.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/dc1e8e52533ddf0c7b91c5982956c0fb2e97e881.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/0546a46672347404fc456c729753bda9afafc860.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.4"
+    },
+    "21": {
+      "name": "Astute Appraiser",
+      "description": "Sell a single treasure for at least 100000 ptas.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/f104d8b98dcc0a6a0b60a1a05cece4780ec7c6d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/2c5115fc973d648ae6f76ea056b13f9fefa0465e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.4"
+    },
+    "22": {
+      "name": "Bandit",
+      "description": "Obtain all treasures indicated on the village treasure map in a single playthrough.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/4ffbd30a2bb86811d3abbe2247e2dd39f05f6c02.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/897e475dc990d9de85e63c332a343c2ac0550811.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.7"
+    },
+    "23": {
+      "name": "Burglar",
+      "description": "Obtain all treasures indicated on the castle treasure map in a single playthrough.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/a46bfc925b9ed3ca05158d0c12b7a7a01c12d2ec.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/74dc5c4a1a30b3e7ab61b7474aed493f6a9f6ae2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.3"
+    },
+    "24": {
+      "name": "Raider",
+      "description": "Obtain all treasures indicated on the island treasure map in a single playthrough.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/0c867fcf5ea1cd36baab3e9f84d39520cbb63751.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/b8b04451a2f425dc124295648cd5ab129ce5e734.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.6"
+    },
+    "25": {
+      "name": "Gun Fanatic",
+      "description": "Obtain all weapons.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/88af5ad7ab4399be0624a38f23eb8152beaa7fe3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/a610a26e37f4e05a12ca266ceb253c8853b3df90.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.5"
+    },
+    "26": {
+      "name": "Jack of All Trades",
+      "description": "Complete all requests from the Merchant.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/a4861ec423e8f6d28a67d4efac89a151bb3b0cf1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/e080280b101315c080b0679d1026c60a27605ceb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.4"
+    },
+    "27": {
+      "name": "Revolution Wind-up",
+      "description": "Destroy all Clockwork Castellans.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/8e301a56f7baaa22ad190e8e64f878e7ef11007b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/f9e744aae383421a45869c320d3a76a8bbf02721.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.1"
+    },
+    "28": {
+      "name": "Promising Agent",
+      "description": "Complete the main story on Standard mode or higher.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/8b15f89a9004ded0670378d4f8cbc873a17fa08f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/65dafcb1012422f4a789a4f7b971085a73e1831f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "52.6"
+    },
+    "29": {
+      "name": "Mission Accomplished S+",
+      "description": "Complete the main story on Standard mode with an S+ rank.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/a344e7bb2ed764ac7b3941d12314bd3ce59ed4eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/7bc4b461f271ea76abdd9202df173d95cf14d2c1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.0"
+    },
+    "30": {
+      "name": "Proficient Agent",
+      "description": "Complete the main story on Hardcore mode or higher.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/6ae33bd366d1f40365e00589719fd7cbf9f45b4a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/510f85293d1c9b76ba582aa743f0fd582583ac83.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.9"
+    },
+    "31": {
+      "name": "S+ Rank Investigator",
+      "description": "Complete the main story on Hardcore mode with an S+ rank.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/f9485e940987a26d9128b1811b83dd1c576119e8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/58ce8151ee6de92ce824bc1301620f48a9b9162d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.1"
+    },
+    "32": {
+      "name": "Peerless Agent",
+      "description": "Complete the main story on Professional mode.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/d4d240507a00fd9796da900b6a151105afd5cbe6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/2ca60e702c129dc72a78df8a85607946575ce097.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.2"
+    },
+    "33": {
+      "name": "Sprinter",
+      "description": "Complete the main story within 8 hours.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/ea226e9fc667a574d56dd7eb58aaee72ce49a7c9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/715fcbe8b71b2893dafdd0dfa50695404125f134.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.4"
+    },
+    "34": {
+      "name": "Frugalist",
+      "description": "Complete the main story without using a recovery item.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/cef591886858467b6bd26cb4b06f6bc194932949.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/d5fcfe31ab29d91c4cef4437b8c6c937b2235163.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.2"
+    },
+    "35": {
+      "name": "Minimalist",
+      "description": "Complete the main story using only knives and handguns. (Excluding specific battles.)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/f5448c1c058b31f9126a871aaa3c5bc26c198e24.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/9a54b5fda64d41f204eb55cbe3613b10734e3b71.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.4"
+    },
+    "36": {
+      "name": "Silent Stranger",
+      "description": "Complete the main story without talking to the Merchant once.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/18e699b3e1225df5dddc552c17af93540b7e39eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/f39ec5836f35bed6837a331a2ba1366e4506df30.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.7"
+    },
+    "37": {
+      "name": "Amateur Shooter",
+      "description": "Complete a game at the shooting range.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/63a90511999463da04fdba6abc6f807c98e96987.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/5a0a1ec86e62871236642695245323aadaee84e1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "71.5"
+    },
+    "38": {
+      "name": "Real Deadeye",
+      "description": "Earn an S rank in all games at the shooting range.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/e521d60ef2e2d9fb9d0c0d7980508a62136063c4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/99d7baf084127c97033686f4f12af342b870b1ef.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.1"
+    },
+    "39": {
+      "name": "Trick Shot",
+      "description": "Shoot through and destroy 5 targets at the shooting range with a single shot.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/5c6697de8ed488f7ed12796c53633a9c1a946b37.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/70bc91916cb338746c9ae4e65431bec2e43a3f8c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.8"
+    },
+    "40": {
+      "name": "Giant Slayer",
+      "description": "Defeat El Gigante in Separate Ways.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/cf5c726e43f9f94a7f8ab7bfb860f409af751592.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/4dfca94f2e53fe4d16af133db09f83ab70ecc97d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "29.3"
+    },
+    "41": {
+      "name": "\"It\" Kept You Busy",
+      "description": "Defeat Pesanta in Separate Ways.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/a288e9bc7de5b36859f991c72ef259aba7d5e11a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/16e77a90854933e286b3369471b3bbc15f3b7855.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "27.8"
+    },
+    "42": {
+      "name": "Had Enough of Preachers",
+      "description": "Defeat Osmund Saddler in Separate Ways.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/860029e39d4b845bba9c8a3e2a7fc7fa0d3f9e12.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/740c25298a5f72cd0a9802b2207d6abe6e5ef898.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "27.0"
+    },
+    "43": {
+      "name": "Capable Operative",
+      "description": "Complete Separate Ways on Standard mode or higher.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/1b673d48d2b0d6a85e25a189a8deb4d71f121ce5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/a0292d736479181d419e6e37faa538e19aa8950c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.2"
+    },
+    "44": {
+      "name": "Skilled Agent",
+      "description": "Complete Separate Ways on Hardcore mode or higher.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/651382b73aee5fc55724ca77adc982bc69dc3d5c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/8332b6875a135a2a17e85e14c959d1f29f5064f6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.8"
+    },
+    "45": {
+      "name": "The Perfect Mission",
+      "description": "Complete Separate Ways on Professional mode.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/03c91bc63ad9ebb36487ea404a8216f79479329e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/d0a791130ee802d77acd1103a4178293cfc2d313.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.8"
+    },
+    "46": {
+      "name": "Ada the \"S+\"py",
+      "description": "Complete Separate Ways on Professional mode with an S+ rank.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/ca30913e296491712fae00413b9100766ce971a5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2050650/9c86fe6cd550a9044e757a5f3e1a52e6e8c80df8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.2"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

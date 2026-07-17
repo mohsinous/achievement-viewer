@@ -1,0 +1,271 @@
+{
+  "appid": "2206210",
+  "name": "GYLT",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206210/header.jpg?t=1777420154",
+  "achievements": {
+    "ACH_ENTER_SCHOOL": {
+      "name": "The Place of Nightmares",
+      "description": "Enter the school looking for Emily",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/f9e98a871c3d7d3b852e78b47f57beda3da614d7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "88.8"
+    },
+    "ACH_WAY_AROUND": {
+      "name": "A Way Around",
+      "description": "Get outside of the school courtyard",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/7994a1332ec5929e2f4a608f6cba1d1f40036dad.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "65.6"
+    },
+    "ACH_REMOVE_BATTERY": {
+      "name": "Game Over",
+      "description": "Remove the battery from the Arcade core",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/f9acff5e7ae08c703eb72f48f1900aaabb5b368c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "58.3"
+    },
+    "ACH_SEE_WEIRDNESS": {
+      "name": "What is this place?",
+      "description": "See the weirdness in the school",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/407a04ead9c35d45648c904de553fa2be662340e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "56.2"
+    },
+    "ACH_INTO_THEATER": {
+      "name": "Winter Play",
+      "description": "Get into the Theater",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/11e6a854868a08aa4713b5ce44baaf573a153341.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "50.7"
+    },
+    "ACH_ART_BUILDING": {
+      "name": "Afternoon Activities",
+      "description": "Access the Art Building",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/d34796db10bcb0b0f417828ac7723e1c4438dc4c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "48.7"
+    },
+    "ACH_BASKETBALL_COURT": {
+      "name": "Sports Prison",
+      "description": "Reach the Basketball Court",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/fe6e02cdfe70bf46e5f7c949b4fec57b70574988.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "45.0"
+    },
+    "ACH_FINAL_MINE": {
+      "name": "The Truth Behind the Mask",
+      "description": "Reach the Final Mine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/4b1ed5d79a5fb2ac8b3bbaf8fc74835dfa22e41a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "42.0"
+    },
+    "ACH_SAVE_SALLY": {
+      "name": "I Just Can't Stay Here",
+      "description": "Escape with Sally",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/2ebf26f4981f4d5b40c911a3c0a215afef7cfff2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.5"
+    },
+    "ACH_SAVE_EMILY": {
+      "name": "I Simply Can't Go Back",
+      "description": "Escape with Emily",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/602b8695cd549099b320bf5198a19a0cab347ae5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "36.0"
+    },
+    "ACH_SAVE_BOTH": {
+      "name": "You Both Deserve to Go",
+      "description": "Escape with Both Sally and Emily",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/5488bcd966bc4fa38ed5f286df94d66000655a4b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "15.2"
+    },
+    "ACH_EXPOSURE_UNDETECTED": {
+      "name": "Don't be Exposed",
+      "description": "Escape from the Arcade without being detected by Exposure",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/ee8f3ea3b58021f4d974bece91b15cbfa9b00e7f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.9"
+    },
+    "ACH_AVOID_VIOLENCE": {
+      "name": "Avoid the Violence",
+      "description": "Defeat Violence in the Laboratory Without Being Hit",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/effd24742e22a43abcff8280efc9e0877adb8563.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.7"
+    },
+    "ACH_DEFEAT_EXPOSURE": {
+      "name": "Secrets are private",
+      "description": "Defeat Exposure",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/3b461e1370dd3f1fac57375929b44ca99d54f40a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "49.2"
+    },
+    "ACH_DEFEAT_VIOLENCE": {
+      "name": "Violence is not the Answer",
+      "description": "Defeat Violence",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/954be1b1cc416445dd25abd7b78eaf99d6bd7462.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "43.0"
+    },
+    "ACH_ESCAPE_HELPLESSNESS": {
+      "name": "Overcome the Helplessness",
+      "description": "Escape from Helplessness",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/553ae09d7314e92696890a346f71cec58b4191bd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "41.5"
+    },
+    "ACH_KILL_LIGHT": {
+      "name": "Let There be Light",
+      "description": "Defeat an Enemy with the Flashlight Beam",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/51535e84c0b2f2bc4100c3d80d6645e045a9c876.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "69.1"
+    },
+    "ACH_3FLASH": {
+      "name": "Don't Look at the Light",
+      "description": "Blind Three Enemies at the Same Time",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/dbb508607fab70d7e1e433e1164a111b0ae73ef5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "50.8"
+    },
+    "ACH_KILL_STEALTH": {
+      "name": "Backlighted",
+      "description": "Kill an enemy with a Stealth Attack",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/81e637fda7ed0d99b19237454cc659c76fc3b1ec.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "63.7"
+    },
+    "ACH_NO_KILLS": {
+      "name": "Avoid Conflict",
+      "description": "End the Game without Killing Anyone (without bosses)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/aa42142a4a2f98a0cc80a9b11ea05ee9d4004d3c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.4"
+    },
+    "ACH_REMAIN_DRY": {
+      "name": "Avoid a Cold",
+      "description": "Use the Planks to Remain Dry",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/ac2891c994d3fa94140d8bef19a3daefe9ca3da8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "45.0"
+    },
+    "ACH_HOOP_CAN": {
+      "name": "Take it to the Hoop",
+      "description": "Hoop a can",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/6f76102fbe51a93a3b523a4c0658efa7d18333cc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.6"
+    },
+    "ACH_POP_SHOCK": {
+      "name": "Shocked!",
+      "description": "Shock an Enemy",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/30b73f2a2e1181870571da5cca46cdf5b3518237.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "24.3"
+    },
+    "ACH_HIT_WITH_CAN": {
+      "name": "Oops... Sorry",
+      "description": "Hit an enemy with a can",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/91ad0869f71a4a81252259071ff3ce0987b45cf3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "22.6"
+    },
+    "ACH_FREEZE_AND_PUSH": {
+      "name": "Breaking the Ice",
+      "description": "Freeze an Enemy and Push Him",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/e8f603736cef0f0a6e77a4e22fbb7ae2fdccd1ae.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "18.7"
+    },
+    "ACH_FREEZE_ALL_ENEMIES": {
+      "name": "I Love Snowmen",
+      "description": "Freeze one Enemy of Each Type",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/ed18205931934d9ae30076d9e36cf32209e84e33.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.4"
+    },
+    "ACH_TIME_TO_PLAY": {
+      "name": "No Time to Play",
+      "description": "Try to play another game by Tequila Works",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/11e0d304bf41ff5d19e128c2b19f1388f4b19bbc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "39.8"
+    },
+    "ACH_DIARIES": {
+      "name": "Those are her Feelings",
+      "description": "Get all the Diaries",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/c78ba5f2bb6336b4bbc0d0e3810a74ad63c1142d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.1"
+    },
+    "ACH_INHABITANTS": {
+      "name": "Helping the Missing Ones",
+      "description": "Free all the Inhabitants",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/36f62f6ff3cf85f17a1b31eedcea6d08edf69031.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.7"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

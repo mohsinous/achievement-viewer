@@ -1,0 +1,280 @@
+{
+  "appid": "1623940",
+  "name": "Bramble: The Mountain King",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623940/header.jpg?t=1776193650",
+  "achievements": {
+    "BEATBUTCHER": {
+      "name": "Butcher",
+      "description": "Defeat the butcher",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/77c6b3f9f6a669d30e2ef003c8ad8b0e6691585d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/6db2374d3b5be14a769a6050de1974be1bfc7a69.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "73.9"
+    },
+    "BEATNAECKEN": {
+      "name": "Näcken",
+      "description": "Survive against Näcken",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/57dcf91b50f2381f2b7317316bb24c1fe1f8681f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/01d4cba1bf4fe551073e735ba41b868c190395d4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "62.8"
+    },
+    "BEATCROWANDAH": {
+      "name": "Kärrhäxan",
+      "description": "Defeat the swamp midwife",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/8f2d9c2732f2e176074fdb7e0a5e59861f666539.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/43e05e674c00b0cef82030bed681f12b86b25382.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "57.4"
+    },
+    "BEATSKOGSRA": {
+      "name": "Skogsrået",
+      "description": "Make it through Skogsrå's grove",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/622ab9dba0cf7d14d7e0db2b8bf2b18d02730f38.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/73c41cee9abc5f0da35fdbd05d473a442261b392.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "54.4"
+    },
+    "BEATPESTA": {
+      "name": "Pesta",
+      "description": "Escape Pesta",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/ec8d91927a898349983be70dbc973ce5c6abe1e8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/5acde00b8d346c2b958212652f76e254587a9ee9.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "50.3"
+    },
+    "BEATREAM3": {
+      "name": "Bramble",
+      "description": "Free yourself from Bramble",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/da137c7c0244a415e11204d79b550ca13453b9f6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/e6949f86af7af8b61086ec3c678556c24624b12e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "50.2"
+    },
+    "BEATKING": {
+      "name": "The Mountain King",
+      "description": "Dethrone the Mountain King",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/7285e0ffa5b1dde42e476a6eceef55c9574ee170.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/15687ba2e1550f68eab0974a211173a0d29c280a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "48.5"
+    },
+    "COMPLETEGAME": {
+      "name": "Home Again",
+      "description": "Complete the game",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/9e50f361dccd593ef18583f2ce3b4cc3a49d4bad.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/948d9ce02d28ec922c5711f625e5e150383e2af9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "48.4"
+    },
+    "JUMPEDONMUSHROOMS": {
+      "name": "Bouncy",
+      "description": "Jump on the mushrooms 5 times",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/7c275163fab374c47b955dd09481db0479e4ed89.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/e249df2026e3a7fb54cc8371822c7deaedd6a241.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.9"
+    },
+    "COLLECTOR": {
+      "name": "Collector",
+      "description": "Find all wooden figurines",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/11fe6ba2b49ef8b19a41ebf23e949dfc7b151451.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/c0e6217cbe597d363d892afe8fd85680f57d5c55.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.3"
+    },
+    "BOOKREAD": {
+      "name": "Book worm",
+      "description": "Find all story books",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/5c705449b347af50d298562e27f507c5566baa46.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/7754fbc28007c4306e64b3b13483ffd0d98425df.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "42.5"
+    },
+    "SKOGSRA100STABS": {
+      "name": "Murderer",
+      "description": "Stab Skogsrå 100 times",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/4bc21d923ed19a359e405b42d9a6ac9c18e29b0b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/c95ae608eca18a92809a813ea74743afe30ee001.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "PUSHEDGNOMEINMEAT": {
+      "name": "Bait",
+      "description": "Sacrifice the gnome",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/16c6ea27b91e9323d78fc33a8c055da6031b5511.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/7c4fe842d83bfc0e130ecff68d34167c8e00177d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "67.0"
+    },
+    "APPLEINGOAL": {
+      "name": "Goal!",
+      "description": "Kick an apple into the goal",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/cebbd7320580fb2e27a7c69aa1a68333f7d0f311.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/2df8b4b6f0b1ff083e9dce5f1f7ce19652fe4948.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.0"
+    },
+    "SAVEDALLGNOMES": {
+      "name": "Savior",
+      "description": "Complete the path of traps without any gnome casualties",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/f47c2d88afbc696d5800dc09a928e57d8cd007d3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/983f668632754ceca5c28f41d6eeacb9d1377d32.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.0"
+    },
+    "BREWEDPOTION": {
+      "name": "Witchcraft",
+      "description": "Brew a potion. Bring out the scales!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/8f1136d6578efcaeeff47fdcaeb0679cd3586437.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/734e4d281e31645b410cccea0f636301479baf4e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "58.4"
+    },
+    "PINECONEOUTOFCAVE": {
+      "name": "Evicted",
+      "description": "Kick the pinecone folk out of the cave",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/dd897829cecf35f79d0e230159ec4fc3c699ad30.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/48df23c4dda2056cd23bda27714504960f6144a6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.4"
+    },
+    "FINDSISTERFIG": {
+      "name": "Lillemor Figurine",
+      "description": "Find the Lillemor wooden figurine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/aa8eca8c545e92edb6e6ceb6ec2cc569883b3312.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/c41529b8d9049d7f61059a42bbd6ae827941f337.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "58.5"
+    },
+    "FINDGNOMEFIG": {
+      "name": "Gnome Figurine",
+      "description": "Find the gnome wooden figurine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/96ea0205c9e7d2d546888ba62a90befd0ab48c11.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/93056ff2594e7c6042411481fc8de8f173504ff9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "56.3"
+    },
+    "FINDTRICKSTERFIG": {
+      "name": "Troll Figurine",
+      "description": "Find the troll wooden figurine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/039ef74aa26ae5ff52b328e819eb188539d00f39.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/ff146d6127e8c9e4b6d0d1c623001a991278c296.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.9"
+    },
+    "FINDLEMUSFIG": {
+      "name": "Lemus Figurine",
+      "description": "Find the Lemus wooden figurine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/b2ab00160cbec558243aa153c1b18c70ebf8be03.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/59766485520734b7816a89b2f484002a315af44c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.0"
+    },
+    "FINDNAECKENFIG": {
+      "name": "Näcken Figurine",
+      "description": "Find the Näcken wooden figurine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/603ef58189cf432ffb0318e4221b7070f33dd4dc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/ab330d631975d350ab0cc05b34e7f5b70f73f5a3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.8"
+    },
+    "FINDTUVAFIG": {
+      "name": "Tuva Figurine",
+      "description": "Find the Tuva wooden figurine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/7b6444a09e80db57810142c955da4148dcfee619.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/9723489889108fa528af220948045f34a157be24.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.9"
+    },
+    "FINDCROWANDAHFIG": {
+      "name": "Kärrhäxan Figurine",
+      "description": "Find the Kärrhäxan wooden figurine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/1fc5f17078fca8e822f8b42d6d76c49ae8562e85.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/a0d828203700b42b43a00e2ca161fe6d35ee898f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.0"
+    },
+    "FINDGUBBEFIG": {
+      "name": "Lyktgubben Figurine",
+      "description": "Find the Lyktgubben wooden figurine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/d7aab810c5d07c7f2b665f6238fbbbb7c020bb7b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/bdcfcfd53007ad2e1d13bbb886f251a9d0106848.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.5"
+    },
+    "FINDSKOGSRAFIG": {
+      "name": "Skogsrået Figurine",
+      "description": "Find the Skogsrå wooden figurine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/2e6ef0161c9e54365f0370cbeb2fa16e3395b470.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/c871a1b1fce06d8636afd17fc2a57d7fd711357d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.5"
+    },
+    "FINDPESTAFIG": {
+      "name": "Pesta Figurine",
+      "description": "Find the Pesta wooden figurine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/198a62a1838b03ce07e90264ebaa0f85f8bc5189.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/37a9534d02c808a2b933a10851472e68d7e63b37.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "48.7"
+    },
+    "FINDNILSFIG": {
+      "name": "King Nils Figurine",
+      "description": "Find the King Nils wooden figurine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/01bf462682322210c4bd98820d4d1a18f14f3d98.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/34d5bd36f6f14bd8f000b63191927b5acd10d481.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.3"
+    },
+    "IRONMAN": {
+      "name": "Survivor",
+      "description": "Complete a playthrough without dying or restarting levels",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/d3c0a2eb50a7cce4bbff8741d783fc0ef3d5f0bd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/d862d7eedadbbb45aca8dcd9d99393d1cb8ca093.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "PROPERFUNERAL": {
+      "name": "Proper burial",
+      "description": "Find the toy duck and place it on the grave",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/d61d170ec41ff3d062ba63cde81ecc257e41ecc4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/0f695cd892eb09db998c2646250a05fdde33e1f2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "45.0"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

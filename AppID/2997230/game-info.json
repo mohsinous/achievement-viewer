@@ -1,0 +1,235 @@
+{
+  "appid": "2997230",
+  "name": "Planet of Lana II",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2997230/7712fdf6cd6531709c16920f8b20b6ee146ac9f8/header.jpg?t=1776154869",
+  "achievements": {
+    "secret01": {
+      "name": "Finding Secret Hologram 1/10",
+      "description": "Discovered a secret hologram",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/c0e97d973051a14f66e188175d85f87e7c0bfb0f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/90c488e2d47f5e213bf63c0047f7fc9309a05302.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "58.6"
+    },
+    "secret02": {
+      "name": "Finding Secret Hologram 2/10",
+      "description": "Discovered a secret hologram",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/941fc72c33cc81254a81734a3ae27f6328a2f413.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/e755dbe8d2f6911e63e9f9983e76dc5d0ec427b0.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "44.5"
+    },
+    "secret03": {
+      "name": "Finding Secret Hologram 3/10",
+      "description": "Discovered a secret hologram",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/38158194b67d410a4b6e29a6d1dacf39c7adf17a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/9c354c1f77328c9b29c9f93829e627b32693d0be.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.8"
+    },
+    "secret04": {
+      "name": "Finding Secret Hologram 4/10",
+      "description": "Discovered a secret hologram",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/249da74e0e6dde9b7000d9e8e6ece37a9bf26d9e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/7414d71281095c28b3c2b9a038b507b6b24de6cf.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "35.2"
+    },
+    "secret05": {
+      "name": "Finding Secret Hologram 5/10",
+      "description": "Discovered a secret hologram",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/bb76de13591b0bf230da24152b15a490200be3a7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/7ab669830c2c1be234ad4ec3f676bb168cd440ca.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "25.0"
+    },
+    "secret06": {
+      "name": "Finding Secret Hologram 6/10",
+      "description": "Discovered a secret hologram",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/7311138d42a9510490e0ed7316a9fdc7056f7084.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/bb5fdbbd7207cfebe383e248303729c0a8f7f7c8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.2"
+    },
+    "secret07": {
+      "name": "Finding Secret Hologram 7/10",
+      "description": "Discovered a secret hologram",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/a7d92eb873990fd4fe7a12ddae2625b95406c8c2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/3f297488994be38faacec03c2a00e8f9c69f5539.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.7"
+    },
+    "secret08": {
+      "name": "Finding Secret Hologram 8/10",
+      "description": "Discovered a secret hologram",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/c5e92f9d333a6d26da146d59547af381520d7d4d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/b795019d8f46c61e02ec866cd4f44dbd7de5d335.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.8"
+    },
+    "secret09": {
+      "name": "Finding Secret Hologram 9/10",
+      "description": "Discovered a secret hologram",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/0b138e041c981311e05b6d0e84bd425a19e57682.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/9f79c429916c82f19c6d3afed87d65ead07fec5e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "40.9"
+    },
+    "secret10": {
+      "name": "Finding Secret Hologram 10/10",
+      "description": "Discovered a secret hologram",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/dee50fb5fe882b16521f6dc88db73236bcf5dcf6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/9952b783a3635724f343cbe01a4738b2640a9d5e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "29.7"
+    },
+    "allsecrets": {
+      "name": "The Secret Trail",
+      "description": "All secret holograms discovered",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/3d0f1dac5862033c05610f0fdf9882b1820c8788.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/5aa43d430bd9bbe65a53d07601561edf973f5a3c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.6"
+    },
+    "captainsquarters": {
+      "name": "The Captain's Quarters",
+      "description": "Discovered the Captain's Quarters",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/303fea1caf6da503c516681bc1e911bd8693c21c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/f020ad37db71bac98fba40270dcfe8bd61334a56.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "79.4"
+    },
+    "fishybusiness": {
+      "name": "Fishy Business",
+      "description": "Control an Ink Fish",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/c0eb59c97794d612554c293aa05802a886ab0b40.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/84c43cce5647a1c75e1b628c8f694d391617bdfe.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "73.1"
+    },
+    "keeponrolling": {
+      "name": "Keep on rolling",
+      "description": "Control a Roller",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/c6935cd1990d44cd3b3159dcbb6e8ce402493c51.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/4075a3572a65b123f3ed220975e59d89b81fb545.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "68.4"
+    },
+    "findingawaydown": {
+      "name": "Finding a way down",
+      "description": "Finding a way into the mountain",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/033fdd6e583ec5d0305b74df2c27c27cf46195d8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/c4d910a726f38bc68f530391f7f5adb5fcc767e5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "63.4"
+    },
+    "firstingredient": {
+      "name": "The first ingredient",
+      "description": "Finding the Mountain Flower",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/56db443d5a3a4b97f6015eebfe573d8f1395f21d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/5e0ca49432c52c1baa86216b6ac688fd35db6d59.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "60.4"
+    },
+    "secondingredient": {
+      "name": "The second ingredient",
+      "description": "Finding the Seashell",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/1cb35229b1d1a03e6198ea9a6ebe02d7f88f5a34.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/a7dacc6b6ba91bb0ccbdc6516d9cf5710eede680.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "55.4"
+    },
+    "medicineforanua": {
+      "name": "Medicine for Anua",
+      "description": "Give last ingredient to Rakuen",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/5a57a2da85e48917c65da0753c28a74c989e2ce9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/a6d251b5957b7e8121d06d2926909265766ab587.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "51.3"
+    },
+    "secretbase": {
+      "name": "The secret base",
+      "description": "Finding the secret base",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/fc30cc5340409bca716a502b69052d6fb0845aa1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/09031de247bb4ca9e48f372af00e24608b22c6e9.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "47.7"
+    },
+    "utopia": {
+      "name": "Utopia",
+      "description": "A new world",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/93b2edee62edbb128aa4ff9c61b2d480682b76d2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/9f6fa30a0ea283621a4da6a636360f4a32c2add2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "48.5"
+    },
+    "backtogether": {
+      "name": "Back Together!",
+      "description": "Reuniting with Mui",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/77b39e9e9d2cde074574e5363ff252092f040ed7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/97d01102a871d1f38d4009233448ec81ba6fd7f5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "53.2"
+    },
+    "itpurrs": {
+      "name": "It Purrs!",
+      "description": "Pet Mui",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/8b700d98ba9bac158a3a10cfd687a970dd397ae1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/3612978f94a1427fc78856e3e9afbf873346cedc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "82.7"
+    },
+    "recovered": {
+      "name": "Recovered",
+      "description": "Waking up",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/7c3fedcbb905849d682326f71953657cc20916a7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/6e1e12e28e87e18f731389138f9a86e5d45a671c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.5"
+    },
+    "purrfect": {
+      "name": "Purrfect",
+      "description": "Pet Mui in each part of the game.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/a852f0373da37e70e46970207125f3dceea94bc9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/c3af8be7008553fcf44a822a0e56a1adedf00601.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.4"
+    },
+    "platinum": {
+      "name": "100% Complete",
+      "description": "All achievements completed",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/344033bf7042c5e10fae9fe56436340da5755c34.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/d170d3a01a717aaa48dd5867f42edd63e7726624.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.3"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

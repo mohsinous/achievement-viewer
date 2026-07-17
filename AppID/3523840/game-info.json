@@ -1,0 +1,631 @@
+{
+  "appid": "3523840",
+  "name": "Harvest Moon®: Home Sweet Home Special Edition",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3523840/542a6d62f35b6736089ded3608e6edf6ed0192b8/header.jpg?t=1763741217",
+  "achievements": {
+    "Achievement_00": {
+      "name": "Home Sweet Home",
+      "description": "Obtain all other achievements.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/c71648598ba3423b45f076261c5ba39464b9dc97.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/491e5e4fac1fde550ff6d5ae663c7fead622f4b7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "Achievement_01": {
+      "name": "Back to Your Roots",
+      "description": "Complete Chapter 1.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/f7b13a706e10d37d87159e010552017cd20a7e8c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/76262c967020717a0076429fb73985b4f89c6caf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "87.2"
+    },
+    "Achievement_02": {
+      "name": "A Good Start",
+      "description": "Complete Chapter 2.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/f7b13a706e10d37d87159e010552017cd20a7e8c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/76262c967020717a0076429fb73985b4f89c6caf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "69.5"
+    },
+    "Achievement_03": {
+      "name": "Apprentice Farmer",
+      "description": "Complete Chapter 3.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/f7b13a706e10d37d87159e010552017cd20a7e8c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/76262c967020717a0076429fb73985b4f89c6caf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "53.9"
+    },
+    "Achievement_04": {
+      "name": "Local Cuisine",
+      "description": "Complete Chapter 4.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/f7b13a706e10d37d87159e010552017cd20a7e8c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/76262c967020717a0076429fb73985b4f89c6caf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.7"
+    },
+    "Achievement_05": {
+      "name": "A Fresh Breeze",
+      "description": "Complete Chapter 5.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/f7b13a706e10d37d87159e010552017cd20a7e8c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/76262c967020717a0076429fb73985b4f89c6caf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.0"
+    },
+    "Achievement_06": {
+      "name": "Operation Promote Alba!",
+      "description": "Complete Chapter 6.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/f7b13a706e10d37d87159e010552017cd20a7e8c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/76262c967020717a0076429fb73985b4f89c6caf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.0"
+    },
+    "Achievement_07": {
+      "name": "Dum-Da-Da-DAA!",
+      "description": "Complete Chapter 7.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/f7b13a706e10d37d87159e010552017cd20a7e8c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/76262c967020717a0076429fb73985b4f89c6caf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.1"
+    },
+    "Achievement_08": {
+      "name": "Hot Spring Village",
+      "description": "Complete Chapter 8.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/f7b13a706e10d37d87159e010552017cd20a7e8c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/76262c967020717a0076429fb73985b4f89c6caf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.5"
+    },
+    "Achievement_09": {
+      "name": "Blue Bird",
+      "description": "Complete Chapter 9.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/f7b13a706e10d37d87159e010552017cd20a7e8c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/76262c967020717a0076429fb73985b4f89c6caf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.7"
+    },
+    "Achievement_10": {
+      "name": "Festival of Restoration",
+      "description": "Complete Chapter 10.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/f7b13a706e10d37d87159e010552017cd20a7e8c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/76262c967020717a0076429fb73985b4f89c6caf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.8"
+    },
+    "Achievement_11": {
+      "name": "Four Seasons Leader",
+      "description": "Complete Seasonal Requests in all seasons.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/f7b13a706e10d37d87159e010552017cd20a7e8c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/76262c967020717a0076429fb73985b4f89c6caf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.0"
+    },
+    "Achievement_12": {
+      "name": "Grass Grower",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "36.3"
+    },
+    "Achievement_13": {
+      "name": "Asparagus Grower",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.2"
+    },
+    "Achievement_14": {
+      "name": "Broccoli Grower",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "44.6"
+    },
+    "Achievement_15": {
+      "name": "Cabbage Grower",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "62.5"
+    },
+    "Achievement_16": {
+      "name": "Celery Grower",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "31.1"
+    },
+    "Achievement_17": {
+      "name": "Corn Grower",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "27.9"
+    },
+    "Achievement_18": {
+      "name": "Carrot Grower",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "55.9"
+    },
+    "Achievement_19": {
+      "name": "Eggplant Grower",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "48.3"
+    },
+    "Achievement_20": {
+      "name": "Green Bell Pepper Grower",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "32.0"
+    },
+    "Achievement_21": {
+      "name": "Lettuce Grower",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "31.5"
+    },
+    "Achievement_22": {
+      "name": "Onion Grower",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "65.2"
+    },
+    "Achievement_23": {
+      "name": "Pumpkin Grower",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.5"
+    },
+    "Achievement_24": {
+      "name": "Pineapple Grower",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "31.5"
+    },
+    "Achievement_25": {
+      "name": "Potato Grower",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "44.2"
+    },
+    "Achievement_26": {
+      "name": "Strawberry Grower",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "24.5"
+    },
+    "Achievement_27": {
+      "name": "Soybean Grower",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.8"
+    },
+    "Achievement_28": {
+      "name": "Spinach Grower",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "26.5"
+    },
+    "Achievement_29": {
+      "name": "Tomato Grower",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "44.0"
+    },
+    "Achievement_30": {
+      "name": "Turnip Grower",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "81.8"
+    },
+    "Achievement_31": {
+      "name": "Wheat Grower",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "52.9"
+    },
+    "Achievement_32": {
+      "name": "Watermelon Grower",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "18.5"
+    },
+    "Achievement_33": {
+      "name": "Grass Farmer",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.5"
+    },
+    "Achievement_34": {
+      "name": "Asparagus Farmer",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.6"
+    },
+    "Achievement_35": {
+      "name": "Broccoli Farmer",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.6"
+    },
+    "Achievement_36": {
+      "name": "Cabbage Farmer",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.2"
+    },
+    "Achievement_37": {
+      "name": "Celery Farmer",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.6"
+    },
+    "Achievement_38": {
+      "name": "Corn Farmer",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.2"
+    },
+    "Achievement_39": {
+      "name": "Carrot Farmer",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.6"
+    },
+    "Achievement_40": {
+      "name": "Eggplant Farmer",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.6"
+    },
+    "Achievement_41": {
+      "name": "Green Bell Pepper Farmer",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "15.7"
+    },
+    "Achievement_42": {
+      "name": "Lettuce Farmer",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.7"
+    },
+    "Achievement_43": {
+      "name": "Onion Farmer",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.7"
+    },
+    "Achievement_44": {
+      "name": "Pumpkin Farmer",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.1"
+    },
+    "Achievement_45": {
+      "name": "Pineapple Farmer",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "15.1"
+    },
+    "Achievement_46": {
+      "name": "Potato Farmer",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "15.6"
+    },
+    "Achievement_47": {
+      "name": "Strawberry Farmer",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.9"
+    },
+    "Achievement_48": {
+      "name": "Soybean Farmer",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.4"
+    },
+    "Achievement_49": {
+      "name": "Spinach Farmer",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.7"
+    },
+    "Achievement_50": {
+      "name": "Tomato Farmer",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.8"
+    },
+    "Achievement_51": {
+      "name": "Turnip Farmer",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.6"
+    },
+    "Achievement_52": {
+      "name": "Wheat Farmers",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.7"
+    },
+    "Achievement_53": {
+      "name": "Watermelon Farmer",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.7"
+    },
+    "Achievement_54": {
+      "name": "Farming Phenom",
+      "description": "Have 12 Local Specialties certified.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/2a8eff1b8f58a94cd22811caa77f002a66b041eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9ce938293d404a7ff02b6fa99174ef07e247d70c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "Achievement_55": {
+      "name": "Local Promoter",
+      "description": "Earn 10,000G at the Unmanned Store.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/0c72a72e0f2ed17a06b94fc6a6c1b9b116536e48.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/f3bfbda7e3e57b857a7d4556d18c57f7398b6dce.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.3"
+    },
+    "Achievement_56": {
+      "name": "Moneybags",
+      "description": "Get 10,000G.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/0c72a72e0f2ed17a06b94fc6a6c1b9b116536e48.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/f3bfbda7e3e57b857a7d4556d18c57f7398b6dce.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.2"
+    },
+    "Achievement_57": {
+      "name": "Mega Moneybags",
+      "description": "Get 1,000,000G.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9fa25ca31098d3c96a0c797802a7350b33a1836f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/34c257131699a1cbfda713c7bb4779fa8fcbf395.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.0"
+    },
+    "Achievement_58": {
+      "name": "Make Everyone Happy",
+      "description": "Get maximum Happiness in one day.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/9e35b694227eee5c480f7fc5549c427cffc0b1eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/77baa4154e7718f0bfe53b1600ac0b5b3af05f4c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.3"
+    },
+    "Achievement_59": {
+      "name": "Top Jockey",
+      "description": "Contests: Win a Race.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/d0b34e239ee95143a03067faefc24755d69facf8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/d9df0960dbd89cfd9584f420eac47ac0923950c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.7"
+    },
+    "Achievement_60": {
+      "name": "Fine Farmhand",
+      "description": "Contests: Win an Expo.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/d0b34e239ee95143a03067faefc24755d69facf8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/d9df0960dbd89cfd9584f420eac47ac0923950c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.9"
+    },
+    "Achievement_61": {
+      "name": "Rod Savant",
+      "description": "Contests: Win a Fish Faceoff.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/d0b34e239ee95143a03067faefc24755d69facf8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/d9df0960dbd89cfd9584f420eac47ac0923950c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.7"
+    },
+    "Achievement_62": {
+      "name": "Garden Guru",
+      "description": "Complete the Flowers Encyclopedia.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/e9b8982134879255494904512ba76e7c31ada191.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/861d848837ac21ad519c1450ee43bfe0edd4cec2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "Achievement_63": {
+      "name": "Agricultural Scientist",
+      "description": "Complete the Crops Encyclopedia.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/e9b8982134879255494904512ba76e7c31ada191.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/861d848837ac21ad519c1450ee43bfe0edd4cec2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "Achievement_64": {
+      "name": "Ore Expert",
+      "description": "Complete the Ore Encyclopedia.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/e9b8982134879255494904512ba76e7c31ada191.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/861d848837ac21ad519c1450ee43bfe0edd4cec2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.4"
+    },
+    "Achievement_65": {
+      "name": "Adept Angler",
+      "description": "Complete the Fish Encyclopedia.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/e9b8982134879255494904512ba76e7c31ada191.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/861d848837ac21ad519c1450ee43bfe0edd4cec2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.3"
+    },
+    "Achievement_66": {
+      "name": "Hawkeye",
+      "description": "Complete the Found Items Encyclopedia.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/e9b8982134879255494904512ba76e7c31ada191.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/861d848837ac21ad519c1450ee43bfe0edd4cec2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.7"
+    },
+    "Achievement_67": {
+      "name": "Gourmet",
+      "description": "Complete the Culinary Encyclopedia.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/e9b8982134879255494904512ba76e7c31ada191.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/861d848837ac21ad519c1450ee43bfe0edd4cec2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.3"
+    },
+    "Achievement_68": {
+      "name": "Valued Veterinarian",
+      "description": "Complete the Animals Encyclopedia.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/e9b8982134879255494904512ba76e7c31ada191.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3523840/861d848837ac21ad519c1450ee43bfe0edd4cec2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

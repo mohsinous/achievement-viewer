@@ -1,0 +1,271 @@
+{
+  "appid": "1546970",
+  "name": "Grand Theft Auto III – The Definitive Edition",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1546970/header.jpg?t=1781138540",
+  "achievements": {
+    "ACH01": {
+      "name": "First Day on the Job",
+      "description": "Complete \"Luigi's Girls\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/e0b9e4ffc089c19a24ddc5e3274c3193d762ea30.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/4ea78bb81c60a712f7a4cf0c18adf425a706a0ae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "80.0"
+    },
+    "ACH02": {
+      "name": "Without a Scratch",
+      "description": "Deliver Mike Lips' car without a scratch on first attempt.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/e6a2e1abf6f4e21fdc1927f3acc962d040686afd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/378913ca8d3888f4f224c40e5b127e23b965dad3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "43.4"
+    },
+    "ACH03": {
+      "name": "Escape Artist",
+      "description": "Use 20 police bribes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/a895d380d7ed7a40267a1e1e8024a018ec2b3620.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/023719d7be6b0285857959224804da3502d59be6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.2"
+    },
+    "ACH04": {
+      "name": "Disposing of the Evidence",
+      "description": "Crush a car at the junkyard.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/b78e598696337e5a5e988796ab83e3dca5224ddb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/5f09d111140bcf4fd6367801c35d4837c1726908.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.2"
+    },
+    "ACH05": {
+      "name": "Mob Boss",
+      "description": "Keep the two mafia members alive during \"Triads and Tribulations\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/908e567f8f5bd9bbfc220d2af1cd2263797735f3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/8f6a5722c03ed55bedac0e5bb0a24b9bd869a335.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.5"
+    },
+    "ACH06": {
+      "name": "Street Sweeper",
+      "description": "Waste 100 gang members.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/ae75f9d607b714d1bcbd98d79ae7c3cd981b7ba3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/202e6523636101eb867d30c336e6177dcde5a100.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.8"
+    },
+    "ACH07": {
+      "name": "Planned Ahead",
+      "description": "Take out Chunky Lee Chong with a car rigged with a bomb.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/44e15a2dea1c3cadeeebb46d2a117466f78f7ab5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/b07ad2d063f9a1d988cf27b2ee03ceae9ab015a5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.6"
+    },
+    "ACH08": {
+      "name": "Got This Figured Out",
+      "description": "Use a coach to pick up all 8 prostitutes in the mission \"The Fuzz Ball\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/6b7f0a3ccb653d546e6aed74e822c5a90df5f88a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/53bb9e99719d5f9ca404ed8b4a01dfd998555530.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.1"
+    },
+    "ACH09": {
+      "name": "By a Mile",
+      "description": "Complete the \"Turismo\" race in under 180 seconds.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/4adffcdadbdcc29413a6d49cb83e48af723fbbc9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/88d1eaf54f51545e6f608b828ebb2e5e4f75c650.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.0"
+    },
+    "ACH10": {
+      "name": "Wreckless Driving",
+      "description": "Perform a perfect insane stunt.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/8892ae6a24fe0282599bc37342d39f00ddde9ab0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/3c94ea640f1da810b04f9f05b154ddb1db0994a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.6"
+    },
+    "ACH11": {
+      "name": "Wheels Up",
+      "description": "Complete 20 unique jumps.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/1a6d417f2e8e736abd3b0ac7bfa87bf1aa614434.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/70ebc7e54ad5d4740a2fdc1d29434d3c8bcf8f10.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.0"
+    },
+    "ACH12": {
+      "name": "Come Out to Play-y-y-y",
+      "description": "Kill 25 gang members with melee weapons / fists.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/17f696dda540919f6b97fb111e691f5cca365d61.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/c3c64ad86d499523288fba7dd1c3298aedde73e5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.4"
+    },
+    "ACH13": {
+      "name": "Where To?",
+      "description": "Complete 100 taxi fares.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/678a88401797c62b88a4d8498a214f37c03c7d45.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/a4a9acd4ce249c3e6e8fafebfdaaf365962bd6f4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.2"
+    },
+    "ACH14": {
+      "name": "Liberty City Minute",
+      "description": "Survive with less than 10 hp for 1 minute.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/d7f5b29c1227ddf51c8b3db1c49d9302a087fe3e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/f033269432d8dbb490237e82991065b1d063a9bd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.0"
+    },
+    "ACH15": {
+      "name": "Full Artillery",
+      "description": "Use every weapon in the game at least once.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/8f716826577a80d57fb27c35307e7d9b5e0aca0d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/080a0fd8f7472296d3a0844651cc043628c28c7b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.2"
+    },
+    "ACH16": {
+      "name": "A Marked Man",
+      "description": "Complete \"Last Requests\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/8e6e52451cdaf148fab7281c3a2fcefb2d82d38e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/487ddacf4d0e5cd40c34f4f18d5b57be436d1fe3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.6"
+    },
+    "ACH17": {
+      "name": "Offshore Delivery",
+      "description": "Complete \"A Drop in the Ocean\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/85c1937edc84fa8ca3118f72c543ab973298e77b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/a4fc10cdcd4ae217859844c6f8f4bbfcd8b999e6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.5"
+    },
+    "ACH18": {
+      "name": "Not So Fast",
+      "description": "Complete \"The Exchange\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/1b1b7950b96027352e3d70635c8faae7519e0d9b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/9b682fb0011bb5c21979571136bc120ccd46697e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.8"
+    },
+    "ACH19": {
+      "name": "A Gift from the King",
+      "description": "Complete the \"Kingdom Come\" mission.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/b8cbbe021c5f315ee44fc3b4cbceb78579cd7c07.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/b869f6b140a9093ec848cc0aac6705b0d56b7e74.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.3"
+    },
+    "ACH20": {
+      "name": "Man Toyz",
+      "description": "Complete every RC Toyz mission.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/3078da0550886378c89b1aea7a3a22b1d5b4e029.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/8362c933c0f36067a81c1469723b2d89bebd4a53.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.4"
+    },
+    "ACH21": {
+      "name": "Splish Splash",
+      "description": "Extinguish 15 fires during a single Fire Truck mission.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/7cb0baba64d4f87b69435dc87e11e209cf4aa432.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/e71ade13a0b7c791a00a0dc8b8f91b7a564ba7ce.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.4"
+    },
+    "ACH22": {
+      "name": "Playing Doctor",
+      "description": "Complete Paramedic level 12.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/7a0b4e120a4be589fe4841974fcfb0230c286c60.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/d62fa7fa04a3375665443940061e6c6a21ca2517.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.8"
+    },
+    "ACH23": {
+      "name": "Going Rogue",
+      "description": "Kill 15 criminals during one Vigilante mission.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/e6adc8aceafe8f78787001256999a3e63053bb51.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/1f4c3c243c1ebad4eb73711e235dc05f50518bb2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.5"
+    },
+    "ACH24": {
+      "name": "Dirty Money",
+      "description": "Amass a fortune of $1,000,000.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/8035bb1c4831ac7478c53238a3040bcf047bff69.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/bb7daca183731e4986809f00e65f09858ca14f82.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.8"
+    },
+    "ACH25": {
+      "name": "Right-hand Man",
+      "description": "Earn a criminal rating of 2,500.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/0bc7e83684d0275351e76149947043c1d2180dd4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/e84ab132572d2174f834dfaa1e109bced82e82c9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.8"
+    },
+    "ACH26": {
+      "name": "Furious First Responder",
+      "description": "Complete Paramedic, Firefighter, Vigilante.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/62f646b03313f067f0bbcc90069f5c42ed297a71.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/ac731e7103c7ad77938637782eb1c6d8dc88116c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.0"
+    },
+    "ACH27": {
+      "name": "Liberty City Secrets",
+      "description": "Collect 100 hidden packages.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/984a94200f72956a9f3b511a862af3d26c623d49.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/cbc6963cbfe8e7c22730071e1d06c6eb0d5f21ef.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.8"
+    },
+    "ACH28": {
+      "name": "Is That All You've Got?",
+      "description": "Achieve 100% completion.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/780d804ed72de4c9b35a073ccd45e9ee49fc289a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/ee22f76c8454532a009fe337f6381b39667cb6b9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.6"
+    },
+    "ACH29": {
+      "name": "King of Liberty City",
+      "description": "Unlock all achievements.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/3115647be4e3b0b0aa28d30932ad598786d123be.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/ccc8a83b72fb9aef245179c1a5484a088f556502.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.3"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

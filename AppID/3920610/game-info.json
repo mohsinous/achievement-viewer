@@ -1,0 +1,469 @@
+{
+  "appid": "3920610",
+  "name": "FATAL FRAME II: Crimson Butterfly REMAKE",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3920610/f0ca97688410ecb4effbde0b77431443a5172cf8/header.jpg?t=1782174544",
+  "achievements": {
+    "TROPHY_PLATINUM": {
+      "name": "Crimson Reminiscence",
+      "description": "Unlocked all achievements.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/f01b8876667fbcff846122a672a28f3820e74a9d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.9"
+    },
+    "TROPHY_001": {
+      "name": "The True Camera Obscura",
+      "description": "Fully enhanced the Camera Obscura and its filters.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/75d0ac1a180e9684d35c5fa4cbd4ded0b8dbe785.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.3"
+    },
+    "TROPHY_002": {
+      "name": "The Remaining Sun",
+      "description": "Reached the ending \"Remaining Sun.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/1aa7667070000687a63124b9f63ccf9fd021e4b6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.7"
+    },
+    "TROPHY_003": {
+      "name": "A Butterfly's Dream",
+      "description": "Reached any ending on Nightmare difficulty.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/6b3f84b2c4b0a05692414725704804baf84d829e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.9"
+    },
+    "TROPHY_004": {
+      "name": "Sprouting Wings",
+      "description": "Reached the ending \"Sprouting Wings.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/3bf358f4bf5b73ac7b4e6c69569e2d8dee3509a2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.8"
+    },
+    "TROPHY_005": {
+      "name": "Countless Voices Cry Out",
+      "description": "Collected all documents.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/251c085edada988609bb18ea80cc6e529518d5c3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.5"
+    },
+    "TROPHY_006": {
+      "name": "Extensive Protection",
+      "description": "Collected and fully upgraded all charms.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/a8df60dbb5b30d51700d2fe1918e052f997e144b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.4"
+    },
+    "TROPHY_007": {
+      "name": "Solace For The Tortured",
+      "description": "Photographed all wraiths.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/3424b93a49fa54362c5a47c88e30770abb409cce.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.1"
+    },
+    "TROPHY_008": {
+      "name": "Chasing The Shades",
+      "description": "Photographed all specters.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/3f4ed9a026c48dc27d644b32bb4bb829b2459150.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.7"
+    },
+    "TROPHY_009": {
+      "name": "Finding Faint Remains",
+      "description": "Photographed all Revenants.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/ba4e84ffc3da422fd02828ac66741db41d8f1081.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.3"
+    },
+    "TROPHY_010": {
+      "name": "Dual Funeral Rites",
+      "description": "Photographed all twin dolls.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/7e61c66be8010f84ff976ae2684285985384ccab.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.1"
+    },
+    "TROPHY_011": {
+      "name": "Type-07 Master",
+      "description": "Defeated Sae Kurosawa with only Type-07 film.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/68b38085bb3f0679d7c5d75a145fa881e31a77b9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.5"
+    },
+    "TROPHY_012": {
+      "name": "The Ritual",
+      "description": "Obtained the Ritual charm.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/88c3b19b7e2ff6c84510d68bd5091eeb618dd311.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.2"
+    },
+    "TROPHY_013": {
+      "name": "The Lost Village",
+      "description": "Cleared Chapter One.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/6d537272ea7a2657d04548d0fa9ebc8aed1082df.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "84.7"
+    },
+    "TROPHY_014": {
+      "name": "The Twin Maidens",
+      "description": "Cleared Chapter Two.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/f0466c61817c0aab040adb52f3e7d1d5a3235bb1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "65.7"
+    },
+    "TROPHY_015": {
+      "name": "The Repentance",
+      "description": "Cleared Chapter Three.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/0bbfed59d58ba9dfaff6d7d23df729449cc45028.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "57.2"
+    },
+    "TROPHY_016": {
+      "name": "The Hidden Ceremony",
+      "description": "Cleared Chapter Four.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/f0ab5a5c167852ab4e1bac79c5a807f768304bb4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "51.9"
+    },
+    "TROPHY_017": {
+      "name": "The Sacrifice",
+      "description": "Cleared Chapter Five.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/7c2d8e90af25fb7b16d54ad30917cfd05ba31301.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "47.9"
+    },
+    "TROPHY_018": {
+      "name": "The Remaining",
+      "description": "Cleared Chapter Six.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/e1752a8d1a1d6c84c17942505cc647626c9a81d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "43.1"
+    },
+    "TROPHY_019": {
+      "name": "Sae",
+      "description": "Cleared Chapter Seven.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/ade7344e0d95471d5e7f12c35a0390c213d21850.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "41.4"
+    },
+    "TROPHY_020": {
+      "name": "The Waning Moon",
+      "description": "Cleared Chapter Eight.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/dff5dd3984d6ed4455aa088149f8bff82ef9851a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "38.7"
+    },
+    "TROPHY_021": {
+      "name": "Crimson Butterfly",
+      "description": "Reached the ending \"Crimson Butterfly.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/7fddc7b6ebcd1248c47faeba9e578fa289a313be.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "37.7"
+    },
+    "TROPHY_022": {
+      "name": "The Promise",
+      "description": "Reached the ending \"The Promise.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/c209cecfc152284c14b2d3deec44753346d2356b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.9"
+    },
+    "TROPHY_023": {
+      "name": "The Abyss",
+      "description": "Reached the ending \"The Abyss.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/0d68fe4ca28152bb30a3200da15ca2dff5af3c22.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.5"
+    },
+    "TROPHY_024": {
+      "name": "Lonely Road Home",
+      "description": "Reached the ending \"Lonely Road Home.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/dd92c9557ffb9e2e8581ebabaf69bf5ad8bb3536.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "22.1"
+    },
+    "TROPHY_025": {
+      "name": "Obscura Improvement",
+      "description": "Enhanced the Camera Obscura for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/6f4527b2682e5515230be47b53cf28dde946d3cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "68.5"
+    },
+    "TROPHY_026": {
+      "name": "Filter Improvement",
+      "description": "Enhanced a filter for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/6f4527b2682e5515230be47b53cf28dde946d3cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.9"
+    },
+    "TROPHY_027": {
+      "name": "Special Portfolio",
+      "description": "Took 100 Special Shots.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/6f4527b2682e5515230be47b53cf28dde946d3cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.3"
+    },
+    "TROPHY_028": {
+      "name": "Fatal Portfolio",
+      "description": "Took 100 Fatal Frames.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/6f4527b2682e5515230be47b53cf28dde946d3cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.1"
+    },
+    "TROPHY_029": {
+      "name": "Apparition Ambush",
+      "description": "Took 10 Sneak Shots.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/6f4527b2682e5515230be47b53cf28dde946d3cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.3"
+    },
+    "TROPHY_030": {
+      "name": "Wraith Wrangler",
+      "description": "Took 10 Multi Shots.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/6f4527b2682e5515230be47b53cf28dde946d3cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.8"
+    },
+    "TROPHY_031": {
+      "name": "Fatal Occasion",
+      "description": "Triggered Fatal Time 10 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/6f4527b2682e5515230be47b53cf28dde946d3cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "54.9"
+    },
+    "TROPHY_032": {
+      "name": "Float Like A Butterfly",
+      "description": "Dodged a grab attack for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/52cde614dd40c6243bf72f4b7e3c0c306be8cb4f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.5"
+    },
+    "TROPHY_033": {
+      "name": "Avoiding Eye Contact",
+      "description": "Dodged a leer attack for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/610e4b0e9e949695047b42d1f13d44e70dc03252.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "60.0"
+    },
+    "TROPHY_034": {
+      "name": "Trace Chaser",
+      "description": "Observed a vanishing trace for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/8f7e9a15ba98a2416a830f1b15525244ac977912.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "79.6"
+    },
+    "TROPHY_035": {
+      "name": "Revealing The Unseen",
+      "description": "Performed a Phantom Exposé for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4543a3ce8f2a663953b6ad14926bbd1a8e8928da.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "60.6"
+    },
+    "TROPHY_036": {
+      "name": "Sanguine Seal",
+      "description": "Performed an Unbinding of Blood for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/a3a4e4cfb80739ed72f7f11be6d10b4025b41a94.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "55.3"
+    },
+    "TROPHY_037": {
+      "name": "Exposé Expert",
+      "description": "Performed every Phantom Exposé.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/e800099931090d2825b9f78cc1d30a2a50c6ec96.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.7"
+    },
+    "TROPHY_038": {
+      "name": "Unbinding Enthusiast",
+      "description": "Performed every Unbinding of Blood.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/13bdf0a303cc67637d7eed20f9b7019b716ca607.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.4"
+    },
+    "TROPHY_039": {
+      "name": "Minakami Memories",
+      "description": "Launched Photo Mode for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/3c2b01a00a4f492faed2499d8b8e7980ef08d9ab.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "62.8"
+    },
+    "TROPHY_040": {
+      "name": "Never Let Go",
+      "description": "Held Mayu's hand for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/531b6064e27bf43a87755ea19af1605c6b68b267.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "91.7"
+    },
+    "TROPHY_041": {
+      "name": "A Picture Of Sisterhood",
+      "description": "Photographed Mayu for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/18d899c7c7d60691d9883022a4280efb721cc709.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "85.8"
+    },
+    "TROPHY_042": {
+      "name": "Change of Mood",
+      "description": "Changed outfits for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/3f5a7e0a1d1ab79d07653d2e1accd7e8cc0f2403.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "60.7"
+    },
+    "TROPHY_043": {
+      "name": "Broadcast From Beyond",
+      "description": "Listened to the Spirit Stone Radio for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/586fb603cfdd22dd4ebaafe9c6f3b834f9e5371e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "77.8"
+    },
+    "TROPHY_044": {
+      "name": "Back To Basics",
+      "description": "Used Reversion Beads for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/a9319515dfb66a38e5352730e8a6533f953df901.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "27.6"
+    },
+    "TROPHY_045": {
+      "name": "A Better Camera",
+      "description": "Used Transcendence Beads for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/eb78f62970fdbfb67dc41535e5963bb15e8f4669.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "18.6"
+    },
+    "TROPHY_046": {
+      "name": "First-rate Film",
+      "description": "Photographed with Type-00 film for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/2f4300b1eb6065b0fa61ab5a5fe9a3b1ab4b668e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "60.1"
+    },
+    "TROPHY_047": {
+      "name": "Mayu's Divine Protection",
+      "description": "Obtained Mayu's Sparkling Spirit Stone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/c41489636b04db3ed1fd551ed31e33f75a69f508.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.1"
+    },
+    "TROPHY_048": {
+      "name": "Sae's Divine Protection",
+      "description": "Obtained Sae's Sparkling Spirit Stone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/20c821069a8375b275dd2c6cf9df589d65be0b4e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.2"
+    },
+    "TROPHY_049": {
+      "name": "Yae's Divine Protection",
+      "description": "Obtained Yae's Sparkling Spirit Stone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/1f18413af79bac7fdde28930ce0f3037eaa9699f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "15.3"
+    },
+    "TROPHY_050": {
+      "name": "Kusabi's Divine Protection",
+      "description": "Obtained a Sparkling Kusabi Spirit Stone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/3cc049255439012a9ce9faa518e172d06e32965a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920610/4992e47adf5984e89c60e823c9ec0514ff7cea9c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "15.0"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

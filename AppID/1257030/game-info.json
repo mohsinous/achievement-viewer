@@ -1,0 +1,181 @@
+{
+  "appid": "1257030",
+  "name": "Heartworm",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1257030/header.jpg?t=1773855122",
+  "achievements": {
+    "died": {
+      "name": "Died",
+      "description": "You died",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/5712f76511a29a436f6836b39ed5e85eb46d12af.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/c7e02ec1d09624c111fa051e2a7d886458b3aa98.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.0"
+    },
+    "leaves": {
+      "name": "Leaves",
+      "description": "Get the \"Leaves\" ending",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/2209486adbc5d510dc427c011ef3417a2621886a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/ff8d334f82a0c5d9ca0514a16348730ff8615074.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.1"
+    },
+    "stays": {
+      "name": "Stays",
+      "description": "Get the \"Stays\" ending",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/eb3b85ddfed565dafdd00f4ba87a4211839ab557.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/df2aad02c084b1c4025b3cd972e9337f6883ac71.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.4"
+    },
+    "together": {
+      "name": "Together",
+      "description": "Get the \"Leaves+\" ending",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/5e9199d91d366593e9b15b2d24e978f79346fef4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/cf979d475c3ab8a6826c5fe36a17d0504e103db3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.9"
+    },
+    "possum": {
+      "name": "Possum",
+      "description": "Find all the possums",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/8e11a85cf438ca68cda22253c71df7210c8e7e9b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/0d0f12d2d7399ac4f85c0e85a9060fc50bfb947b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.0"
+    },
+    "home": {
+      "name": "Home",
+      "description": "Enter the Abandoned House",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/aba7db075d2920b069cb0b34371f63b02a74b1f2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/6cd6d2bb72b922c0ac06660ec612b85fe1c7abc9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "90.8"
+    },
+    "archive": {
+      "name": "Archive",
+      "description": "Enter the Archive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/246b1e191cddbcf8459641a2b1c75e2f29db3381.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/0fbbd9d22cf48ed56501d9db430470284b444e34.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "68.9"
+    },
+    "neighborhood": {
+      "name": "Neighborhood",
+      "description": "Enter the Neighborhood",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/f5fc7f3ec286288d6e4e3b2ca9173fb4b580e556.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/68ba388aaa12343496316bf86828c4b886b438d2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "60.9"
+    },
+    "wilderness": {
+      "name": "Wilderness",
+      "description": "Enter the Wilderness",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/fdec793195fd83b523c17e7c98b611be1fc6fe68.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/81b84896f038e9fe0295d1ff2518a4dfe44ec443.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.0"
+    },
+    "clock": {
+      "name": "Clock",
+      "description": "Enter the Clock Tower",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/d532b32da2a080eea540e121ca6f15ff7cefc991.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/8c81570484eb487654497020c1651a282e036ba8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.6"
+    },
+    "end": {
+      "name": "End",
+      "description": "Beat the game",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/b3fb2068b0481446a1f42af38e54646ef41d2972.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/442b4c4a3b4ea522ae243d87f604ea36af3e4b36.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.3"
+    },
+    "spider": {
+      "name": "Spider",
+      "description": "Defeat the Spider",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/eb4593f24505cb41b2977ed6cdb7518a24f65a26.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/3fbcd8aee9f5bde458b53f04c389a2f5448add62.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "35.7"
+    },
+    "deer": {
+      "name": "Deer",
+      "description": "Defeat the Deer",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/add09ed698783f4a90f8e9eafdfa62ed4531327c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/9fa3dda3529b50b1c2e1eb31069f02f6c10a9442.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "26.3"
+    },
+    "keeper": {
+      "name": "Keeper",
+      "description": "Defeat the Tape Keeper",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/45a80d8012cc4a2acfa65641cdfa4e69143f593f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/d47b7878b9d25c6f06535a489d00988530813f7c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "22.3"
+    },
+    "run": {
+      "name": "Run",
+      "description": "Beat the game in under 2 hours",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/c7a665f2071bc81f712e389cc14560f82f1a8414.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/5948b47f401573dfff99407ad508587beabc2ec2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "dash": {
+      "name": "Dash",
+      "description": "Beat the game in under 1 hour",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/4cc3059d12766f088ad54c2896e4835dbe017afd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/7f97439e7adcd9f0bf14c8fdaa054bd159d80ce8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "immortal": {
+      "name": "Immortal",
+      "description": "Beat the game without dying",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/86285b650780a88bdb24aee7e6c0f1a2c125384a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/46968bda91e580f5a23a922428ba0028d7f09d06.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.2"
+    },
+    "coldturkey": {
+      "name": "Cold Turkey",
+      "description": "Quit smoking",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/4332e0462655b8014859513ab45cb47c5a8e3637.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/ddcf2e0aa00fc29aa2d4a426798710d6425102ac.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "hardmode": {
+      "name": "The Only Way Out Is Through",
+      "description": "Beat the game on Hard mode",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/2c9055cfbde0ab8a10dfb5324a7b69e42962236e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/118dab22618c149ca805076a87ed58541307823a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.5"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

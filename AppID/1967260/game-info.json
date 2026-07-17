@@ -1,0 +1,190 @@
+{
+  "appid": "1967260",
+  "name": "Double Dragon Gaiden: Rise Of The Dragons",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1967260/c9ccf1420e6c83a8d7de92d746e1578280f44291/header_alt_assets_4.jpg?t=1776186528",
+  "achievements": {
+    "TROPHY_0": {
+      "name": "Hottest Dog",
+      "description": "Trigger Crowd Control x3 for the first time",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/81e491b500c4a043efa8986f1d50b99cb69b0556.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/45662d43de30d63022865e317443f028a78d9a3f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "88.0"
+    },
+    "TROPHY_1": {
+      "name": "Burger Time",
+      "description": "Trigger Crowd Control x4 for the first time",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/a7b5cd784a4ff9d4ec075cb1ab3930f77e4ebef5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/a92393d58b08def7d1826e430bd61f6fc8102a8f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "78.4"
+    },
+    "TROPHY_2": {
+      "name": "Thanksgiving",
+      "description": " Trigger Crowd Control x5 for the first time",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/21d2798d02eb356024ea836a1b8619830b5bf235.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/53a1a641699d8c2cb197448608076200b93e2f12.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "68.9"
+    },
+    "TROPHY_3": {
+      "name": "Winner is Me",
+      "description": "Clear your first mission",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/7ac08406d8d673ac29db9889824cdd109a452a26.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/f921760fdbc525570c3defd2ccf81a0145d3454c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "83.8"
+    },
+    "TROPHY_4": {
+      "name": "Killers",
+      "description": "Defeat Killers in Mission 4",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/668908fa4f704c68d18e2c4d08e47a7c1a475677.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/5c38e34dbe862b8cacb0870c128aab46009cc3c9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.0"
+    },
+    "TROPHY_5": {
+      "name": "Royals",
+      "description": "Defeat Royal in Mission 4",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/3c59f0b5685ae9cda6483b8ca252bcb92bdfc5f1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/bea3fd399baf3c1ee69fadd1d46e0b3b6e1860ee.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.2"
+    },
+    "TROPHY_6": {
+      "name": "Triangle",
+      "description": "Defeat Triangle in Mission 4",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/0c5763714710e13ed96cff206a4b57fd191bcf79.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/156a272be50296bd8dd82505ae91409ebcb98670.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.4"
+    },
+    "TROPHY_7": {
+      "name": "Okada",
+      "description": "Defeat Okada in Mission 4",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/c24214340ac73d831f83af1f7e4f529d8ab73dac.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/9f6bc71a0f1da864b0a4f6323494281ed1d2a28d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.0"
+    },
+    "TROPHY_8": {
+      "name": "Rise of the Dragons",
+      "description": "Achieve Ending A",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/ab58baab5d1d353b2d24a0cea67f7881ecb3b68a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/d3912f55ee78bffb2c559d2d699c98ac9933e112.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.3"
+    },
+    "TROPHY_9": {
+      "name": "Peace Enforcer",
+      "description": "Achieve Ending B",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/08fdd120cdf3cf9c0e39b6e87a52af19365c66b7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/2db73109b8c7a421e2beb49d6edde532134a8ef5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.3"
+    },
+    "TROPHY_10": {
+      "name": "Beat'em Up",
+      "description": "Special KO 3000 enemies across multiple sessions",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/4736fbf61f3822a82f0deb6fb3aa1a3909b1163d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/0b76653f187ab0f2a84746086b9dd317211f024e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.8"
+    },
+    "TROPHY_11": {
+      "name": "Eat'em Up",
+      "description": "Crowd Control 100 times across multiple sessions",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/746d8ea1f106f73905beebc3c95d19db540b3a14.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/cdae30cfd7041599e5b35bf265d2fc0272d9b4b8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.5"
+    },
+    "TROPHY_12": {
+      "name": "Fortune Teller",
+      "description": "Hold on to more than 100 tokens",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/e6a99b128170ee489d442872b3184df294831f78.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/4e600ec0c4fc346132047e68284f3d89951f2c05.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.2"
+    },
+    "TROPHY_13": {
+      "name": "I know Kung Fu",
+      "description": "Perform more than 600 Special KO in a single session",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/e4c4004f9a8bdcaf095be1415ad13c5718af3dbd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/ff4cb903087fbafd13c759ad130e9941ab0688ad.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.7"
+    },
+    "TROPHY_14": {
+      "name": "Crowd Pleaser",
+      "description": "Perform more than 25 Crowd Control in a single session",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/4de59aebaed294ef239a81127e6ee2af0f2d8c7a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/0103ad5bc380841779658c3da7b36d7f6ed46017.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "53.2"
+    },
+    "TROPHY_15": {
+      "name": "Arcade Machine",
+      "description": "Earn 10 tokens in a single session",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/1fdb27146a7f8ac3651381faedebfb7923b94cb2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/a9f23d5db75b1b952be3416226cffc3aafbaf084.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.5"
+    },
+    "TROPHY_16": {
+      "name": "Connoisseur",
+      "description": "Unlock more than 20 artworks",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/0bd2432c1e6bbf89c43ecee331014bfa2ee3e0bc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/baa14894d66c2e1f39674698c288860eeb44c767.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.5"
+    },
+    "TROPHY_17": {
+      "name": "Audiophile",
+      "description": "Unlock more than 20 soundtracks",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/f7e0301aa9604394925c5e45fe5bbc81019959a0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/fa388f1edf36a273dadd4ac3ea307b896a12e783.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.9"
+    },
+    "TROPHY_18": {
+      "name": "Recruiter",
+      "description": "Unlock more than 6 playable characters",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/cde60c903e0d76e958d5c5ec245ba48e1d9aac96.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/f667b43d5965f046758c377b9daec09a77073a49.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.6"
+    },
+    "TROPHY_19": {
+      "name": "Completionist",
+      "description": "Unlock all other achievements",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/eed002c2c75a938d3cf81bdb224b3ccaa467c955.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/a3452fb99544a682d7691d007abde459c24d4da5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.3"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

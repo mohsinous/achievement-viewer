@@ -1,0 +1,352 @@
+{
+  "appid": "3287520",
+  "name": "NINJA GAIDEN 2 Black",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3287520/header.jpg?t=1760595265",
+  "achievements": {
+    "00_ALL_MASTER": {
+      "name": "Master of the Secret Arts",
+      "description": "Obtained all achievements.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/a9d71855f087ccd0f1b9b65ecd589d2506daf21f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "01_URAKAZE": {
+      "name": "Like the Wind",
+      "description": "Successfully perform the Reverse Wind technique.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/a268b844e3ddd42d7de4fc500e80154ffa031897.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "90.5"
+    },
+    "02_GUARD_URAKAZE": {
+      "name": "The Blue Gale",
+      "description": "Successfully perform the Furious Wind technique.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/cec2a689d7ecb3751bc7c4284fc74bac579b5abb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "70.2"
+    },
+    "03_WALL_RUN": {
+      "name": "Cast No Shadow",
+      "description": "Successfully perform the Shadowless Footsteps technique.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/e71adab602b2650322fa457a7f502deaf3a62382.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "89.7"
+    },
+    "04_HIEN": {
+      "name": "Like a Swallow",
+      "description": "Successfully perform the Flying Swallow technique.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/37f4fd4260305bc3413dc27ebf81d815c812cb6d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "81.5"
+    },
+    "05_ASUKA_TURN": {
+      "name": "Need Not a Ladder",
+      "description": "Successfully perform the Flying Bird Flip technique.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/6bf629e7a6f25c3778b881d1b3922016e50a9ac4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "83.8"
+    },
+    "06_TODOME": {
+      "name": "Certain Death",
+      "description": "Successfully perform the Obliteration Technique.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/2e82d3d65e7a900af850567fdc19065079b02593.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "90.9"
+    },
+    "07_ZETSUGI": {
+      "name": "Strong Heart",
+      "description": "Successfully perform the Ultimate Technique.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/ab630c49d47416d65dd3643f3b7857266143a64d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "74.3"
+    },
+    "08_BOOST_ZETSUGI": {
+      "name": "The Last Rites",
+      "description": "Successfully perform the Ultimate Guidance technique.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/6f536c71872a0352fcc2a53ed029a9987e292777.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "72.8"
+    },
+    "09_GUARD_CANCEL": {
+      "name": "Cool and Calm",
+      "description": "Successfully perform the Counter Attack technique.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/758ea0bc6287150f8070ac822a736198e3de78ea.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "68.1"
+    },
+    "10_REN_WALLRUN": {
+      "name": "Running Through",
+      "description": "Successfully perform the Unrivaled Soaring technique.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/fb5e4304086f6069bf9419303b2513725bb09af1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "55.7"
+    },
+    "11_DUAL_WALLRUN": {
+      "name": "Passing the Void",
+      "description": "Successfully perform the Invisible Path technique.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/61ef88081491c2582257a143e0de52ec3e506152.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "54.3"
+    },
+    "12_IZUNA": {
+      "name": "Izuna Drop",
+      "description": "Successfully perform the Izuna Drop technique.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/821f7bcc3099463614c9a1ddc0b91c421b7c59b4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "52.7"
+    },
+    "13_NECK_THROW": {
+      "name": "Throat Cutting Wind",
+      "description": "Successfully perform the Guillotine Throw technique.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/c2299e34fae0f423314fc427995d3fd490af0a38.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "42.6"
+    },
+    "14_KAENRYU": {
+      "name": "Fiery Roar",
+      "description": "Successfully perform the Art of the Inferno Ninpo.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/b7a1ae0340339e532b4ad4cee6e2b86d78b9d380.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "88.7"
+    },
+    "15_KAMAITACHI": {
+      "name": "Ruthless Vacuum Wave",
+      "description": "Successfully perform the Art of the Wind Blades Ninpo.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/30c4d17836f94d98357569d6da42f19a3a0edc99.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.3"
+    },
+    "16_ONIBI": {
+      "name": "Flame Phoenix Blessings",
+      "description": "Successfully perform the Art of the Flame Phoenix Ninpo.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/e2f09658c3a847f4c34b55e964757396b490e41b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "51.6"
+    },
+    "17_HADODAN": {
+      "name": "Unstable Gravity",
+      "description": "Successfully perform the Art of the Piercing Void Ninpo.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/e63e0992dc236c78ff7c750356d9611967f83372.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.1"
+    },
+    "18_TRAVERSE_TOKYO": {
+      "name": "Sky City Tokyo",
+      "description": "Successfully complete Chapter 1.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/47bbe27ad9ec92778fbf5bd59df8b86b3d32a5ff.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "75.6"
+    },
+    "19_TRAVERSE_NEWYORK": {
+      "name": "A Captive Goddess",
+      "description": "Successfully complete Chapter 4.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/aa86949eddbde9f53ed8825ac1c95bacad1b9330.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "49.6"
+    },
+    "20_TRAVERSE_VENICE": {
+      "name": "The Lycanthropes' Castle",
+      "description": "Successfully complete Chapter 7.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/9e611c1024acf8eaf86f17276e054258034eb998.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "41.1"
+    },
+    "21_TRAVERSE_RUSSIA": {
+      "name": "Submit, or Die!",
+      "description": "Successfully complete Chapter 10.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/c0fcbbcd21fca3a47d3b0fc81d7ce74bfc3350be.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "36.6"
+    },
+    "22_TRAVERSE_AMAZON": {
+      "name": "The Temple of Sacrifice",
+      "description": "Successfully complete Chapter 13.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/3f235a4d18f04418e0758d90c3f8debc2d52cc5c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "33.7"
+    },
+    "23_GAMECLEAR_ACOLYTE": {
+      "name": "Trial of the Acolyte",
+      "description": "Clear Hero Play Style or PATH OF THE ACOLYTE.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/3e3f7ccac9828e7149524016444e1dc72fd9c4a5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.5"
+    },
+    "24_GAMECLEAR_WARRIOR": {
+      "name": "Awakening of the Warrior",
+      "description": "Clear the game on the PATH OF THE WARRIOR.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/b4d211e4f5fd42541fc312cbdc72e19b6a447e81.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.6"
+    },
+    "25_GAMECLEAR_MENTOR": {
+      "name": "Beginning of Mentoring",
+      "description": "Clear the game on the PATH OF THE MENTOR.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/85f2e0fb5ba43e769208e52bcdae868e07d6dd3c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.4"
+    },
+    "26_GAMECLEAR_MASTERNINJA": {
+      "name": "Step towards Ninja Mastery",
+      "description": "Clear the game on the PATH OF THE MASTER NINJA.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/75f2d12ee36166d146683b269cf3aeacbbd36def.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.1"
+    },
+    "27_MASTER_ACOLYTE": {
+      "name": "Mark of the Ninja",
+      "description": "Earn the MASTER NINJA rank in all chapters on CHAPTER CHALLENGE difficulty PATH OF THE ACOLYTE.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/7c5c0442f94340a8ac34720c7b914b10d300e202.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "28_MASTER_WARRIOR": {
+      "name": "Mark of the Warrior",
+      "description": "Earn the MASTER NINJA rank in all chapters on CHAPTER CHALLENGE difficulty PATH OF THE WARRIOR.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/05c6541c6e3b10308a69ed709255e13c59bb44cb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "29_MASTER_MENTOR": {
+      "name": "Mark of the Mentor",
+      "description": "Earn the MASTER NINJA rank in all chapters on CHAPTER CHALLENGE difficulty PATH OF THE MENTOR.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/28faeb36c3a67140b443f43da0c5ee9821ae9458.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "30_MASTER_MASTERNINJA": {
+      "name": "Mark of the Master Ninja",
+      "description": "Earn the MASTER NINJA rank in all chapters on CHAPTER CHALLENGE difficulty PATH OF THE MASTER NINJA.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/5ad6d344e98ed5d532b2c64d340ac28ff8907be6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "31_SKULL_COMPLETE": {
+      "name": "Crystal Skull",
+      "description": "Obtain all of the Crystal Skulls.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/a0beb89de52c03c78660f1bd6e8c843586f3df12.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.3"
+    },
+    "32_COMBO_MASTER": {
+      "name": "Chain of 100 Slashes",
+      "description": "Achieve a 100-hit combo with any weapon.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/5efc6066487afb9bf07ce4c7c383dc4e58973db6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.5"
+    },
+    "33_HAYABUSA_MASTER": {
+      "name": "Dragon Ninja",
+      "description": "Defeat 1000 enemies with Hayabusa.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/ae46ea42888ed810aafc42402dd9d47b225351a1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.1"
+    },
+    "34_AYANE_MASTER": {
+      "name": "Kunoichi",
+      "description": "Defeat 1000 enemies with Ayane.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/1da3bb6e148fe4d7d8d765535102301a1805b402.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "35_MOMIJI_MASTER": {
+      "name": "Dragon Shrine Maiden",
+      "description": "Defeat 1000 enemies with Momiji.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/44c6de58f73bff35af7f5077d883556412483af8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "36_RACHEL_MASTER": {
+      "name": "Fiend Hunter",
+      "description": "Defeat 1000 enemies with Rachel.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f8f81985eef987fbf1a2c1d9f1555ccb64b172e8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "40_TAGMISSION_NORMAL_COMPLETE": {
+      "name": "The Power of Two",
+      "description": "Clear all Tag Missions.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/5b193f8c4b413a7f39e65c3bbbdc9d48a0ac94b7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3287520/f7bf1664be7b91f4ddb3609b73c74a8754258dbc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.0"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

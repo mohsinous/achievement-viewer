@@ -1,0 +1,478 @@
+{
+  "appid": "2233120",
+  "name": "A Quiet Place: The Road Ahead",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2233120/header.jpg?t=1772189524",
+  "achievements": {
+    "ACH_COMPLETE_LEVEL_ONE": {
+      "name": "Prologue",
+      "description": "Find Martin.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/c51455bc3fade0fecf9063d74bcb14f883adc8fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "92.4"
+    },
+    "ACH_COMPLETE_LEVEL_TWO": {
+      "name": "The Ranch",
+      "description": "Leave the ranch.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/e28c8a4b94ef312292ec09fc0a3131722b6027c5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "82.7"
+    },
+    "ACH_COMPLETE_LEVEL_THREE": {
+      "name": "The Hospital",
+      "description": "Find your way out of the hospital.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/0c23c68d0584840deefb5148cc0172ff539cf57a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "67.1"
+    },
+    "ACH_COMPLETE_LEVEL_FOUR": {
+      "name": "The Forest",
+      "description": "Go through the forest.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/81debc5eb838ccce542c2facc423d665af76ca61.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "47.5"
+    },
+    "ACH_COMPLETE_LEVEL_FIVE": {
+      "name": "The Lake House",
+      "description": "Witness the Arrival.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/7b607292ff6aea5e73737baf02a8c0d73f0de31c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "45.7"
+    },
+    "ACH_COMPLETE_LEVEL_SIX": {
+      "name": "The Campsite",
+      "description": "Reach the road beyond the campsite.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/2a5b1a0022a64268fd4771126aab4b0c28301461.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.4"
+    },
+    "ACH_COMPLETE_LEVEL_SEVEN": {
+      "name": "The Trainwreck",
+      "description": "Cross the river through the trainwreck.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/35f98070e340846485fc60f0b08e49614ff83dc1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "31.0"
+    },
+    "ACH_COMPLETE_LEVEL_EIGHT": {
+      "name": "The Chase",
+      "description": "Survive until you reach the hospital.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/772ee6ff2918fbe351a38486463275848c6b8334.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "30.8"
+    },
+    "ACH_COMPLETE_LEVEL_NINE": {
+      "name": "The Pump Station",
+      "description": "Find a way out of the pump station.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/463ea7e56e5b0e5b2f3c781ded156d0ba82f92be.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "25.9"
+    },
+    "ACH_COMPLETE_LEVEL_TEN": {
+      "name": "The Harbor",
+      "description": "Reach the dock.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/77a0137244934c50428a686fd0d0a560c12c1397.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "23.6"
+    },
+    "ACH_COMPLETE_LEVEL_ELEVEN": {
+      "name": "The Fire Station",
+      "description": "Get on the boat and escape.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/2488f6984d00c214473f6450bcddf89119d7f6cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "22.0"
+    },
+    "ACH_COMPLETE_GAME_EASY": {
+      "name": "A Peaceful Path",
+      "description": "Complete the game on \"Easy\" or higher difficulty.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/047704ca8530469666c847c9234124dbe9b0a13b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.8"
+    },
+    "ACH_COMPLETE_GAME_NORMAL": {
+      "name": "A Dangerous Road",
+      "description": "Complete the game on \"Medium\" or higher difficulty.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/f04b9b979dea167301c9d0d1d6fbcb4ecb35fa5e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.0"
+    },
+    "ACH_COMPLETE_GAME_HARD": {
+      "name": "An Arduous Journey",
+      "description": "Complete the game on \"Hard\" difficulty.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/771cc96c00228be11eb07a909c44def524bd19bc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.3"
+    },
+    "ACH_READ_ALL_DOCUMENTS_1_LEVEL": {
+      "name": "Casual Reader",
+      "description": "Collect all the documents scattered in an area.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/ae4b93acbdce17adee8e84e2095cbe1bb21ab4b1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.0"
+    },
+    "ACH_READ_ALL_DOCUMENTS": {
+      "name": "Assiduous Reader",
+      "description": "Collect all the documents scattered along your journey.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/3e0624ae77dd8e57f2af706c065b8bdd336babcf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "ACH_COLLECT_ONE_SHUTTLE_TOY": {
+      "name": "Distracted Child",
+      "description": "Collect a toy.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/6ffbcccfb88436ffad758085d7fbd5964cc6b441.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "83.9"
+    },
+    "ACH_COLLECT_N_SHUTTLE_TOYS": {
+      "name": "Collector",
+      "description": "Collect 10 toys.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/b217997a964fce4d842a0fdd6bbc3e87eaaff81b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.1"
+    },
+    "ACH_COLLECT_ALL_SHUTTLE_TOYS": {
+      "name": "Completionist",
+      "description": "Collect all toys along your journey.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/b1a5dfd20b7a85501ce050225a59901fb94b1034.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "ACH_FIND_ONE_MIX_TAPE": {
+      "name": "Music Single",
+      "description": "Collect a mixtape.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/97e45fb8e802d1fca55bc0a182536acfe6cad4fa.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "79.6"
+    },
+    "ACH_FIND_ALL_MIX_TAPES": {
+      "name": "Playlist",
+      "description": "Collect all mixtapes along your journey.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/823ab1ef4621fd38c21c4a5551280db5d2057f84.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "ACH_UNLOCK_ONE_CONCEPT_ART": {
+      "name": "Art Lover",
+      "description": "Unlock your first Concept Art in the Extra Menu.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/d5de9b8dc76e9e91eb73b946e22f5fe1e9e2e353.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.6"
+    },
+    "ACH_UNLOCK_ALL_CONCEPT_ARTS": {
+      "name": "Art Critic",
+      "description": "Unlock all Concept Art in the Extra Menu.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/1618e580ee71778aab06ffe01e9641a06d603663.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "ACH_UNLOCK_ONE_THREED_MODEL": {
+      "name": "Passionate",
+      "description": "Unlock your first 3D Model in the Extra Menu.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/ec81b1c833b5fdbefbdd6230f8110383104a0a09.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.5"
+    },
+    "ACH_UNLOCK_ALL_THREED_MODELS": {
+      "name": "Patron",
+      "description": "Unlock all 3D Models in the Extra Menu.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/92319824f9cebfadd9325435c2c42b45e5559b39.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.8"
+    },
+    "ACH_OPEN_BRIEFCASE_FIRST_TIME": {
+      "name": "Combinations with Repetition",
+      "description": "Open your first briefcase.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/afd1d40de7e56740168e36ef7cab2989db4fe553.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.4"
+    },
+    "ACH_OPEN_ALL_BRIEFCASES": {
+      "name": "Code Breaker",
+      "description": "Open all briefcases along your journey.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/25fb4d1064ab46bee772e2521b526b3fdf61e0fb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "ACH_DIE_FIRST_TIME": {
+      "name": "Too Much Noise",
+      "description": "Your first death due to making too much noise.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/01af8b5e5f9265059a63baa98a1023755313b0a1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "73.7"
+    },
+    "ACH_SURVIVE_ASTHMA_ATTACK": {
+      "name": "Hold your Breath",
+      "description": "Successfully resist an asthma attack.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/4d018241f83588704e10ae1afc582920011d3f6e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.9"
+    },
+    "ACH_USE_THIRTY_INHALERS": {
+      "name": "Inhale, Exhale",
+      "description": "Use 30 inhalers.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/ff81649e18f55f04189cae59239069bb7b5d458c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.3"
+    },
+    "ACH_TURN_ON_FIFTEEN_FLARES": {
+      "name": "Flash in the Dark",
+      "description": "Use 15 flares.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/e8d5f92a022ae343f211816ece9cfc149c5ae5b4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.3"
+    },
+    "ACH_POUR_TWENTY_LITERS_SAND": {
+      "name": "A Safe Path",
+      "description": "Completely empty 20 sandbags.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/0f5146c0c5aa02f98d2261f76cf938b4ccb966b8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.4"
+    },
+    "ACH_BREAK_TWENTYFIVE_BOTTLES": {
+      "name": "Over There",
+      "description": "Break 25 bottles.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/350fa9c616b93879212293f63782b0fdca06b528.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.9"
+    },
+    "ACH_COMPLETE_HS_ONE": {
+      "name": "A Run Through the Bushes",
+      "description": "Complete the area where Mark died in \"The Forest\" in under 1:45 minutes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/3e0ff1c64cd08144eda832fb5695e5b6136baf11.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.7"
+    },
+    "ACH_COMPLETE_HS_TWO": {
+      "name": "A Jump from the Window",
+      "description": "Collect the plank and leave the house garden in \"The Forest\" in under 3:30 minutes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/2108f3427c145db50f875775443a790c2628f313.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.7"
+    },
+    "ACH_COMPLETE_HS_THREE": {
+      "name": "Disappear Among the Caravans",
+      "description": "Leave the parking lot at \"The Campsite\" in under 7:00 minutes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/0328d70bb578db720e540d6f18d9624fc311a28b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.7"
+    },
+    "ACH_COMPLETE_HS_FOUR": {
+      "name": "Fast As a Train",
+      "description": "Cross the train over the bridge in \"The Trainwreck\" in under 6:30 minutes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/7461fa582c98c3ed1546a7dc8511d8735cf8d57e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.4"
+    },
+    "ACH_COMPLETE_HS_FIVE": {
+      "name": "Lightning Between the Valves",
+      "description": "Deactivate the pumps and reach the sewer in \"The Pump Station\" in under 7:00 minutes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/2aae32f178b20b68b587728282aa4c2d4ff0d5c0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "ACH_COMPLETE_HS_SIX": {
+      "name": "In and Out in a Second",
+      "description": "Turn the power back on and leave the warehouse in \"The Harbor\" in under 3:15 minutes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/e68a4525dd889d6d2d9a936de88522c7a2cf2594.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "ACH_COMPLETE_HS_SEVEN": {
+      "name": "Like Wind on Water",
+      "description": "Leave the shipyard in \"The Harbor\" in under 2:15 minutes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/953ba108ad5cf0be54f6b0f07e5b6ca8359942fa.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.9"
+    },
+    "ACH_COMPLETE_HS_EIGHT": {
+      "name": "A Fast Swim",
+      "description": "After activating the sprinklers, exit the pool in \"The Fire Station\" in under 7:00 minutes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/0eceb73ed92570c2ae07166a4f52500fddc90d17.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.6"
+    },
+    "ACH_COMPLETE_HS_NINE": {
+      "name": "A Quick Breath",
+      "description": "Reach the boat in \"The Fire Station\" in under 2:15 minutes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/db050b6da861907104b1d3f85963effacacba2ff.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.0"
+    },
+    "ACH_CHALLENGE_LEVEL_TWO": {
+      "name": "Projecting",
+      "description": "Look at all the children's drawings in the basement of \"The Ranch.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/b0851ca9ad40eef658a8b1ea33021d09837dfb41.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "71.6"
+    },
+    "ACH_CHALLENGE_LEVEL_THREE": {
+      "name": "Lighting",
+      "description": "Light all the candles in the hospital chapel.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/0e0e9381e933561d213dd5e4234456eb627804a7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.4"
+    },
+    "ACH_CHALLENGE_LEVEL_FOUR": {
+      "name": "Remembering",
+      "description": "Throw a bottle at each of the four large animal statues in the garden of the forest house.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/2a690fc7ca97de56f815c7df7ffed9b2158df053.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "ACH_CHALLENGE_LEVEL_FIVE": {
+      "name": "Resolving",
+      "description": "Find the combination to open the briefcase in \"The Lake House.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/50ee2f2619ceb20edcccfb9ff095a58880b7eafe.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.8"
+    },
+    "ACH_CHALLENGE_LEVEL_SIX": {
+      "name": "Ordering",
+      "description": "Drop the two buckets from the porch in \"The Campsite.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/d22c180bd71bb8bd7411ed9555713cadcc642419.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "ACH_CHALLENGE_LEVEL_SEVEN": {
+      "name": "Chasing Away",
+      "description": "Scare away all the flocks of birds in \"The Trainwreck.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/612daefd74f0231d653a2854fd23630cece6df02.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "ACH_CHALLENGE_LEVEL_EIGHT": {
+      "name": "Hitting",
+      "description": "Complete \"The Chase\" without dying.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/14deb8455ae3171566b0c6e2642878a3ed88d0f9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.2"
+    },
+    "ACH_CHALLENGE_LEVEL_NINE": {
+      "name": "Attention",
+      "description": "Find the diner's door combination on the first try in \"The Harbor.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/e3f3433db17a9aa921b43151aaea6ccacc949750.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.6"
+    },
+    "ACH_CHALLENGE_LEVEL_TEN": {
+      "name": "Changing",
+      "description": "Have the monster destroy three screens (over the tutorial ones) in \"The Harbor\" in the same attempt.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/3971c9489722bc673b69d147655cad692b0c6f6b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.0"
+    },
+    "ACH_CHALLENGE_LEVEL_ELEVEN": {
+      "name": "Seeing",
+      "description": "Turn on the pool lights in \"The Fire Station.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/554cda104b98e32f633014cc0c83cb38f26cffc1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2233120/80a2613f9d8634aa88de7f4a18ac59c83a62a492.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.3"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

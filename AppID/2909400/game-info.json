@@ -1,0 +1,559 @@
+{
+  "appid": "2909400",
+  "name": "FINAL FANTASY VII REBIRTH",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/header.jpg?t=1775124617",
+  "achievements": {
+    "ACH_00": {
+      "name": "The Planet's Hope",
+      "description": "Earn all FINAL FANTASY VII REBIRTH achievements.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/7e38c8299c911b4ed923256a0f758e21814cdc0e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "ACH_01": {
+      "name": "Never Meet Your Heroes",
+      "description": "Complete Chapter 1.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/194429c6b2962fb80a97a6eb326559333c15ec43.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "75.7"
+    },
+    "ACH_02": {
+      "name": "Swampy Situation",
+      "description": "Complete Chapter 2.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/448bc9075d16198fa7f338fe6f623a90045f60ce.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "61.0"
+    },
+    "ACH_03": {
+      "name": "Make Mine Black",
+      "description": "Complete Chapter 3.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/b70c5c57e6224a41e1bf4a38185c6a9380825add.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "59.4"
+    },
+    "ACH_04": {
+      "name": "The President's Commendation",
+      "description": "Complete Chapter 4.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/abffd7b0a0e2734431425ab77a5e7c30c7d8db8a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "51.2"
+    },
+    "ACH_05": {
+      "name": "Cryptic Cameo",
+      "description": "Complete Chapter 5.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/53d3e68a8aa213399e61cf10b773cf1dab1e46a4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "50.3"
+    },
+    "ACH_06": {
+      "name": "Fun in the Sun",
+      "description": "Complete Chapter 6.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/60e90ff3fc18dc743b76736dba2a8e6039ac1487.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "48.4"
+    },
+    "ACH_07": {
+      "name": "The Price of Progress",
+      "description": "Complete Chapter 7.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/9326bd8c71edf5716b9d7fb7aa5e3f3d8215420d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "43.7"
+    },
+    "ACH_08": {
+      "name": "Worth the Weight?",
+      "description": "Complete Chapter 8.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/dd380f70c24188ba0e20b3096f9d371e3131fec5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "40.8"
+    },
+    "ACH_09": {
+      "name": "Crying Out",
+      "description": "Complete Chapter 9.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/96773f81b3119742e2c062a7b407a01a8f1ef9e7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "35.7"
+    },
+    "ACH_10": {
+      "name": "Stars Fell from My Eyes",
+      "description": "Complete Chapter 10.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/81306dc3e8a254c3841345dc043b75913818757c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "32.3"
+    },
+    "ACH_11": {
+      "name": "You're Not Murasaki",
+      "description": "Complete Chapter 11.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/6bcc4c028924de6d7374d4edca891bf40ece2569.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "30.5"
+    },
+    "ACH_12": {
+      "name": "Hearts Out, Dukes Up",
+      "description": "Complete Chapter 12.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/dc3f531c4244f2376b2690a9f925c8f4bae67b95.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "28.1"
+    },
+    "ACH_13": {
+      "name": "I'm Here for You",
+      "description": "Complete Chapter 13.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/1efcadcdc6e60550bd93aefaaf13d7396dc4c868.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "26.5"
+    },
+    "ACH_14": {
+      "name": "Confluence of Worlds",
+      "description": "Complete Chapter 14.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/d8dda2d94f3f1a2b925eefe5aff9975431d90b3b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "25.8"
+    },
+    "ACH_15": {
+      "name": "I Got This",
+      "description": "Win a battle.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/53f2b1fde56e9cd7251c6f39892912e66197f684.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "83.5"
+    },
+    "ACH_16": {
+      "name": "Exploitative Practices",
+      "description": "Exploit an enemy's weakness.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/9adbb2285c8d84aa310927a3dec3797398680511.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "77.3"
+    },
+    "ACH_17": {
+      "name": "Unfettered Friendship",
+      "description": "Free a bound ally.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/66219b8d45c421efa9d9bd93a34c885395eadfdf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "76.8"
+    },
+    "ACH_18": {
+      "name": "Staggered Learning",
+      "description": "Stagger an enemy.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/d11484c07c12c0f851d393470cb52cf94b413c9f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "83.4"
+    },
+    "ACH_19": {
+      "name": "Break It Down",
+      "description": "Use a limit break.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/fc9e65df44c36eee0b38b1e38acc03ed946dfe24.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "77.7"
+    },
+    "ACH_20": {
+      "name": "Fledgling Summoner",
+      "description": "Invoke a summon.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/a3eb0393f8443c2c049fe6686a2da07f0dc55689.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.6"
+    },
+    "ACH_21": {
+      "name": "Team Player",
+      "description": "Use a synergy skill.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/bfabadd23c1eed1164d7de1a7941926c6b325eb2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "76.0"
+    },
+    "ACH_22": {
+      "name": "No \"I\" in \"Synergy\"",
+      "description": "Use a synergy ability.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/a2577385ba0ce116ff751c2f119bc449e97357bd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "77.9"
+    },
+    "ACH_23": {
+      "name": "Entering New Markets",
+      "description": "Complete a quest.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/8e87029f35a4ce2cb12050e229b47a67c88fde65.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.2"
+    },
+    "ACH_24": {
+      "name": "Weapons 101",
+      "description": "Max out a weapon ability's proficiency.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/27d25285cf88c44c06df0305fbc5c7740d282a12.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "65.2"
+    },
+    "ACH_25": {
+      "name": "A Materia World",
+      "description": "Level up an orb of materia.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/f47768bd0b11250f0ad741bcc8223ac33d76da86.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "67.9"
+    },
+    "ACH_26": {
+      "name": "New Blood",
+      "description": "Raise your Queen's Blood rank.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/f88a6b5a64d082a278de5c9787f474681346fb5a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "57.8"
+    },
+    "ACH_27": {
+      "name": "Caching In",
+      "description": "Complete your search of a cache location.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/1fb698361aa441120bc87a7727b02f6e3b802a2a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "66.3"
+    },
+    "ACH_28": {
+      "name": "I Brake for Chocobos",
+      "description": "Repair three chocobo stops.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/aa3478b23d939bf3e0de7cfb18eb0dbc10bc26cc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "59.4"
+    },
+    "ACH_29": {
+      "name": "Expert Ex-kweh-vator",
+      "description": "Use a chocobo to find two treasures buried by rabbits.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/d1d6e10bf4d55a42c87cef20a14abfaee1e521cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "58.3"
+    },
+    "ACH_30": {
+      "name": "You Work for Me Now",
+      "description": "Defeat a summon in battle and obtain its materia.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/5b621bffd2444242026053e6dee836ee685ae64e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "51.7"
+    },
+    "ACH_31": {
+      "name": "Intelligence Aide",
+      "description": "Gather world intel at five separate locations.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/384f1eebc0cff5b3dd79fe1afdfab31c553d61d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "65.4"
+    },
+    "ACH_32": {
+      "name": "Intelligence Specialist",
+      "description": "Gather world intel at fifty separate locations.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/3bbe61427476decd8c849a54577f9a6431205f25.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.4"
+    },
+    "ACH_33": {
+      "name": "Director of Regional Intelligence",
+      "description": "Gather all pieces of world intel in a region.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/9a0fc0113f39c1bc1f262d13dae290cc8a4817d5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.3"
+    },
+    "ACH_34": {
+      "name": "Founder's Bonus",
+      "description": "Obtain a protorelic in the grasslands.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/1fa99f3ef6646ab7b6a01da9809990916990d559.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "49.1"
+    },
+    "ACH_35": {
+      "name": "Fort Condor Commander",
+      "description": "Obtain a protorelic in the Junon region.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/6a515bce208f30e9f283614582bd02b6b12ebf09.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "40.1"
+    },
+    "ACH_36": {
+      "name": "Cactuar Crusher",
+      "description": "Obtain a protorelic in the Corel region.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/fdfd84fc0e807ac3ff8d5d341b5c558a3381667d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.7"
+    },
+    "ACH_37": {
+      "name": "Honorary Turk",
+      "description": "Obtain a protorelic in the Gongaga region.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/6f794aae8100d8e3979e219089b4ffe77c4cac9d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "24.4"
+    },
+    "ACH_38": {
+      "name": "The Gambit Paid Off",
+      "description": "Obtain a protorelic in the Cosmo Canyon region.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/be1395714f5faadd15baaecfd0ebae6331a805b1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "22.5"
+    },
+    "ACH_39": {
+      "name": "Professional Handler",
+      "description": "Obtain a protorelic in the Nibel region.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/f8b10f12a83d296c1616efbef34ce80038e934dd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "22.4"
+    },
+    "ACH_40": {
+      "name": "Bladesman of Legend",
+      "description": "Defeat Gilgamesh.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/5a2c22993e99a013c1f66c3d25d3f5235e871054.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.6"
+    },
+    "ACH_41": {
+      "name": "Moogle Lover",
+      "description": "Max out your moogle emporium merchant rank.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/bf9a1764ca7d59513848e4cc10bdf153262fd4e2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.6"
+    },
+    "ACH_42": {
+      "name": "Materia Completionist",
+      "description": "Develop all possible materia together with Chadley.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/b6bec69da0b3cdf9605aa36e1b966b79c6d49721.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.2"
+    },
+    "ACH_43": {
+      "name": "7th, Assemble!",
+      "description": "Recruit all Midgar 7th Infantry units for the parade in Junon.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/97e8dfb95c9af215e5f4776afa0c763dc14e32c6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "39.1"
+    },
+    "ACH_44": {
+      "name": "Stealing the Show",
+      "description": "Win the prize for outstanding performance in the Junon parade.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/690dd2eecafeabf602337eb5802aa3db8d000b46.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "26.3"
+    },
+    "ACH_45": {
+      "name": "Card Royalty",
+      "description": "Win the Queen's Blood tournament held on board the Shinra-8.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/e9060cbc8a5b5021c9e9ceb9cc8b60097f247215.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "44.2"
+    },
+    "ACH_46": {
+      "name": "Critically Acclaimed",
+      "description": "Receive a review of S or higher for your performance in Loveless at the Gold Saucer.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/1321159af7b6df1f19840220cc47aa923034c6a6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "26.6"
+    },
+    "ACH_47": {
+      "name": "1-Star Startup",
+      "description": "Donate 10 items to the treasure trove at Johnny's Seaside Inn.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/a37508e1edf9f7d66d38551c6c96dd2ede34f67d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "30.0"
+    },
+    "ACH_48": {
+      "name": "3-Star Hotel",
+      "description": "Donate 30 items to the treasure trove at Johnny's Seaside Inn.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/df23c95f5b524acc86d7c9603d111b5faeab7b9d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "22.5"
+    },
+    "ACH_49": {
+      "name": "5-Star Hotel",
+      "description": "Donate 60 items to the treasure trove at Johnny's Seaside Inn.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/308cf3530aa78082faa1cc2a905bea8e91367381.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.9"
+    },
+    "ACH_50": {
+      "name": "7-Star Hotel",
+      "description": "Inform Johnny that you have donated all possible items to his treasure trove.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/33e33c72f4de6307d6cfbb15a90753c6cc9344ec.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.5"
+    },
+    "ACH_51": {
+      "name": "Polygonal Prizefighter",
+      "description": "Defeat Sephiroth in 3D Brawler.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/b8940baff577471fe331fd5566c69404d2471450.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.1"
+    },
+    "ACH_52": {
+      "name": "Piano Virtuoso",
+      "description": "Play all six Piano Outreach Association songs well enough to receive remuneration.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/0171f071c5fe003dafc74b7dc3721bdc5c696211.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.0"
+    },
+    "ACH_53": {
+      "name": "Are You Not Entertained?",
+      "description": "Complete all bouts in the Musclehead Colosseum.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/cc3a31b42638fdf0f75cf85e6af10f7da78af30e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.2"
+    },
+    "ACH_54": {
+      "name": "Hall of Famer",
+      "description": "Win all chocobo races.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/ba06ad5cfb77f55ef234e8f9c60afb950260c3a2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.8"
+    },
+    "ACH_55": {
+      "name": "My Job Here Is Done",
+      "description": "Complete all quests.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/73fa4ba47cc2fe7c66646caab8208122bc8a209b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.3"
+    },
+    "ACH_56": {
+      "name": "Grind It Out",
+      "description": "Attain level 70 with a character.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/9aa9c09f78eda9975f0c587dc8856ef8e9e10d50.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.4"
+    },
+    "ACH_57": {
+      "name": "Staggering Success",
+      "description": "Deal 300% or more damage to a staggered enemy.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/778c7990220f0da3d5fbe24c1c44778c529ab2cb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.0"
+    },
+    "ACH_58": {
+      "name": "Well-Rounded",
+      "description": "Master all weapon abilities and limit breaks, including those found in folios.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/268701aac23fbb1d1defbc47f08aecb7016fbabc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.4"
+    },
+    "ACH_59": {
+      "name": "Of Hardy Stock",
+      "description": "Complete all chapters on Hard difficulty.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/fedabc1a1b31149b2ea990335de90c11472adf43.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.8"
+    },
+    "ACH_60": {
+      "name": "Virtually Renowned",
+      "description": "Complete all of Chadley's combat simulations.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/a1bae303db431070fab1db2ebe581fb181e86d48.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2909400/46cbb3257c2b4e1980458667347625eb5a7c0948.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.0"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

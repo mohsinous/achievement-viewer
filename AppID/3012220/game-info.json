@@ -1,0 +1,487 @@
+{
+  "appid": "3012220",
+  "name": "Double Dragon Revive",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3012220/ac0ef70f2c173e927adf9584c56657f774de31b8/header.jpg?t=1761614101",
+  "achievements": {
+    "01_CHAPTER1_STAGECLEAR": {
+      "name": "Chapter 1 Complete",
+      "description": "Completed Chapter 1.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/77e4c4c903f59c4186185549ab67407d1e59f207.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/f6b5d0b1a0072cd6b89fe3dd31cf62b613c41f19.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "85.3"
+    },
+    "02_CHAPTER2_STAGECLEAR": {
+      "name": "Chapter 2 Complete",
+      "description": "Completed Chapter 2.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/67175c2e07d4d4a0b56bd0899365135fcd2c41c6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/0ec4c74b8bb4d13ec227dcb4c15c1366c8994199.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "68.5"
+    },
+    "03_CHAPTER3_STAGECLEAR": {
+      "name": "Chapter 3 Complete",
+      "description": "Completed Chapter 3.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/1058c4d7281d860c9b5ad00affccc5f18df75a6a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/483f80056b2e38bf5cf4227045fcae5bea4fec61.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "52.8"
+    },
+    "04_CHAPTER4_STAGECLEAR": {
+      "name": "Chapter 4 Complete",
+      "description": "Completed Chapter 4.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/1bbea352a11b3665c367c98d7b09df466f1f4879.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/4fb98e7b7bafde1bb60dd5d6723e365982b7a3bf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.4"
+    },
+    "05_CHAPTER5_STAGECLEAR": {
+      "name": "Chapter 5 Complete",
+      "description": "Completed Chapter 5.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/8af15ecc04925bb6826e9f1b32a0b60d20912fb5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/211e89f76476cee56333f3cec02e6431edf7d10a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "42.6"
+    },
+    "06_CHAPTER6_STAGECLEAR": {
+      "name": "Chapter 6 Complete",
+      "description": "Completed Chapter 6.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/5e17b1443e1431755a7549102d14b20ee7f41afc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/99813732a0394c159d20c10e71ad46bce52cbd44.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.3"
+    },
+    "07_CHAPTER7_STAGECLEAR": {
+      "name": "Chapter 7 Complete",
+      "description": "Completed Chapter 7.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/bfaa4ee61f23db699523a756e3262207eb0b014a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/47d7eae6052a64f11802711a9e10639254ec652c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.3"
+    },
+    "08_CHAPTER8_STAGECLEAR": {
+      "name": "Chapter 8 Complete",
+      "description": "Completed Chapter 8.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/00a07cba3cee2b47a7d3cd8777ef05ae638fa256.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/eb846933e77c3b7b07a3a39f185c7b84ad6f8bbf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.4"
+    },
+    "09_CHAPTER1_RANK_S_HARD": {
+      "name": "Chapter 1 Perfected",
+      "description": "Completed Chapter 1 on the highest difficulty with S+ Rank.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/aaf2fd9f0a7e966cff86e546954e1046c976a390.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/0a2165cdeef7b729db0cfce3174234758ab6e8d4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.0"
+    },
+    "10_CHAPTER2_RANK_S_HARD": {
+      "name": "Chapter 2 Perfected",
+      "description": "Completed Chapter 2 on the highest difficulty with S+ Rank.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/76bc654c303454486e10ff2771c0709fbc8209a6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/242fc4de4673521197de8639681ed90641d9ed5e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.4"
+    },
+    "11_CHAPTER3_RANK_S_HARD": {
+      "name": "Chapter 3 Perfected",
+      "description": "Completed Chapter 3 on the highest difficulty with S+ Rank.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/ab4acd1776675630499fd044efb3eba5d7da15bd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/cc4af665381c5c6f67c5104129a597d3d9213de3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.4"
+    },
+    "12_CHAPTER4_RANK_S_HARD": {
+      "name": "Chapter 4 Perfected",
+      "description": "Completed Chapter 4 on the highest difficulty with S+ Rank.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/13c9c3c086b49c4dd4a64aefedd7543de3eccacb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/91a37b3e366c8708df2f8920ea256140c7f255ae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.6"
+    },
+    "13_CHAPTER5_RANK_S_HARD": {
+      "name": "Chapter 5 Perfected",
+      "description": "Completed Chapter 5 on the highest difficulty with S+ Rank.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/873cbfeaf317794656dee40e51559363ef4e3353.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/c301a05d62a08cda9b4dfdab7a5a81b0a80a5dbb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.0"
+    },
+    "14_CHAPTER6_RANK_S_HARD": {
+      "name": "Chapter 6 Perfected",
+      "description": "Completed Chapter 6 on the highest difficulty with S+ Rank.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/86da476722989d9d79df25541a25dc8e6a45a11a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/0a96ff2d8c937718ae6422b62a0b79c5e97ffcf0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.9"
+    },
+    "15_CHAPTER7_RANK_S_HARD": {
+      "name": "Chapter 7 Perfected",
+      "description": "Completed Chapter 7 on the highest difficulty with S+ Rank.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/6dc56233d1ead4b4a93f1d30efb613bb761f92a2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/91e81d66faa2057b3c00df97b5527aeb0f1ec91d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "16_CHAPTER8_RANK_S_HARD": {
+      "name": "Chapter 8 Perfected",
+      "description": "Completed Chapter 8 on the highest difficulty with S+ Rank.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/7f27fa671fd7b7671334f5eeb5b8ac02dee5bf49.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/91b8d520f808df92806bb98b8925422dc790fe1e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.1"
+    },
+    "17_RAYMOND_BILLY": {
+      "name": "Billy Takes Down Raymond",
+      "description": "Defeated Raymond while playing as Billy.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/8310bb0e3aec25965988a4724c22a1c191478372.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/a53e19fb245a07eac427803fe853d1479cfb174b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.7"
+    },
+    "18_RAYMOND_JIMMY": {
+      "name": "Jimmy Takes Down Raymond",
+      "description": "Defeated Raymond while playing as Jimmy.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/cd488b2905bb24c914008e0ff1ee73a510134c50.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/75477f0350d4162b3caa12f8112bd7b0190f175a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.6"
+    },
+    "19_RAYMOND_MARIA": {
+      "name": "Marian Takes Down Raymond",
+      "description": "Defeated Raymond while playing as Marian.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/1cef05dde8c0665354a861a931769de98a6b5053.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/ad221a65902148f673b128e96203e96e57559e55.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.0"
+    },
+    "20_RAYMOND_RANZO": {
+      "name": "Ranzo Takes Down Raymond",
+      "description": "Defeated Raymond while playing as Ranzo.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/89d16dbbc24f09d17b6463d9e48930466ac9b454.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/4b47beb8c67632dc462a5be5a683bfc6141ffa71.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.0"
+    },
+    "21_ABOBO": {
+      "name": "No Escape, Abobo",
+      "description": "Defeated Abobo, either in Chapter 1 or Chapter 3.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/2cfb83eec36619d4668a6127e156c416bafd3ed4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/62b448ca48b594f867d288678c1015d3a9468edd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "22_FAST_FB_BOSS_FINISH": {
+      "name": "Hyper Blow Boss Beat-Down",
+      "description": "Defeated a boss with a Hyper Blow.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/994c6da816293590e37d6c30858fc0ade8eddb64.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/f17f8a53e4850837e01584a2f881b0e19ad043d3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "60.0"
+    },
+    "23_FAST_NO_DAMAGE_CLEAR": {
+      "name": "Completed Chapter with Max Health",
+      "description": "Completed a chapter with max Health.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/c4e159523a51308c38c1ffa34b6b03240c884a1c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/e1c3f943dcf237070a1352dfb375455a030ac58f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.2"
+    },
+    "24_MAXCOMBO": {
+      "name": "100 Hit Combo",
+      "description": "Achieved a 100-hit combo.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/14393ae3c2a81f5fe960c3870e06491af1df5fe2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/00f5f1b80fdf97206c8e1e61933eac240a10e920.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "60.2"
+    },
+    "25_FAST_USE_FB": {
+      "name": "First Hyper Blow",
+      "description": "Used a Hyper Blow for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/626179f2c9f3bacec33e68225cd8bedc40606030.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/7c3ebd0d89a140080fa710a8b0f4372230c1d339.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "90.5"
+    },
+    "26_FAST_JUST_DODGE": {
+      "name": "Perfect Dodge",
+      "description": "Activated a Perfect Dodge.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/5011a7c376931df8878931c6824a495fc8cedb8e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/24f64b311b40c65caf1a61db9737885a17f8cf9a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "51.9"
+    },
+    "27_FAST_PAINT": {
+      "name": "Painted Enemies",
+      "description": "Splattered an enemy with paint.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/21e7a2f43106161f86a9e7021148d1d66ad0a61c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/9bdd3d7ba0fc60e38ff9c158eea81fd729e9c0df.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.1"
+    },
+    "28_FAST_MULTIPLAY": {
+      "name": "First Multi-Player Game",
+      "description": "Played multi-player for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/2cc49997879af9302967cc32562bfc0cce23b66c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/bf30a38a92daf1c7dd1e41c2bd0944012f7b80ff.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.1"
+    },
+    "29_MULTI_HELP": {
+      "name": "Saved Ally in Multi-Player",
+      "description": "Saved an ally in multi-player.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/a754008558297293b99c8ab3bbea5c08f95a9c92.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/162ee5a101a604d6627c43f8e9bebafbbf4ff2bf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.3"
+    },
+    "30_USE_COUNT_BILLY": {
+      "name": "Used Billy 100 Times",
+      "description": "Used Billy 100 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/986e03a6c07b1f1205e4b0af36800e9a09b1e706.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/0ed87f3151622027ff4c78011d0b26784daa028a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "31_USE_COUNT_JIMM": {
+      "name": "Used Jimmy 100 Times",
+      "description": "Used Jimmy 100 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/9a2ce755ab1b9a925e4ebc81d57ad647a3e04b85.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/a7a3364230580db510f343ab114cd467898e8506.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.7"
+    },
+    "32_USE_COUNT_MARIA": {
+      "name": "Used Marian 100 Times",
+      "description": "Used Marian 100 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/572dd724def6de25446107c92c949a80d1ce1790.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/85a59c0aa084b217cdb484167846fbe8f666d948.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "33_USE_COUNT_RANZO": {
+      "name": "Used Ranzo 100 Times",
+      "description": "Used Ranzo 100 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/8ff9d01c235d3e3ab58c4e19eec9b8676ff1b55c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/7ef9aae2f16d8fc0ed9a12f02de1734481ca57eb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.7"
+    },
+    "34_GIMMICK_COUNT": {
+      "name": "Used 100 Gimmicks",
+      "description": "Used 100 gimmicks.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/9f09dd413c385b361b483b2081e1fe4067a99a35.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/9b514cd128a9fdde6d20d5dfdcafb3570dca0de3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.1"
+    },
+    "35_CRITICALASSAULT": {
+      "name": "100 Critical Assaults",
+      "description": "Activated Critical Assault 100 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/31927a65aeb6ccffb2b4383c35747abf1da75279.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/20272ef7993f91e9d004f184c71d4e85b4e75ed7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.0"
+    },
+    "36_FB_COUNT": {
+      "name": "100 Hyper Blows",
+      "description": "Used Hyper Blow 100 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/353e8fb24b570b51d6b0b2149fd7cfda12b3acae.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/cf04827334007463c4c520ed59ad904c8cac1587.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.3"
+    },
+    "37_PROP_BROKEN": {
+      "name": "Destroyed 100 Objects",
+      "description": "Destroyed 100 objects.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/b4da9a3308297b5f0f2ad09708a9ab0c57d4118e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/d815ea169dac2953174dcc41329c2f9cf499ee4c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "62.7"
+    },
+    "38_PARKOUR": {
+      "name": "100 Parkour Moves",
+      "description": "Used Parkour actions 100 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/d363ff65f4a043b80b023fde31c60088bd205913.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/9311600baa636c0e04e53eb06acc4b84003d3274.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.0"
+    },
+    "39_SWINGJUMP": {
+      "name": "100 Swing Jumps",
+      "description": "Used Swing Jump 100 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/76f0a0401a9730dd401ca5179b204a4d5b2ca7e5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/6b0df771b964dc97f056c411b6f3088b8dccc9b2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.4"
+    },
+    "40_WEAPON_SHOOT_DOWN": {
+      "name": "Reflected 10 Weapon Throws",
+      "description": "Reflected weapon throws 10 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/9e1c3f1c46adb0642e3940c68146bdd865b59ed8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/3256d94f2f3d7f6c3a00d6727823a9222269aef8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.1"
+    },
+    "41_ALL_USE_WEAPON": {
+      "name": "Used All Weapons",
+      "description": "Used all weapons.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/cc82f189bf016d11cf9eee12c6ec4cf82acc1455.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/bd59a3d7f7fbc87284a07be9c45deb135626bc3c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.0"
+    },
+    "42_ALL_USE_GIMMICK": {
+      "name": "Used All Gimmicks",
+      "description": "Used all gimmicks.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/bbfe5b4d029cbe599f3255664adaafc8ba015ddb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/15c61c444ab7afd423a2602d2eaf0e8a672cfff1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.5"
+    },
+    "43_SHIELD_BROKEN": {
+      "name": "Destroyed 10 Guard Shields",
+      "description": "Destroyed guards' shields 10 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/82baf88c97d55aa4fe2d5dac7db7d73856b1faf9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/9a959871c0313d77caaac762ee9e9cfa66f107e8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.9"
+    },
+    "44_AER_HYPERBLOW": {
+      "name": "Used 100 Powered-Up Aerial Hyper Blows",
+      "description": "Used powered-up Aerial Hyper Blow 100 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/170399827b6c632c1a58a69766313903a3221aa3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/ff6c455553b3493287f9179d2e432918d9737228.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.0"
+    },
+    "45_GRAPPLE_THROW": {
+      "name": "Thrown 100 Enemies",
+      "description": "Thrown 100 enemies.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/c479e818427729672b9544838e023b3979734668.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/02a5c19f8a7522774f00b01ae1b83f78d2e6a0c6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.6"
+    },
+    "46_ARMORBREAK": {
+      "name": "Destroyed Enemy Armor 10 Times",
+      "description": "Destroyed enemies' armor 10 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/73dc339488ea60f43a2c2664d0a5163e1d9a61c9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/7f9924703db83c27b2ed770322d53d4f4c3e3110.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "52.7"
+    },
+    "47_WALLJUMP": {
+      "name": "Used 100 Wall Jumps",
+      "description": "Used wall jump 100 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/b93489c0f0d09729372fc4fd580db55561ef61ba.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/41791e188b1f9252bf0cad1b5a1a16e303b9bb75.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.4"
+    },
+    "48_GUARD": {
+      "name": "Guarded 100 Enemy Attacks",
+      "description": "Guarded 100 attacks from enemies.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/fa040764a3045b05c0e90fb91000cac06a64143f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/2785b7b28999d501460bc0dec1ce03d29ec98cde.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.2"
+    },
+    "49_FALL": {
+      "name": "Knocked 100 Enemies Off",
+      "description": "Dropped 100 enemies outside the area.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/3b3e14725ddfbb4bc5bfc15a3fefcba356d5a5d5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/b19da4cebbd33a8f61608b0144ccd44d8c4f24e9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.2"
+    },
+    "50_WALLCRASH": {
+      "name": "Used 100 Wall Crushes",
+      "description": "Used wall crash 100 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/01ba660e6565ea9b581d3d141ce8119383aa8701.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/301e04a7c500c22b2c76c404311674d1effec661.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.4"
+    },
+    "51_WALLSTRIKE": {
+      "name": "Used 100 Wall Strikes",
+      "description": "Used wall strike 100 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/8b0b1faff0592c96b4be0baa8834b00be8c65a79.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/083bb4e590268dc05548b1a2669a98e7a2f20882.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.2"
+    },
+    "52_DYNAMITE": {
+      "name": "Tossed Back 10 Bombs",
+      "description": "Thrown back 10 bombs.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/5e3ef2b2e0e0bf962722ba11050b20eeb8b33e3f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/415482fd25d4b857767ac0ece1665f84e21597a6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.4"
+    },
+    "53_POLEACTION": {
+      "name": "Used 100 Pole Actions",
+      "description": "Used pole actions 100 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/7722dae3273fb7b53b219ee5f7c2d593e772b7cf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3012220/413b0320783deea7a5bb7ab7d710ca86c0b54c83.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.1"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

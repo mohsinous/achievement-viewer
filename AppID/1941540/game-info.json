@@ -1,0 +1,505 @@
+{
+  "appid": "1941540",
+  "name": "Mafia: The Old Country",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/d06980bb8f41737ca68da8eed40079347db09c84/header.jpg?t=1783636674",
+  "achievements": {
+    "Achievement_1_Id": {
+      "name": "The Carusu",
+      "description": "Enzo escaped the mine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/b8db09cd78500531dac1ededfb5421fddf221553.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "94.7"
+    },
+    "Achievement_2_Id": {
+      "name": "Guest of Honor",
+      "description": "Enzo found a new home",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/a3884387d6169f0eeba561e550d4593eff624a09.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "91.9"
+    },
+    "Achievement_3_Id": {
+      "name": "Forza San Celeste",
+      "description": "Enzo won the Palio",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/cc603114c04c661338dbe97cc8f2b3ae55fa4a12.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "89.1"
+    },
+    "Achievement_4_Id": {
+      "name": "The Family Business",
+      "description": "Enzo learned the ropes",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/c0088c22a64e092c402ce5c4b7ec6717838952f1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "85.0"
+    },
+    "Achievement_5_Id": {
+      "name": "A Trip to the Coast",
+      "description": "Enzo saved Isabella",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/68e51403aab831726c911c9d152ea403427a80af.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "81.9"
+    },
+    "Achievement_6_Id": {
+      "name": "This Thing of Ours",
+      "description": "Enzo got made",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/d958286812ad267a03a08060fdc18633d708f47c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "78.3"
+    },
+    "Achievement_7_Id": {
+      "name": "Lira for Lira",
+      "description": "Enzo freed the counterfeiter",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/cc004477e0fa6cff0526a733465229e709906020.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "75.0"
+    },
+    "Achievement_8_Id": {
+      "name": "Everything’s Golden",
+      "description": "Enzo won the race",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/782f067b086994aa693e4ea633140c954d65175c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "71.7"
+    },
+    "Achievement_9_Id": {
+      "name": "The Rat",
+      "description": "Enzo and Cesare killed L'Ombra",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/a7b0b341dfdc1139a124707194a648dffe8479fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "70.8"
+    },
+    "Achievement_10_Id": {
+      "name": "Total Shutdown",
+      "description": "Enzo found the foreman",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/dc2d6dc1e4ad6c1e205d06e12160493c4d235351.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "67.7"
+    },
+    "Achievement_11_Id": {
+      "name": "No More Running",
+      "description": "Enzo killed his nemesis",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/891a3e1cb0173a455d4409f56b89afb4cf5e928f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "66.6"
+    },
+    "Achievement_12_Id": {
+      "name": "Neutral Ground",
+      "description": "Enzo lost his mentor",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/274e4c035069c1f5765b146b2c52ba3941c654ab.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "65.4"
+    },
+    "Achievement_13_Id": {
+      "name": "Most Dutiful Soldier",
+      "description": "Enzo exacted revenge",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/17f8414a010895b3da663c41c3956df1b4a2a4e2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "64.3"
+    },
+    "Achievement_14_Id": {
+      "name": "Everything you Deserve",
+      "description": "Enzo killed the Spadaro holdouts",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/4f7cfae2e3ac6bf4fdc54538d33d62c2535768c6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "62.7"
+    },
+    "Achievement_15_Id": {
+      "name": "Only One Way Out",
+      "description": "Enzo and Isabella's story came to an end",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/4670d827cb3023db525d4db9da08dc3480634952.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "61.0"
+    },
+    "Achievement_16_Id": {
+      "name": "Rare Weapons Expert: Praecisione",
+      "description": "Killed 20 enemies with a Praecisione",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/d67bbcece4024e12873c50d10140f368320be745.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.9"
+    },
+    "Achievement_17_Id": {
+      "name": "The Old Country",
+      "description": "Completed the story on any difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/4fda75cddecaa79197e9bff4fc6667a4bdbae8f7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.0"
+    },
+    "Achievement_18_Id": {
+      "name": "True Soldato",
+      "description": "Completed the story on Hard difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/72ea40d9831981876d0fca82fb24395a79a61ea2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.0"
+    },
+    "Achievement_19_Id": {
+      "name": "Fantasma",
+      "description": "Infiltrated the villa without being seen",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/f8a48e4cf684fe5ebe0a7ec97c3b7a4b1b7f9667.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "39.9"
+    },
+    "Achievement_20_Id": {
+      "name": "Silent Hunter",
+      "description": "Killed Mazzone without alerting his men",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/1b2201a5d5b4d09803245ce56d973b6186ead793.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "21.2"
+    },
+    "Achievement_21_Id": {
+      "name": "Trail of Destruction",
+      "description": "Eliminated 10 cars while escaping the Tonnara",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/ff2aa68a9ca71ec451e6024c743a1e16730d565a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "63.5"
+    },
+    "Achievement_22_Id": {
+      "name": "Garden Rendezvous",
+      "description": "Met Isabella in secret",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/50b451e7578d5342d857554dd8bdfbdd5c075cf0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "72.4"
+    },
+    "Achievement_23_Id": {
+      "name": "Worthy Opponent",
+      "description": "Defeated Don Torrisi without taking a single hit",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/a33b1fc000bc96c0c7e77a1e9c114e7715f20fde.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.5"
+    },
+    "Achievement_24_Id": {
+      "name": "Fastest Man in Sicily",
+      "description": "Completed the race in under 8 minutes",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/9590c695db5b26b9c5d28cd0937524bfd36f5f5c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "65.2"
+    },
+    "Achievement_25_Id": {
+      "name": "Rare Weapons Expert: Lupara",
+      "description": "Killed 20 enemies with a Lupara",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/67c7f87881b233a7890da86824c300c81aa6524a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.4"
+    },
+    "Achievement_26_Id": {
+      "name": "Rare Weapons Expert: Pump-Action",
+      "description": "Killed 20 enemies with a Pump-Action Shotgun",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/6db87c6ceb863f7afb9397eb94ad65d55db8df7d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "55.5"
+    },
+    "Achievement_27_Id": {
+      "name": "Not So Fast",
+      "description": "Killed Caccini before he reached the Salt Flats",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/93421e347e2052ae82e6fc5eaee86b344366ca32.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "22.6"
+    },
+    "Achievement_28_Id": {
+      "name": "Driving in Style",
+      "description": "Customized a car",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/293b4549e53bec1df37d1e3cc1618572f9d906f4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.3"
+    },
+    "Achievement_29_Id": {
+      "name": "Vulpi Misteriusa",
+      "description": "Found a Mystery Fox",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/00a437f6c028d5e4c41b047bef75f93f95e695bd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "78.1"
+    },
+    "Achievement_30_Id": {
+      "name": "Riding in Style",
+      "description": "Customized a horse",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/81a393b3228c59c7cdeb6ade7da6520dd8dd71be.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.5"
+    },
+    "Achievement_31_Id": {
+      "name": "Full Steam Ahead",
+      "description": "Beat the train",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/41b1fb5822d4cc2d42e4d450b74d12ec4210fca2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "58.7"
+    },
+    "Achievement_32_Id": {
+      "name": "Live by the Blade",
+      "description": "Performed all Special Actions 5 times with each knife",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/1c886170a7c65bf2799cebc31929dcae63939d17.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.4"
+    },
+    "Achievement_33_Id": {
+      "name": "Protected",
+      "description": "Equipped a Charm",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/de448bccd8e1d59d72c273f53093e4dd298ce9ff.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "78.9"
+    },
+    "Achievement_34_Id": {
+      "name": "Bona Furtuna",
+      "description": "Found a Trinacria coin",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/395ecc908350d0b4953dba499dee5f113a966bff.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "80.2"
+    },
+    "Achievement_35_Id": {
+      "name": "Man of Honor",
+      "description": "Enzo refused Tino's order to kill in cold blood",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/c94dc23ef98e682dc5a9ee2070a6759f7153f8fa.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "22.1"
+    },
+    "Achievement_36_Id": {
+      "name": "Read All About It",
+      "description": "Found a Newspaper",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/a4f0b217d30a9137c63b03c2a66045d32fbed380.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "80.7"
+    },
+    "Achievement_37_Id": {
+      "name": "The Old Ways",
+      "description": "Reached the foreman's office without alerting the enemies",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/248d61fbe30d1187441335eb338ee0c321825934.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "32.9"
+    },
+    "Achievement_38_Id": {
+      "name": "Bombas Away!",
+      "description": "Killed 10 enemies with explosives",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/10658c1449936d2152ae1b7dafef86cee3d8195e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.3"
+    },
+    "Achievement_39_Id": {
+      "name": "Rare Weapons Expert: Vendetti",
+      "description": "Killed 20 enemies with a Vendetti",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/37407d2ffef4fe325e62e7131ca706278342199c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.9"
+    },
+    "Achievement_40_Id": {
+      "name": "Secret Assassin",
+      "description": "Killed 20 enemies with Knife Takedowns",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/ce8ed58cfe9f9fa9f8b59aae14f5e889da7cd66a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.6"
+    },
+    "Achievement_41_Id": {
+      "name": "Rare Weapons Expert: Modello",
+      "description": "Killed 20 enemies with a Modello C96",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/21d1c92f967698d51519ff801f2903a67af08606.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.7"
+    },
+    "Achievement_42_Id": {
+      "name": "Cold-Blooded",
+      "description": "Performed 30 headshots",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/9e3eca8d4aab30caaef8b9cd0b71eb15ab401c97.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "76.2"
+    },
+    "Achievement_43_Id": {
+      "name": "Rare Weapons Expert: Repeater",
+      "description": "Killed 20 enemies with a Repeater",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/42860124609fadb0108467060f9fd5eea83d15bb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "60.9"
+    },
+    "Achievement_44_Id": {
+      "name": "Salvatore's Apprentice",
+      "description": "Cracked a safe without a combination",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/667097749016a91607064295a77070969f35aa68.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.7"
+    },
+    "Achievement_45_Id": {
+      "name": "Mystery Fox Domination",
+      "description": "All Mystery Foxes found",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/b308195ae1f653d83c70a1fc1e89344cb69248f0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "Achievement_46_Id": {
+      "name": "The Collector",
+      "description": "Completed the collection",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/09e262ea6027e3e76420922f42fee6141aa782cc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "Achievement_47_Id": {
+      "name": "Good as New",
+      "description": "Fixed a broken vehicle by using the crank",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/ae5c24be01c26f6b0b8646e3190b8af1564b14bb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.4"
+    },
+    "Achievement_48_Id": {
+      "name": "Daredevil",
+      "description": "Jumped a car over 40 meters",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/be216307177bb8c973f968f652ddd47644b47f79.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.8"
+    },
+    "Achievement_49_Id": {
+      "name": "The Finer Things",
+      "description": "Bought all available cars from Pasquale",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/65186d1889e02b272eecafd9295977f4eb31348a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.7"
+    },
+    "Achievement_50_Id": {
+      "name": "Getaway Driver",
+      "description": "Drove at 120 km/h for at least 15 seconds",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/afc2416b0dfdcfa4b775b5317cd7a23bcb57d7b1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.5"
+    },
+    "Achievement_51_Id": {
+      "name": "Classico",
+      "description": "Completed the story on Classic difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/298734021121cc4f0fe405107a4df1fb072ba3a2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/1ffae2c6133bd018e9d89ed161c0985d44cb962d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "Achievement_52_Id": {
+      "name": "Firestarter",
+      "description": "Completed Playing with Fire",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/39cae4239f7fc438f0bcbd912032a8cf7bc4d3df.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/1ffae2c6133bd018e9d89ed161c0985d44cb962d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "Achievement_56_Id": {
+      "name": "Speed Demon",
+      "description": "Completed all Races, earning at least a medal in each.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/804439e334569ce726db5a0a36bb99e7b97af1ea.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/1ffae2c6133bd018e9d89ed161c0985d44cb962d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "Achievement_57_Id": {
+      "name": "Seasoned Hunter",
+      "description": "Completed all Standoffs, earning at least a medal in each.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/ed32be2c1519ccd79057b96de8b46812e8f73a33.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/1ffae2c6133bd018e9d89ed161c0985d44cb962d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "Achievement_58_Id": {
+      "name": "Deadly Assassin",
+      "description": "Completed all Assassinations, earning at least a medal in each.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/1bcf7848bdc6c7d46e1114f2d60b0bffcba7a62d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/1ffae2c6133bd018e9d89ed161c0985d44cb962d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

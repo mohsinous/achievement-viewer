@@ -1,0 +1,505 @@
+{
+  "appid": "3280350",
+  "name": "DEATH STRANDING 2: ON THE BEACH",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280350/6270c77b0729e2df0a17d660286eeddfd9169386/header.jpg?t=1774022345",
+  "achievements": {
+    "trophy_000": {
+      "name": "Homo Liberans: The Savior of Humanity",
+      "description": "Unlocked all achievements.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/c90a7fb0db0e417c7c8f881d0baa5d9a31d40d84.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/14df27e5fae4408027503410dfcbc38effd7010e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.2"
+    },
+    "trophy_001": {
+      "name": "\"Lou? Can you hear me? Can you see me?\"",
+      "description": "Complete Episode 1: Sam.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/0f778e7be8b41e596bf778c4437bc526fb755a1c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/2824f043069d6f277a76c3f4bb7ef8874124d8b2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "80.1"
+    },
+    "trophy_002": {
+      "name": "\"Time to Start a New Journey\"",
+      "description": "Complete Episode 2: Lou.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/4426d199a33f6a1249ff356149761e19fdcfb20c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/7343d0e7a8f6e44303f0e2568bc6a9c535b56037.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "79.7"
+    },
+    "trophy_003": {
+      "name": "\"Help us Bring Australia into the Network\"",
+      "description": "Complete Episode 3: Drawbridge.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/aa1c84b130176e5f35ce4fc980a4a13f7cba5203.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/9e31eea27eb655d8a9153b5fd7401b7775f2a108.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "68.4"
+    },
+    "trophy_004": {
+      "name": "\"We'll Show the World the Hope in Your Rain\"",
+      "description": "Complete Episode 4: Raindrops.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/fc747536d1e597ffdc058b2961428a0e7f6a826d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/5b568aa69c8a8964707bdbabaed801957d2bd270.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "65.2"
+    },
+    "trophy_005": {
+      "name": "\"Did He Say Nirvana?\"",
+      "description": "Complete Episode 5: Conflagration.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/f0766e7f8a92d5b07edcb97c59cdb45ca28a403c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/61a2c6dea04478d4630f672d8c681464844708a3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "64.5"
+    },
+    "trophy_006": {
+      "name": "\"To Our Little Family\"",
+      "description": "Complete Episode 6: Chrysalis.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/c5c9f6f2508c4e26f0ae9dc854b67dab36d49e2d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/17f855471cbddc4f6da4a13aa71f6f86ae469b9e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "58.0"
+    },
+    "trophy_007": {
+      "name": "\"Sam the Man—In the Dark About Everything\"",
+      "description": "Complete Episode 7: Pod.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/a2c97400e7c49b16890c4df31599b52ed244146f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/8ecb3afbc32c9ce2233f78ad1729ca09818a0008.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "50.5"
+    },
+    "trophy_008": {
+      "name": "\"His Name is Neil. Neil Vana\"",
+      "description": "Complete Episode 8: Deluge.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/d636c3740ab0af70dbd6301b1f29fadb1c5fe8b0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/0272788e6718bd3942d8421e489b297521493678.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "44.6"
+    },
+    "trophy_009": {
+      "name": "\"I Don't Break That Easily\"",
+      "description": "Complete Episode 9: Puppets.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/5a563916af8c067d19092363c326149568489eb4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/932a67460f0b6c1ab2826ad5cd7fb0224cec12e3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "40.3"
+    },
+    "trophy_010": {
+      "name": "\"You Will Never, Ever Be Alone\"",
+      "description": "Complete Episode 10: Isolation.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/1c4d893eec2619e1dfeb249cbc62efef4a87c0f0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/eee8d428c7890cdbd47e11e8fd8ef436b685e259.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "38.9"
+    },
+    "trophy_011": {
+      "name": "\"Keep Lou Safe...\"",
+      "description": "Complete Episode 11: Quake.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/7f7ddafc37e9e2edeb25912f4813d5e30d946cff.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/d0a59bd8dc5ccca54f8d1031179f1d45c037b39b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "38.7"
+    },
+    "trophy_012": {
+      "name": "\"To Help You Find the Strength to Carry On\"",
+      "description": "Complete Episode 12: Fragile.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/9dc70109b5fda5c938d08ac4a1025a89afb6e488.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/f5a025cc3e5965be3ac35e7666094caafb0a426c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "38.3"
+    },
+    "trophy_013": {
+      "name": "\"To Forsake Our Flesh and Our Freedom\"",
+      "description": "Complete Episode 13: Die Hard.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/5a105015e03088e2bb760a18496d6520cb4648ec.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/1d90cf5ff42219c7e380e30a226f9ef606d09adb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "38.2"
+    },
+    "trophy_014": {
+      "name": "\"We Have to Get Tomorrow Back\"",
+      "description": "Complete Episode 14: Last Stranding.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/c5baabe9b80001d24dec223f459fae6bd1383f23.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/350ca9f1f5de8a56eaa8d4e5ebc238a997ed40ae.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "37.1"
+    },
+    "trophy_015": {
+      "name": "\"I'll Always Be With You\"",
+      "description": "Complete Episode 15: On the Beach.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/c198c6ab6ad91f79396d4439974ccc9a935acc79.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/f875dd28c81f454a19f19b2ada92723ca242c4a1.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "37.0"
+    },
+    "trophy_016": {
+      "name": "\"Death Can't Tear Us Apart\"",
+      "description": "Complete Episode 16: Tomorrow.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/021fa6e9b66a5b113feac01736508e6cbecdc4dd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/e4362fe51e9a4f5bcf72fd9db2779555c8c50ad6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "36.8"
+    },
+    "trophy_017": {
+      "name": "Standard Porter",
+      "description": "Complete a standard order for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/22d4251565008c346da6693983876881e8005727.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/38eb498482861e3586aa1d758ed68751574135eb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "70.6"
+    },
+    "trophy_018": {
+      "name": "Seasoned Porter",
+      "description": "Complete 10 deliveries, 10 recoveries, 10 elimination/destruction standard orders with an S rank in Casual difficulty or above.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/2c088479e1023c40224ebb75d133c23f7f7e833b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/6c95f6a2ccb8157a232180b05af75033680d3f23.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.5"
+    },
+    "trophy_019": {
+      "name": "Helping People to Connect",
+      "description": "Complete an aid request for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/52763cba90110dd0d2a809178d60ae832e99e194.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/d45460d3267158b28fca1aca64c0be929c869ead.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "80.3"
+    },
+    "trophy_020": {
+      "name": "Promising Signs",
+      "description": "Construct an online aid request sign for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/0bb15ab151e298f0f00242f9eeab9cae5f0a0f18.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/3c9a008d24bc6423734e0de75172649f6b19aba9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.5"
+    },
+    "trophy_021": {
+      "name": "My First Structure",
+      "description": "Build your first structure (any structure - signs, ladders, etc.).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/249c90909fa7d00d7458520a90e9f484ddae907b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/234d06f892fe8fb97e42c00a678961b24b2a12fd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "94.9"
+    },
+    "trophy_022": {
+      "name": "Master Builder",
+      "description": "Build every structure type, including tools, deployable shields, electric traps and any sign.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/be4a4f7a0de6acf89306f19e67d90c11f7fc45f7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/98ae0c811fd3ed8d04e75eb38e261d60b78b0c8c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.5"
+    },
+    "trophy_023": {
+      "name": "Starting Point",
+      "description": "Connect your Q-pid for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/86ed3bb6ddaec3576cfa0eca8a2b2cd1cd572772.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/91ca7dcc238c5c74df820aa237831adf5ceece98.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "92.4"
+    },
+    "trophy_024": {
+      "name": "Keep on Connecting",
+      "description": "Connect all facilities using your Q-pid.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/2943d1d79522b188ad8f09049d3859c054e75bd4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/61bd02d75a7ce454156c589bcd05ee09c4163e73.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.0"
+    },
+    "trophy_025": {
+      "name": "Connecting Hearts and Minds",
+      "description": "Maximize your connection level with all facilities.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/ffd195e045a297a0a1b9c280e15b3df1be7494ae.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/9b7bac53050be3d9cbae624c430378a33c29fbee.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.6"
+    },
+    "trophy_026": {
+      "name": "Self-Improvement",
+      "description": "Activate an APAS enhancement for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/360b519962ef0863d3431f38a609e449835695ce.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/fdd704ce2b8538d87a8e6f8d75afeaba75449674.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "77.1"
+    },
+    "trophy_027": {
+      "name": "It's Like That",
+      "description": " Send a Like for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/ffbbdb0c67fef86dffde915811cb2e56a291b08c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/e8fc3ac47b6a34bfa3de11738e70b078c159678f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "89.1"
+    },
+    "trophy_028": {
+      "name": "A Life Well Liked",
+      "description": "Receive a total of 2400 or more Likes for completing orders.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/713ad8ed5e45825d775f6c3bbf2e4f1ab4bafcad.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/46dc5959cb50a23b50f5051873f1551e44fc6196.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "83.0"
+    },
+    "trophy_029": {
+      "name": "A Porter at Peak Popularity",
+      "description": "Receive a total of 50000 or more Likes for completing orders.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/dba41127fff26f5fa05b723b5a3b25f0437fe87c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/113a118e8fa75f6e85831d3489bd88a86e011053.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "60.9"
+    },
+    "trophy_030": {
+      "name": "My First Training Session",
+      "description": "Complete a VR Training program for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/913c0d64250640104d472cb67cce99498e36fa99.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/5ee3296188a9d8991772474b5360d501bf1042d5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.5"
+    },
+    "trophy_031": {
+      "name": "A First Glimpse of the SSS",
+      "description": "Read an SSS post for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/42fcb3f797838298b33e16059389a9e73018174d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/c2ea710c9f37628f24d8f50909382079aa07fd30.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "88.1"
+    },
+    "trophy_032": {
+      "name": "Making It Your Own",
+      "description": "Use a screenshot taken in Photo Mode to decorate your private room.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/cfa7320ebddc5d7bb30c8412019cae9afb493f8b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/bff7cea8cbcea55c886e1de1139868bd5f598ce2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.6"
+    },
+    "trophy_033": {
+      "name": "Creature Comforter",
+      "description": "Deliver a wild animal to the Animal Shelter for the first time. (Animals required to complete orders do not count.)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/e6c48487ebf5c13088616be7e2c6c1674de7b3f7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/95e633efe4143c11d1b2a5111a9e736a56a5d9a5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "50.1"
+    },
+    "trophy_034": {
+      "name": "Rare Specimen Rescuer",
+      "description": "Deliver an albino animal to the Animal Shelter for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/2c31d5c43def29006094ef624d040a374b0ed2b5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/33d1f7872a9e625e55a379a140f546b989159983.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "18.2"
+    },
+    "trophy_035": {
+      "name": "Road Restorer",
+      "description": "Restore one section of road.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/f68f17cebdc8d2a048e241b4328c82aec576532c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/f246e22653b6e0db3e7cc2c20fe43cceb9267a3a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.0"
+    },
+    "trophy_036": {
+      "name": "Dig, Dig, Dig!",
+      "description": "Restore three mines.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/4aa8f60188f723e5c8a569ff4f42d60cfa9ccc56.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/d2192df04e986d1c49fa0bfd46c27f877b4b2208.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.8"
+    },
+    "trophy_037": {
+      "name": "Rail Restorer",
+      "description": "Restore and fully reopen a monorail line.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/6ce745388f0f8913fbba106a45abd8a41cdf0c91.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/424cd3cd7e335b6d888017bdfaffd55edcf1e05d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.7"
+    },
+    "trophy_038": {
+      "name": "Emergency Worker",
+      "description": "Deliver emergency support for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/e23c14e1043e44b7c434498509a390fdc24521d9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/b070c2efda0cc031c5097cc863b4f21c6082347e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.9"
+    },
+    "trophy_039": {
+      "name": "Spring into Life",
+      "description": "Dig a hot spring for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/26dd984ac51a1d8f9cf530729712ca701f61bbc9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/0b75483f9cc780ec0aa2208aa30f71c42f44504b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.4"
+    },
+    "trophy_040": {
+      "name": "Written in the Stars",
+      "description": "Study the night sky for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/570d1dc1f602ac725872be3774f89a18a5200aa6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/858de0ff5d1ccaa4ecd5aaf35e1ff64014966f31.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.0"
+    },
+    "trophy_041": {
+      "name": "Porters Make the World Go Round",
+      "description": "Barter with another porter for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/a96b769171c50c0ee55b2a6dc687be7e9cf73f99.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/23601f55069321f0d15010e704705f31337c8f2b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "15.6"
+    },
+    "trophy_042": {
+      "name": "A Private Show!",
+      "description": "Watch a live performance in your private room.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/460e485bef2f643cdca77fce743a9ab5561fb9fe.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/c99fb39fd0b99635b1c9230fd482d9b5f38fc22e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "22.5"
+    },
+    "trophy_043": {
+      "name": "So YOU'RE the Pizza Chef!",
+      "description": "Discover the truth about the Pizza Chef.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/b9833a0fd6fa28105d0ef0a080764a8b6de58318.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/697e7ccd1c09881df4755623f31e4659c7556b20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.5"
+    },
+    "trophy_044": {
+      "name": "Showdown at the Tar Lake",
+      "description": "Defeat the Lord of the Tar Lake.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/11923dde23d9a545e25a81be9dd55ec9a99a6f8e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/992f9b4bace262abf8fb180153a3edcc7a1b9528.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.4"
+    },
+    "trophy_045": {
+      "name": "The Headless Riders Unmasked",
+      "description": "Solve the riddle of the headless riders.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/0bd0e3de004f0e4b0256d3338fba8f440fd89b8a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/8c63a15b4b17645e523870d42332c57c94352189.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "42.7"
+    },
+    "trophy_046": {
+      "name": "Savior of Terminal Fort Knot",
+      "description": "Prevent Terminal Fort Knot from falling victim to a voidout.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/622df19729d1acdd6a1cbae9196a1f575ae75093.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/c8b23fec0f768d32625bd24de58ae751788bebe6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.2"
+    },
+    "trophy_047": {
+      "name": "The Scars Left by the Giants",
+      "description": "Arrive at the BT nexus in the F3 crater.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/c7dadce08b002861d7099899fcc1c2d896918a85.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/58d61e8a053528c1fcb7028e2e3bced1390a15a6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.3"
+    },
+    "trophy_048": {
+      "name": "The Real Story of the Ghost Hunter",
+      "description": "Reveal the truth about the Ghost Hunter.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/995acc3e01dbee6cf1ee330d9df48de53a1dc16f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/0c1c60110158c4793924ea1d7543cd1819ac2332.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.9"
+    },
+    "trophy_049": {
+      "name": "BT's Best Friend",
+      "description": "Capture a large BT for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/7b20066de5f7e5efa18752f19c35f710d56096a4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/3f50649331824d8f6012e21b23112ac4c0c1886e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "36.8"
+    },
+    "trophy_050": {
+      "name": "Conqueror of the Golden CC",
+      "description": "Defeat the golden chiral creature.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/a55e46492dc6ec1c4c08fecfc67bc1e029f0f9fe.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/2346b2a7d028d1acfcd4b4246cb2c084ab3eafac.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "27.9"
+    },
+    "trophy_051": {
+      "name": "A Premier Porter",
+      "description": "Achieve a porter grade of 40 or higher in all categories.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/c0eaad1d75af4fe2a1d8ebc648d2f005ef764d61.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/393df3744a5dd9e3b4e49cda1016ddf9974b52e2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "23.4"
+    },
+    "trophy_052": {
+      "name": "Compulsive Cargo Carrier",
+      "description": "Deliver a total of 500 pieces of cargo.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/1a42c8b200292ac0641ebaa7b66e350b6d0f217f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/2c9bb1c8ff65084a39d4e74d4d068213b136d940.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.5"
+    },
+    "trophy_053": {
+      "name": "Heavy Lifter",
+      "description": "Deliver cargo weighing a total of two tons.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/402927dbd0fd8d8a72651cdf49ad91a2b2b8378e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/67cb7974df272da786801e1fa25906fa6c343dcc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "65.6"
+    },
+    "trophy_054": {
+      "name": "Long-Distance Lugger",
+      "description": "Reach a total distance traveled of 80km upon completion of an order.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/ebc9395350686c80ad13a85b5a2c152e59d6d75f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/05b8362d28840745353ad3368321a2376cdf209a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "66.4"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

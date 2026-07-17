@@ -1,0 +1,469 @@
+{
+  "appid": "1378990",
+  "name": "Crash Bandicoot™ 4: It’s About Time",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1378990/header.jpg?t=1755191015",
+  "achievements": {
+    "trophy.play_as_coco": {
+      "name": "Ladies First",
+      "description": "Complete a level as Coco",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/b4dbedd2f3ef79431670537737c18dbb2d5d7036.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/0bc2afbc36349df47107b8aec916d75a6290ed99.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.6"
+    },
+    "trophy.z_tv_stations": {
+      "name": "Channel Surfer",
+      "description": "Spend some time surfin' the waves",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/785898665751fe880bcac712074cadf66fd3709e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/ab34809a9ae4aeb60841f54786c9e13c3f667d14.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "54.6"
+    },
+    "trophy.bizarro_boss_first": {
+      "name": "Beat ‘Em Any Which Way",
+      "description": "Beat any boss in N. Verted mode",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/c9514d2d0f686ddf2803f5806d985c808c34718a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/0366058a6b0bd807d6818d0ba9ae97074fd450d9.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.0"
+    },
+    "trophy.bizarro_level_all": {
+      "name": "Backwards & Forwards",
+      "description": "Complete ALL levels in N. Verted mode",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/b9a20e1beabb0ea530affa1713333e6737f75068.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/f527457ff6e13f68870381d11df725150ffd2db9.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.5"
+    },
+    "trophy.bizarro_level_first": {
+      "name": "IT’S MESSING WITH MY HEAD, MAN!!!",
+      "description": "Beat a level in N. Verted mode",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/9b060ddd267b242790ec589a95b28dcdafaf6103.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/462be6f136b8455b1c25eca025ab0834f79d10ad.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "24.3"
+    },
+    "trophy.bonus_first": {
+      "name": "Taking the Side Road",
+      "description": "Complete a Bonus Path",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/b45aa73f327ee00d8ddb46137371828d6f9a865e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/8c27eef2c13838c60da86cad876c28c7d20e80e9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "90.8"
+    },
+    "trophy.buddy_all": {
+      "name": "The Whole Picture",
+      "description": "Complete all Timelines",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/0a21d64ece270d84507520a201a2ed174d68440d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/1cdcafa75ce49339051ed65d4ff489a1b2bf560e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.8"
+    },
+    "trophy.buddy_first": {
+      "name": "Putting Things In Perspective ",
+      "description": "Complete any Timeline",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/ab08d358bd9433c4d558819c6db40b4a25ae39e4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/36e0c745230b03b2b8db9915c8a46ee82c6756c8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.5"
+    },
+    "trophy.checkpoint_race": {
+      "name": "Fleet of Feet",
+      "description": "Play a game of Checkpoint Race",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/ca9d8634db2ba0aad48980adc46b2f2e94afde9e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/fae66aa3fb04de2159b4658d3aab0ea8b69300f4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.8"
+    },
+    "trophy.crate_combo_clash": {
+      "name": "Settle the Score",
+      "description": "Play a game of Crate Combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/34f91ab341cf5e2bf56dbec4f310546d34228762.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/77886af7fef7c0f97bd9d29a5bae9ff250096d1d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.2"
+    },
+    "trophy.defeat_cortex_final": {
+      "name": "What Has Been, Will Be Again",
+      "description": "Defeat Dr. Neo Cortex… again.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/93c07c2faa028d536de528c6deeb38e3785f0f8f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/618b3e1c38c64ae01c1e0dcbd78e03d9a2030190.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "18.0"
+    },
+    "trophy.defeat_cortex_first": {
+      "name": "The Fourth Time",
+      "description": "Defeat Dr. Neo Cortex",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/1fa562fa2a8b81647cb8771ec059fe4275b66047.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/d9aa155cf06c0f2e88f44c78b71b4a03f69c80a8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "29.8"
+    },
+    "trophy.defeat_nbrio": {
+      "name": "Master Mixologist",
+      "description": "Defeat N. Brio",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/7bc8e09ab685fa7906b85ac4692ec1f3fd00270d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/c9790b8e7339a5e0c03987490d812d2b803f9769.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "40.0"
+    },
+    "trophy.defeat_ngin": {
+      "name": "Beaten With His Own Drum",
+      "description": "Defeat N. Gin and his Weapon of Mass Percussion",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/1e31d515458a90c1acbdfff73b4ec829860bc200.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/f43c1d5fb61862cc3ce81a151c60c4bee18f6c7c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "58.1"
+    },
+    "trophy.defeat_tropies": {
+      "name": "Twinsanity",
+      "description": "Defeat the Doctors N. Tropy",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/6b86620a53b39ad41ffc67a41370e0f7cc803c41.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/cbcc71a6e21c03a568951021ec5a11428e5066e0.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "24.0"
+    },
+    "trophy.ending_100": {
+      "name": "Overachiever",
+      "description": "Watch the 100% bonus ending",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/ccc01b53fbc70b7f118c989a6343b4e4a9667117.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/946677a0554d768435986f448da013affa3e5162.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.4"
+    },
+    "trophy.ending_200": {
+      "name": "OVER-Overachiever",
+      "description": "Watch the 106% bonus ending",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/4e510e958463d9474a5a4fd1864fd4c8dd6c99bd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/a1c7a3b75aa98064769aea8a9240b25b46b62ae5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.5"
+    },
+    "trophy.gem_blue": {
+      "name": "Sapphire-er Acquirer",
+      "description": "Find the hidden Blue Gem",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/2ac679b3043f4043eb905f844a10955437c5ebb5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/428f7511ca58022b9a1b02f62129a1b1f359214b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.4"
+    },
+    "trophy.gem_clear_50": {
+      "name": "Like a Rhinestone Bandicoot",
+      "description": "Earn half of the Clear Gems",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/19b12522be546156bbcc49ef014d5107158f6326.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/98aefb82f9c44cd931c61a5e944ffc5511b5312c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.2"
+    },
+    "trophy.gem_clear_100": {
+      "name": "King of Bling",
+      "description": "Earn ALL of the Clear Gems",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/f3e870e2b240cdb465f969c2405167d71f272b50.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/398e7a3ee7edac5dd533da5c3bbfff589dbc3e76.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.3"
+    },
+    "trophy.gem_clear_all_bizarro": {
+      "name": "gnilB fo gniK",
+      "description": "Earn ALL N. Verted Gems",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/0b01f9be5619037458d52fcf7fd8ddde6c5b9855.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/a91f52f106cee44a46917cd56e1408612f64aed6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.4"
+    },
+    "trophy.gem_green": {
+      "name": "Emerald Gemerald",
+      "description": "Find the hidden Green Gem",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/45e73d72a369ccc312c2c34b886c0cab349520b7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/7c0938fc223f3c5e5a5ed70d486c1b00ec3ddeb7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.3"
+    },
+    "trophy.gem_red": {
+      "name": "Ruby Red",
+      "description": "Find the hidden Red Gem",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/be637258d717da6e13f2193ca2588b108067ef67.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/ef9432f246cd07a18da245190f238d68ec73cf20.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "21.9"
+    },
+    "trophy.gem_yellow": {
+      "name": "Topaz Pizazz",
+      "description": "Find the hidden Yellow Gem",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/76b21f2fa632504cfeb97c3869a2047a75155440.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/585ff9542eff3e57a439903388faa37c75a6f977.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.7"
+    },
+    "trophy.high_jump": {
+      "name": "Altitude Sickness",
+      "description": "Crouch or slide into a double jump",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/778567b848664b19958215c4282569efe22d96e3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/bc3813382daf7f037756778b570427aa0ad698fe.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "87.4"
+    },
+    "trophy.mask_dark_matter": {
+      "name": "Silent Protagonist",
+      "description": "Meet 'Akano",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/1c0c3cc4f0f3ab6d2da9a55116f12b3b49eda5b0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/a9ba2aea057a244903f628fc4d8f8f24c001eb25.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "49.4"
+    },
+    "trophy.mask_gravity": {
+      "name": "Ups & Downs",
+      "description": "Meet Ika-Ika",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/6ea3c1c9e1a3f2d8e1c6dbae10cf4e2638b6a5cc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/4a413c6b34d707367f86689c11341d110b31037c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "27.2"
+    },
+    "trophy.mask_phase_shift": {
+      "name": "Reality-Shattering Proportions",
+      "description": "Meet Lani-Loli",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/041049035a1d8867dc385bc4ba4c370ea743d19a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/612814aa40550b1f25c87b213e2d0b1acd2db862.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "85.5"
+    },
+    "trophy.mask_time_slow": {
+      "name": "I Can See Through Time",
+      "description": "Meet Kupuna-Wa",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/931bc51668be6d57828a8c0a102bf8545f8e8370.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/9d6fb3614c5543a19f0dd33c0aecd78808c8d89c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.4"
+    },
+    "trophy.pass_and_play": {
+      "name": "No It’s MY Turn",
+      "description": "Complete a level with Pass N. Play enabled",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/d299c34b4ec7e9067787d5f4cb7d8a622221eff9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/b4627d7ead3c2e4e796e84068cb5d8e45c4a8821.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.5"
+    },
+    "trophy.quisine": {
+      "name": "Sudden But Inevitable",
+      "description": "Betrayed! By your worst enemy.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/5b81a60984b2aa692def441ae0f408da63025baf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/28821f40ae58867a6531100b60e06c525ae436c2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.7"
+    },
+    "trophy.relic_flashback_first": {
+      "name": "Model Test Subject",
+      "description": "Earn any Flashback Relic",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/6aa00dd4a1a24912b49e28de10163dbe032bebd4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/f4c75fec30a56b8e063a668965d3f58586d250cd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.5"
+    },
+    "trophy.relic_flashback_platinum_all": {
+      "name": "Closing the Experiment Log",
+      "description": "Earn ALL of the platinum Flashback Relics",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/a1110c5b9432d502dfc254331ce6aa960cc9ca94.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/7359c930658c47ee09f813da7c35eab436172f80.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.2"
+    },
+    "trophy.relic_n_sane_all": {
+      "name": "Perfectionist",
+      "description": "Earn ALL N.Sanely Perfect Relics",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/b8ee9556673a5b6644a9a2a06494d768a1175d06.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/982b2a1bc05a21c69ff27cfc362ec587e89353a6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.1"
+    },
+    "trophy.relic_n_sane_first": {
+      "name": "So-Called Perfectionist",
+      "description": "Earn any N.Sanely Perfect Relic",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/1b6600b28606a6386e64c58eb56977e9c3b44ed7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/7bbc065641ebd4d1cde5fdf2c39c7f29f707b2da.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "30.4"
+    },
+    "trophy.relic_time_trial_any": {
+      "name": "Faster Than a Tortoise",
+      "description": "Earn any Time Trial Relic",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/360c88db496e3f08b78d62359be3dc78d2607244.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/93266e1816a6a08664df3e65ea6e7cfec0ab25a8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.9"
+    },
+    "trophy.relic_time_trial_platinum_all": {
+      "name": "Faster Than Sound",
+      "description": "Earn ALL of the platinum Time Trial Relics",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/a7a282ff7e8c15158624cefc785406b73377bd7d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/a86e1ec977687774c25a8ed16905a0d4330bfaa1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.5"
+    },
+    "trophy.skin_first": {
+      "name": "All Gussied Up",
+      "description": "Try on a Skin",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/4723ec06cf3275c8a9697524fad0e4753f108be3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/185c28f14a46d8b7014fde3246b230414d47bacd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "66.5"
+    },
+    "trophy.triple_spin_first": {
+      "name": "Whoa!",
+      "description": "Pull off a Triple Spin",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/8bda3ffac4bffe62f96399e8634468dc7b1ab8ce.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/2d359fbf303b887a08d2bb68a5fc37340f7a9e67.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.4"
+    },
+    "trophy.triple_spin_win": {
+      "name": "Showoff",
+      "description": "Defeat an enemy with Triple Spin",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/c1f4ef92cd1c4f8559d3c47a4f8dfce47034aae1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/c95d4be3e58a5f8d2754e4410ad7caf22e178846.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.9"
+    },
+    "trophy.undying": {
+      "name": "N. Vincible",
+      "description": "Beat a story level without dying",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/60076c9e0a543cdc216f71aec657ed520e78b6d4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/a0ee7ab0c44ced62961134e0b2b644d80d7cda74.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "54.2"
+    },
+    "trophy.vhs_first": {
+      "name": "A/V Club Founder",
+      "description": "Acquire a Flashback Tape",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/9b07a0be750449116c70b165e80f623bfa04bad5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/9cd46b06ad95ccd8b1f11ea2fca442c72a705cd8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "66.9"
+    },
+    "trophy.z_bizaroo_tree": {
+      "name": "Tree Droppings",
+      "description": "Find the source of the Bumpa Berries",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/afa05431fc2c4c30d41340fbeacb5a17d649464b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/4cd2bcb2391fd9ced8fc2a82a812deb468bf18a7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.7"
+    },
+    "trophy.z_cat_in_dumpster": {
+      "name": "Here Kitty Kitty",
+      "description": "Scare the cat hiding from a party",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/be249b8932aa2d8a1754d7d3c3ed6e72bf222ca8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/02f5d52219951691060edf15fe885cfc5582ea75.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.6"
+    },
+    "trophy.z_dingo_cannons": {
+      "name": "Give 'Em a Broadside!",
+      "description": "Aim and fire!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/60da5d1db301facb28bddeb3da4cf0e184b99c29.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/fd38d57107a9dd38931d9eee1fb8a13333119fed.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.9"
+    },
+    "trophy.z_dingo_target_practice": {
+      "name": "Bad Signs",
+      "description": "Do some target practice",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/d4fcc94a73edf0cce2907fa995215b9253b88ddf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/4f4c370eb476c2e4e70c1687d91c1eabd9b827eb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.2"
+    },
+    "trophy.z_klank_tunes": {
+      "name": "Junkyard Jams",
+      "description": "Make music in an unlikely place",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/68039fbdc20a8113b06a945fa8b7d57f0734176a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/f98d9b59253cf62ca311ea7df99538f397ea3ff2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.9"
+    },
+    "trophy.z_spin_lani_loli": {
+      "name": "WOAH YEAH!",
+      "description": "Grabbed a bushel of Bumpa",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/af83fd3c068e0be34b60a41353f86d5110e8a8df.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/3f84622a485d102c53a7e38c9d03f9394fdfbf4b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.2"
+    },
+    "trophy.z_stfu_nbrio": {
+      "name": "Silence the Scientist",
+      "description": "Shut N. Brio up",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/843d1e451561d3bb5ffa06f15d00f58a7c0b9064.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/515f389a28db920a267b5f51942b9edeef360bc8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "48.2"
+    },
+    "trophy.z_stfu_ngin": {
+      "name": "Megaphoning It In",
+      "description": "Shut N. Gin up",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/9aa4564ae786ca94ad4ce1c744ec58169fa033d8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/46a42fde912463a61e1073fc61b895458500eb9d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "66.1"
+    },
+    "trophy.z_temple_gongs": {
+      "name": "Hammer it Home",
+      "description": "Make some noise!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/6a4115e470cb71af8a1ff95d6df8cb376d16b1c8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/6d5faa889a92795e35292070872656bc11221ffb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.4"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

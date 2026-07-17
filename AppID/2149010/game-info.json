@@ -1,0 +1,208 @@
+{
+  "appid": "2149010",
+  "name": "Little Nightmares Enhanced Edition",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2149010/8f1da102713653906647c5024843479395be3394/header.jpg?t=1760951366",
+  "achievements": {
+    "LittleLostThings": {
+      "name": "Little Lost Things",
+      "description": "Kindness will be your undoing!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/0cf9d0141c22e52a9000f192948c49bf62e07b3f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/d5e9dc0728dd2ae33a91e035165a190692b97a39.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.1"
+    },
+    "KitchenHand": {
+      "name": "Kitchen Hand",
+      "description": "The recipe is complete, the feast will be divine.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/66ed641735cebb6020ceca8520a9cf9c95ab925c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/5fabb34e7a58965cb0a27f4c8e65de09a9734aef.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.6"
+    },
+    "HighlySprung": {
+      "name": "Highly Sprung",
+      "description": "You'd jump even higher if you knew what slept there!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/3c93e850e078453f1a9dd625f89067502e1fedb4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/e50298d63854c0b122e78c479bd2e63d7ce2a30d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "33.9"
+    },
+    "Rascal": {
+      "name": "Rascal",
+      "description": "Little vandal, little beast, The Maw will punish you at the feast.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/974d5f608a2c62ae74ec2afe09118eccfcb9192e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/bad7161f9a071a9d21deae56b4c8f6f27b9839d3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.6"
+    },
+    "LightUpYourLife": {
+      "name": "Light Up Your Life",
+      "description": "Not all lights can be trusted, but these should be quite safe!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/2b2b89cc37442636893619214a44029bdf8aa1dd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/1e8d1cb77b2b5b4a8cb49fd2991e6813092035df.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.0"
+    },
+    "ThePrison": {
+      "name": "The Prison",
+      "description": "Look how the canary has flown its cage!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/bb84d7a2f1e618d53e654ed1f77f46e516cec6f0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/54f970bba56b4ffecb1fe2ff656c21070f4ca550.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "48.8"
+    },
+    "TheLair": {
+      "name": "The Lair",
+      "description": "Little lost things sometimes find their way home.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/d6ee1438963c5644e86057203bf006f4c894d56b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/0a87557d991d52a2b21c23e859d4111ff69eac34.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.0"
+    },
+    "TheKitchen": {
+      "name": "The Kitchen",
+      "description": "The Chefs will miss you!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/f546c6b532e1a5905cfeefed45737e58efe3a589.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/b70d31e079e23f8de97a2eee4d069c7a1a2c5fae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.5"
+    },
+    "TheGuestArea": {
+      "name": "The Guest Area",
+      "description": "Little fox among hungry wolves!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/d4777def0a32ecc130e7a800b90c1bd2a71b601c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/1599c24c02ff4ae833b66ae939e8a612bc312d31.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.2"
+    },
+    "TheLadysQuarters": {
+      "name": "The Lady's Quarters",
+      "description": "A storm is coming. That coat should come in useful.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/8c0dc76a5322772203ba09834c77984efdbb76bd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/c4b7789fa0065c4b46d3a2ec224de23a28159158.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.6"
+    },
+    "Elusive": {
+      "name": "Elusive",
+      "description": "Hey sneaky rat, how do you keep slipping away?",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/17b3d0a74ef4feaa5d0a9c9b54861808488e3fff.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/a9ac113e23c4c3d0605d81edc883d0115db9a30f.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.5"
+    },
+    "Glissando": {
+      "name": "Six's Song",
+      "description": "So many keys, yet none to unlock your cage!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/d664108a2f20f162bfca7b311a1b78ce8b0497b6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/2808debab3bb6dd5addd3d36b7fcd98a60382ca1.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.2"
+    },
+    "HardToTheCore": {
+      "name": "Hard to the Core",
+      "description": "What’s different about you? Why are you so brave?",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/c992e2c79e7da03a06a9980a8ccb2beeda652445.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/dc4370f3600a821ae491df823051dc4106a204ec.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.7"
+    },
+    "SoClose": {
+      "name": "So Close",
+      "description": "You'll do better next time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/4d6f5b8bca88f907fc82f4704cc8ca37944d3c61.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/8817f2e436b910ae5774242b2050085f2c721957.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.3"
+    },
+    "NotAlone": {
+      "name": "Not Alone",
+      "description": "What's new with you?",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/8bf8ed8cb1286a97a46764561ea9c431626a29f4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/d047bac7fe55c58255de5bc5462a57172d071044.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.5"
+    },
+    "FunAndGamesAhead": {
+      "name": "Fun & Games Ahead",
+      "description": "Play nicely, no pulling hair",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/e625f33ce07b4dad1d573c95575edf73815085ce.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/662359f1b2075fe1560fc688ed8b7ea22477da06.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.9"
+    },
+    "EndInSight": {
+      "name": "End in Sight",
+      "description": "The final stretch will be largely uneventful.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/c64b6f23f3fbf4fc0e9ca33243d33de61d2a149d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/0239d74351858db51c8f530f606c1d0711dc2bb8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.9"
+    },
+    "IsAnybodyOutThere": {
+      "name": "Is Anybody Out There?",
+      "description": "I wish I could visit you there.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/d284b9e50dab8396aa8fb12803e5e5ac0c90e7f4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/0a3ef2119bae854998df85afd26c1a802094c394.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.3"
+    },
+    "AshesInTheMaw": {
+      "name": "Ashes in The Maw",
+      "description": "Are you proud of yourself?",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/903838ac0d7c5d9bcd4b220c80a6a4f8deb8f96a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/8f41472d8144b5ef4828df27c5b861a19a85e36c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.5"
+    },
+    "WellMeetAgain": {
+      "name": "We'll Meet Again",
+      "description": "The final chapter is written",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/27178f5dc1e055c0f18089bb648553a2c0d3396f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/422a2fa4edfa6207cff0a45cf518384e5944e4e4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.2"
+    },
+    "AshesToAshes": {
+      "name": "Ashes to Ashes",
+      "description": "Who knows what secrets they hold?",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/6a66c76da73e96ae035e5f7c99b0ab6996836bf7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/7b565d5e18d8c446bce948ec0bf7b148d775fa01.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.0"
+    },
+    "ImLosingYou": {
+      "name": "I'm Losing You",
+      "description": "I'll be out of reach for a while.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/5c873bd2b9b70fdb7160e9989117bc2d1a0fb827.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/6a6844299579bd93bc39fc29d7996780b9aa645d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.5"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

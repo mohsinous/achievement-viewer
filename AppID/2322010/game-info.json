@@ -1,0 +1,442 @@
+{
+  "appid": "2322010",
+  "name": "God of War Ragnarök",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/header.jpg?t=1776465233",
+  "achievements": {
+    "NEW_ACHIEVEMENT_1_0": {
+      "name": "The Bear and the Wolf",
+      "description": "Collect all Trophies",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/762be536be3f6258d91d4ed86c7de175e21ffe87.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/240a81a80c3e461bd3204a445ee400418ff904bf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.4"
+    },
+    "NEW_ACHIEVEMENT_1_1": {
+      "name": "The Florist",
+      "description": "Collect one flower from each of the nine realms",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/4fff7ffcd142753ae11037e43ad1c2d6204b6ea0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/0b203bdbbc74187973017444c064830ff89d0597.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.2"
+    },
+    "NEW_ACHIEVEMENT_1_2": {
+      "name": "The Librarian",
+      "description": "Collect all of the Books",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/5325fffe5af2a3875422dc55d90a81c302063081.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/1303499c01fe00e1d9fc161272af6c025eb7ccc6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.6"
+    },
+    "NEW_ACHIEVEMENT_1_3": {
+      "name": "The Curator",
+      "description": "Collect all of the Artifacts",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/5249ab1e181410ba60f930591c2cac09e0f11703.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/59402330b425dbc77d9c308935cd1ff32ea87065.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.0"
+    },
+    "NEW_ACHIEVEMENT_1_4": {
+      "name": "How it Started",
+      "description": "Equip an Enchantment",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/d2bb163ea5ff0db47da5ebc8f43176c4b24d502f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/f29caddf5e76ef8337090da30b978f76da70adc1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "66.7"
+    },
+    "NEW_ACHIEVEMENT_1_5": {
+      "name": "Spit Shine",
+      "description": "Upgrade one piece of armor",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/dff9f0238f37a57f15f4421e639ca9acf90757eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/84580e4958c6e4ce45d737c2d04898e3497c6855.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "82.3"
+    },
+    "NEW_ACHIEVEMENT_1_6": {
+      "name": "Spartan Ways",
+      "description": "Remember the Spartan teachings",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/282ccbc209250ac7d4b5281bc586bb1624d4ad75.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/c4644281972470405f58160e7dfcd7a74a3dd62e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "59.0"
+    },
+    "NEW_ACHIEVEMENT_1_7": {
+      "name": "Full Belly",
+      "description": "Obtain all of the Apples of Iðunn and Horns of Blood Mead",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/7618c288972f37b826f123ac35494c460c64f7b6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/c0da874e04ce0c91e2525adc2682b49e9f6e123f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.6"
+    },
+    "NEW_ACHIEVEMENT_1_8": {
+      "name": "Knock off the Rust",
+      "description": "Purchase a Skill",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/c0cceaae3322824a28968d00adc913815a55994b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/95071084c9b0057cef21ffe0ba95bf63c3b8dac0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "86.0"
+    },
+    "NEW_ACHIEVEMENT_1_9": {
+      "name": "A Grizzly Encounter",
+      "description": "Battle the Bear",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/b774621d4b562f5f2f808e73682080f7c8f905db.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/601c8de2d0182e9cf024f59f993e5723decc43d5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "92.5"
+    },
+    "NEW_ACHIEVEMENT_1_10": {
+      "name": "Blood Debt",
+      "description": "Battle the God of Thunder",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/460fecc92590775db4e2cf2c8f4055559d90fa59.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/284267220ee15f51419dace14393d562e89a4109.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "90.9"
+    },
+    "NEW_ACHIEVEMENT_1_11": {
+      "name": "Backyard Brawl",
+      "description": "Battle the Mysterious Valkyrie",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/0affab1ff995f3c320585bd30877379f4098ed7a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/b21008e4812cf74eac15bc40f6a5c3dfd571a825.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "68.5"
+    },
+    "NEW_ACHIEVEMENT_1_12": {
+      "name": "Root of the Problem",
+      "description": "Battle Níðhögg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/d7ea3ba4988f3beeffa6eea3e3c6d31c9ed15f67.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/a11ac44c28e39113045ff691486dc7405fa1057e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "66.7"
+    },
+    "NEW_ACHIEVEMENT_1_13": {
+      "name": "The Cauldron",
+      "description": "Destroy Grýla's cauldron",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/421cda7a6d79a5c89d077103eb9fdd357c7c79ca.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/daf6692defa3c860317093b51f70357b57f0dfdf.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "68.7"
+    },
+    "NEW_ACHIEVEMENT_1_14": {
+      "name": "Off the Leash",
+      "description": "Battle Garm",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/c61bed76aad23f8cc40ff81c97be57a9f2a614e1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/ff4c73e9ff6676a79eb5178cb9f1092297543ba5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "58.6"
+    },
+    "NEW_ACHIEVEMENT_1_15": {
+      "name": "Comeuppance",
+      "description": "Battle Heimdall",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/78ef1d9b71435a66f2f057c6901563687ebe06de.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/83d7ae5f73dabcfd6aa3827bc29c538f36f9e2a6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "56.9"
+    },
+    "NEW_ACHIEVEMENT_1_16": {
+      "name": "Better Together",
+      "description": "Battle Hrist and Mist",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/88d2ce7597f8c4caf28d46edbe3a1051851de9bd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/fc1fdfc2f91a4ad2ea7ef7dc74440ecf46ba066d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "54.5"
+    },
+    "NEW_ACHIEVEMENT_1_17": {
+      "name": "Phalanx",
+      "description": "Obtain all Shields",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/e448fd28e7626c3d091f95928ea5c73f6917cc57.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/c610620c90706918d86577aecf6d2f51af9c4816.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.8"
+    },
+    "NEW_ACHIEVEMENT_1_18": {
+      "name": "Collector",
+      "description": "Obtain all Relics and Sword Hilts",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/a8579b645e94cc84baceea1c6b7dd48f9525f36b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/94a5f8b4c40fb4e4f4040beb945f28878240484e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.8"
+    },
+    "NEW_ACHIEVEMENT_1_19": {
+      "name": "Dragon Slayer",
+      "description": "Craft the Dragon Scaled Armor Set",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/1b6ff5b2e0ed56d6a8a06e82d20634026a1740ab.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/b33f9419545d4a9f178db786704813fbd056eedb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.2"
+    },
+    "NEW_ACHIEVEMENT_1_20": {
+      "name": "How it's Going",
+      "description": "Fully repair the Amulet of Yggdrasil",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/f885d589f5a03ccfe03f8f80371bed7481d9f7d2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/1255cb8abab40f1c6cb0a6bf9992a425797926fd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.7"
+    },
+    "NEW_ACHIEVEMENT_1_21": {
+      "name": "Funeral for a Friend",
+      "description": "Attend the funeral",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/7ae1a7e3ea07c2a88ccc1c6a5996b0af30864725.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/b0ffc42ed75fc62e36435374281fbb396c0e092d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.6"
+    },
+    "NEW_ACHIEVEMENT_1_22": {
+      "name": "Rebel Leader",
+      "description": "Return the Hammer of the Rebellion",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/6f1e71e216ac4e790cf8d3a40d1946074c01c3a6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/967c1c8b366cb5a535de659257c8544c1ac22d55.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "44.6"
+    },
+    "NEW_ACHIEVEMENT_1_23": {
+      "name": "New Friends",
+      "description": "Fetch Lúnda's orb",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/aacb3441a6af8a5836145ea39a6b081a0935ce28.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/08c25a07568705d4b3197b16182c8a63a8dfb5bc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "52.1"
+    },
+    "NEW_ACHIEVEMENT_1_24": {
+      "name": "Full Gufa",
+      "description": "Free the Hafgufas",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/840183706cc70cac323f41e7715c9327c4ebe293.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/fb5b39e4a1e0b92ad99d258d2bfd69e1cc71c223.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "46.5"
+    },
+    "NEW_ACHIEVEMENT_1_25": {
+      "name": "Making Amends",
+      "description": "Free the Lyngbakr",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/44ccd275c87ba90d37e458d03aea5225a458d8f9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/55c67977e2252231f3a6be8be3d5d1e2c5220d2f.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "57.0"
+    },
+    "NEW_ACHIEVEMENT_1_26": {
+      "name": "It Was a Good Day",
+      "description": "Retrieve Mardöll",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/68f1958a965b22d50e90f5b34e19c271a606460a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/619ad34fd4b4a5a79984a94e731e31d455bfb2d6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "50.9"
+    },
+    "NEW_ACHIEVEMENT_1_27": {
+      "name": "Invasive Species ",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/3b34161ddfc1f1c475f6df26cb128b5f5969bad0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/3d667380096bf3bd5ca9c74391180afd4e147089.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "28.5"
+    },
+    "NEW_ACHIEVEMENT_1_28": {
+      "name": "Besties",
+      "description": "Pet Speki and Svanna",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/207818e8f012d0b54910e8e48145d7fa4545c282.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/7472e601a73ea03b9ce024c3467f78c166fccbfd.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "45.8"
+    },
+    "NEW_ACHIEVEMENT_1_29": {
+      "name": "Rightful Place",
+      "description": "Return all the Lindwyrms to Ratatoskr",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/56850ea84057a676ea14ea32663cebf4e88c14f6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/762c44572257b9d00391bbbe066328773506a197.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "28.3"
+    },
+    "NEW_ACHIEVEMENT_1_30": {
+      "name": "Pure of Hart",
+      "description": "Return the Stags of the Four Seasons",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/3cb2339edaaaee97c1a1d5ea00cd8aadbbc69d8c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/ac2a08d314aab591ddcf60899d011245fc4dffb6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "30.0"
+    },
+    "NEW_ACHIEVEMENT_1_31": {
+      "name": "Trials by Fire",
+      "description": "Complete the Trials of Muspelheim",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/299b3c2ab3dbe8b9f02d262d3fb54551c16167bf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/78542c4ca375edc4d368145defb5451a41545beb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "21.3"
+    },
+    "NEW_ACHIEVEMENT_2_0": {
+      "name": "Ready for Commitment",
+      "description": "Fully upgrade one armor set",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/85af0ce5355bf6a4641f8657addb37464baf16ca.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/4e30b31f6f3264210aebf535d2cd08633da6bce5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.8"
+    },
+    "NEW_ACHIEVEMENT_2_1": {
+      "name": "Ragnarök",
+      "description": "Battle the All-Father",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/500b82631e8f9efcfe0fda022d94fcf1eff6497a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/023c658f4861fa953eb6d338d63acae2f7b28026.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "53.7"
+    },
+    "NEW_ACHIEVEMENT_2_2": {
+      "name": "Grave Mistake",
+      "description": "Battle King Hrólf",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/5ba906481dc8052e1105baddc82fb8e6786cd430.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/6b6cfb7210a7ffecef6ed90bc5629fa1c67261e5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "21.3"
+    },
+    "NEW_ACHIEVEMENT_2_3": {
+      "name": "The True Queen",
+      "description": "Battle Gná",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/4dfdb9c0b96dbf11ae60f641691ed20775bf627c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/4452ca7c2e4f7d778ef509889d00aa6be910baf9.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.3"
+    },
+    "NEW_ACHIEVEMENT_2_4": {
+      "name": "God of Hope",
+      "description": "Master Valhalla and master thyself",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/ab4bcd6e2a7fa5bafe207cd469c2e30e2bf5019d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/ddcf242f10a6868f1a891ddb4f829c7d3d3096ad.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.3"
+    },
+    "NEW_ACHIEVEMENT_2_5": {
+      "name": "Invitation Accepted",
+      "description": "Discover the secret of Valhalla",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/a16f4e1d167fff5bf7fb60a9c24b39e179cf1560.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/14cd4364e153c671fa3003e0322157620f0137c4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.4"
+    },
+    "NEW_ACHIEVEMENT_2_6": {
+      "name": "Dark Odyssey",
+      "description": "Participate in the sacrifice",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/3a9556c7b688abea71722ae6a1c499d9d124e6a0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/313e627d3bf32e52c3a9fd657a121b0e8cfea69d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "25.4"
+    },
+    "NEW_ACHIEVEMENT_2_7": {
+      "name": "Blood, Sweat, and Týr",
+      "description": "Battle Týr",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/f168c00052a7491474fe4509eb99d702bc822b50.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/189a5effbe0eabf7767ce79ee6f9f9f98ef42dc6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "22.6"
+    },
+    "NEW_ACHIEVEMENT_2_8": {
+      "name": "Scry Me a River",
+      "description": "Reclaim Kratos' Oath Stone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/45ebc2d1fc020271456504bfaa7caf9bcc0440cf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/e0d1a45fce90cebd3faf97114d2dc3dad1b19215.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "21.3"
+    },
+    "NEW_ACHIEVEMENT_2_9": {
+      "name": "Wayfarer",
+      "description": "Visit all 9 Realms in Valhalla",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/8c54884da8902093f3db13f41e2c83c12ff64c95.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/e85f15721a8661ec13486b32de581ac0cfcee0ef.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.7"
+    },
+    "NEW_ACHIEVEMENT_2_10": {
+      "name": "No Kratos, No Scry",
+      "description": "Reclaim Pandora's Statue",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/986a1d05038798dd2549319c9415b5c1e955fef4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/dbd67cd1e916bf07ed9be095831bd1e052bc12df.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "18.5"
+    },
+    "NEW_ACHIEVEMENT_2_11": {
+      "name": "Fight at the Forum",
+      "description": "Participate in a fight at The Forum arena",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/410939f632abc8bb5b8f550532f5ec2184132368.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/a3cb8ac11d64cf66ca84bf643c46ef2e59a5bc51.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.2"
+    },
+    "NEW_ACHIEVEMENT_2_12": {
+      "name": "Easy Come, Easy Go",
+      "description": "Acquire more than 15,000 Fleeting Echoes on a single attempt",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/a0b3936c936515eb49b46bc7e8f8d5b65cff8082.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/c4baf0e1270d928e075291ff1c338f44840bed6f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.8"
+    },
+    "NEW_ACHIEVEMENT_2_13": {
+      "name": "Understood the Assignment",
+      "description": "Complete 9 Mastery Quests",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/589aaa85b86385c8055eb2b49fa5caff470d6bf9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/4c1bab39c437362b0de9a8d18cd236f4443d2c8d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.0"
+    },
+    "NEW_ACHIEVEMENT_2_14": {
+      "name": "Style Points",
+      "description": "Equip a Cosmetic Armor",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/dce9d96ff218f81ccf60d323f645256a7bcfd3d9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/75141bd53f5e4658c1b5b65dbac0ba5b6c616c01.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.5"
+    },
+    "NEW_ACHIEVEMENT_2_15": {
+      "name": "You Again?",
+      "description": "Find all 3 Boat Captain Keys",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/fb80e092dd1fd18d6c372ac5bb20f063badcc34f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322010/a1c3eaa1b4c9863dabbc1dd286f322a76db6640b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.2"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}
