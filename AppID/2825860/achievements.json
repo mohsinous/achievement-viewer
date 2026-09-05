@@ -1,0 +1,94 @@
+{
+  "END_GAME": {
+    "earned": true,
+    "earned_time": 1788542945
+  },
+  "ERC_ALL": {
+    "earned": true,
+    "earned_time": 1788541081
+  },
+  "FIRST_CHUNK": {
+    "earned": true,
+    "earned_time": 1788149886
+  },
+  "FISH_MARKET": {
+    "earned": true,
+    "earned_time": 1788536037
+  },
+  "GRENADE": {
+    "earned": true,
+    "earned_time": 1788532916
+  },
+  "HOSPITAL": {
+    "earned": true,
+    "earned_time": 1788517984
+  },
+  "KILLHEAVY": {
+    "earned": true,
+    "earned_time": 1788517146
+  },
+  "NGP_LORE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "OI_1": {
+    "earned": true,
+    "earned_time": 1787414957
+  },
+  "OI_2": {
+    "earned": true,
+    "earned_time": 1788155875
+  },
+  "OI_3": {
+    "earned": true,
+    "earned_time": 1788242545
+  },
+  "OI_4": {
+    "earned": true,
+    "earned_time": 1788245192
+  },
+  "OI_6": {
+    "earned": true,
+    "earned_time": 1788514068
+  },
+  "OI_7": {
+    "earned": true,
+    "earned_time": 1788515111
+  },
+  "OI_8": {
+    "earned": true,
+    "earned_time": 1788530081
+  },
+  "OI_9": {
+    "earned": true,
+    "earned_time": 1788534114
+  },
+  "PERK_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PLTN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "RADIO_COL": {
+    "earned": true,
+    "earned_time": 1788541528
+  },
+  "RIFLE": {
+    "earned": true,
+    "earned_time": 1788512536
+  },
+  "SHOTGUN": {
+    "earned": true,
+    "earned_time": 1788235543
+  },
+  "SMG": {
+    "earned": true,
+    "earned_time": 1788246286
+  },
+  "STR_DUNG": {
+    "earned": true,
+    "earned_time": 1788248135
+  }
+}
