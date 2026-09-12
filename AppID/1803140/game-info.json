@@ -1,7 +1,7 @@
 {
   "appid": "1803140",
   "name": "Deer & Boy",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1803140/ba7605686800e14c55b62051c4fb05caa75f8355/header.jpg?t=1784193192",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1803140/ba7605686800e14c55b62051c4fb05caa75f8355/header.jpg?t=1784714117",
   "achievements": {
     "HUG": {
       "name": "Free hug",
@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "80.8"
+      "percent": "82.6"
     },
     "MEET_DEER": {
       "name": "Unexpected encounter",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "91.0"
+      "percent": "92.0"
     },
     "START_GAME": {
       "name": "Sneak out",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "95.8"
+      "percent": "96.7"
     },
     "FUGITIVE": {
       "name": "Gone missing",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "88.9"
+      "percent": "90.0"
     },
     "MOTHERDEER_DEATH": {
       "name": "Farewell",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "83.6"
+      "percent": "85.1"
     },
     "FACTORY_NOHIT": {
       "name": "Do not disturb",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.2"
+      "percent": "42.1"
     },
     "DEERBAG_FIRST": {
       "name": "Cosy ride",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.8"
+      "percent": "84.5"
     },
     "DARKMATTER_WALK_FIRST": {
       "name": "Watch your steps!",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "76.5"
+      "percent": "78.7"
     },
     "DARKMATTER_DEATH_FIRST": {
       "name": "Nice try!",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "69.1"
+      "percent": "71.2"
     },
     "BOAR_NOHIT": {
       "name": "Keep a low profile",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "8.0"
     },
     "SHOWDEER_FIRST": {
       "name": "Show, don't tell!",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.2"
+      "percent": "70.4"
     },
     "FIREFLY_TO_TRAIN": {
       "name": "Runaway train",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.7"
+      "percent": "70.0"
     },
     "DEERPURSUIT_NOHIT": {
       "name": "Forbidden fruit",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.0"
+      "percent": "13.9"
     },
     "UNDERGROUND_ENTRY": {
       "name": "Metal Deer Solid",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.0"
+      "percent": "64.5"
     },
     "DEERPOWER_FIRST": {
       "name": "With small power comes small responsibility",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.8"
+      "percent": "64.3"
     },
     "FROGGERPURSUIT_NOHIT": {
       "name": "Running man",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.3"
+      "percent": "5.9"
     },
     "DEERGROWTH": {
       "name": "Time flies",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.5"
+      "percent": "58.1"
     },
     "WOLFTRAP": {
       "name": "The boy who cried wolf",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.9"
+      "percent": "56.0"
     },
     "WOLFPURSUIT_NOHIT": {
       "name": "Close call!",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.7"
+      "percent": "11.3"
     },
     "DARKBOY_ENCOUNTER": {
       "name": "A sinister encounter?",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.8"
+      "percent": "52.8"
     },
     "DARKBOY_CUDDLE_FIRST": {
       "name": "Give me five!",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.3"
+      "percent": "24.0"
     },
     "REUNION": {
       "name": "Together again ",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.2"
+      "percent": "51.7"
     },
     "SECRETROOM": {
       "name": "Hidden room",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.5"
+      "percent": "7.4"
     },
     "DEERADULT_NOHIT": {
       "name": "Flawless derby",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.3"
+      "percent": "5.8"
     },
     "END": {
       "name": "Thank you for playing!",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.0"
+      "percent": "48.3"
     },
     "END_CREDITS": {
       "name": "Thank you for watching the credits until the end! ",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.5"
+      "percent": "25.1"
     },
     "CUDDLE_ALL": {
       "name": "Best friend forever",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.3"
+      "percent": "37.7"
     },
     "TRAITOR": {
       "name": "You got what you asked for...",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1803140/ad68576d485a9f5775d4c5ab30500ec5fce05206.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.4"
+      "percent": "52.5"
     }
   },
   "platform": null,

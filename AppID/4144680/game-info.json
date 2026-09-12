@@ -1,7 +1,7 @@
 {
   "appid": "4144680",
   "name": "DEAD OR ALIVE 6 Last Round",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144680/e94fe79e24de4c1488f1967f13144c6df66b5b51/header.jpg?t=1784163853",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144680/e94fe79e24de4c1488f1967f13144c6df66b5b51/header.jpg?t=1789004553",
   "achievements": {
     "RAISE_ACHIEVEMENT_01": {
       "name": "DEAD OR ALIVE 6 Last Round Master",
@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.6"
+      "percent": "16.0"
     },
     "RAISE_ACHIEVEMENT_02": {
       "name": "Fighting Entertainment",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.8"
+      "percent": "79.3"
     },
     "RAISE_ACHIEVEMENT_03": {
       "name": "Change!",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "32.5"
     },
     "RAISE_ACHIEVEMENT_04": {
       "name": "Fledgling Fighter",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.8"
+      "percent": "47.0"
     },
     "RAISE_ACHIEVEMENT_05": {
       "name": "Cleared ARCADE course",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.4"
+      "percent": "41.6"
     },
     "RAISE_ACHIEVEMENT_06": {
       "name": "Cleared TIME ATTACK course",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "22.2"
     },
     "RAISE_ACHIEVEMENT_07": {
       "name": "Cleared SURVIVAL course",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "22.3"
     },
     "RAISE_ACHIEVEMENT_08": {
       "name": "Training Hard",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.7"
+      "percent": "22.3"
     },
     "RAISE_ACHIEVEMENT_09": {
       "name": "Exercise Newbie",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "30.1"
     },
     "RAISE_ACHIEVEMENT_10": {
       "name": "DOA Rookie",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.1"
+      "percent": "36.1"
     },
     "RAISE_ACHIEVEMENT_11": {
       "name": "A Fighter is Born",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.9"
+      "percent": "18.0"
     },
     "RAISE_ACHIEVEMENT_12": {
       "name": "A New Challenger Appears!",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.2"
+      "percent": "35.4"
     },
     "RAISE_ACHIEVEMENT_13": {
       "name": "Unchallenged Champion",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.0"
+      "percent": "23.0"
     },
     "RAISE_ACHIEVEMENT_14": {
       "name": "Adept Shopper",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.1"
+      "percent": "55.8"
     },
     "RAISE_ACHIEVEMENT_15": {
       "name": "Wise Manners",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.2"
+      "percent": "34.1"
     },
     "RAISE_ACHIEVEMENT_16": {
       "name": "Records Keeper",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.3"
+      "percent": "42.7"
     },
     "RAISE_ACHIEVEMENT_17": {
       "name": "The Observer",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.8"
+      "percent": "25.0"
     },
     "RAISE_ACHIEVEMENT_18": {
       "name": "Learning From the Past ",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.7"
+      "percent": "23.9"
     },
     "RAISE_ACHIEVEMENT_19": {
       "name": "Melomaniac",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.0"
+      "percent": "24.5"
     },
     "RAISE_ACHIEVEMENT_20": {
       "name": "DOApedia",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.5"
+      "percent": "27.1"
     },
     "RAISE_ACHIEVEMENT_21": {
       "name": "Star Catcher",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.2"
+      "percent": "35.5"
     },
     "RAISE_ACHIEVEMENT_22": {
       "name": "Star Dust",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.5"
+      "percent": "28.4"
     },
     "RAISE_ACHIEVEMENT_23": {
       "name": "Milky Way",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.1"
+      "percent": "18.6"
     },
     "RAISE_ACHIEVEMENT_24": {
       "name": "Rival Rumble",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.6"
+      "percent": "22.6"
     },
     "RAISE_ACHIEVEMENT_25": {
       "name": "Rival Rampage",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.7"
+      "percent": "15.5"
     },
     "RAISE_ACHIEVEMENT_26": {
       "name": "Rival Deathmatch",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.8"
+      "percent": "7.0"
     },
     "RAISE_ACHIEVEMENT_27": {
       "name": "Fighting For Real",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.0"
+      "percent": "20.2"
     },
     "RAISE_ACHIEVEMENT_28": {
       "name": "The Hungry One",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.1"
+      "percent": "10.2"
     },
     "RAISE_ACHIEVEMENT_29": {
       "name": "The Capable One",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.9"
+      "percent": "7.0"
     },
     "RAISE_ACHIEVEMENT_30": {
       "name": "The Show-off",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.8"
+      "percent": "11.6"
     },
     "RAISE_ACHIEVEMENT_31": {
       "name": "A Fight to Remember",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.6"
+      "percent": "16.5"
     },
     "RAISE_ACHIEVEMENT_32": {
       "name": "Rushing It",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.6"
+      "percent": "45.6"
     },
     "RAISE_ACHIEVEMENT_33": {
       "name": "Smashing It",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.3"
+      "percent": "53.7"
     },
     "RAISE_ACHIEVEMENT_34": {
       "name": "Grabbing It",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.8"
+      "percent": "30.7"
     },
     "RAISE_ACHIEVEMENT_35": {
       "name": "No Escape!",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.4"
     },
     "RAISE_ACHIEVEMENT_36": {
       "name": "I See Through It All",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.7"
+      "percent": "32.4"
     },
     "RAISE_ACHIEVEMENT_37": {
       "name": "Picture Perfect",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4144680/ee186ea28f5685c3b089cad70990aa39f5251e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.5"
+      "percent": "23.7"
     }
   },
   "platform": null,

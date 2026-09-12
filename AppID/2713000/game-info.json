@@ -1,0 +1,334 @@
+{
+  "appid": "2713000",
+  "name": "Resonance: A Plague Tale Legacy",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2713000/fd497979801c646561040243e1aa64a73d11f13a/header.jpg?t=1788365423",
+  "achievements": {
+    "ACH_01": {
+      "name": "Blood ties",
+      "description": "Complete Chapter 1",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/cafb6aaf0371c99689ab0a51fbcceb3e187d6f0a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/3bf30606e113929a3f383e6bc0eea6fd2b8f81e2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "91.8"
+    },
+    "ACH_02": {
+      "name": "Felons",
+      "description": "Complete Chapter 2",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/e4acb5634186962427c40e640be25ac133a63b74.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/67d300f3ea42f635243b781c71e6332c5da66c7e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "85.7"
+    },
+    "ACH_03": {
+      "name": "Those before us",
+      "description": "Complete Chapter 3",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/b3104c221f08f0e9b2641e9434863c24d1c99c8b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/622f5949499d380d308b5990f85f3e8e091bbbbb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "78.2"
+    },
+    "ACH_04": {
+      "name": "From hell it rose",
+      "description": "Complete Chapter 4",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/af29b9b842b1c0ee54752f83b4eca6fe62d646f1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/02ea9208316735f7a2b2763ecf3a1b8b0027707d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "71.4"
+    },
+    "ACH_05": {
+      "name": "Desolation it wrought",
+      "description": "Complete Chapter 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/2e2c2a1e2fdeb881005afc096fdd328fb6b5dc55.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/03f6a95e35a36c3ad625bcf37eef2181e638e7b3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "65.3"
+    },
+    "ACH_06": {
+      "name": "What Lies Beneath",
+      "description": "Complete Chapter 6",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/f6af1f5b656905d8e57af379ba5b7c193c7fa170.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/f9b0c15fbe03457faa4d41479b270a4214cf9e16.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "63.2"
+    },
+    "ACH_07": {
+      "name": "Death it sowed",
+      "description": "Complete Chapter 7",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/8ec09e9c4eca43952123f76de8273b128f4402b2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/ae217964eea83d375e237aa44381f5c3c8c380ed.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "60.0"
+    },
+    "ACH_08": {
+      "name": "Resonance",
+      "description": "Complete Chapter 8",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/9b2764263f10c3a2d741596f0aef77d034b87181.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/084f35efbf01278ad3ee010060450fd464b3229a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "59.3"
+    },
+    "ACH_09": {
+      "name": "Night has come",
+      "description": "Complete Chapter 9",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/7eafae29413df62476003d313459c3519b17bb3c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/f982bda37f64bf8543ef9d7e8981da8b92712475.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "56.8"
+    },
+    "ACH_10": {
+      "name": "Parallel paths",
+      "description": "Complete Chapter 10",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/e6613c836acfa86629c00f8165fccf9d3a8eaa5e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/f43ef382560133c6641660ac18b57e13737c361d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "53.7"
+    },
+    "ACH_11": {
+      "name": "Patera",
+      "description": "Complete Chapter 11",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/203a7cd8683516d5f8a425496310418cc1e8f9b1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/d8c4f3027e828aec021e9cecbe58ebbbb7969410.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "51.6"
+    },
+    "ACH_12": {
+      "name": "Fading Light",
+      "description": "Complete Chapter 12",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/a10214d158f27a4268855a56a729f70613db7d84.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/30e0cef9ce9a82eba54c43c998cd495a1f712f4d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "50.8"
+    },
+    "ACH_13": {
+      "name": "As One",
+      "description": "Complete Chapter 13",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/0c70f97f1aed76a7ce635a5c78b232b6dc34f9a5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/e16aa813c6bdeabd391a5683b85078fbbe442205.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "49.9"
+    },
+    "ACH_14": {
+      "name": "A new beginning",
+      "description": "Complete all Chapters",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/1d6323e4386f0165509dde0d9d49111f9384f7ec.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/0c3459393bf3c5df7d2368f46edd52cf3d328adc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.5"
+    },
+    "ACH_15": {
+      "name": "Hoarder",
+      "description": "Collect all Relics of the Present and the Past",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/494b95751947711847859e7c3b9b99979f941c90.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/047841c6b38c5c3445c78f38ec98ff76d81bc1c1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.4"
+    },
+    "ACH_16": {
+      "name": "Plunderer",
+      "description": "Collect all Blades from the Heroes' Graves",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/58fc580f649e01a6f766a9893735dfa2ebaad219.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/a75baf3f13da1ef7098488bd8c49dd1559796686.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.2"
+    },
+    "ACH_17": {
+      "name": "Superstitious",
+      "description": "Collect all Charms",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/157fa48265be940a9b16c5e767ec1dce36ae7fbb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/078a8201e0663018cb4ec24bc92bb14ca80dc409.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.7"
+    },
+    "ACH_18": {
+      "name": "Like a warrior",
+      "description": "Unlock the 6 mastery branches",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/6fe575c2834d87b11c861e7ad6fd7f3a182335c2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/5708f71e35e0989caf220437bb7f4030f29ed074.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.6"
+    },
+    "ACH_19": {
+      "name": "In the name of my kin",
+      "description": "Find all the Theseus' Echoes",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/e01ec9096f73f863be858b55b2613be177bd2e34.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/8c64fdeb23b2815bd6efcb6f803b1c901dc3765f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.8"
+    },
+    "ACH_20": {
+      "name": "Returning the favor",
+      "description": "Kill an Archer with a throwing knife",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/7e6f3926a13f6ad5fd124fac4fde2ef9736ed08f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/5d2763553bb1fad45265b8b391bcdf64b807844c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.9"
+    },
+    "ACH_21": {
+      "name": "Cannon fodder",
+      "description": "Lure a Brute into killing 1 soldier while in a rage",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/866b1651ab4f96f1c9cd19c272faa50f8b530787.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/9cd4f40a49f6f38aabe74ed53a0557643ba90e06.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.9"
+    },
+    "ACH_22": {
+      "name": "Inherited brutality",
+      "description": "Kill 4 enemies simultaneously with a Focus attack",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/9aee5786d564ff876b2c96bfc62f586a7075305d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/4fe68c2f00a475081a848254bfdbd83f245535e2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.8"
+    },
+    "ACH_23": {
+      "name": "Untouchable",
+      "description": "Successfully parry 6 attacks in a row",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/b269168df204c526525db596fe4bf24f30c75c4f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/ef81c40ca16c68455314d12901a12254f7ba6d97.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.2"
+    },
+    "ACH_24": {
+      "name": "Excessive force",
+      "description": "Break free from a Corrupted's grab with a Focus attack",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/63ab6b40d2a105082aaecf0a399fcaeb1eae915c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/9d6200a15254982889ba8561587ef923c7b924f6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.8"
+    },
+    "ACH_25": {
+      "name": "Adaptable",
+      "description": "Kill at least 1 enemy with each blade",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/4eb0bdc62a2bea24574cd3cd9247b631122024ff.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/cbf82f8b349d8de171d0eec50e5c567b29b64d71.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.6"
+    },
+    "ACH_26": {
+      "name": "No holds barred",
+      "description": "Stun 20 enemies with throwables",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/cd7355f538432389bd39cf8ef22c67b382028941.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/c1745a09b11c33f01f93f9f14056135bf78a7b89.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.7"
+    },
+    "ACH_27": {
+      "name": "Overboard",
+      "description": "Kill 20 enemies by pushing them down a drop",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/17909a2e195e49e3e64bef98e04b0b2ebbf499bb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/dafbf1a4e7e1b343057f7361a4d115cb6ef6298a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.9"
+    },
+    "ACH_28": {
+      "name": "They were people",
+      "description": "Destroy 100 petrified with light",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/de866d598f6bf53eaabca07905b6e90639ecbf7e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/d91b27403ff72f068ffd686559e3be41393b7ed0.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "51.2"
+    },
+    "ACH_29": {
+      "name": "Sharp enough for you?",
+      "description": "Kill 25 enemies with a critical strike",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/89e7ff2ca1036d720d21f4a6b61443496373b825.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/74d9790fd1a45ed59ac01732eb30d12fe7ad2e29.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "53.8"
+    },
+    "ACH_30": {
+      "name": "Skilled maneuverer",
+      "description": "Stun 3 enemies at the same time using the skill Echo's Return",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/3b969626a363517d11e0af43f7393e786edf80fc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/c0b61357dce7fe05bdaae1862d51e75c7c9f0603.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.3"
+    },
+    "ACH_31": {
+      "name": "Refraction",
+      "description": "Burn the creature 10 times with the Light Concentrate",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/b6aac9bce48fab81bd2c7cb1693e1edefd27d274.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/af469fab287a883e75547359d62fc2edd518a9f9.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "36.8"
+    },
+    "ACH_32": {
+      "name": "Baitfish",
+      "description": "Lure successfully 20 Petrified simultaneously",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/e7cd0ef64310478fefb87b200c41783e7982a61f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/e42bf7a77500349b951c27892fe2467c71e791b5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.3"
+    },
+    "ACH_33": {
+      "name": "Sea you later!",
+      "description": "Say hello to the turtle",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/a9f05ecd99f2715a6862eb8f579524b9e40075f8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/cb85aa1407ca98e8d4f38a0a50062860c966b2d8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.9"
+    },
+    "ACH_34": {
+      "name": "Close call",
+      "description": "Survive the creature by a hair's breadth 5 times",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/fe52ea48a796ed1bc3b0a87c600bdf6c844ff1e8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/9e2ba30df9dc485fd1c8460a3934f80ee1557efa.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.2"
+    },
+    "ACH_35": {
+      "name": "Unpredictable",
+      "description": "While chased, make the creature lose your trail 25 times by jumping over a gap",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/110a40dfd66fd93c25f8a0a5ed5e6435b9086937.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/7f0d6199fc79ff01abef19f8f264e64917109418.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "54.2"
+    },
+    "ACH_36": {
+      "name": "Theater enthusiast",
+      "description": "Watch the entire puppet show at the carnival",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/1738970975f7bad314375e86d3aa9ef234598457.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2713000/119df71e46bb412da37cea070ea8545e17952759.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.0"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/4ea78bb81c60a712f7a4cf0c18adf425a706a0ae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.0"
+      "percent": "80.5"
     },
     "ACH02": {
       "name": "Without a Scratch",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/378913ca8d3888f4f224c40e5b127e23b965dad3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.4"
+      "percent": "44.1"
     },
     "ACH03": {
       "name": "Escape Artist",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/023719d7be6b0285857959224804da3502d59be6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.2"
+      "percent": "9.4"
     },
     "ACH04": {
       "name": "Disposing of the Evidence",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/5f09d111140bcf4fd6367801c35d4837c1726908.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.2"
+      "percent": "46.0"
     },
     "ACH05": {
       "name": "Mob Boss",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/8f6a5722c03ed55bedac0e5bb0a24b9bd869a335.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.5"
+      "percent": "11.7"
     },
     "ACH06": {
       "name": "Street Sweeper",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/202e6523636101eb867d30c336e6177dcde5a100.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.8"
+      "percent": "29.6"
     },
     "ACH07": {
       "name": "Planned Ahead",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/b07ad2d063f9a1d988cf27b2ee03ceae9ab015a5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.6"
+      "percent": "10.8"
     },
     "ACH08": {
       "name": "Got This Figured Out",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/53bb9e99719d5f9ca404ed8b4a01dfd998555530.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.1"
+      "percent": "11.3"
     },
     "ACH09": {
       "name": "By a Mile",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/88d1eaf54f51545e6f608b828ebb2e5e4f75c650.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.0"
+      "percent": "18.3"
     },
     "ACH10": {
       "name": "Wreckless Driving",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/3c94ea640f1da810b04f9f05b154ddb1db0994a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.6"
+      "percent": "36.3"
     },
     "ACH11": {
       "name": "Wheels Up",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/70ebc7e54ad5d4740a2fdc1d29434d3c8bcf8f10.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "8.2"
     },
     "ACH12": {
       "name": "Come Out to Play-y-y-y",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/c3c64ad86d499523288fba7dd1c3298aedde73e5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.4"
+      "percent": "10.5"
     },
     "ACH13": {
       "name": "Where To?",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/a4a9acd4ce249c3e6e8fafebfdaaf365962bd6f4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.2"
+      "percent": "10.4"
     },
     "ACH14": {
       "name": "Liberty City Minute",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/f033269432d8dbb490237e82991065b1d063a9bd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.0"
+      "percent": "26.6"
     },
     "ACH15": {
       "name": "Full Artillery",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/080a0fd8f7472296d3a0844651cc043628c28c7b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.2"
+      "percent": "12.4"
     },
     "ACH16": {
       "name": "A Marked Man",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/487ddacf4d0e5cd40c34f4f18d5b57be436d1fe3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.6"
+      "percent": "34.4"
     },
     "ACH17": {
       "name": "Offshore Delivery",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/a4fc10cdcd4ae217859844c6f8f4bbfcd8b999e6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.5"
+      "percent": "24.3"
     },
     "ACH18": {
       "name": "Not So Fast",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/9b682fb0011bb5c21979571136bc120ccd46697e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.8"
+      "percent": "20.6"
     },
     "ACH19": {
       "name": "A Gift from the King",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/b869f6b140a9093ec848cc0aac6705b0d56b7e74.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.3"
+      "percent": "15.7"
     },
     "ACH20": {
       "name": "Man Toyz",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/8362c933c0f36067a81c1469723b2d89bebd4a53.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.5"
     },
     "ACH21": {
       "name": "Splish Splash",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/e71ade13a0b7c791a00a0dc8b8f91b7a564ba7ce.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.4"
+      "percent": "11.6"
     },
     "ACH22": {
       "name": "Playing Doctor",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/d62fa7fa04a3375665443940061e6c6a21ca2517.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "10.0"
     },
     "ACH23": {
       "name": "Going Rogue",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/1f4c3c243c1ebad4eb73711e235dc05f50518bb2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.6"
     },
     "ACH24": {
       "name": "Dirty Money",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/bb7daca183731e4986809f00e65f09858ca14f82.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.8"
+      "percent": "23.5"
     },
     "ACH25": {
       "name": "Right-hand Man",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/e84ab132572d2174f834dfaa1e109bced82e82c9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.8"
+      "percent": "20.3"
     },
     "ACH26": {
       "name": "Furious First Responder",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/ac731e7103c7ad77938637782eb1c6d8dc88116c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "8.2"
     },
     "ACH27": {
       "name": "Liberty City Secrets",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/cbc6963cbfe8e7c22730071e1d06c6eb0d5f21ef.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "9.0"
     },
     "ACH28": {
       "name": "Is That All You've Got?",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/ee22f76c8454532a009fe337f6381b39667cb6b9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.6"
+      "percent": "7.8"
     },
     "ACH29": {
       "name": "King of Liberty City",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546970/ccc8a83b72fb9aef245179c1a5484a088f556502.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.3"
+      "percent": "7.4"
     }
   },
   "platform": null,

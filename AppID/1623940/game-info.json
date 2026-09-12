@@ -1,7 +1,7 @@
 {
   "appid": "1623940",
   "name": "Bramble: The Mountain King",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623940/header.jpg?t=1776193650",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623940/header.jpg?t=1787164429",
   "achievements": {
     "BEATBUTCHER": {
       "name": "Butcher",
@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/6db2374d3b5be14a769a6050de1974be1bfc7a69.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "73.9"
+      "percent": "73.8"
     },
     "BEATNAECKEN": {
       "name": "Näcken",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/01d4cba1bf4fe551073e735ba41b868c190395d4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.8"
+      "percent": "62.7"
     },
     "BEATCROWANDAH": {
       "name": "Kärrhäxan",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/43e05e674c00b0cef82030bed681f12b86b25382.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.4"
+      "percent": "57.3"
     },
     "BEATSKOGSRA": {
       "name": "Skogsrået",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/e6949f86af7af8b61086ec3c678556c24624b12e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.2"
+      "percent": "50.1"
     },
     "BEATKING": {
       "name": "The Mountain King",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/e249df2026e3a7fb54cc8371822c7deaedd6a241.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.9"
+      "percent": "6.0"
     },
     "COLLECTOR": {
       "name": "Collector",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/c0e6217cbe597d363d892afe8fd85680f57d5c55.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.3"
+      "percent": "5.4"
     },
     "BOOKREAD": {
       "name": "Book worm",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/c95ae608eca18a92809a813ea74743afe30ee001.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "PUSHEDGNOMEINMEAT": {
       "name": "Bait",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/7c4fe842d83bfc0e130ecff68d34167c8e00177d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.0"
+      "percent": "66.9"
     },
     "APPLEINGOAL": {
       "name": "Goal!",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/983f668632754ceca5c28f41d6eeacb9d1377d32.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.0"
+      "percent": "7.1"
     },
     "BREWEDPOTION": {
       "name": "Witchcraft",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/734e4d281e31645b410cccea0f636301479baf4e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.4"
+      "percent": "58.3"
     },
     "PINECONEOUTOFCAVE": {
       "name": "Evicted",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/48df23c4dda2056cd23bda27714504960f6144a6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.4"
+      "percent": "6.5"
     },
     "FINDSISTERFIG": {
       "name": "Lillemor Figurine",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/c41529b8d9049d7f61059a42bbd6ae827941f337.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.5"
+      "percent": "58.4"
     },
     "FINDGNOMEFIG": {
       "name": "Gnome Figurine",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/93056ff2594e7c6042411481fc8de8f173504ff9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.3"
+      "percent": "56.2"
     },
     "FINDTRICKSTERFIG": {
       "name": "Troll Figurine",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/59766485520734b7816a89b2f484002a315af44c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.0"
+      "percent": "44.9"
     },
     "FINDNAECKENFIG": {
       "name": "Näcken Figurine",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/9723489889108fa528af220948045f34a157be24.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "8.0"
     },
     "FINDCROWANDAHFIG": {
       "name": "Kärrhäxan Figurine",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/a0d828203700b42b43a00e2ca161fe6d35ee898f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.0"
+      "percent": "25.9"
     },
     "FINDGUBBEFIG": {
       "name": "Lyktgubben Figurine",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/34d5bd36f6f14bd8f000b63191927b5acd10d481.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.3"
+      "percent": "44.2"
     },
     "IRONMAN": {
       "name": "Survivor",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623940/0f695cd892eb09db998c2646250a05fdde33e1f2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.0"
+      "percent": "44.9"
     }
   },
   "platform": null,

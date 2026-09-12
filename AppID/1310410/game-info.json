@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/7789257594efa89399ea4b6a9f029460f6d037a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.6"
+      "percent": "64.7"
     },
     "ACH_ID_02": {
       "name": "Whatever It Takes",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/0c625c2d0e664bebff773b72bc8bb25f5243c979.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.5"
+      "percent": "35.7"
     },
     "ACH_ID_03": {
       "name": "Come At Me!",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/57d3f6a80ca131292b559f1a3d7c5a8ed556147d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "84.9"
+      "percent": "85.0"
     },
     "ACH_ID_05": {
       "name": "On the Mend",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/5134c5cbb14fdd95816c6c781172e20e6e3bd0a0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "67.3"
+      "percent": "67.4"
     },
     "ACH_ID_06": {
       "name": "I Don’t Got All Night",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/d2e9cbfcc77888d8a3a1945902e32ba9d604dbe3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.7"
+      "percent": "40.8"
     },
     "ACH_ID_08": {
       "name": "Welcome to Derceto",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/f7f05f3b1e449661fdf44f216606961e596c6e65.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.5"
+      "percent": "62.6"
     },
     "ACH_ID_11": {
       "name": "Found & Lost",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/bff410548f59e75b2ba81c9da969e7e55c49ed6a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.1"
+      "percent": "56.3"
     },
     "ACH_ID_12": {
       "name": "Somewhere Else Entirely",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/d025e62828b4f2f8fe908908278d1181b96f9241.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.9"
+      "percent": "55.0"
     },
     "ACH_ID_13": {
       "name": "Drop Me Off In New Orleans",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/d4ebdf0048d8359f151849874e09c15e1b7c305b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.0"
+      "percent": "53.1"
     },
     "ACH_ID_14": {
       "name": "Losing My Mind",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/67feb2c238a48e839a8c56da230c3a69b3ea5e62.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.0"
+      "percent": "51.1"
     },
     "ACH_ID_15": {
       "name": "Where I Belong",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/4137b81baa59178ac884852e7e1751aec683f8c4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.9"
+      "percent": "50.1"
     },
     "ACH_ID_16": {
       "name": "I Abandoned Him",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/ed2713ed0d215099ee171196c889c8bec0108715.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.2"
     },
     "ACH_ID_17": {
       "name": "I Stole the Child and Let Him Drown",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/7615d2beff526f6bbc6cbf7770fdbb4a29fd3b51.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.4"
+      "percent": "35.6"
     },
     "ACH_ID_18": {
       "name": "When Therapy Makes It Worse",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/fe76ef85aa8d21c24affa18dbe7f82c637a6bd55.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.7"
+      "percent": "46.9"
     },
     "ACH_ID_19": {
       "name": "The Past as a Present",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/5c283ecf98d07bd6291d3b51223f0c632c0541aa.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.6"
+      "percent": "45.7"
     },
     "ACH_ID_20": {
       "name": "Frenzy",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/94e31461ab77b6781ee7b5f5a35fa6bcfeb5c70d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.2"
+      "percent": "45.4"
     },
     "ACH_ID_21": {
       "name": "Back to Normal",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/cd2c49398150b7ad4acc9688efd39b266f35aa03.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.8"
+      "percent": "45.0"
     },
     "ACH_ID_22": {
       "name": "Case Closed",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/1ec5ab1388d90a4a490733f07a3d8b3796a30d52.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.5"
+      "percent": "31.7"
     },
     "ACH_ID_23": {
       "name": "Safe and Sound",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/445c42d9c46089e72925cf49a72ff55eae7835ec.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.8"
+      "percent": "17.9"
     },
     "ACH_ID_24": {
       "name": "Don’t Mind If I Do",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/5424f1fd68fd26e928526e5340cc19b5b17530b1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.8"
+      "percent": "61.9"
     },
     "ACH_ID_25": {
       "name": "Watch Out Where You’re Waving That Thing",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/6418fec541903388e1cd8a2512ebc1c063e4df6f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.5"
+      "percent": "25.6"
     },
     "ACH_ID_26": {
       "name": "What Just Happened?",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/8dff91fb301290d5a7bf84669f1c8f0a3b7d44af.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.4"
+      "percent": "5.5"
     },
     "ACH_ID_28": {
       "name": "Radical Acceptance",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/377f008bbbbd62af685fe8e7399e85813eb27b0e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.9"
     },
     "ACH_ID_30": {
       "name": "Bonfire Night",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/45bf8899e9c9674bdfcd5307779916edccdf1fe8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.9"
+      "percent": "52.1"
     },
     "ACH_ID_31": {
       "name": "Hard Boiled",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/655bf1409d7f558657cc86bc8980e24357d77c2d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.0"
+      "percent": "57.1"
     },
     "ACH_ID_32": {
       "name": "Gangster",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/335a7a5f5e0b9ea033a5f451b16284061b658a1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.7"
+      "percent": "50.8"
     },
     "ACH_ID_33": {
       "name": "You Can’t Keep Me Out!",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/d4d81e3aeafb05332fc72827e431a5300ba77f3c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.1"
+      "percent": "3.2"
     },
     "ACH_ID_35": {
       "name": "Look At All the Free Stuff I Got!",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/7040aecee705b8eec228af63acb094f08b6e3d8c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.2"
+      "percent": "4.3"
     },
     "ACH_ID_36": {
       "name": "Teetotaller",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1310410/ae26d68027d970daceda546ff560a6bfa1acf363.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.7"
+      "percent": "4.8"
     },
     "Ach_ID_39": {
       "name": "Alone in the Dark",

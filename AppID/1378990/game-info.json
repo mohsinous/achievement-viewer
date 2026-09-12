@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/0bc2afbc36349df47107b8aec916d75a6290ed99.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.6"
+      "percent": "41.3"
     },
     "trophy.z_tv_stations": {
       "name": "Channel Surfer",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/0366058a6b0bd807d6818d0ba9ae97074fd450d9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.0"
+      "percent": "16.9"
     },
     "trophy.bizarro_level_all": {
       "name": "Backwards & Forwards",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/462be6f136b8455b1c25eca025ab0834f79d10ad.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.3"
+      "percent": "24.1"
     },
     "trophy.bonus_first": {
       "name": "Taking the Side Road",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/8c27eef2c13838c60da86cad876c28c7d20e80e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "90.8"
+      "percent": "90.7"
     },
     "trophy.buddy_all": {
       "name": "The Whole Picture",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/1cdcafa75ce49339051ed65d4ff489a1b2bf560e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.8"
+      "percent": "6.7"
     },
     "trophy.buddy_first": {
       "name": "Putting Things In Perspective ",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/36e0c745230b03b2b8db9915c8a46ee82c6756c8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.5"
+      "percent": "36.1"
     },
     "trophy.checkpoint_race": {
       "name": "Fleet of Feet",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/fae66aa3fb04de2159b4658d3aab0ea8b69300f4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.8"
+      "percent": "6.7"
     },
     "trophy.crate_combo_clash": {
       "name": "Settle the Score",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/77886af7fef7c0f97bd9d29a5bae9ff250096d1d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "7.1"
     },
     "trophy.defeat_cortex_final": {
       "name": "What Has Been, Will Be Again",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/618b3e1c38c64ae01c1e0dcbd78e03d9a2030190.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.0"
+      "percent": "17.9"
     },
     "trophy.defeat_cortex_first": {
       "name": "The Fourth Time",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/d9aa155cf06c0f2e88f44c78b71b4a03f69c80a8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.8"
+      "percent": "29.5"
     },
     "trophy.defeat_nbrio": {
       "name": "Master Mixologist",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/c9790b8e7339a5e0c03987490d812d2b803f9769.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.0"
+      "percent": "39.6"
     },
     "trophy.defeat_ngin": {
       "name": "Beaten With His Own Drum",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/f43c1d5fb61862cc3ce81a151c60c4bee18f6c7c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.1"
+      "percent": "57.7"
     },
     "trophy.defeat_tropies": {
       "name": "Twinsanity",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/cbcc71a6e21c03a568951021ec5a11428e5066e0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.0"
+      "percent": "23.8"
     },
     "trophy.ending_100": {
       "name": "Overachiever",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/98aefb82f9c44cd931c61a5e944ffc5511b5312c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.2"
+      "percent": "14.1"
     },
     "trophy.gem_clear_100": {
       "name": "King of Bling",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/585ff9542eff3e57a439903388faa37c75a6f977.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.7"
+      "percent": "13.6"
     },
     "trophy.high_jump": {
       "name": "Altitude Sickness",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/bc3813382daf7f037756778b570427aa0ad698fe.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "87.4"
+      "percent": "87.3"
     },
     "trophy.mask_dark_matter": {
       "name": "Silent Protagonist",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/a9ba2aea057a244903f628fc4d8f8f24c001eb25.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.4"
+      "percent": "49.0"
     },
     "trophy.mask_gravity": {
       "name": "Ups & Downs",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/4a413c6b34d707367f86689c11341d110b31037c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.2"
+      "percent": "26.9"
     },
     "trophy.mask_phase_shift": {
       "name": "Reality-Shattering Proportions",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/612814aa40550b1f25c87b213e2d0b1acd2db862.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "85.5"
+      "percent": "85.4"
     },
     "trophy.mask_time_slow": {
       "name": "I Can See Through Time",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/9d6fb3614c5543a19f0dd33c0aecd78808c8d89c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.4"
+      "percent": "34.0"
     },
     "trophy.pass_and_play": {
       "name": "No It’s MY Turn",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/28821f40ae58867a6531100b60e06c525ae436c2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.7"
+      "percent": "20.5"
     },
     "trophy.relic_flashback_first": {
       "name": "Model Test Subject",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/f4c75fec30a56b8e063a668965d3f58586d250cd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.5"
+      "percent": "46.2"
     },
     "trophy.relic_flashback_platinum_all": {
       "name": "Closing the Experiment Log",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/93266e1816a6a08664df3e65ea6e7cfec0ab25a8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.9"
+      "percent": "21.8"
     },
     "trophy.relic_time_trial_platinum_all": {
       "name": "Faster Than Sound",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/185c28f14a46d8b7014fde3246b230414d47bacd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.5"
+      "percent": "66.4"
     },
     "trophy.triple_spin_first": {
       "name": "Whoa!",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/c95d4be3e58a5f8d2754e4410ad7caf22e178846.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "9.8"
     },
     "trophy.undying": {
       "name": "N. Vincible",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/a0ee7ab0c44ced62961134e0b2b644d80d7cda74.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.2"
+      "percent": "54.1"
     },
     "trophy.vhs_first": {
       "name": "A/V Club Founder",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/9cd46b06ad95ccd8b1f11ea2fca442c72a705cd8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.9"
+      "percent": "66.5"
     },
     "trophy.z_bizaroo_tree": {
       "name": "Tree Droppings",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/02f5d52219951691060edf15fe885cfc5582ea75.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.6"
+      "percent": "21.4"
     },
     "trophy.z_dingo_cannons": {
       "name": "Give 'Em a Broadside!",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/fd38d57107a9dd38931d9eee1fb8a13333119fed.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.9"
+      "percent": "11.8"
     },
     "trophy.z_dingo_target_practice": {
       "name": "Bad Signs",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/4f4c370eb476c2e4e70c1687d91c1eabd9b827eb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.0"
     },
     "trophy.z_klank_tunes": {
       "name": "Junkyard Jams",
@@ -442,7 +442,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/515f389a28db920a267b5f51942b9edeef360bc8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.2"
+      "percent": "47.8"
     },
     "trophy.z_stfu_ngin": {
       "name": "Megaphoning It In",
@@ -451,7 +451,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/46a42fde912463a61e1073fc61b895458500eb9d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.1"
+      "percent": "65.9"
     },
     "trophy.z_temple_gongs": {
       "name": "Hammer it Home",
@@ -460,7 +460,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378990/6d5faa889a92795e35292070872656bc11221ffb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.4"
+      "percent": "6.3"
     }
   },
   "platform": null,

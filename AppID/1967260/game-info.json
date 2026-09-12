@@ -1,7 +1,7 @@
 {
   "appid": "1967260",
   "name": "Double Dragon Gaiden: Rise Of The Dragons",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1967260/c9ccf1420e6c83a8d7de92d746e1578280f44291/header_alt_assets_4.jpg?t=1776186528",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1967260/c9ccf1420e6c83a8d7de92d746e1578280f44291/header_alt_assets_4.jpg?t=1784653987",
   "achievements": {
     "TROPHY_0": {
       "name": "Hottest Dog",
@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/45662d43de30d63022865e317443f028a78d9a3f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "88.0"
+      "percent": "87.9"
     },
     "TROPHY_1": {
       "name": "Burger Time",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/a92393d58b08def7d1826e430bd61f6fc8102a8f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "78.4"
+      "percent": "78.2"
     },
     "TROPHY_2": {
       "name": "Thanksgiving",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/53a1a641699d8c2cb197448608076200b93e2f12.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.9"
+      "percent": "68.7"
     },
     "TROPHY_3": {
       "name": "Winner is Me",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/f921760fdbc525570c3defd2ccf81a0145d3454c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "83.8"
+      "percent": "83.6"
     },
     "TROPHY_4": {
       "name": "Killers",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/5c38e34dbe862b8cacb0870c128aab46009cc3c9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.0"
+      "percent": "18.9"
     },
     "TROPHY_5": {
       "name": "Royals",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/156a272be50296bd8dd82505ae91409ebcb98670.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.4"
+      "percent": "21.3"
     },
     "TROPHY_7": {
       "name": "Okada",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/9f6bc71a0f1da864b0a4f6323494281ed1d2a28d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.0"
+      "percent": "21.9"
     },
     "TROPHY_8": {
       "name": "Rise of the Dragons",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/d3912f55ee78bffb2c559d2d699c98ac9933e112.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.3"
+      "percent": "30.2"
     },
     "TROPHY_9": {
       "name": "Peace Enforcer",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/cdae30cfd7041599e5b35bf265d2fc0272d9b4b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.5"
+      "percent": "35.3"
     },
     "TROPHY_12": {
       "name": "Fortune Teller",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/ff4cb903087fbafd13c759ad130e9941ab0688ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.7"
+      "percent": "26.6"
     },
     "TROPHY_14": {
       "name": "Crowd Pleaser",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/0103ad5bc380841779658c3da7b36d7f6ed46017.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.2"
+      "percent": "53.0"
     },
     "TROPHY_15": {
       "name": "Arcade Machine",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/a9f23d5db75b1b952be3416226cffc3aafbaf084.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.5"
+      "percent": "43.3"
     },
     "TROPHY_16": {
       "name": "Connoisseur",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967260/f667b43d5965f046758c377b9daec09a77073a49.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.6"
+      "percent": "26.5"
     },
     "TROPHY_19": {
       "name": "Completionist",

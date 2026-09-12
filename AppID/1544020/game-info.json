@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1544020/44956d7cf4fc73c172bc6c677adb5e105b008610.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.6"
+      "percent": "39.7"
     },
     "BUY_ALL_WEAPONS": {
       "name": "You Need a Gun",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1544020/15a480b0150c9ca0ce632285340e56cb22ae2544.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.1"
+      "percent": "35.2"
     },
     "FINISH_GAME_HARD": {
       "name": "The Protocol is About Life",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1544020/089e0ff63d827271ad09e2f2cee78755bc9a38fa.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.0"
+      "percent": "55.1"
     },
     "KILL_ROBOT": {
       "name": "Terminated",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1544020/3b15f6b9dd423ea685eff93e8c9ed20e3811e15e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.7"
+      "percent": "44.8"
     },
     "GRP_MELEE_KILL": {
       "name": "In Striking Distance",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1544020/58df61bef76dc46eab045c2306c4988f0221b782.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.7"
+      "percent": "69.8"
     },
     "BACKSTABBLIND": {
       "name": "Giving Back",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1544020/3296b8931b07e899413443df35384621ed5d8d97.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.5"
+      "percent": "39.6"
     },
     "SHARE_PHOTO": {
       "name": "Mugshot",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1544020/57192eb8971b821f62fb5ca2dfd578c8db246dd3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.8"
+      "percent": "35.9"
     },
     "DISARM_ENEMY": {
       "name": "Flesh Wound",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1544020/e6ea9712984eb43250062124809af6f81139d79c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.5"
+      "percent": "59.6"
     },
     "KILL_WITH_GRP_HAZARD": {
       "name": "Workplace Hazard",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1544020/7d4ea8cf2b6d20b1c5d2ff7be91706f9e5584f85.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.0"
+      "percent": "62.1"
     },
     "STORY_COLDOPEN": {
       "name": "The Outer Way",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1544020/0c8c588cbbbf94f3170e075d8e3218b81d07e9ed.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.7"
+      "percent": "64.8"
     },
     "STORY_HABITAT": {
       "name": "Without A Paddle",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1544020/7601a7e097af0bcc22ef48e838a40be0da3fe901.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.4"
+      "percent": "55.5"
     },
     "STORY_SNOWCAT": {
       "name": "Crash Site",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1544020/d0ca15c8ea16b5069101f74545d70be3d625a5b6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.4"
+      "percent": "48.5"
     },
     "STORY_HANGAR": {
       "name": "In the Pipe, Five by Five",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1544020/0e0015c1c2061a3b7b3c13a76250dc1ea7c228f0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.2"
+      "percent": "48.4"
     },
     "STORY_TUNNELS": {
       "name": "Power Up",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1544020/961811a1e0bc96eebfca8d09751fc76ddec1b9b5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.8"
+      "percent": "45.9"
     },
     "STORY_MINETOWN": {
       "name": "What Lies Beneath",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1544020/cc86c5464c5151c4c9a1fa2a09f45c2d353a57f5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.6"
+      "percent": "42.7"
     },
     "STORY_TOWER": {
       "name": "Full Circle",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1544020/0c6ee6024d9f10ffbbc70fc98ac9ddca9dc9e610.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.4"
+      "percent": "42.5"
     },
     "PRINT_WEAPON": {
       "name": "Paper Jams",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1544020/c180e8f7c1bcf5319028bd0c66367b4941631883.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.6"
+      "percent": "2.7"
     },
     "FINISH_GAME_HARDCORE_PLUS": {
       "name": "Lifer",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1544020/5db22248d8af5624f613a634d6e829983759af4e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.1"
+      "percent": "1.2"
     },
     "FINISH_CONTAGION_NO_DEATH": {
       "name": "You Belong Here",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1544020/a535863c1a666a225cdb020433c569e81ff362c6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.0"
+      "percent": "3.1"
     },
     "DISMEMBER_100": {
       "name": "I am the Danger",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1544020/6af60532d2e5474b3b9ea44342e8a4342f2c7510.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.7"
+      "percent": "4.8"
     },
     "KILL_2HEAD_HAZARD": {
       "name": "Bear Trap",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1544020/894b17cbc6057b7eefdaf1a9e939d0836eebd247.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.9"
+      "percent": "2.0"
     },
     "NOSPEND_2ROUNDS": {
       "name": "Hoard Mode",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1544020/146fc3d2e209b6585cac6a4c2f1af182f22f14cc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "10.2"
     },
     "FIND_ALL_DATA_DRIVES": {
       "name": "Information Overload",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1544020/415d5e38b68401ac58452ab208b588a8b2a049cf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.4"
+      "percent": "3.5"
     },
     "LOCK_UNDER_7SEC": {
       "name": "Quick Pick",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1544020/bad2f9f86227ac4a4da4b8f95c11e99aa742bf07.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.6"
+      "percent": "11.7"
     },
     "KINETIC_HAMMER": {
       "name": "It's Time",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1544020/497937b143eb65291d0c339b7c525ee01affb06a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.8"
+      "percent": "10.9"
     },
     "DESTROY_FACTORY_CRATES": {
       "name": "Don't Let It Mellow",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1544020/59822ff15547eb92322d0b02e080a5a24cf4442e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.2"
+      "percent": "2.3"
     }
   },
   "platform": null,

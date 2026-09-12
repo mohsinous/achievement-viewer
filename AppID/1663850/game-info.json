@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/c27c44f9c4ba67dd82808e10b0749bc53feba520.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "91.2"
+      "percent": "91.4"
     },
     "ACH_C1": {
       "name": "Non-Standard Task",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/3b898470a5f69288c20dcb191ba48e7d9d8341de.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "74.9"
+      "percent": "75.2"
     },
     "ACH_C2": {
       "name": "Machine Learning",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/1355bb21200f3c83f5abb2fa0036e0c0514c3e3b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.2"
+      "percent": "57.6"
     },
     "ACH_C3": {
       "name": "The Lowest Low",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/ae018f0561d44f630c135824569a5f20992e68d3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.9"
+      "percent": "44.6"
     },
     "ACH_C4": {
       "name": "Brothers in Arms",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/71be84c7664f1c957fecdc681079aee0e66b6acb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.5"
+      "percent": "39.3"
     },
     "ACH_C5": {
       "name": "Another Brick in The Wall",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/78a4fc152c215ac56343c2eea7cdb626ad444766.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.7"
+      "percent": "32.7"
     },
     "ACH_C6": {
       "name": "Home, Sweet Home",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/ed270b5bb91657bf3ab73e73266fa37710e120cd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "29.3"
     },
     "ACH_C7": {
       "name": "New Horizons",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/8cbce042d309cc9a6442e204fd88b257d5a651cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.4"
+      "percent": "27.5"
     },
     "ACH_C8": {
       "name": "Night and The City",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/7010002ef8cc2aad8ba24e65a1ad40c4ed0ac3cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.8"
+      "percent": "25.9"
     },
     "ACH_C9": {
       "name": "Lend a Hand",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/eb70ccd88f763957379174ba59b9ac32473e7cf7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.9"
+      "percent": "24.2"
     },
     "ACH_C10": {
       "name": "Full Circle",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/4c75648510c1ccf28690947471969e6022649beb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.7"
+      "percent": "24.8"
     },
     "ACH_SUNSHINE": {
       "name": "My Only Sunshine",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/e0ec03271778a81a33eedcdec54a58d7a1024abf.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.8"
+      "percent": "46.0"
     },
     "ACH_BLOOD": {
       "name": "Let There Be Blood",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/2c2dbe503ee65a436bf4dea9ea58cf62f28661c4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.7"
+      "percent": "47.0"
     },
     "ACH_REUNION": {
       "name": "Family Reunion",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/685555b007991190bf1197c2bd5f617fb17ef53b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.9"
+      "percent": "40.6"
     },
     "ACH_GOOD_BOY": {
       "name": "Good Boy!",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/71852c4894d06db2b0044acc1c567437fd38e9b2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.4"
+      "percent": "32.8"
     },
     "ACH_HUNTED": {
       "name": "Hunted",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/95a1e24033b4f79df5252ea5b49b5a22c2853676.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.0"
+      "percent": "32.6"
     },
     "ACH_BIGGEST_FAN": {
       "name": "The Biggest Fan",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/88f089cc24919a3696d945aeffd833825b420bba.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.3"
+      "percent": "21.1"
     },
     "ACH_LOOKALIKE": {
       "name": "Look-Alike",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/472594e3b333c4cf68e5f833d90f48383f9ff0e5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.8"
+      "percent": "23.6"
     },
     "ACH_OLDSCHOOL": {
       "name": "Old School",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/9f2f011490cd7ab70c18f1cb3df01c2c545ee61f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.1"
+      "percent": "18.7"
     },
     "ACH_SADCATS": {
       "name": "Sad Cats",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/140f171e1b9ef864b6d315cc0ad950500ec23bbb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.0"
+      "percent": "23.9"
     },
     "ACH_HERE_FOR_IT": {
       "name": "We Are All Here For It",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/2ce92f9768651bd1b86805101645f8b507277e5c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.1"
+      "percent": "34.8"
     },
     "ACH_WORLD_WE_LIVE_IN": {
       "name": "This Is The World We Live In",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/ae80d7ab5beae5f5216aef8658fa6f8a5cf7176f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.0"
+      "percent": "3.2"
     },
     "ACH_REFLEXES": {
       "name": "Non-Human Reflexes",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/04fad67aa4a3c561c1adb9db2e18a53e8d1cd8d6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.2"
+      "percent": "6.4"
     },
     "ACH_BODY_MACHINE": {
       "name": "My Body Is a Machine",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/f04e8fec4f56a28426142a66f5e6e48aa51be3c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.0"
+      "percent": "3.2"
     },
     "ACH_TOP_GEAR": {
       "name": "Top Gear",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/c5d0ba9090b643055c67f1dcdb79de8593dfa898.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.7"
+      "percent": "5.9"
     },
     "ACH_CYBERNINJA": {
       "name": "Cyberninja",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/4fae4e48f6c2004ea9037340e0e3bb5d4965fc14.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.0"
+      "percent": "30.1"
     },
     "ACH_REFLASHED": {
       "name": "Reflashed",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/837d5d24385a12a346ff110bbc9fc200ddee1207.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.8"
+      "percent": "25.6"
     },
     "ACH_FIRSTLAW": {
       "name": "Breaking The First Law",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/938600f993cc4ef6edd65648e92dcc2e599525fc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.6"
+      "percent": "7.9"
     },
     "ACH_ANGER": {
       "name": "Anger Management",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/5456cf1bb70bf3c72825746681dec6ee95b4d6f2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.9"
+      "percent": "22.3"
     },
     "ACH_NOT_W_GUN": {
       "name": "Not with a Gun, but with Heart",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/ce157b81083716e1c582623711549da1dfc6bbd6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "7.1"
     },
     "ACH_BATCH_PROCESSING": {
       "name": "Batch Processing",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/ae1f4833dd6835163736a5ff31676043d77e8337.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.6"
     },
     "ACH_WORTH": {
       "name": "Worth The Wait!",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/07b5bee83a45e7c12a02030f1c7ebcfb4ed778ce.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.4"
+      "percent": "2.6"
     },
     "ACH_MUSIC": {
       "name": "Music Sounds Better with You",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1663850/782d4d43671f71a8b9fe19ec332a6b6c5fbc1f35.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.5"
+      "percent": "4.7"
     }
   },
   "platform": null,

@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "69.5"
+      "percent": "69.2"
     },
     "B1S3_KongBuildingFall": {
       "name": "Not how I planned it",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "61.0"
+      "percent": "60.8"
     },
     "B2S1_AbbadonWeb": {
       "name": "Surprise!",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.8"
+      "percent": "42.6"
     },
     "B2S1_AbbadonSneak": {
       "name": "Eight all-knowing eyes",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.4"
+      "percent": "42.2"
     },
     "B2S3_AbbadonChase": {
       "name": "You cannot hide",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.8"
+      "percent": "39.6"
     },
     "B2S1_AbbadonTownSquare": {
       "name": "The Square",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.3"
+      "percent": "39.1"
     },
     "B3S1_TiamatShip": {
       "name": "No step on snek",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.6"
+      "percent": "36.5"
     },
     "B3S3_TiamatChase": {
       "name": "Danger rope",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.7"
+      "percent": "34.5"
     },
     "B3S2_KongHelp": {
       "name": "Unexpected help",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.8"
+      "percent": "32.7"
     },
     "B3S3_TiamatKongChase": {
       "name": "When gods fight",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.1"
+      "percent": "42.0"
     },
     "DodgeBulletAchievement": {
       "name": "Contortionist",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.3"
+      "percent": "35.0"
     },
     "HeavyAttackKneelingEnemyAchievement": {
       "name": "Merciless",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.2"
+      "percent": "8.1"
     },
     "KillEnemyWithElectricityAchievement": {
       "name": "That's shocking",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.9"
+      "percent": "34.6"
     },
     "KillEnemyWithAcidAchievement": {
       "name": "Toxic Player",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.4"
+      "percent": "18.3"
     },
     "ParryEnemiesAchievement": {
       "name": "Fencer",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.7"
+      "percent": "34.5"
     },
     "KillEnemyByPushOnWallAchievement": {
       "name": "Breathtaking",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.1"
+      "percent": "31.0"
     },
     "ShootInALegAchievement": {
       "name": "I was an adventurer once",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.8"
+      "percent": "25.7"
     },
     "EnemyKilledByEnemyAchievement": {
       "name": "Friendly fire",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.4"
+      "percent": "56.1"
     },
     "EnemyLostShieldFromKickAchievement": {
       "name": "Leg day",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.6"
+      "percent": "46.5"
     },
     "HipshotEnemyAchievement": {
       "name": "Point blank",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.8"
+      "percent": "47.5"
     },
     "DestroyPadlockWithHeavyAttackAchievement": {
       "name": "Hammer time!",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.8"
+      "percent": "14.6"
     },
     "RipRippableWithHookAchievement": {
       "name": "Work smart not hard",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.5"
+      "percent": "8.4"
     },
     "CollectHPUpgradesAchievement": {
       "name": "Hungry",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.9"
+      "percent": "10.8"
     },
     "CollectMagazineUpgradesAchievement": {
       "name": "Armed to the Teeth",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.3"
+      "percent": "4.2"
     },
     "AllAchievementsCompletedAchievement": {
       "name": "Dedication",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2769080/fa2381bbf00b099ff6eed2c5cd2f28acf4a60c8a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.7"
+      "percent": "1.8"
     }
   },
   "platform": null,

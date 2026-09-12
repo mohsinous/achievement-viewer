@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/90c488e2d47f5e213bf63c0047f7fc9309a05302.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.6"
+      "percent": "59.1"
     },
     "secret02": {
       "name": "Finding Secret Hologram 2/10",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/e755dbe8d2f6911e63e9f9983e76dc5d0ec427b0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.5"
+      "percent": "45.1"
     },
     "secret03": {
       "name": "Finding Secret Hologram 3/10",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/9c354c1f77328c9b29c9f93829e627b32693d0be.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.8"
+      "percent": "17.1"
     },
     "secret04": {
       "name": "Finding Secret Hologram 4/10",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/7414d71281095c28b3c2b9a038b507b6b24de6cf.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.2"
+      "percent": "35.8"
     },
     "secret05": {
       "name": "Finding Secret Hologram 5/10",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/7ab669830c2c1be234ad4ec3f676bb168cd440ca.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "25.5"
     },
     "secret06": {
       "name": "Finding Secret Hologram 6/10",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/bb5fdbbd7207cfebe383e248303729c0a8f7f7c8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.2"
+      "percent": "17.6"
     },
     "secret07": {
       "name": "Finding Secret Hologram 7/10",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/3f297488994be38faacec03c2a00e8f9c69f5539.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.7"
+      "percent": "35.5"
     },
     "secret08": {
       "name": "Finding Secret Hologram 8/10",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/b795019d8f46c61e02ec866cd4f44dbd7de5d335.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.8"
+      "percent": "14.3"
     },
     "secret09": {
       "name": "Finding Secret Hologram 9/10",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/9f79c429916c82f19c6d3afed87d65ead07fec5e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.9"
+      "percent": "42.1"
     },
     "secret10": {
       "name": "Finding Secret Hologram 10/10",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/9952b783a3635724f343cbe01a4738b2640a9d5e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.7"
+      "percent": "30.7"
     },
     "allsecrets": {
       "name": "The Secret Trail",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/5aa43d430bd9bbe65a53d07601561edf973f5a3c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.6"
+      "percent": "9.9"
     },
     "captainsquarters": {
       "name": "The Captain's Quarters",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/f020ad37db71bac98fba40270dcfe8bd61334a56.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "79.4"
+      "percent": "79.7"
     },
     "fishybusiness": {
       "name": "Fishy Business",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/84c43cce5647a1c75e1b628c8f694d391617bdfe.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "73.1"
+      "percent": "73.7"
     },
     "keeponrolling": {
       "name": "Keep on rolling",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/4075a3572a65b123f3ed220975e59d89b81fb545.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "68.4"
+      "percent": "69.2"
     },
     "findingawaydown": {
       "name": "Finding a way down",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/c4d910a726f38bc68f530391f7f5adb5fcc767e5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "63.4"
+      "percent": "64.3"
     },
     "firstingredient": {
       "name": "The first ingredient",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/5e0ca49432c52c1baa86216b6ac688fd35db6d59.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.4"
+      "percent": "61.3"
     },
     "secondingredient": {
       "name": "The second ingredient",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/a7dacc6b6ba91bb0ccbdc6516d9cf5710eede680.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.4"
+      "percent": "56.5"
     },
     "medicineforanua": {
       "name": "Medicine for Anua",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/a6d251b5957b7e8121d06d2926909265766ab587.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.3"
+      "percent": "52.8"
     },
     "secretbase": {
       "name": "The secret base",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/09031de247bb4ca9e48f372af00e24608b22c6e9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.7"
+      "percent": "49.3"
     },
     "utopia": {
       "name": "Utopia",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/9f6fa30a0ea283621a4da6a636360f4a32c2add2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.5"
+      "percent": "50.0"
     },
     "backtogether": {
       "name": "Back Together!",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/97d01102a871d1f38d4009233448ec81ba6fd7f5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.2"
+      "percent": "54.5"
     },
     "itpurrs": {
       "name": "It Purrs!",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/3612978f94a1427fc78856e3e9afbf873346cedc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "82.7"
+      "percent": "83.0"
     },
     "recovered": {
       "name": "Recovered",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/6e1e12e28e87e18f731389138f9a86e5d45a671c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.5"
+      "percent": "48.2"
     },
     "purrfect": {
       "name": "Purrfect",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/c3af8be7008553fcf44a822a0e56a1adedf00601.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.4"
+      "percent": "6.6"
     },
     "platinum": {
       "name": "100% Complete",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2997230/d170d3a01a717aaa48dd5867f42edd63e7726624.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.3"
+      "percent": "6.5"
     }
   },
   "platform": null,

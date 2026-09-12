@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1048600/fbc0cbaaaa2a6a64fc520be86e0d84b01a82ccf7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "73.4"
+      "percent": "73.5"
     },
     "Ach_FireArrows": {
       "name": "Rain of Fire",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1048600/c88c86fb518ac00afaaf5b6f2e06ca6baedc1462.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "63.7"
+      "percent": "63.8"
     },
     "Ach_SecondGong": {
       "name": "Gong But Not Forgotten",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1048600/8823420040fa6e1ddbc5ee220bd43cbd70bf0214.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "63.4"
+      "percent": "63.5"
     },
     "Ach_BurrowerJump": {
       "name": "Leap of Faith",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1048600/b151e975b775ec7960b73f542cf41e5dd939cac0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.5"
+      "percent": "62.6"
     },
     "Ach_BurrowrerCage": {
       "name": "Enemy of my Enemy",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1048600/0502878269b979d432819f9fe9007a87cb5f95ca.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "61.5"
+      "percent": "61.6"
     },
     "Ach_CranePuzzle": {
       "name": "What Goes Around",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1048600/bc1a38119baca279283ced3d5c100992bae625ef.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.0"
+      "percent": "60.1"
     },
     "Ach_ElevatorComplete": {
       "name": "The Stelavator",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1048600/7c204de7c71cdc1a5d41fcc1eca74a1e75bd4c10.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.5"
+      "percent": "59.6"
     },
     "Ach_Chandelier": {
       "name": "Down in Flames",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1048600/adaee69cf05e4964e62316899640ec51c38150a9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.9"
+      "percent": "59.0"
     },
     "Ach_MonasteryComplete": {
       "name": "Sanctuary",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1048600/7161e02435e8ff4531abe50649e701d09ccfc787.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.7"
+      "percent": "58.8"
     },
     "Ach_SpiritWorldBegin": {
       "name": "World's End",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1048600/e7987666e780564431d1997ad250104a83bc4218.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.7"
+      "percent": "58.8"
     },
     "Ach_StelaPuzzle": {
       "name": "Eureka!",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1048600/d22e269c2410b54a8dbcb52b9505d255e0721c47.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.8"
+      "percent": "56.9"
     },
     "Ach_CreditsComplete": {
       "name": "Record Keeper",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1048600/c5e7ba45eb4d24885a44cba09ed622a1b06f311f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.8"
+      "percent": "33.9"
     },
     "Ach_StelaEnd": {
       "name": "Final Destination",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1048600/c6d7a81226dfdb291453de641f7ed97a1700c976.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.7"
+      "percent": "56.8"
     },
     "Ach_GameComplete": {
       "name": "Stela",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1048600/1b3c44240cb9dc8527d8af4221807074499302c6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.5"
+      "percent": "56.6"
     },
     "Ach_NoDeaths": {
       "name": "Immortal",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1048600/ca3df6848dc6c4a98078556bb8be3d0071143537.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.3"
+      "percent": "69.4"
     },
     "Ach_FiveSecrets": {
       "name": "Honor the Dead",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1048600/b0670c2d631c805d6213250915836008cea4ece1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.5"
+      "percent": "6.6"
     },
     "Ach_Beetles_NoDeath": {
       "name": "Don't Let The Bugs Bite",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1048600/0c2c242f0b56e4dd3d1b3de3f287f96598fd6e3b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.8"
+      "percent": "10.9"
     },
     "Ach_Forest_NoDeath": {
       "name": "A Shadow Among Shadows",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1048600/c276ae68385c6b218bee6451d7047ff7fc092f5b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.0"
+      "percent": "21.1"
     },
     "Ach_Tentacle_NoDeath": {
       "name": "Untouchable",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1048600/3e904e811e56a1715c3665689fce40d4047623f4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.7"
+      "percent": "23.8"
     },
     "Ach_FinaleBegin": {
       "name": "Beyond the Gate",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1048600/1ae26d56baa046571628cb4642ba1253f4136352.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.7"
+      "percent": "56.8"
     },
     "Ach_FinaleEnd": {
       "name": "I Am Become Death",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1048600/c001ab59deb65548abed5d5cb3a5af3d3ccb5faa.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.4"
+      "percent": "56.5"
     },
     "Ach_PostScene": {
       "name": "The Wheel Turns",

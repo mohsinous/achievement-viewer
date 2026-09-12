@@ -1,7 +1,7 @@
 {
   "appid": "3565040",
   "name": "Rumbral",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3565040/d93635af7aa9345df064986b4b0ada39af3e4aa3/header.jpg?t=1776895217",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3565040/d93635af7aa9345df064986b4b0ada39af3e4aa3/header.jpg?t=1786473661",
   "achievements": {
     "Achiv_DangerSign": {
       "name": "Warning! High radiation levels",
@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/01b1f7e65d527feea7d83ae1d0db1c879b0dd8c9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.7"
+      "percent": "52.0"
     },
     "Achiv_DeerHorn": {
       "name": "Splintered bone",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/a253433d96c2959acb9a60494f0df745b2580ca0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "87.5"
+      "percent": "87.2"
     },
     "Achiv_GetAll": {
       "name": "You will remember everything… in time…",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/bf1dc2fb5e68b23a95ae7c6b2a1981f1f30e74fc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.6"
+      "percent": "10.8"
     },
     "Achiv_Helmet": {
       "name": "Remnants of civilization",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/e8fb37e62cb6324e2adfc6b7263c69ec561be806.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.3"
+      "percent": "55.8"
     },
     "Achiv_Mineral": {
       "name": "Strange mineral",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/9b4e8cd4419ccdffb2c657c0d3e8267f7d99b9c9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.8"
+      "percent": "40.1"
     },
     "Achiv_MusicBox": {
       "name": "Antique music box",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/7e9a9bc14a84703cb58cd4fa90532e56d35198d4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.0"
+      "percent": "21.6"
     },
     "Achiv_Schematics": {
       "name": "Project R2",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/a1d42bc59cc029bb5ef31de4312b331aebcf275a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.1"
+      "percent": "53.9"
     },
     "Achiv_WelcomeSign": {
       "name": "Welcome to Rumbral",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/35ff325ae79077e733b1f22858465f097fa84e24.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.4"
+      "percent": "17.6"
     },
     "Achiv_CompleteLvl1": {
       "name": "Loneliness",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/5dfef6f026835641db27deb4e428bae066401572.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "69.7"
+      "percent": "69.8"
     },
     "Achiv_CompleteLvl3": {
       "name": "Unease",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/6266d5096cbb107e009579076806dcdb98d32b0f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "63.7"
+      "percent": "63.6"
     },
     "Achiv_CompleteLvl4": {
       "name": "Exhaustion",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/3bc298fabaddac20aa7c207223e4d1d556772360.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.7"
+      "percent": "57.2"
     },
     "Achiv_CompleteLvl5": {
       "name": "Danger",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/0e691396992584ece924e844ca7bdbc53adaaf5b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.1"
+      "percent": "53.0"
     },
     "Achiv_CompleteLvl6": {
       "name": "Confusion",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/66c93040bb8d0b801fde360d58ae8914261c5724.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.1"
+      "percent": "52.1"
     },
     "Achiv_CompleteGame": {
       "name": "Complete the game",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/7d55f932ed16743a4c359ecffbf1fde1f9c10243.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.1"
+      "percent": "52.1"
     },
     "Achiv_TripleScored": {
       "name": "Nice triple!",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/d4deac7f3dd59a41838b88170cdd6e53e24e0d14.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.6"
+      "percent": "31.9"
     },
     "Achiv_CarPushed": {
       "name": "It just needed a little push",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/4e98a4e5fd862af2e9cfca6da86112a661731d92.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "90.5"
+      "percent": "91.0"
     },
     "Achiv_WallDiscovered": {
       "name": "The mural",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/f0824827c37b1f106ab3fa25db9b8413b1ed6497.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.0"
+      "percent": "20.2"
     },
     "Achiv_CompleteTutorial": {
       "name": "On your own now, good luck!",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/20a1a8b7d64959e14eda78b45d591a35c2f04943.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.5"
+      "percent": "57.0"
     },
     "Achiv_BrokenPlatform": {
       "name": "You’ve broken it now!",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/184395edc06ff46846b93de2b7d213a4165b2909.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.7"
+      "percent": "51.8"
     },
     "Achiv_AllTypesOfDeaths": {
       "name": "A thousand ways to die!",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/ada901ad696f153287cb11007025bb69a8ab73b1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "7.3"
     },
     "Achiv_DistancePushed": {
       "name": "Push day",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/3a7dc66b34e2ed91dea509d81f6947a0273935cc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.9"
+      "percent": "62.1"
     },
     "Achiv_DeerBridgeReached": {
       "name": "Did you survive?",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/ba05b220967d0a0263b81dcc01db9cfad0ff070e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.1"
+      "percent": "55.1"
     },
     "Achiv_PersistentWithTargets": {
       "name": "The persistent one",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/785ae9f2f764f490d6cd03e2a1c5e29fc1cd73ea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.0"
+      "percent": "44.5"
     },
     "Achiv_WorldChangedWithItem": {
       "name": "I’m taking this!",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/c2661c5bc0dbe2d82390456056e1295a812bc50f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.6"
+      "percent": "46.7"
     },
     "Achiv_LightsTurnedOff": {
       "name": "Blackout",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/e90226b38544611774bc572dca92ad0d8380d425.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.6"
+      "percent": "19.7"
     },
     "Achiv_CompleteGameInTime": {
       "name": "Such a rush!",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/6feb643a462724bbde4c42801d780d4de568c982.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.6"
+      "percent": "5.2"
     },
     "Achiv_Zapping": {
       "name": "Channel surfing?",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/5c69f6db2504909f261ac944d38556e793bd8e2f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.8"
+      "percent": "11.5"
     },
     "Achiv_Crusher": {
       "name": "Crusher",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/030e8bcc5ad20c7845e202072d9373f292ac5c90.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.2"
+      "percent": "44.3"
     },
     "Achiv_TestTubes": {
       "name": "Test tubes",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/a54af5ad4ea2b3a9abf6b90dc415bbc938fffab5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.7"
+      "percent": "63.3"
     },
     "Achiv_MetalParts": {
       "name": "Metal parts",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3565040/222ea4ae2b4bd3a746f39fdb29a48a618c67a12c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.4"
+      "percent": "26.0"
     }
   },
   "platform": null,

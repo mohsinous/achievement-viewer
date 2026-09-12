@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2731870/2a877d383ecbcdf1e78edeca16517d34d98c9706.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.0"
+      "percent": "26.1"
     },
     "TROPHY_FISH_NOTE_COMP": {
       "name": "A-fish-ionado",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2731870/b92cddd519e89f74c5b19f474df5c6deb5307f9b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.2"
+      "percent": "54.3"
     },
     "TROPHY_PLAY_WITH_KARGIA": {
       "name": "Azure-Eye on the Prize",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2731870/c8e71adff4606b838cbfc602eb04fac04bf7d941.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.1"
+      "percent": "31.2"
     },
     "TROPHY_COMBI_MODE": {
       "name": "Deadly Duo",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2731870/9185eb4b97ca6cc968e9771ba685bcc51efe41c9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.8"
+      "percent": "50.9"
     },
     "TROPHY_SPEED_ATTACK_COUNT": {
       "name": "Elusive Evader",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2731870/9ff645ca0bb32e3d4f7fda54756b3f77d8ec8303.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.3"
+      "percent": "58.4"
     },
     "TROPHY_MANA_BARRIER_COUNT": {
       "name": "Grin and Barrier It",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2731870/10c01d4cbb08c96ae72c861583df6e941b41c525.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.0"
+      "percent": "41.1"
     },
     "TROPHY_RELEASE_LINE": {
       "name": "Depths of the Mind",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2731870/ce7acff3db1c01e2dd8f76fefc410c629008b1aa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.2"
+      "percent": "28.3"
     },
     "TROPHY_MANA_ABILITY_COMP": {
       "name": "Light of the Soul",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2731870/dcdf9d36a526af393ef60a009212d4fd3e2a8c06.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.2"
+      "percent": "67.3"
     },
     "TROPHY_AVORDAGE_COMP": {
       "name": "Reduce, Reuse, Recapture",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2731870/6a95664cceece330c012c4175093ba3be539724e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.2"
+      "percent": "48.3"
     },
     "TROPHY_DIFFICULTY_NIGHTMARE": {
       "name": "Night-Mariner",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2731870/2834997961c65c1de5630ec7320abd99ebb0ad86.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "90.4"
+      "percent": "90.3"
     },
     "TROPHY_SCENARIO_1": {
       "name": "Carnac",
@@ -451,7 +451,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2731870/eb6388a9f01c5a49fe741b7b557b27831abd2a33.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.5"
+      "percent": "58.6"
     },
     "TROPHY_SCENARIO_6": {
       "name": "Heavens' Mirror",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2731870/4abed23c05b922db00be7f3add178e93f82bab59.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.3"
+      "percent": "53.4"
     },
     "TROPHY_SCENARIO_8": {
       "name": "Lila",
@@ -478,7 +478,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2731870/8ba030be16462e892b1957dfec174da0bd66e878.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.0"
+      "percent": "53.1"
     },
     "TROPHY_SCENARIO_9": {
       "name": "The Waters of Creation",
@@ -496,7 +496,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2731870/b5bc9db390f9083c81c961df475d4083b380bd7b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.6"
+      "percent": "49.7"
     }
   },
   "platform": null,

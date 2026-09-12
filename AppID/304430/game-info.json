@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304430/a47e74dd7930c0c3c5e758afb9a41d238ad0a9a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.8"
+      "percent": "21.9"
     },
     "ACHIEVEMENT_2": {
       "name": "Field Research",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304430/45a42a9ad60e8f66ce1528d15aaef5396c7ef09e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.8"
+      "percent": "18.9"
     },
     "ACHIEVEMENT_10": {
       "name": "Unfathomable",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304430/57525cb2bfbe784729ce0fc1930a0999b0d0c9df.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.3"
+      "percent": "17.4"
     },
     "ACHIEVEMENT_12": {
       "name": "Room for Reflection",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304430/362c0274635d30a123f34f4e4d8e4b44f3e62bc4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.8"
+      "percent": "28.9"
     },
     "ACHIEVEMENT_13": {
       "name": "Office Space",

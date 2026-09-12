@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2958970/c722932b60b14b5811b8dfa4fa0ac698e05b810e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.1"
+      "percent": "58.0"
     },
     "ACH_MACREADY": {
       "name": "Ghost From the Past",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2958970/06d0cb7454ba0cfe133b7a474c1bb803ea874a93.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "74.4"
+      "percent": "74.3"
     },
     "ACH_UFO": {
       "name": "Out of This World",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2958970/6bb67143abca2512a59d2353e3a9bff617314b8d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "83.2"
+      "percent": "83.0"
     },
     "ACH_POWER": {
       "name": "Let There Be Light",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2958970/89e730ae12967a9259409d7161cb952517d31a95.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.3"
+      "percent": "71.1"
     },
     "ACH_COLIN": {
       "name": "Colin's Fate",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2958970/c5d6245d67dd9dadcd84e5f809393c17175dfe74.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.6"
+      "percent": "25.7"
     },
     "ACH_DOCUMENTS": {
       "name": "Conspiracy Theorist",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2958970/84a1491e2436ae80931971262b683ae4fb62c25d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.0"
+      "percent": "5.1"
     },
     "ACH_TAPES": {
       "name": "Audiophile",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2958970/dcb79e8366b0034c9971d8bfdef569894203302c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.7"
+      "percent": "8.9"
     },
     "ACH_TRUST": {
       "name": "Perfect Trust",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2958970/fd82996d3a5c59734604bf0f972f1768cc77196c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.6"
+      "percent": "59.5"
     },
     "ACH_FEAR": {
       "name": "Remain Calm",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2958970/faa580aefdeef934acec3fa7194a446ef0b7a81e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.6"
+      "percent": "25.7"
     }
   },
   "platform": null,

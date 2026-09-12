@@ -1,0 +1,217 @@
+{
+  "appid": "2825860",
+  "name": "The Sinking City 2",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825860/05f1db0ecea4914621f13ebaa81710e505de2c6b/header.jpg?t=1787235451",
+  "achievements": {
+    "FIRST_CHUNK": {
+      "name": "Welcome To Arkham!",
+      "description": "Reach Miskatonic University.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/245141fda5b04fcc432a9a1dd6fdc5748186732e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/b20026d87e89fb4416e5a3d68e1a6dc5962094b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "84.8"
+    },
+    "STR_DUNG": {
+      "name": "Soulmates",
+      "description": "Perform the ritual.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/c10629435d124520ddd9906adfd3cf36852e1ebd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/b20026d87e89fb4416e5a3d68e1a6dc5962094b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "53.6"
+    },
+    "HOSPITAL": {
+      "name": "Bodysnatchers",
+      "description": "Discharge yourself from Akeley Memorial.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/c30ad575eaff2b8978c840b7c40f94ae59c70faf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/b20026d87e89fb4416e5a3d68e1a6dc5962094b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "44.0"
+    },
+    "FISH_MARKET": {
+      "name": "Bigger Fish To Fry",
+      "description": "Survive the Arkham Fish Market.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/91dc219bfa043152239e614b582144b2111e0a48.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/b20026d87e89fb4416e5a3d68e1a6dc5962094b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "37.1"
+    },
+    "END_GAME": {
+      "name": "Timeless Dawn",
+      "description": "Awaken.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/76ec1f8064b5a706a0426fcb3eaaf202e5855d12.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/b20026d87e89fb4416e5a3d68e1a6dc5962094b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "35.4"
+    },
+    "SHOTGUN": {
+      "name": "Out Of Your Shell",
+      "description": "Obtain the shotgun.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/ec1d513d516938953ae806268d14f5c4e6c39e03.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/b20026d87e89fb4416e5a3d68e1a6dc5962094b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "64.5"
+    },
+    "SMG": {
+      "name": "Fast Friends",
+      "description": "Obtain the submachine gun.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/7eba4c3cc13ce3f8abde84edcbaba2a1e42ec366.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/b20026d87e89fb4416e5a3d68e1a6dc5962094b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "54.0"
+    },
+    "RIFLE": {
+      "name": "We Aim To Please",
+      "description": "Obtain the rifle.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/6b20c8b936265aaa25b3e049885b5052c7363681.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/b20026d87e89fb4416e5a3d68e1a6dc5962094b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "44.3"
+    },
+    "GRENADE": {
+      "name": "A Blast From The Past",
+      "description": "Obtain the grenade launcher.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/a934890172f7d45a9c23c949d2d8289e469de876.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/b20026d87e89fb4416e5a3d68e1a6dc5962094b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "36.8"
+    },
+    "KILLHEAVY": {
+      "name": "Sterilizer",
+      "description": "Defeat three nightmares in the hospital.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/7c2b1743745fb658c4180a724d77b3bcfb12886b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/b20026d87e89fb4416e5a3d68e1a6dc5962094b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "38.9"
+    },
+    "OI_1": {
+      "name": "The Inheritance",
+      "description": "Investigate the wall safe.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/280799e4640dba750909e4e5901b9221432c002d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/b20026d87e89fb4416e5a3d68e1a6dc5962094b4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "72.5"
+    },
+    "OI_2": {
+      "name": "The Other Gods",
+      "description": "Investigate the church mystery.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/bd7bf332e42677260aae227e11cfa677a40131d3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/b20026d87e89fb4416e5a3d68e1a6dc5962094b4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "58.6"
+    },
+    "OI_3": {
+      "name": "The Red Press",
+      "description": "Investigate the cursed press.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/ea2ef13d8ae06e35f24bafe5db0218c4da1ec4e9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/b20026d87e89fb4416e5a3d68e1a6dc5962094b4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "40.1"
+    },
+    "OI_4": {
+      "name": "The Siren's Call",
+      "description": "Investigate the alluring song.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/b1b08058b2d995f72924a42167a6861c919d6ec8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/b20026d87e89fb4416e5a3d68e1a6dc5962094b4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "51.2"
+    },
+    "OI_6": {
+      "name": "The Whisperers",
+      "description": "Investigate the machine connected to the brains.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/fdd028563fe9474ec5ae9d5d1f7055befb124801.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/b20026d87e89fb4416e5a3d68e1a6dc5962094b4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "42.7"
+    },
+    "OI_7": {
+      "name": "The Vault",
+      "description": "Investigate the locked storage.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/b4b0001dc432bb877a100c021dfde772800cd82c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/b20026d87e89fb4416e5a3d68e1a6dc5962094b4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.8"
+    },
+    "OI_8": {
+      "name": "The Drowned",
+      "description": "Investigate the mysterious locker.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/d1cdabed9ef3658eeb8950d1049140d8a167d73a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/b20026d87e89fb4416e5a3d68e1a6dc5962094b4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.2"
+    },
+    "OI_9": {
+      "name": "The Damned",
+      "description": "Investigate the sixteen punishments.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/f79d56a127073b31441b2c8482a61e82993c0522.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/b20026d87e89fb4416e5a3d68e1a6dc5962094b4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.2"
+    },
+    "RADIO_COL": {
+      "name": "Mycophile",
+      "description": "Listen to every Mushroom Jack broadcast in one playthrough.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/237e6a2f74b85db0f5869b7963b959c4ca091b0e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/b20026d87e89fb4416e5a3d68e1a6dc5962094b4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.7"
+    },
+    "NGP_LORE": {
+      "name": "From Oblivion",
+      "description": "Read all the writings that weren't there before.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/e4aa9d8c150b4a0309804ed6d4a3fe0ef2a33e43.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/b20026d87e89fb4416e5a3d68e1a6dc5962094b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.7"
+    },
+    "ERC_ALL": {
+      "name": "Behind Every Crate Man...",
+      "description": "Unlock every Emergency Relief Crate in one playthrough (excluding DLC).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/8655ca6b7ca9b86ab0fa38693d0b9abc3fef73df.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/b20026d87e89fb4416e5a3d68e1a6dc5962094b4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.0"
+    },
+    "PERK_ALL": {
+      "name": "What Dreams Are Made Of",
+      "description": "Obtain all Talents.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/2013d06373137a473ed6948a3fff089ffa630a02.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/b20026d87e89fb4416e5a3d68e1a6dc5962094b4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.9"
+    },
+    "PLTN": {
+      "name": "For Her",
+      "description": "Unlock all achievements.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/909aba1b6047b6a23491a2dcb0bc36ee799f970c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2825860/b20026d87e89fb4416e5a3d68e1a6dc5962094b4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.0"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

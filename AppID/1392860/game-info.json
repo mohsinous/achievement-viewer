@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.7"
+      "percent": "0.8"
     },
     "0001": {
       "name": "Child's Play",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.6"
+      "percent": "35.7"
     },
     "0004": {
       "name": "Spiral Out",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.0"
+      "percent": "32.2"
     },
     "0005": {
       "name": "Low-Spirited",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.8"
+      "percent": "15.9"
     },
     "0006": {
       "name": "From Nowhere, With Love",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.0"
+      "percent": "17.1"
     },
     "0007": {
       "name": "Special Connection",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.6"
+      "percent": "33.7"
     },
     "0014": {
       "name": "Guiding Hands",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.6"
     },
     "0015": {
       "name": "Spanner in the Works",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.8"
+      "percent": "2.9"
     },
     "0016": {
       "name": "Bullseye",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.6"
+      "percent": "20.7"
     },
     "0017": {
       "name": "Peekaboo",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.4"
+      "percent": "3.5"
     },
     "0018": {
       "name": "The Windy City",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.5"
+      "percent": "2.6"
     },
     "0022": {
       "name": "Stay Tuned",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/a1102e95ef16aea7a90089dfba2f848cd0fb03a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.1"
+      "percent": "34.2"
     },
     "0030": {
       "name": "Institutionalized",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/f652a424468980a500391a533fd467824d81ff93.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.9"
+      "percent": "2.6"
     },
     "0033": {
       "name": "Picture Perfect",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/f652a424468980a500391a533fd467824d81ff93.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.3"
+      "percent": "0.4"
     },
     "0034": {
       "name": "Just the Ticket",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/f652a424468980a500391a533fd467824d81ff93.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.8"
+      "percent": "2.6"
     },
     "0035": {
       "name": "Puppet Master",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/f652a424468980a500391a533fd467824d81ff93.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.3"
+      "percent": "0.4"
     },
     "0036": {
       "name": "Clean Up Your Act",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/f652a424468980a500391a533fd467824d81ff93.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.2"
+      "percent": "1.7"
     },
     "0037": {
       "name": "Shadow Puppets",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1392860/f652a424468980a500391a533fd467824d81ff93.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.3"
+      "percent": "0.4"
     },
     "0038": {
       "name": "DLC0201",

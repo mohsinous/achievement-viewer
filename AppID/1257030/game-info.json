@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/c7e02ec1d09624c111fa051e2a7d886458b3aa98.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.0"
+      "percent": "28.3"
     },
     "leaves": {
       "name": "Leaves",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/df2aad02c084b1c4025b3cd972e9337f6883ac71.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.2"
     },
     "together": {
       "name": "Together",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/cf979d475c3ab8a6826c5fe36a17d0504e103db3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "9.8"
     },
     "possum": {
       "name": "Possum",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/6cd6d2bb72b922c0ac06660ec612b85fe1c7abc9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "90.8"
+      "percent": "90.6"
     },
     "archive": {
       "name": "Archive",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/0fbbd9d22cf48ed56501d9db430470284b444e34.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.9"
+      "percent": "68.7"
     },
     "neighborhood": {
       "name": "Neighborhood",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/68ba388aaa12343496316bf86828c4b886b438d2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.9"
+      "percent": "60.6"
     },
     "wilderness": {
       "name": "Wilderness",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/81b84896f038e9fe0295d1ff2518a4dfe44ec443.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.0"
+      "percent": "33.8"
     },
     "clock": {
       "name": "Clock",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/8c81570484eb487654497020c1651a282e036ba8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.6"
+      "percent": "25.3"
     },
     "end": {
       "name": "End",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/442b4c4a3b4ea522ae243d87f604ea36af3e4b36.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.3"
+      "percent": "22.0"
     },
     "spider": {
       "name": "Spider",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/3fbcd8aee9f5bde458b53f04c389a2f5448add62.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.7"
+      "percent": "35.6"
     },
     "deer": {
       "name": "Deer",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/9fa3dda3529b50b1c2e1eb31069f02f6c10a9442.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.3"
+      "percent": "26.0"
     },
     "keeper": {
       "name": "Keeper",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/d47b7878b9d25c6f06535a489d00988530813f7c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.3"
+      "percent": "22.0"
     },
     "run": {
       "name": "Run",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/46968bda91e580f5a23a922428ba0028d7f09d06.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.2"
+      "percent": "12.9"
     },
     "coldturkey": {
       "name": "Cold Turkey",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/ddcf2e0aa00fc29aa2d4a426798710d6425102ac.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "1.7"
+      "percent": "1.9"
     },
     "hardmode": {
       "name": "The Only Way Out Is Through",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1257030/118dab22618c149ca805076a87ed58541307823a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.5"
+      "percent": "2.8"
     }
   },
   "platform": null,

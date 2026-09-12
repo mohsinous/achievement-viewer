@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/a5d5fb85ca59bbaae103f62e6a92d2ef8deadb99.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.7"
+      "percent": "10.8"
     },
     "shrine04": {
       "name": "Finding secret shrine 4/10",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/adb2ca47823f9c3d46429872fa22cb0ada40d045.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.9"
+      "percent": "7.0"
     },
     "shrine06": {
       "name": "Finding secret shrine 6/10",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/fc21ddffeba3cceeed055d6ebe474c1ab02dc392.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.1"
+      "percent": "11.2"
     },
     "shrine08": {
       "name": "Finding secret shrine 8/10",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/f61dba055418d609a10fd768f1d4306ce6a3db15.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "8.1"
     },
     "shrine09": {
       "name": "Finding secret shrine 9/10",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/afabbabc901abba2017331ff60688618fe101703.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.6"
+      "percent": "14.7"
     },
     "allshrines": {
       "name": "A trace of the past",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/7bb92ba0ad20cf67b969870b3dbce86cb433dd55.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.8"
+      "percent": "5.9"
     },
     "sisters": {
       "name": "Sneaky sisters",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/49ec4b425c8a99fd682b16062b06dd08025fe26c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "92.1"
+      "percent": "91.9"
     },
     "journey": {
       "name": "The journey begins",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/087d740a1e16c4f79808686da7fdc66ba1de310d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "85.4"
+      "percent": "85.2"
     },
     "friend": {
       "name": "A new friend",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/f1314709202689943ac855bf0f8f7d4e32a5f9ca.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "72.5"
+      "percent": "72.4"
     },
     "noreturn": {
       "name": "Point of no return",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/2377b2cb12795c5d91a8ed59cb25a391cf3050f3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.4"
+      "percent": "37.5"
     },
     "amulet": {
       "name": "A key from the past",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/b65640b4da78b2b13f96bdceb1f8fed39dbd3f2e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.5"
+      "percent": "46.6"
     },
     "motherbase": {
       "name": "We’ve made it this far",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/e52b2671750eb4919248ad207af644be2f391574.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.1"
+      "percent": "41.2"
     },
     "closecall": {
       "name": "Close call",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/a461c6d1a010b1279fe93fdf1f76712e0679f3e5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.7"
+      "percent": "37.8"
     },
     "freemui": {
       "name": "Back together!",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/d9d72d3494e844d79c962076119b0ca6a924e2b2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.2"
+      "percent": "37.3"
     },
     "petmui": {
       "name": "It purrs!",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/3e55e36eec29d15465698b537e54aba2c89066eb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "72.1"
+      "percent": "72.0"
     },
     "creditroll": {
       "name": "Home at last",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/af20397dc317c61a2f36431e9149bbca9371b2d9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.8"
+      "percent": "36.9"
     },
     "flawless": {
       "name": "Flawless",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/eab3ccc37083d4edb2c55baec6e17abecc7dacb0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.3"
+      "percent": "2.4"
     },
     "platinum": {
       "name": "100% complete",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608230/d46c7e5b45a44cad4dceae203c1d01f2de5985c8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.3"
+      "percent": "2.4"
     }
   },
   "platform": null,

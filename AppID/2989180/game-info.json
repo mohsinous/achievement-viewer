@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.7"
+      "percent": "3.9"
     },
     "NINJA_SOLDIER_1": {
       "name": "No Time To Lose",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.8"
+      "percent": "25.3"
     },
     "SNEAK_THE_OFFICE": {
       "name": "Employee Of The Month",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.4"
+      "percent": "4.6"
     },
     "SNEAK_THE_COURTYARD": {
       "name": "Sneaky Star",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.4"
+      "percent": "5.5"
     },
     "SHOOT_STEVEN": {
       "name": "Inking Steven Seagull",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.7"
+      "percent": "8.8"
     },
     "RETURN_TO_THE_SEA": {
       "name": "Fly Me To The Moon",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.0"
+      "percent": "34.8"
     },
     "DESTROY_THE_BASE": {
       "name": "OOPS I Did It Again",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.1"
+      "percent": "35.8"
     },
     "FREE_YOU_FRIEND": {
       "name": "Free At Last",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.1"
+      "percent": "36.8"
     },
     "ALL_COLLECTIBLES": {
       "name": "Nothing Gets By You",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.2"
+      "percent": "5.5"
     },
     "MELOMANE": {
       "name": "That Hurt",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.4"
+      "percent": "28.2"
     },
     "15_COLLECTIBLES": {
       "name": "Keen Eyes And Tentacles",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.8"
+      "percent": "7.0"
     },
     "10_COLLECTIBLES": {
       "name": "You’re Pretty Sharp",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.8"
+      "percent": "21.1"
     },
     "5_COLLECTIBLES": {
       "name": "Progress Is Good",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.5"
+      "percent": "45.8"
     },
     "SURVIVE_THE_LANTERN_FISH": {
       "name": "Didn't Follow The Light",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.4"
+      "percent": "39.9"
     },
     "SURVIVE_THE_GULL_AGAIN": {
       "name": "DARWIN 2 / GULL 0",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.6"
+      "percent": "44.8"
     },
     "SURVIVE_THE_FURIOUS_GULL": {
       "name": "Can’t Catch Me!",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.6"
+      "percent": "56.7"
     },
     "THE_CHAMBOULE_TOUT": {
       "name": "Can Do!",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "9.8"
     },
     "SNEAKY": {
       "name": "Slow But Safe",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.9"
+      "percent": "59.1"
     },
     "END_THE_PROLOGUE": {
       "name": "Inked Away!",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "91.4"
+      "percent": "90.7"
     },
     "1_COLLECTIBLE": {
       "name": "Participation Award",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2989180/5c3054a0b874071c0836e08f2d80f56cc3af19c2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "90.0"
+      "percent": "89.1"
     }
   },
   "platform": null,

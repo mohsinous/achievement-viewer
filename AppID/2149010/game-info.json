@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/5fabb34e7a58965cb0a27f4c8e65de09a9734aef.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.6"
+      "percent": "5.5"
     },
     "HighlySprung": {
       "name": "Highly Sprung",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/e50298d63854c0b122e78c479bd2e63d7ce2a30d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.9"
+      "percent": "34.1"
     },
     "Rascal": {
       "name": "Rascal",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/bad7161f9a071a9d21deae56b4c8f6f27b9839d3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.6"
+      "percent": "4.5"
     },
     "LightUpYourLife": {
       "name": "Light Up Your Life",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/1e8d1cb77b2b5b4a8cb49fd2991e6813092035df.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "7.9"
     },
     "ThePrison": {
       "name": "The Prison",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/b70d31e079e23f8de97a2eee4d069c7a1a2c5fae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.5"
+      "percent": "27.6"
     },
     "TheGuestArea": {
       "name": "The Guest Area",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/1599c24c02ff4ae833b66ae939e8a612bc312d31.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.2"
+      "percent": "26.3"
     },
     "TheLadysQuarters": {
       "name": "The Lady's Quarters",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/a9ac113e23c4c3d0605d81edc883d0115db9a30f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.5"
+      "percent": "16.7"
     },
     "Glissando": {
       "name": "Six's Song",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/2808debab3bb6dd5addd3d36b7fcd98a60382ca1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "7.1"
     },
     "HardToTheCore": {
       "name": "Hard to the Core",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/8817f2e436b910ae5774242b2050085f2c721957.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.3"
+      "percent": "9.4"
     },
     "NotAlone": {
       "name": "Not Alone",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2149010/422a2fa4edfa6207cff0a45cf518384e5944e4e4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "7.3"
     },
     "AshesToAshes": {
       "name": "Ashes to Ashes",

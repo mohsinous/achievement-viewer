@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2316580/6dacb86ead4c2e794e4f68f7d3ec1fb7224af162.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.3"
+      "percent": "80.2"
     },
     "CollectAllEchoes": {
       "name": "Listen and Learn",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2316580/c3f7bdb306dc86aee5549b5491fb15157c0fc763.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.6"
+      "percent": "14.7"
     },
     "CollectAllTrinkets": {
       "name": "The Art of Trinketry",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2316580/422d8058b05d67af9e0c5a54502663aabec22a1d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.8"
+      "percent": "16.9"
     },
     "CompleteAct1": {
       "name": "A Once Black Sky",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2316580/9574c10ca28813d09277427a0d4d40170252b855.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.7"
+      "percent": "43.6"
     },
     "CompleteAct2": {
       "name": "A Fear Within",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2316580/830ee08e01cfa98f62d391ab2888584cc03a759b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.7"
+      "percent": "26.8"
     },
     "CompleteAct4": {
       "name": "The End of Another",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2316580/55fb1df8169f04a97a9738b2fc579e093efb69a1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "25.2"
     },
     "CompleteAllCombatTrials": {
       "name": "A Warrior's Way",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2316580/bd87e391e963e562ca12f7864a69a033643cea4d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.6"
+      "percent": "14.7"
     },
     "CompleteAllReflections": {
       "name": "Know Thyself",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2316580/7a66d5ef5fccab2eac3804615d38892813aea941.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.0"
+      "percent": "19.2"
     },
     "CompleteCodex": {
       "name": "Lore of the Land",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2316580/51504cf368d8f8975af6be8667c43935f164ea66.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.1"
+      "percent": "14.2"
     },
     "EquipFirstTrinket": {
       "name": "Evening the Odds",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2316580/f34ea344f8beb796749187ed4a9180a22383a67c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.1"
+      "percent": "72.8"
     },
     "Kiki4thWallBreak": {
       "name": "Run, Shaman, Run…",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2316580/2f87251413db4cf2ea85fce953a44eca32a10edd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.0"
+      "percent": "33.1"
     },
     "Kill3Enemies1Beam": {
       "name": "I am the Moon",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2316580/bcfbfbdd6b1c06e0699e62b954e2d4887b8c297c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.3"
+      "percent": "27.2"
     },
     "PerfectReloadX10": {
       "name": "Quick Draw",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2316580/d7c74c00eaf65de307bc9c3c600edcd918fec6f9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.1"
+      "percent": "39.0"
     },
     "UnlockAllAbilities": {
       "name": "Honour the Ancestors",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2316580/30e9b76d301ab723ee7485499642dd4231c7318f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.0"
+      "percent": "29.1"
     },
     "UnlockAllSpiritPips": {
       "name": "Soulful",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2316580/b2cdf0beacf59b0a4010232fe01937454a50027b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.1"
+      "percent": "17.2"
     },
     "UnlockAllTrinketSlots": {
       "name": "Perk Up",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2316580/5dbac638e48d9f03e2918d783e0a92b764fb87dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.5"
+      "percent": "18.7"
     },
     "UpgradeAllAbilities": {
       "name": "Shaman of All Trades",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2316580/26f08fe37b91ed39728a81e0e816e8d5a31ae3b1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.4"
+      "percent": "18.5"
     }
   },
   "platform": null,
