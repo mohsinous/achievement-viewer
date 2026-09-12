@@ -10,11 +10,85 @@ import re
 import asyncio
 from playwright.async_api import async_playwright
 import hashlib
+import logging
+import tempfile
+from urllib3.util.retry import Retry
+from requests.adapters import HTTPAdapter
 
+# JSON compatibility: this version intentionally preserves the existing
+# game-info.json and game-data.json field names and nesting.
+#
+# Reliability improvements are deliberately internal: retries, timeouts,
+# atomic writes, and safer network handling do not change the output schema.
+#
 # --- Constants & environment --- #
 STEAM_API_KEY = os.environ.get("STEAM_API_KEY", "")
 EVENT_NAME = os.environ.get("GITHUB_EVENT_NAME", "")
 TRIGGER_SOURCE = os.environ.get("TRIGGER_SOURCE", "")
+
+# --- Reliability settings --- #
+HTTP_TIMEOUT = int(os.environ.get("HTTP_TIMEOUT", "20"))
+MAX_HTTP_RETRIES = int(os.environ.get("MAX_HTTP_RETRIES", "4"))
+RETRY_BACKOFF = float(os.environ.get("RETRY_BACKOFF", "1.5"))
+STEAMHUNTERS_TIMEOUT = int(os.environ.get("STEAMHUNTERS_TIMEOUT", "30"))
+HIDDEN_PROFILE_LIMIT = int(os.environ.get("HIDDEN_PROFILE_LIMIT", "250"))
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s | %(levelname)s | %(message)s",
+)
+logger = logging.getLogger("fetch_game_data")
+
+
+def create_http_session():
+    """Create a requests session with retries for transient HTTP failures."""
+    session = requests.Session()
+    retry = Retry(
+        total=MAX_HTTP_RETRIES,
+        connect=MAX_HTTP_RETRIES,
+        read=MAX_HTTP_RETRIES,
+        status=MAX_HTTP_RETRIES,
+        backoff_factor=RETRY_BACKOFF,
+        status_forcelist=(429, 500, 502, 503, 504),
+        allowed_methods=frozenset(["GET"]),
+        respect_retry_after_header=True,
+        raise_on_status=False,
+    )
+    adapter = HTTPAdapter(max_retries=retry)
+    session.mount("https://", adapter)
+    session.mount("http://", adapter)
+    session.headers.update({
+        "User-Agent": "Steam-Game-Data-Fetcher/2.0"
+    })
+    return session
+
+
+HTTP = create_http_session()
+
+
+def atomic_save_json_file(file_path, data):
+    """Atomically replace a JSON file so interrupted writes cannot corrupt it."""
+    file_path = Path(file_path)
+    file_path.parent.mkdir(parents=True, exist_ok=True)
+
+    fd, temp_name = tempfile.mkstemp(
+        prefix=f".{file_path.name}.",
+        suffix=".tmp",
+        dir=str(file_path.parent),
+    )
+    try:
+        with os.fdopen(fd, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
+            f.write("\n")
+            f.flush()
+            os.fsync(f.fileno())
+        os.replace(temp_name, file_path)
+    except Exception:
+        try:
+            os.unlink(temp_name)
+        except OSError:
+            pass
+        raise
 
 # NEW: Detect GitHub Pages URL for fallback icon
 GITHUB_REPOSITORY = os.environ.get("GITHUB_REPOSITORY", "")  # Format: "owner/repo"
@@ -75,7 +149,12 @@ async def fetch_steamhunters_achievements(appid):
     print(f"    → Fetching groups from SteamHunters...")
     async with async_playwright() as p:
         browser = await p.chromium.launch(
-            headless=True, args=["--disable-blink-features=AutomationControlled"]
+            headless=True,
+            args=[
+                "--disable-blink-features=AutomationControlled",
+                "--disable-dev-shm-usage",
+                "--no-sandbox",
+            ],
         )
         context = await browser.new_context(
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -83,7 +162,7 @@ async def fetch_steamhunters_achievements(appid):
         )
         page = await context.new_page()
         try:
-            await page.goto(url, timeout=15000)
+            await page.goto(url, timeout=STEAMHUNTERS_TIMEOUT * 1000)
             await page.wait_for_function(
                 """() => Array.from(document.querySelectorAll('script')).some(s => s.textContent.includes('var sh'));"""
             )
@@ -253,10 +332,15 @@ def load_json_file(file_path):
 
 def save_json_file(file_path, data):
     try:
-        with open(file_path, "w", encoding="utf-8") as f:
-            json.dump(data, f, indent=2, ensure_ascii=False)
+        atomic_save_json_file(file_path, data)
     except Exception as e:
-        print(f"Error saving {file_path}: {e}")
+        logger.error("Error saving %s: %s", file_path, e)
+
+
+def http_get(url, **kwargs):
+    """Reliable GET wrapper with centralized timeout and exception handling."""
+    kwargs.setdefault("timeout", HTTP_TIMEOUT)
+    return HTTP.get(url, **kwargs)
 
 
 def get_text(elem):
@@ -295,7 +379,7 @@ def scrape_hidden_achievements(appid, steam_id, achievement_names_map):
             f"https://steamcommunity.com/profiles/{steam_id}/stats/{appid}/achievements"
         )
         print(f"    → Trying profile {steam_id}...")
-        response = requests.get(url, timeout=15)
+        response = http_get(url, timeout=15)
         if response.status_code != 200:
             print(f"    ✗ Profile returned status {response.status_code}")
             return {}
@@ -326,7 +410,7 @@ def scrape_hidden_achievements(appid, steam_id, achievement_names_map):
 
 def fetch_steam_store_info(appid):
     try:
-        response = requests.get(
+        response = http_get(
             f"https://store.steampowered.com/api/appdetails?appids={appid}", timeout=10
         )
         if response.ok:
@@ -344,7 +428,7 @@ def fetch_steam_store_info(appid):
 def fetch_community_achievements(appid):
     achievements = {}
     try:
-        response = requests.get(
+        response = http_get(
             f"https://steamcommunity.com/stats/{appid}/achievements/?xml=1", timeout=10
         )
         if response.ok:
@@ -387,7 +471,7 @@ def fetch_achievements(appid, existing_info, achievements_from_xml):
     try:
         # 1. Prefer Steam API if Key exists
         if STEAM_API_KEY:
-            response = requests.get(
+            response = http_get(
                 f"https://api.steampowered.com/ISteamUserStats/GetSchemaForGame/v2/?key={STEAM_API_KEY}&appid={appid}",
                 timeout=10,
             )
@@ -522,6 +606,11 @@ for appid in appids:
     print(f"\nProcessing AppID {appid}...")
     base_path = appid_dir / appid
 
+    # Never let one broken game prevent the remaining games from updating.
+    if not appid.isdigit() or not base_path.is_dir():
+        print(f"  ⚠ Invalid AppID directory: {appid}, skipping")
+        continue
+
     platform_files = list(base_path.glob("*.platform"))
     current_platform = platform_files[0].stem if platform_files else None
 
@@ -572,11 +661,11 @@ for appid in appids:
     store_info = fetch_steam_store_info(appid)
     game_info.update(store_info)
     game_info["platform"] = current_platform
-    time.sleep(1.5)
+    time.sleep(float(os.environ.get("REQUEST_DELAY", "1.0")))
 
     achievements_from_xml = fetch_community_achievements(appid)
     print(f"  ✓ Got {len(achievements_from_xml)} achievements from XML")
-    time.sleep(1.5)
+    time.sleep(float(os.environ.get("REQUEST_DELAY", "1.0")))
 
     achievements, hidden_achievements, achievement_names_map = fetch_achievements(
         appid, existing_info, achievements_from_xml
@@ -610,7 +699,7 @@ for appid in appids:
             f"  → Found {len(hidden_achievements)} hidden achievements without descriptions"
         )
         descriptions_found = 0
-        for steam_id in TOP_OWNER_IDS[:TOP_OWNER_LIMIT]:
+        for steam_id in TOP_OWNER_IDS[:min(TOP_OWNER_LIMIT, HIDDEN_PROFILE_LIMIT)]:
             scraped = scrape_hidden_achievements(appid, steam_id, achievement_names_map)
             for api_name, data in scraped.items():
                 if (
@@ -633,13 +722,13 @@ for appid in appids:
             )
             if missing == 0:
                 break
-            time.sleep(2)
+            time.sleep(float(os.environ.get("HIDDEN_PROFILE_DELAY", "1.5")))
 
     # ✅ FIXED: Wrapped percentage fetching in try-except to handle timeouts gracefully
     # Also preserves existing percentages if fetch fails
     try:
         percent_url = f"https://api.steampowered.com/ISteamUserStats/GetGlobalAchievementPercentagesForApp/v0002/?gameid={appid}"
-        percent_response = requests.get(percent_url, timeout=10)
+        percent_response = http_get(percent_url, timeout=10)
 
         if percent_response.ok:
             percent_data = percent_response.json()
@@ -738,5 +827,9 @@ final_output = {
     "games": all_game_data
 }
 
-save_json_file(game_data_path, final_output)
+try:
+    atomic_save_json_file(game_data_path, final_output)
+except Exception as e:
+    logger.exception("FATAL: Could not atomically save %s: %s", game_data_path, e)
+    raise
 print(f"\n✓ Updated {len(appids)} game(s), total games in data: {len(all_game_data)}")
